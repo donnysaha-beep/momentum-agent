@@ -1,0 +1,35 @@
+name: Opening Range Analysis (9:45am IST)
+
+on:
+  schedule:
+    # 9:45am IST = 4:15am UTC | Mon-Fri
+    - cron: "15 4 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  opening-range:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run opening range analysis
+        run: python opening_range.py
+
+      - name: Commit report
+        run: |
+          git config user.name "momentum-bot"
+          git config user.email "bot@github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "Opening range report $(date +%Y-%m-%d)"
+          git push
