@@ -1,55 +1,141 @@
 """
-Opening Range Agent — NSE India
+Opening Range Agent v2 — NSE India
 Runs at 9:45am IST Mon-Fri.
 
-Workflow:
-  1. Loads today's A+ picks from morning scan (8am)
-  2. Downloads 5-min intraday data (9:15am - 9:45am)
-  3. Calculates Opening Range (first 15 min: 9:15-9:30am)
-  4. Calculates VWAP, gap, volume profile
-  5. Generates TRADE NOW / WAIT / SKIP verdict with:
-     - Current market price
-     - Entry trigger price
-     - Target 1 (conservative) + Target 2 (full move)
-     - Stop loss + stop %
-     - Risk/reward ratio
+Upgrades in v2:
+  - Position sizing in rupees (based on regime + VIX)
+  - Probability score (0-100% setup quality)
+  - ATR-based dynamic targets
+  - Gap trap rejection (red first candle after gap-up = SKIP)
+  - Trade invalidation rules
+  - No-trade day detection
+  - Zerodha Kite API for live data (falls back to yfinance if not authenticated)
 """
 
+import os
+import json
+import glob
+import warnings
 import yfinance as yf
 import pandas as pd
 import numpy as np
 from datetime import datetime, date, time
-import os
-import glob
-import warnings
+
 warnings.filterwarnings("ignore")
 
-REPORTS_DIR = os.path.join(os.path.dirname(__file__), "reports")
+REPORTS_DIR  = os.path.join(os.path.dirname(__file__), "reports")
+TOKEN_FILE   = os.path.join(os.path.dirname(__file__), ".kite_token.json")
+NIFTY_TICKER = "^NSEI"
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
-NIFTY_TICKER = "^NSEI"
+# Capital per trade by regime (Rs)
+CAPITAL_BY_REGIME = {
+    "BULL":    40000,
+    "NEUTRAL": 25000,
+    "CAUTION": 12500,
+    "DANGER":  0,
+    "BEAR":    12500,
+    "UNKNOWN": 12500,
+}
 
-# NSE market open time
-MARKET_OPEN  = time(9, 15)
-ORB_END      = time(9, 30)   # Opening Range = first 15 min
-SCAN_TIME    = time(9, 45)   # when this script runs
+
+# ── Kite live data (optional) ─────────────────────────────────────────────────
+
+def get_kite_intraday(ticker_ns: str) -> pd.DataFrame | None:
+    """Fetch 1-min candles from Zerodha Kite if token is available."""
+    try:
+        if not os.path.exists(TOKEN_FILE):
+            return None
+        with open(TOKEN_FILE) as f:
+            data = json.load(f)
+        if data.get("date") != date.today().isoformat():
+            return None
+
+        from kiteconnect import KiteConnect
+        api_key = os.environ.get("KITE_API_KEY", "vq3dyqpb9pyddio3")
+        kite    = KiteConnect(api_key=api_key)
+        kite.set_access_token(data["access_token"])
+
+        symbol  = ticker_ns.replace(".NS", "")
+        instruments = kite.instruments("NSE")
+        inst_map = {i["tradingsymbol"]: i["instrument_token"] for i in instruments}
+        token   = inst_map.get(symbol)
+        if not token:
+            return None
+
+        from datetime import datetime as dt
+        candles = kite.historical_data(
+            token,
+            dt.combine(date.today(), time(9, 15)),
+            dt.combine(date.today(), time(9, 50)),
+            "minute"
+        )
+        if not candles:
+            return None
+
+        df = pd.DataFrame(candles)
+        df.columns = [c.lower() for c in df.columns]
+        df = df.rename(columns={"date": "datetime"})
+        df = df.set_index("datetime")
+        df.index = pd.to_datetime(df.index)
+        return df
+
+    except Exception:
+        return None
 
 
-# ── Load tickers from morning scan ───────────────────────────────────────────
+# ── yfinance fallback ─────────────────────────────────────────────────────────
 
-def get_morning_picks() -> list:
+def get_yf_intraday(ticker_ns: str) -> pd.DataFrame | None:
+    try:
+        df = yf.download(ticker_ns, period="2d", interval="5m",
+                         progress=False, auto_adjust=True)
+        if df is None or df.empty:
+            return None
+        df.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
+                      for c in df.columns]
+        df.index = pd.to_datetime(df.index)
+        today = df[df.index.date == date.today()]
+        return today if not today.empty else None
+    except:
+        return None
+
+
+def get_intraday(ticker_ns: str) -> pd.DataFrame | None:
+    df = get_kite_intraday(ticker_ns)
+    if df is not None and not df.empty:
+        print(f"    [Kite live data]")
+        return df
+    return get_yf_intraday(ticker_ns)
+
+
+# ── Load morning picks ────────────────────────────────────────────────────────
+
+def get_morning_picks() -> tuple[list, str]:
+    """Returns (tickers, regime)"""
     pattern = os.path.join(REPORTS_DIR, "morning_scan_*.txt")
     files   = sorted(glob.glob(pattern), reverse=True)
     if not files:
-        print("No morning scan found. Using default watchlist.")
-        return ["HDFCBANK.NS", "INFY.NS", "TCS.NS", "LT.NS", "RELIANCE.NS"]
+        return ["HDFCBANK.NS","LT.NS","RELIANCE.NS","INFY.NS","TCS.NS"], "UNKNOWN"
 
     with open(files[0], encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
+        lines   = content.splitlines()
 
-    # Only take A+ grade stocks
-    tickers = []
-    in_table = False
+    # Extract regime
+    regime = "UNKNOWN"
+    for line in lines:
+        if "MARKET REGIME:" in line:
+            if "BULL" in line:    regime = "BULL"
+            elif "NEUTRAL" in line: regime = "NEUTRAL"
+            elif "CAUTION" in line: regime = "CAUTION"
+            elif "DANGER" in line:  regime = "DANGER"
+            elif "BEAR" in line:    regime = "BEAR"
+            break
+
+    # Extract A+ and A grade tickers
+    tickers    = []
+    in_table   = False
     for line in lines:
         if "Score" in line and "Grade" in line:
             in_table = True
@@ -61,26 +147,24 @@ def get_morning_picks() -> list:
                 grade  = parts[-1]
                 if grade in ("A+", "A"):
                     if not ticker.endswith(".NS"):
-                        ticker = ticker + ".NS"
+                        ticker += ".NS"
                     tickers.append(ticker)
-            elif line.strip().startswith("COLUMNS"):
+            elif "COLUMNS" in line:
                 break
         if len(tickers) >= 15:
             break
 
-    return tickers if tickers else ["HDFCBANK.NS", "LT.NS", "RELIANCE.NS"]
+    return (tickers if tickers else ["HDFCBANK.NS","LT.NS","RELIANCE.NS"]), regime
 
 
-# ── VWAP ─────────────────────────────────────────────────────────────────────
+# ── VWAP ──────────────────────────────────────────────────────────────────────
 
 def calc_vwap(df: pd.DataFrame) -> pd.Series:
     typical = (df["high"] + df["low"] + df["close"]) / 3
-    cum_vol  = df["volume"].cumsum()
-    cum_tpv  = (typical * df["volume"]).cumsum()
-    return cum_tpv / cum_vol
+    return (typical * df["volume"]).cumsum() / df["volume"].cumsum()
 
 
-# ── Nifty opening range ───────────────────────────────────────────────────────
+# ── Nifty context ─────────────────────────────────────────────────────────────
 
 def get_nifty_context() -> dict:
     try:
@@ -91,183 +175,240 @@ def get_nifty_context() -> dict:
         df.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
                       for c in df.columns]
         df.index = pd.to_datetime(df.index)
-        today = df[df.index.date == date.today()]
+        today     = df[df.index.date == date.today()]
+        yesterday = df[df.index.date < date.today()]
         if today.empty:
             return {}
 
-        current_price = float(today["close"].iloc[-1])
-        open_price    = float(today["open"].iloc[0])
-        gap_pct       = round((open_price / float(
-            df[df.index.date < date.today()]["close"].iloc[-1]) - 1) * 100, 2)
+        prev_close  = float(yesterday["close"].iloc[-1]) if not yesterday.empty else None
+        open_price  = float(today["open"].iloc[0])
+        current     = float(today["close"].iloc[-1])
+        gap_pct     = round((open_price / prev_close - 1) * 100, 2) if prev_close else 0
 
-        orb = today[today.index.time <= ORB_END]
-        orb_high = float(orb["high"].max()) if not orb.empty else current_price
-        orb_low  = float(orb["low"].min())  if not orb.empty else current_price
+        orb         = today[today.index.time <= time(9, 30)]
+        orb_high    = float(orb["high"].max()) if not orb.empty else current
+        orb_low     = float(orb["low"].min())  if not orb.empty else current
+        vwap_now    = float(calc_vwap(today).iloc[-1])
 
-        vwap = calc_vwap(today)
-        vwap_now = float(vwap.iloc[-1])
+        # Nifty opening candle (9:15-9:20)
+        first_candle = today.iloc[0] if not today.empty else None
+        nifty_first_red = (float(first_candle["close"]) < float(first_candle["open"])
+                           ) if first_candle is not None else False
 
-        direction = "BULLISH" if current_price > vwap_now else "BEARISH"
+        # Breadth proxy: Nifty below its own ORB low = bearish breadth
+        nifty_below_orb = current < orb_low
+
+        direction = "BULLISH" if current > vwap_now and not nifty_below_orb else "BEARISH"
+
+        # No-trade day signals
+        no_trade_signals = []
+        if gap_pct < -1.5:
+            no_trade_signals.append(f"Nifty gapped down {gap_pct:.1f}% — gap-fill risk")
+        if nifty_first_red and gap_pct > 1.0:
+            no_trade_signals.append("Nifty gap-up with red first candle — trap reversal risk")
+        if nifty_below_orb:
+            no_trade_signals.append("Nifty broke below opening range low — avoid longs")
 
         return {
-            "price":    round(current_price, 2),
-            "open":     round(open_price, 2),
-            "gap_pct":  gap_pct,
-            "orb_high": round(orb_high, 2),
-            "orb_low":  round(orb_low, 2),
-            "vwap":     round(vwap_now, 2),
-            "direction": direction,
+            "price":           round(current, 2),
+            "open":            round(open_price, 2),
+            "gap_pct":         gap_pct,
+            "orb_high":        round(orb_high, 2),
+            "orb_low":         round(orb_low, 2),
+            "vwap":            round(vwap_now, 2),
+            "direction":       direction,
+            "first_candle_red": nifty_first_red,
+            "below_orb":       nifty_below_orb,
+            "no_trade_signals": no_trade_signals,
         }
     except Exception as e:
-        print(f"  Nifty context error: {e}")
+        print(f"  Nifty error: {e}")
         return {}
 
 
 # ── Analyse single stock ──────────────────────────────────────────────────────
 
-def analyse_stock(ticker: str) -> dict | None:
+def analyse_stock(ticker: str, regime: str, nifty: dict) -> dict | None:
     try:
-        # Intraday 5-min data
-        df = yf.download(ticker, period="2d", interval="5m",
-                         progress=False, auto_adjust=True)
+        df = get_intraday(ticker)
         if df is None or df.empty:
             return None
-        df.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
-                      for c in df.columns]
-        df.index = pd.to_datetime(df.index)
 
-        today     = df[df.index.date == date.today()]
-        yesterday = df[df.index.date < date.today()]
-        if today.empty:
-            return None
+        # Previous close for gap calculation
+        df_daily = yf.download(ticker, period="5d", interval="1d",
+                               progress=False, auto_adjust=True)
+        df_daily.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
+                            for c in df_daily.columns]
+        prev_close = float(df_daily["close"].iloc[-2]) if len(df_daily) >= 2 else None
 
-        prev_close   = float(yesterday["close"].iloc[-1]) if not yesterday.empty else None
-        open_price   = float(today["open"].iloc[0])
-        current      = float(today["close"].iloc[-1])
-        current_high = float(today["high"].max())
-        current_low  = float(today["low"].min())
-
-        gap_pct = round((open_price / prev_close - 1) * 100, 2) if prev_close else 0
+        open_price  = float(df["open"].iloc[0])
+        current     = float(df["close"].iloc[-1])
+        gap_pct     = round((open_price / prev_close - 1) * 100, 2) if prev_close else 0
 
         # Opening Range (9:15 - 9:30am)
-        orb_candles = today[today.index.time <= ORB_END]
-        if orb_candles.empty:
+        orb = df[df.index.time <= time(9, 30)]
+        if orb.empty:
             return None
-
-        orb_high   = float(orb_candles["high"].max())
-        orb_low    = float(orb_candles["low"].min())
-        orb_range  = round(orb_high - orb_low, 2)
+        orb_high     = float(orb["high"].max())
+        orb_low      = float(orb["low"].min())
+        orb_range    = round(orb_high - orb_low, 2)
         orb_range_pct = round(orb_range / orb_low * 100, 2)
 
-        # VWAP
-        vwap       = calc_vwap(today)
-        vwap_now   = round(float(vwap.iloc[-1]), 2)
-        vwap_slope = float(vwap.iloc[-1]) > float(vwap.iloc[max(0, len(vwap)-3)])
+        # First candle (9:15-9:20 or first 5-min)
+        first_candle     = orb.iloc[0]
+        first_candle_red = float(first_candle["close"]) < float(first_candle["open"])
 
-        # Volume analysis
-        avg_5m_vol = float(today["volume"].mean())
-        orb_vol    = float(orb_candles["volume"].sum())
-        post_orb   = today[today.index.time > ORB_END]
-        post_orb_vol_avg = float(post_orb["volume"].mean()) if not post_orb.empty else avg_5m_vol
-        vol_expanding = post_orb_vol_avg > avg_5m_vol
+        # VWAP
+        vwap         = calc_vwap(df)
+        vwap_now     = round(float(vwap.iloc[-1]), 2)
+        vwap_slope   = float(vwap.iloc[-1]) > float(vwap.iloc[max(0, len(vwap)-4)])
+        above_vwap   = current > vwap_now
+
+        # Volume
+        avg_vol      = float(df["volume"].mean())
+        orb_vol_rate = float(orb["volume"].sum()) / max(len(orb), 1)
+        post_orb     = df[df.index.time > time(9, 30)]
+        post_vol_avg = float(post_orb["volume"].mean()) if not post_orb.empty else avg_vol
+        vol_expanding = post_vol_avg > avg_vol
 
         # Breakout status
-        broke_out_high = current > orb_high
-        broke_down_low = current < orb_low
-        above_vwap     = current > vwap_now
+        broke_out    = current > orb_high
+        broke_down   = current < orb_low
+        near_breakout = not broke_out and current >= orb_high * 0.995
 
-        # Higher highs in post-ORB period (trend continuation)
+        # Higher highs post-ORB
+        hh = False
         if not post_orb.empty and len(post_orb) >= 2:
             hh = all(post_orb["high"].iloc[i] >= post_orb["high"].iloc[i-1]
-                     for i in range(1, len(post_orb)))
-        else:
-            hh = False
+                     for i in range(1, min(len(post_orb), 4)))
 
-        # ── Trade Plan ───────────────────────────────────────────────────────
-        # Entry: above ORB high (for longs)
-        entry_trigger = round(orb_high + 0.10, 2)   # 10 paise above ORB high
+        # ATR from daily data for dynamic targets
+        atr_daily = None
+        try:
+            import ta
+            df_atr = yf.download(ticker, period="30d", interval="1d",
+                                 progress=False, auto_adjust=True)
+            df_atr.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
+                              for c in df_atr.columns]
+            atr_series = ta.volatility.AverageTrueRange(
+                df_atr["high"], df_atr["low"], df_atr["close"], 14
+            ).average_true_range()
+            atr_daily = float(atr_series.iloc[-1])
+        except:
+            atr_daily = orb_range * 2  # fallback
 
-        # Targets: 1x and 2x the ORB range projected from ORB high
-        target1 = round(orb_high + orb_range * 1.0, 2)
-        target2 = round(orb_high + orb_range * 2.0, 2)
-
-        # Stop loss: below ORB low (or midpoint if tight range)
-        stop_loss   = round(orb_low - 0.10, 2)
-        stop_pct    = round((stop_loss / current - 1) * 100, 2)
-        reward1_pct = round((target1 / current - 1) * 100, 2)
-        reward2_pct = round((target2 / current - 1) * 100, 2)
+        # ── Dynamic Targets (ATR-based) ──────────────────────────────────
+        entry_trigger = round(orb_high + 0.05, 2)
+        target1       = round(entry_trigger + 1.5 * atr_daily, 2)
+        target2       = round(entry_trigger + 2.5 * atr_daily, 2)
+        stop_loss     = round(orb_low - 0.05, 2)
+        stop_pct      = round((stop_loss / entry_trigger - 1) * 100, 2)
+        reward1_pct   = round((target1 / entry_trigger - 1) * 100, 2)
+        reward2_pct   = round((target2 / entry_trigger - 1) * 100, 2)
         rr1 = round(abs(reward1_pct / stop_pct), 2) if stop_pct != 0 else 0
         rr2 = round(abs(reward2_pct / stop_pct), 2) if stop_pct != 0 else 0
 
-        # ── Verdict ──────────────────────────────────────────────────────────
-        reasons = []
-        skip_reasons = []
+        # ── Position Sizing ──────────────────────────────────────────────
+        capital       = CAPITAL_BY_REGIME.get(regime, 12500)
+        qty           = max(1, int(capital / entry_trigger)) if entry_trigger > 0 else 0
+        actual_capital = round(qty * entry_trigger, 2)
+        max_loss      = round(qty * abs(entry_trigger - stop_loss), 2)
 
-        if broke_out_high and above_vwap and vol_expanding:
-            verdict = "TRADE NOW"
-            reasons.append("Broke ORB high with expanding volume")
-            if above_vwap:     reasons.append("Price above VWAP (institutional support)")
-            if vwap_slope:     reasons.append("VWAP sloping upward")
-            if hh:             reasons.append("Making higher highs post-ORB")
-            if gap_pct > 0.5:  reasons.append(f"Gapped up {gap_pct:+.1f}% from yesterday")
+        # ── Probability Score ────────────────────────────────────────────
+        score_factors = [
+            broke_out,           # broke ORB high
+            above_vwap,          # above VWAP
+            vwap_slope,          # VWAP sloping up
+            vol_expanding,       # volume expanding
+            hh,                  # higher highs
+            gap_pct > 0,         # positive gap
+            gap_pct < 2.0,       # not over-gapped
+            rr1 >= 1.5,          # good risk/reward
+            not first_candle_red or gap_pct < 0.5,  # no gap trap
+            nifty.get("direction") == "BULLISH",     # market bullish
+        ]
+        prob_score = round(sum(score_factors) / len(score_factors) * 100)
 
-        elif broke_out_high and above_vwap:
-            verdict = "TRADE NOW"
-            reasons.append("Broke ORB high and above VWAP")
-            if not vol_expanding: reasons.append("Note: volume not yet expanding — watch closely")
+        # ── Invalidation Rules ───────────────────────────────────────────
+        invalidations = []
+        if nifty.get("below_orb"):
+            invalidations.append("Nifty broke its own ORB low — avoid all longs")
+        if nifty.get("first_candle_red") and nifty.get("gap_pct", 0) > 1.0:
+            invalidations.append("Nifty gap-up trap — high reversal risk today")
+        if broke_down:
+            invalidations.append("Stock broke below ORB low — setup invalidated")
+        if not above_vwap and not near_breakout:
+            invalidations.append("Below VWAP with no breakout — no valid long")
 
-        elif above_vwap and not broke_out_high and current > (orb_high * 0.995):
-            verdict = "WATCH — near breakout"
-            reasons.append(f"Within 0.5% of ORB high (Rs{orb_high}) — breakout imminent")
-            if above_vwap: reasons.append("Above VWAP — setup intact")
+        # ── Gap Trap Rejection ───────────────────────────────────────────
+        gap_trap = gap_pct > 2.0 and first_candle_red
+        if gap_trap:
+            invalidations.append(
+                f"GAP TRAP: Gapped up {gap_pct:.1f}% but first candle closed red — "
+                f"institutions selling into gap, do not buy"
+            )
 
-        elif broke_down_low or (not above_vwap and not broke_out_high):
+        # ── Verdict ──────────────────────────────────────────────────────
+        positive = []
+        cautious = []
+
+        if gap_trap or broke_down or (invalidations and not broke_out):
             verdict = "SKIP"
-            skip_reasons.append("Below ORB low or below VWAP — no valid long setup")
-            if broke_down_low: skip_reasons.append("ORB breakdown — bearish")
-
+        elif capital == 0:
+            verdict = "SKIP"
+            invalidations.append("DANGER regime — no capital deployed today")
+        elif broke_out and above_vwap and prob_score >= 60:
+            verdict = "TRADE NOW"
+            positive.append("Broke ORB high with VWAP support")
+            if vol_expanding:  positive.append("Volume expanding — conviction confirmed")
+            if hh:             positive.append("Making higher highs post-ORB")
+            if vwap_slope:     positive.append("VWAP sloping upward")
+        elif near_breakout and above_vwap and prob_score >= 50:
+            verdict = "WATCH — near breakout"
+            cautious.append(f"Within 0.5% of ORB high (Rs{orb_high}) — set alert")
+            positive.append("Above VWAP — institutional support intact")
+        elif broke_out and not above_vwap:
+            verdict = "WAIT"
+            cautious.append("Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim")
         else:
             verdict = "WAIT"
-            reasons.append("Inside ORB range — no direction confirmed yet")
-
-        # Skip if risk/reward is poor
-        if rr1 < 1.0 and verdict == "TRADE NOW":
-            verdict = "WAIT"
-            reasons = []
-            skip_reasons.append(f"Risk/reward too tight (R:R = 1:{rr1}) — wait for better entry")
-
-        # Skip if gap up is too large (chasing)
-        if gap_pct > 3.0:
-            verdict = "SKIP"
-            skip_reasons.append(f"Gapped up {gap_pct:.1f}% at open — too late to chase")
+            cautious.append("Inside opening range — direction not confirmed yet")
 
         return {
-            "ticker":        ticker.replace(".NS", ""),
-            "prev_close":    round(prev_close, 2) if prev_close else None,
-            "open_price":    round(open_price, 2),
-            "current":       round(current, 2),
-            "gap_pct":       gap_pct,
-            "orb_high":      round(orb_high, 2),
-            "orb_low":       round(orb_low, 2),
-            "orb_range":     orb_range,
-            "orb_range_pct": orb_range_pct,
-            "vwap":          vwap_now,
-            "above_vwap":    above_vwap,
-            "vwap_slope":    vwap_slope,
-            "broke_out":     broke_out_high,
-            "vol_expanding": vol_expanding,
-            "entry_trigger": entry_trigger,
-            "target1":       target1,
-            "target2":       target2,
-            "stop_loss":     stop_loss,
-            "stop_pct":      stop_pct,
-            "reward1_pct":   reward1_pct,
-            "reward2_pct":   reward2_pct,
-            "rr1":           rr1,
-            "rr2":           rr2,
-            "verdict":       verdict,
-            "reasons":       reasons,
-            "skip_reasons":  skip_reasons,
+            "ticker":          ticker.replace(".NS", ""),
+            "prev_close":      round(prev_close, 2) if prev_close else None,
+            "open_price":      round(open_price, 2),
+            "current":         round(current, 2),
+            "gap_pct":         gap_pct,
+            "orb_high":        round(orb_high, 2),
+            "orb_low":         round(orb_low, 2),
+            "orb_range":       orb_range,
+            "orb_range_pct":   orb_range_pct,
+            "vwap":            vwap_now,
+            "above_vwap":      above_vwap,
+            "vwap_slope":      vwap_slope,
+            "broke_out":       broke_out,
+            "vol_expanding":   vol_expanding,
+            "first_candle_red": first_candle_red,
+            "gap_trap":        gap_trap,
+            "atr_daily":       round(atr_daily, 2) if atr_daily else None,
+            "entry_trigger":   entry_trigger,
+            "target1":         target1,
+            "target2":         target2,
+            "stop_loss":       stop_loss,
+            "stop_pct":        stop_pct,
+            "reward1_pct":     reward1_pct,
+            "reward2_pct":     reward2_pct,
+            "rr1":             rr1,
+            "rr2":             rr2,
+            "prob_score":      prob_score,
+            "qty":             qty,
+            "capital":         actual_capital,
+            "max_loss":        max_loss,
+            "verdict":         verdict,
+            "positive":        positive,
+            "cautious":        cautious,
+            "invalidations":   invalidations,
         }
     except Exception as e:
         print(f"  Error on {ticker}: {e}")
@@ -276,28 +417,48 @@ def analyse_stock(ticker: str) -> dict | None:
 
 # ── Report ────────────────────────────────────────────────────────────────────
 
-def build_report(nifty: dict, results: list) -> str:
+def build_report(nifty: dict, results: list, regime: str) -> str:
     now   = datetime.now()
     lines = []
 
+    capital_today = CAPITAL_BY_REGIME.get(regime, 12500)
+    size_label    = {
+        "BULL": "FULL SIZE (Rs 40,000/trade)",
+        "NEUTRAL": "HALF SIZE (Rs 25,000/trade)",
+        "CAUTION": "QUARTER SIZE (Rs 12,500/trade)",
+        "BEAR":    "QUARTER SIZE (Rs 12,500/trade)",
+        "DANGER":  "NO TRADES TODAY",
+        "UNKNOWN": "REDUCED SIZE (Rs 12,500/trade)",
+    }.get(regime, "REDUCED SIZE")
+
     lines.append("=" * 65)
-    lines.append(f"  OPENING RANGE REPORT — {now.strftime('%A, %B %d %Y %I:%M %p')} IST")
-    lines.append(f"  Analysis window: 9:15am — 9:45am NSE")
+    lines.append(f"  OPENING RANGE REPORT v2 — {now.strftime('%A, %B %d %Y %I:%M %p')} IST")
     lines.append("=" * 65)
     lines.append("")
 
+    # Market context
     if nifty:
-        direction_tag = "MARKET BULLISH" if nifty.get("direction") == "BULLISH" else "MARKET BEARISH"
-        lines.append(f"NIFTY 50 AT 9:45am: {direction_tag}")
-        lines.append(f"  Price: {nifty.get('price','?')}  |  Open: {nifty.get('open','?')}  "
-                     f"|  Gap: {nifty.get('gap_pct', 0):+.1f}%")
-        lines.append(f"  VWAP: {nifty.get('vwap','?')}  |  "
-                     f"ORB: {nifty.get('orb_low','?')} — {nifty.get('orb_high','?')}")
+        lines.append(f"NIFTY AT 9:45am: {nifty.get('direction','?')}")
+        lines.append(f"  Price: {nifty.get('price','?')}  |  Gap: {nifty.get('gap_pct',0):+.1f}%  "
+                     f"|  VWAP: {nifty.get('vwap','?')}")
+        lines.append(f"  ORB: {nifty.get('orb_low','?')} — {nifty.get('orb_high','?')}")
+        if nifty.get("no_trade_signals"):
+            lines.append(f"  *** WARNING ***")
+            for w in nifty["no_trade_signals"]:
+                lines.append(f"    [-] {w}")
         lines.append("")
 
-    # Sort: TRADE NOW first
+    lines.append(f"REGIME: {regime}  |  POSITION SIZE: {size_label}")
+    lines.append("")
+
+    if capital_today == 0:
+        lines.append("  *** DO NOT TRADE TODAY — DANGER REGIME ***")
+        lines.append("=" * 65)
+        return "\n".join(lines)
+
     order   = {"TRADE NOW": 0, "WATCH — near breakout": 1, "WAIT": 2, "SKIP": 3}
-    results = sorted(results, key=lambda x: order.get(x["verdict"], 9))
+    results = sorted(results, key=lambda x: (-x["prob_score"],
+                                              order.get(x["verdict"], 9)))
 
     trade_now = [r for r in results if r["verdict"] == "TRADE NOW"]
     watch     = [r for r in results if "WATCH" in r["verdict"]]
@@ -308,85 +469,104 @@ def build_report(nifty: dict, results: list) -> str:
                  f"{len(wait)} WAIT | {len(skip)} SKIP")
     lines.append("")
 
-    # ── TRADE NOW ─────────────────────────────────────────────────────────────
+    def stock_block(r, show_trade_plan=True):
+        block = []
+        verdict_tag = f"  {r['verdict']}  [{r['prob_score']}% probability]"
+        block.append(verdict_tag)
+        block.append(f"  {r['ticker']}")
+        block.append(f"  {'─'*45}")
+        block.append(f"  Current Price  : Rs {r['current']}")
+        block.append(f"  Gap from prev  : {r['gap_pct']:+.1f}%  "
+                     f"(prev Rs {r['prev_close']} | opened Rs {r['open_price']})")
+        block.append(f"  Opening Range  : Rs {r['orb_low']} — Rs {r['orb_high']}  "
+                     f"({r['orb_range_pct']}% wide)")
+        block.append(f"  VWAP           : Rs {r['vwap']}  "
+                     f"({'ABOVE' if r['above_vwap'] else 'BELOW'}, "
+                     f"{'sloping UP' if r['vwap_slope'] else 'flat/down'})")
+        block.append(f"  Volume         : {'EXPANDING' if r['vol_expanding'] else 'WEAK'}")
+        block.append(f"  ATR (daily)    : Rs {r['atr_daily']}")
+        if r.get("gap_trap"):
+            block.append(f"  *** GAP TRAP DETECTED — DO NOT BUY ***")
+        block.append("")
+
+        if show_trade_plan and r["verdict"] not in ("SKIP",):
+            block.append(f"  TRADE PLAN:")
+            block.append(f"    Entry trigger  : Rs {r['entry_trigger']}  (break above ORB high)")
+            block.append(f"    Target 1 (50%) : Rs {r['target1']}  ({r['reward1_pct']:+.1f}%)  "
+                         f"[1.5x ATR] — sell half here")
+            block.append(f"    Target 2 (50%) : Rs {r['target2']}  ({r['reward2_pct']:+.1f}%)  "
+                         f"[2.5x ATR] — trail stop for rest")
+            block.append(f"    Stop Loss      : Rs {r['stop_loss']}  ({r['stop_pct']:+.1f}%)  "
+                         f"[below ORB low]")
+            block.append(f"    Risk/Reward    : 1:{r['rr1']} (T1)  |  1:{r['rr2']} (T2)")
+            block.append("")
+            block.append(f"  POSITION SIZE ({regime} regime):")
+            block.append(f"    Qty            : {r['qty']} shares")
+            block.append(f"    Capital needed : Rs {r['capital']:,.0f}")
+            block.append(f"    Max loss       : Rs {r['max_loss']:,.0f}  "
+                         f"(if stop hit)")
+            block.append("")
+
+        if r["positive"]:
+            block.append(f"  WHY THIS SETUP:")
+            for s in r["positive"]:
+                block.append(f"    [+] {s}")
+        if r["cautious"]:
+            for s in r["cautious"]:
+                block.append(f"    [~] {s}")
+        if r["invalidations"]:
+            block.append(f"  INVALIDATIONS:")
+            for s in r["invalidations"]:
+                block.append(f"    [-] {s}")
+        block.append("")
+        return block
+
     if trade_now:
         lines.append("=" * 65)
         lines.append("  *** TRADE NOW ***")
         lines.append("=" * 65)
         for r in trade_now:
-            lines.append("")
-            lines.append(f"  {r['ticker']}")
-            lines.append(f"  {'─' * 40}")
-            lines.append(f"  Current Price : Rs {r['current']}")
-            lines.append(f"  Gap from prev : {r['gap_pct']:+.1f}%  "
-                         f"(prev close Rs {r['prev_close']} | opened Rs {r['open_price']})")
-            lines.append(f"  Opening Range : Rs {r['orb_low']} — Rs {r['orb_high']}  "
-                         f"(range: {r['orb_range_pct']}%)")
-            lines.append(f"  VWAP          : Rs {r['vwap']}  "
-                         f"({'ABOVE' if r['above_vwap'] else 'BELOW'}, "
-                         f"slope {'UP' if r['vwap_slope'] else 'FLAT/DOWN'})")
-            lines.append(f"  Volume        : {'EXPANDING' if r['vol_expanding'] else 'WEAK'}")
-            lines.append("")
-            lines.append(f"  TRADE PLAN:")
-            lines.append(f"    Entry        : Rs {r['entry_trigger']}  (above ORB high)")
-            lines.append(f"    Target 1     : Rs {r['target1']}  ({r['reward1_pct']:+.1f}%)  "
-                         f"[1x ORB range] — book 50% here")
-            lines.append(f"    Target 2     : Rs {r['target2']}  ({r['reward2_pct']:+.1f}%)  "
-                         f"[2x ORB range] — trail rest")
-            lines.append(f"    Stop Loss    : Rs {r['stop_loss']}  ({r['stop_pct']:+.1f}%)  "
-                         f"[below ORB low]")
-            lines.append(f"    Risk/Reward  : 1:{r['rr1']} (T1)  |  1:{r['rr2']} (T2)")
-            lines.append("")
-            lines.append(f"  WHY:")
-            for reason in r["reasons"]:
-                lines.append(f"    [+] {reason}")
-            lines.append("")
+            lines.extend(stock_block(r, show_trade_plan=True))
 
-    # ── WATCH ─────────────────────────────────────────────────────────────────
     if watch:
         lines.append("=" * 65)
-        lines.append("  WATCH — Near Breakout")
+        lines.append("  WATCH — Set Price Alert at Entry Trigger")
         lines.append("=" * 65)
         for r in watch:
-            lines.append("")
-            lines.append(f"  {r['ticker']}  |  Rs {r['current']}  |  "
-                         f"ORB: {r['orb_low']} — {r['orb_high']}  |  VWAP: {r['vwap']}")
-            lines.append(f"  Entry if price crosses Rs {r['entry_trigger']}  "
-                         f"| T1: Rs {r['target1']}  | Stop: Rs {r['stop_loss']}")
-            for reason in r["reasons"]:
-                lines.append(f"    [~] {reason}")
-            lines.append("")
+            lines.extend(stock_block(r, show_trade_plan=True))
 
-    # ── WAIT ──────────────────────────────────────────────────────────────────
     if wait:
         lines.append("=" * 65)
-        lines.append("  WAIT — Inside Range / No Signal Yet")
+        lines.append("  WAIT — No Signal Yet")
         lines.append("=" * 65)
         for r in wait:
-            lines.append(f"  {r['ticker']}  |  Rs {r['current']}  |  "
-                         f"ORB: {r['orb_low']} — {r['orb_high']}  |  VWAP: {r['vwap']}")
-            for reason in r["reasons"]:
-                lines.append(f"    [~] {reason}")
+            lines.append(f"  {r['ticker']}  [{r['prob_score']}%]  |  "
+                         f"Rs {r['current']}  |  ORB: {r['orb_low']}—{r['orb_high']}  "
+                         f"|  VWAP: {r['vwap']}")
+            for s in r["cautious"]:
+                lines.append(f"    [~] {s}")
         lines.append("")
 
-    # ── SKIP ──────────────────────────────────────────────────────────────────
     if skip:
         lines.append("=" * 65)
         lines.append("  SKIP — No Valid Setup")
         lines.append("=" * 65)
         for r in skip:
-            lines.append(f"  {r['ticker']}  |  Rs {r['current']}")
-            for reason in r["skip_reasons"]:
-                lines.append(f"    [-] {reason}")
+            lines.append(f"  {r['ticker']}  [{r['prob_score']}%]  |  Rs {r['current']}")
+            for s in r["invalidations"]:
+                lines.append(f"    [-] {s}")
         lines.append("")
 
     lines.append("=" * 65)
-    lines.append("  TRADE RULES:")
-    lines.append("  1. Only enter on TRADE NOW signals")
-    lines.append("  2. Entry = price crosses above entry trigger with volume")
-    lines.append("  3. Book 50% at Target 1, trail stop to entry for rest")
-    lines.append("  4. Exit 100% if price closes 5-min candle below VWAP")
-    lines.append("  5. No new entries after 1:30pm — too late in the day")
+    lines.append("  TRADE MANAGEMENT RULES:")
+    lines.append("  1. Enter only on TRADE NOW — price must cross entry trigger")
+    lines.append("  2. Confirm with volume spike at breakout candle")
+    lines.append("  3. Sell 50% at Target 1 — move stop to entry (risk-free)")
+    lines.append("  4. Trail stop below each new higher low for Target 2")
+    lines.append("  5. Exit 100% if any 5-min candle closes below VWAP")
+    lines.append("  6. Exit 100% if Nifty breaks its opening range low")
+    lines.append("  7. No new entries after 1:30pm IST")
+    lines.append("  8. Max 3 trades per day")
     lines.append("=" * 65)
 
     return "\n".join(lines)
@@ -396,33 +576,42 @@ def build_report(nifty: dict, results: list) -> str:
 
 def run_opening_range():
     print(f"\n{'='*65}")
-    print(f"  OPENING RANGE AGENT — {datetime.now().strftime('%A %d %b %Y %I:%M %p')}")
+    print(f"  OPENING RANGE AGENT v2 — {datetime.now().strftime('%A %d %b %Y %I:%M %p')}")
     print(f"{'='*65}\n")
 
-    tickers = get_morning_picks()
+    tickers, regime = get_morning_picks()
+    capital = CAPITAL_BY_REGIME.get(regime, 12500)
+    print(f"Regime: {regime} | Position size: Rs {capital:,}/trade")
     print(f"Analysing {len(tickers)} stocks from morning scan...\n")
+
+    if capital == 0:
+        print("DANGER REGIME — no trades today. Report saved.")
+        nifty  = get_nifty_context()
+        report = build_report(nifty, [], regime)
+        fname  = os.path.join(REPORTS_DIR, f"opening_range_{date.today().isoformat()}.txt")
+        with open(fname, "w", encoding="utf-8") as f:
+            f.write(report)
+        return
 
     print("Fetching Nifty context...")
     nifty = get_nifty_context()
     if nifty:
-        print(f"  Nifty: {nifty.get('price')} | VWAP: {nifty.get('vwap')} | "
+        print(f"  Nifty: {nifty.get('price')} | Gap: {nifty.get('gap_pct',0):+.1f}% | "
               f"Direction: {nifty.get('direction')}\n")
 
     results = []
     for i, ticker in enumerate(tickers):
         print(f"  [{i+1}/{len(tickers)}] {ticker}...")
-        r = analyse_stock(ticker)
+        r = analyse_stock(ticker, regime, nifty)
         if r:
             results.append(r)
 
     if not results:
-        print("No data available yet — market may not have opened.")
+        print("No intraday data available yet.")
         return
 
-    report = build_report(nifty, results)
-
-    fname = os.path.join(REPORTS_DIR,
-                         f"opening_range_{date.today().isoformat()}.txt")
+    report = build_report(nifty, results, regime)
+    fname  = os.path.join(REPORTS_DIR, f"opening_range_{date.today().isoformat()}.txt")
     with open(fname, "w", encoding="utf-8") as f:
         f.write(report)
 
