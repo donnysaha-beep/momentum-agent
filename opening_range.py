@@ -25,8 +25,62 @@ warnings.filterwarnings("ignore")
 
 REPORTS_DIR  = os.path.join(os.path.dirname(__file__), "reports")
 TOKEN_FILE   = os.path.join(os.path.dirname(__file__), ".kite_token.json")
+PULSE_FILE   = os.path.join(os.path.dirname(__file__), "market_pulse.json")
 NIFTY_TICKER = "^NSEI"
 os.makedirs(REPORTS_DIR, exist_ok=True)
+
+# Sector cap: max 20% of total daily capital per sector, max 3 trades/day
+MAX_SECTOR_PCT  = 0.20
+MAX_TRADES_DAY  = 3
+TOTAL_CAPITAL   = 200000  # Rs 2 lakh total trading capital
+
+
+def check_sector_cap(results: list) -> list:
+    """
+    Enforce max 20% capital per sector and max 3 trades per day.
+    Marks excess trades as SKIP - SECTOR CAP.
+    """
+    sector_capital: dict = {}
+    trade_count = 0
+    max_sector_capital = TOTAL_CAPITAL * MAX_SECTOR_PCT
+
+    for r in results:
+        if r["verdict"] != "TRADE NOW":
+            continue
+        if trade_count >= MAX_TRADES_DAY:
+            r["verdict"] = "SKIP"
+            r["invalidations"].append(
+                f"MAX TRADES REACHED — max {MAX_TRADES_DAY} trades/day to control risk"
+            )
+            continue
+
+        sector = r.get("sector", "Unknown")
+        sector_used = sector_capital.get(sector, 0)
+        trade_capital = r.get("capital", 0)
+
+        if sector_used + trade_capital > max_sector_capital:
+            r["verdict"] = "SKIP"
+            r["invalidations"].append(
+                f"SECTOR CAP: {sector} already has Rs {sector_used:,.0f} deployed "
+                f"(max Rs {max_sector_capital:,.0f} per sector)"
+            )
+        else:
+            sector_capital[sector] = sector_used + trade_capital
+            trade_count += 1
+
+    return results
+
+
+def check_pulse() -> dict:
+    """Read latest intraday pulse for live market invalidation."""
+    if not os.path.exists(PULSE_FILE):
+        return {"status": "NORMAL", "action": "CONTINUE", "alerts": []}
+    with open(PULSE_FILE) as f:
+        pulse = json.load(f)
+    # Only use if from today
+    if pulse.get("date") != date.today().isoformat():
+        return {"status": "NORMAL", "action": "CONTINUE", "alerts": []}
+    return pulse
 
 # Capital per trade by regime (Rs)
 CAPITAL_BY_REGIME = {
