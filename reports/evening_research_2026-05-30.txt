@@ -1,0 +1,230 @@
+============================================================
+  EVENING RESEARCH REPORT — May 30, 2026
+============================================================
+
+S&P 500 BENCHMARK (SPY):
+  1D: +0.2%  1W: +1.9%  1M: +6.3%  3M: +9.4%
+
+------------------------------------------------------------
+  NVDA — NVIDIA Corporation
+  Technology | Semiconductors | $5.1T
+  Price: $211.14  |  P/E: 32.383434
+
+  PERFORMANCE vs SPY:
+    1D:  -1.4%  (SPY: +0.2%)
+    1W:  -3.8%  (SPY: +1.9%)
+    1M:  +0.9%  → Rel Strength: -5.4%
+    3M:  +8.0%  → Rel Strength: -1.5%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 3.38%
+
+  RECENT NEWS:
+    * Nvidia, AMD, & other chip names in focus at Computex 2026
+    * Dell stock unexpectedly booms on AI demand: What investors may have missed
+    * Republican lawmakers are trading like Trump, piling into Big Tech stocks
+    * 3 Nuclear Energy Stocks That Are Quietly Becoming the Trades of the Year
+    * Stock Split Watch: Is Eli Lilly Next?
+
+------------------------------------------------------------
+  AAPL — Apple Inc.
+  Technology | Consumer Electronics | $4.6T
+  Price: $312.06  |  P/E: 37.733974
+
+  PERFORMANCE vs SPY:
+    1D:  -0.1%  (SPY: +0.2%)
+    1W:  +2.3%  (SPY: +1.9%)
+    1M:  +15.6%  → Rel Strength: +9.3%
+    3M:  +13.9%  → Rel Strength: +4.5%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 1.78%
+
+  RECENT NEWS:
+    * AI spending fervor is comparable to industrial push during World War 2
+    * Could Agentic AI Be Apple's Next Big Tailwind?
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * YMAG Bundles YieldMax’s Magnificent Seven Strategy Into One Ticker, And the NAV Decay Compounds Across All Seven
+    * Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth
+
+------------------------------------------------------------
+  MSFT — Microsoft Corporation
+  Technology | Software - Infrastructure | $3.3T
+  Price: $450.24  |  P/E: 26.81596
+
+  PERFORMANCE vs SPY:
+    1D:  +5.5%  (SPY: +0.2%)
+    1W:  +7.4%  (SPY: +1.9%)
+    1M:  +6.3%  → Rel Strength: -0.0%
+    3M:  +12.6%  → Rel Strength: +3.2%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 2.61%
+
+  RECENT NEWS:
+    * 'Volatility equals opportunity' in options trades as tech soars
+    * AI spending fervor is comparable to industrial push during World War 2
+    * Could Agentic AI Be Apple's Next Big Tailwind?
+    * Dell Technologies (DELL) Wins $10B Govt Contract, Hits All-Time High
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+
+------------------------------------------------------------
+  META — Meta Platforms, Inc.
+  Communication Services | Internet Content & Information | $1.6T
+  Price: $632.51  |  P/E: 22.992002
+
+  PERFORMANCE vs SPY:
+    1D:  -0.4%  (SPY: +0.2%)
+    1W:  +4.1%  (SPY: +1.9%)
+    1M:  -5.5%  → Rel Strength: -11.8%
+    3M:  -3.2%  → Rel Strength: -12.6%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 3/20
+    Daily volatility (ATR%): 2.45%
+
+  RECENT NEWS:
+    * AI spending fervor is comparable to industrial push during World War 2
+    * Could Agentic AI Be Apple's Next Big Tailwind?
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * Strait of Hormuz carries more than oil, handling 20% of global data flows
+    * Meta, TikTok, Snap, and YouTube settle school lawsuit for $27M
+
+------------------------------------------------------------
+  AMZN — Amazon.com, Inc.
+  Consumer Cyclical | Internet Retail | $2.9T
+  Price: $270.64  |  P/E: 31.653803
+
+  PERFORMANCE vs SPY:
+    1D:  -1.2%  (SPY: +0.2%)
+    1W:  +0.8%  (SPY: +1.9%)
+    1M:  +2.9%  → Rel Strength: -3.4%
+    3M:  +28.5%  → Rel Strength: +19.1%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 2.45%
+
+  RECENT NEWS:
+    * Best student credit cards for June 2026: Start building credit with rewards on spending
+    * The tech trade is overcrowded. Here's your ETF escape route: Chart of the Day
+    * Could Agentic AI Be Apple's Next Big Tailwind?
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * Strait of Hormuz carries more than oil, handling 20% of global data flows
+
+------------------------------------------------------------
+  GOOGL — Alphabet Inc.
+  Communication Services | Internet Content & Information | $4.6T
+  Price: $380.34  |  P/E: 28.989328
+
+  PERFORMANCE vs SPY:
+    1D:  -2.5%  (SPY: +0.2%)
+    1W:  -1.9%  (SPY: +1.9%)
+    1M:  +8.7%  → Rel Strength: +2.4%
+    3M:  +21.6%  → Rel Strength: +12.2%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 2.5%
+
+  RECENT NEWS:
+    * The difference between on-prem AI vs. data centers
+    * Could Agentic AI Be Apple's Next Big Tailwind?
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * Strait of Hormuz carries more than oil, handling 20% of global data flows
+    * Meta, TikTok, Snap, and YouTube settle school lawsuit for $27M
+
+------------------------------------------------------------
+  AVGO — Broadcom Inc.
+  Technology | Semiconductors | $2.1T
+  Price: $446.77  |  P/E: 86.920235
+
+  PERFORMANCE vs SPY:
+    1D:  +4.7%  (SPY: +0.2%)
+    1W:  +7.8%  (SPY: +1.9%)
+    1M:  +10.2%  → Rel Strength: +3.9%
+    3M:  +34.7%  → Rel Strength: +25.3%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 3.53%
+
+  RECENT NEWS:
+    * 'Volatility equals opportunity' in options trades as tech soars
+    * Family Offices Bypass Private Equity and Go Direct
+    * What to Know About This Fund's $4.8 Million e.l.f. Beauty Exit After a Tough Year
+    * Jobs Report, Broadcom Earnings: What to Watch in the Next Week
+    * Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points
+
+------------------------------------------------------------
+  AMD — Advanced Micro Devices, Inc.
+  Technology | Semiconductors | $841.6B
+  Price: $516.1  |  P/E: 172.60869
+
+  PERFORMANCE vs SPY:
+    1D:  -0.4%  (SPY: +0.2%)
+    1W:  +14.8%  (SPY: +1.9%)
+    1M:  +53.1%  → Rel Strength: +46.8%
+    3M:  +144.8%  → Rel Strength: +135.3%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 5.04%
+
+  RECENT NEWS:
+    * Nvidia, AMD, & other chip names in focus at Computex 2026
+    * The CEOs of the world's biggest chip companies are descending on Taiwan next week
+    * Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event
+    * This Risk ETF Is Riding Its Best Seven-Day Stretch in a Year
+    * South Korea Is Up Nearly 96 Percent in 2026 and These 3 ETFs Let You Play the Chip Nation Story at Different Risk Levels
+
+------------------------------------------------------------
+  TSLA — Tesla, Inc.
+  Consumer Cyclical | Auto Manufacturers | $1.6T
+  Price: $435.79  |  P/E: 399.80734
+
+  PERFORMANCE vs SPY:
+    1D:  -1.4%  (SPY: +0.2%)
+    1W:  +4.3%  (SPY: +1.9%)
+    1M:  +16.9%  → Rel Strength: +10.6%
+    3M:  +4.4%  → Rel Strength: -5.0%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 3.44%
+
+  RECENT NEWS:
+    * 'Volatility equals opportunity' in options trades as tech soars
+    * Republican lawmakers are trading like Trump, piling into Big Tech stocks
+    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * Turns Out, Tesla’s Best Cybertruck Customer Is SpaceX
+    * Tesla Investors Weigh SpaceX Merger Talk Governance Shifts And AI Impact
+
+------------------------------------------------------------
+  LLY — Eli Lilly and Company
+  Healthcare | Drug Manufacturers - General | $985.4B
+  Price: $1105.0  |  P/E: 39.212208
+
+  PERFORMANCE vs SPY:
+    1D:  -1.9%  (SPY: +0.2%)
+    1W:  +6.1%  (SPY: +1.9%)
+    1M:  +30.0%  → Rel Strength: +23.7%
+    3M:  +7.6%  → Rel Strength: -1.8%
+
+  TREND HEALTH:
+    Days above SMA50 (last 20 days): 20/20
+    Daily volatility (ATR%): 2.98%
+
+  RECENT NEWS:
+    * Eli Lilly's $1 trillion valuation cements its status as Wall Street's ultimate weight-loss play
+    * Stock Split Watch: Is Eli Lilly Next?
+    * Supreme Court Verdict Tests Eli Lilly Valuation And Legal Risk Outlook
+    * Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points
+    * Eli Lilly (LLY): Top Healthcare Stock Pick of Claude AI
+
+============================================================
+  END OF REPORT
+============================================================
