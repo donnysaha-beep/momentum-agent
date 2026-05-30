@@ -21,11 +21,11 @@ S&P 500 BENCHMARK (SPY):
     Daily volatility (ATR%): 3.38%
 
   RECENT NEWS:
-    * Nvidia, AMD, & other chip names in focus at Computex 2026
-    * Dell stock unexpectedly booms on AI demand: What investors may have missed
-    * Republican lawmakers are trading like Trump, piling into Big Tech stocks
-    * 3 Nuclear Energy Stocks That Are Quietly Becoming the Trades of the Year
-    * Stock Split Watch: Is Eli Lilly Next?
+    * GOP lawmakers' portfolios are migrating to Trump favorites like Intel and bitcoin
+    * The CEOs of the world's biggest chip companies are descending on Taiwan next week
+    * Can Sandisk Become a $1 Trillion Company in 5 Years?
+    * 2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On
+    * Why NVDY Shareholders Miss Half of NVIDIA’s Explosive Moves in Strong Months
 
 ------------------------------------------------------------
   AAPL — Apple Inc.
@@ -43,11 +43,11 @@ S&P 500 BENCHMARK (SPY):
     Daily volatility (ATR%): 1.78%
 
   RECENT NEWS:
-    * AI spending fervor is comparable to industrial push during World War 2
-    * Could Agentic AI Be Apple's Next Big Tailwind?
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
-    * YMAG Bundles YieldMax’s Magnificent Seven Strategy Into One Ticker, And the NAV Decay Compounds Across All Seven
-    * Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth
+    * Apple’s next AI test may not be Siri
+    * Nvidia, Apple, Isaac Newton And How To Trade Power Trends
+    * Apple Inc. (AAPL): Renaissance Technologies Opens New Position
+    * The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG’s Next 12 Months
+    * ‘Dinosaur’ Tech Stocks Reborn as AI Fuels $1.7 Trillion Rally
 
 ------------------------------------------------------------
   MSFT — Microsoft Corporation
@@ -66,10 +66,10 @@ S&P 500 BENCHMARK (SPY):
 
   RECENT NEWS:
     * 'Volatility equals opportunity' in options trades as tech soars
-    * AI spending fervor is comparable to industrial push during World War 2
-    * Could Agentic AI Be Apple's Next Big Tailwind?
-    * Dell Technologies (DELL) Wins $10B Govt Contract, Hits All-Time High
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
+    * 2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On
+    * Snap alums unveil Ghost Angels fund
+    * Is Microsoft Corporation (MSFT) A Stock to Buy for the Long Term?
+    * The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG’s Next 12 Months
 
 ------------------------------------------------------------
   META — Meta Platforms, Inc.
@@ -87,11 +87,11 @@ S&P 500 BENCHMARK (SPY):
     Daily volatility (ATR%): 2.45%
 
   RECENT NEWS:
-    * AI spending fervor is comparable to industrial push during World War 2
-    * Could Agentic AI Be Apple's Next Big Tailwind?
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
-    * Strait of Hormuz carries more than oil, handling 20% of global data flows
-    * Meta, TikTok, Snap, and YouTube settle school lawsuit for $27M
+    * Is Meta Platforms, Inc. (META) In Trouble Over Financial Scams On Platforms?
+    * The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG’s Next 12 Months
+    * Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club
+    * Is Vistra (VST) The Best AI Energy Stock to Buy Now?
+    * TikTok’s road to becoming a super app
 
 ------------------------------------------------------------
   AMZN — Amazon.com, Inc.
@@ -110,10 +110,10 @@ S&P 500 BENCHMARK (SPY):
 
   RECENT NEWS:
     * Best student credit cards for June 2026: Start building credit with rewards on spending
-    * The tech trade is overcrowded. Here's your ETF escape route: Chart of the Day
-    * Could Agentic AI Be Apple's Next Big Tailwind?
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
-    * Strait of Hormuz carries more than oil, handling 20% of global data flows
+    * 2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On
+    * The Monthly Income Trap in AMZY That Costs Long-Term Investors Thousands
+    * Nvidia, Apple, Isaac Newton And How To Trade Power Trends
+    * The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG’s Next 12 Months
 
 ------------------------------------------------------------
   GOOGL — Alphabet Inc.
@@ -131,11 +131,11 @@ S&P 500 BENCHMARK (SPY):
     Daily volatility (ATR%): 2.5%
 
   RECENT NEWS:
-    * The difference between on-prem AI vs. data centers
-    * Could Agentic AI Be Apple's Next Big Tailwind?
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
-    * Strait of Hormuz carries more than oil, handling 20% of global data flows
-    * Meta, TikTok, Snap, and YouTube settle school lawsuit for $27M
+    * Google forced to make costly AI fix after companies crashout
+    * Apple’s next AI test may not be Siri
+    * Is Meta Platforms, Inc. (META) In Trouble Over Financial Scams On Platforms?
+    * Nvidia, Apple, Isaac Newton And How To Trade Power Trends
+    * The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG’s Next 12 Months
 
 ------------------------------------------------------------
   AVGO — Broadcom Inc.
@@ -154,10 +154,10 @@ S&P 500 BENCHMARK (SPY):
 
   RECENT NEWS:
     * 'Volatility equals opportunity' in options trades as tech soars
-    * Family Offices Bypass Private Equity and Go Direct
-    * What to Know About This Fund's $4.8 Million e.l.f. Beauty Exit After a Tough Year
-    * Jobs Report, Broadcom Earnings: What to Watch in the Next Week
-    * Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points
+    * Dow Jones Futures: Market Hits Highs On Iran Hopes, These AI Stocks Struggle; Nvidia, Tesla Lead 5 Titans Near Buy Points
+    * Prediction: This Artificial Intelligence (AI) Inference Specialist Is Going to Soar After June 3
+    * Broadcom Deepens AI Infrastructure Role With US$36b Deal And FuriosaAI Pact
+    * Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club
 
 ------------------------------------------------------------
   AMD — Advanced Micro Devices, Inc.
@@ -177,9 +177,9 @@ S&P 500 BENCHMARK (SPY):
   RECENT NEWS:
     * Nvidia, AMD, & other chip names in focus at Computex 2026
     * The CEOs of the world's biggest chip companies are descending on Taiwan next week
-    * Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event
-    * This Risk ETF Is Riding Its Best Seven-Day Stretch in a Year
-    * South Korea Is Up Nearly 96 Percent in 2026 and These 3 ETFs Let You Play the Chip Nation Story at Different Risk Levels
+    * Bank of America resets Marvell stock price target after earnings
+    * Jim Cramer Explains How He Ignored the Past Price to Score a Huge Win in Arm Holdings
+    * History Says the S&P 500’s 9-Week Rally Is Rare. It May Be Even Rarer Than You Think
 
 ------------------------------------------------------------
   TSLA — Tesla, Inc.
@@ -198,10 +198,10 @@ S&P 500 BENCHMARK (SPY):
 
   RECENT NEWS:
     * 'Volatility equals opportunity' in options trades as tech soars
-    * Republican lawmakers are trading like Trump, piling into Big Tech stocks
-    * Here Are the 3 Cheapest Magnificent Seven Stocks According to a Popular Metric. Are They Buys?
-    * Turns Out, Tesla’s Best Cybertruck Customer Is SpaceX
-    * Tesla Investors Weigh SpaceX Merger Talk Governance Shifts And AI Impact
+    * Could the Next Great Space Stock Come From Japan?
+    * Dow Jones Futures: Market Hits Highs On Iran Hopes, These AI Stocks Struggle; Nvidia, Tesla Lead 5 Titans Near Buy Points
+    * Tesla’s Next Act? Wall Street Begins Weighing a SpaceX Combination
+    * Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club
 
 ------------------------------------------------------------
   LLY — Eli Lilly and Company
@@ -219,11 +219,11 @@ S&P 500 BENCHMARK (SPY):
     Daily volatility (ATR%): 2.98%
 
   RECENT NEWS:
-    * Eli Lilly's $1 trillion valuation cements its status as Wall Street's ultimate weight-loss play
-    * Stock Split Watch: Is Eli Lilly Next?
-    * Supreme Court Verdict Tests Eli Lilly Valuation And Legal Risk Outlook
-    * Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points
-    * Eli Lilly (LLY): Top Healthcare Stock Pick of Claude AI
+    * Eli Lilly and Company (LLY): A Long Term Stock to Buy
+    * Dow Jones Futures: Market Hits Highs On Iran Hopes, These AI Stocks Struggle; Nvidia, Tesla Lead 5 Titans Near Buy Points
+    * Prediction: After Micron and AMD, This Will Be the Next Tech Stock to Join the $1 Trillion Club
+    * Lilly's New Drug Just Delivered the Largest Weight Loss Ever Seen in a Clinical Trial -- Here's What It Means for Investors
+    * CVS Decision Tests Novo Nordisk Wegovy Edge And Valuation Story
 
 ============================================================
   END OF REPORT
