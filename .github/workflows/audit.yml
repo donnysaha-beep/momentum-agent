@@ -1,13 +1,12 @@
-name: Evening Research (NSE)
+name: Performance Audit (6:30pm IST)
 
 on:
   schedule:
-    - cron: "30 12 * * 1-5"
-    - cron: "30 4 * * 6,0"
+    - cron: "0 13 * * 1-5"
   workflow_dispatch:
 
 jobs:
-  research:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,12 +21,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run evening research
-        run: python researcher.py
+      - name: Run performance audit
+        run: python audit.py
 
-      - name: Commit report
+      - name: Commit audit report and journal
         run: |
           git config user.name "momentum-bot"
           git config user.email "bot@github.com"
-          git add reports/
-          git diff --cached --quiet || (git commit -m "Evening research $(date +%Y-%m-%d)" && git pull --rebase && git push)
+          git add reports/ trade_journal.json
+          git diff --cached --quiet || (git commit -m "Audit $(date +%Y-%m-%d)" && git pull --rebase && git push)

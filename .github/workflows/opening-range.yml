@@ -9,7 +9,6 @@ on:
 jobs:
   opening-range:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,5 +30,4 @@ jobs:
           git config user.name "momentum-bot"
           git config user.email "bot@github.com"
           git add reports/
-          git diff --cached --quiet || git commit -m "Opening range report $(date +%Y-%m-%d)"
-          git push
+          git diff --cached --quiet || (git commit -m "Opening range report $(date +%Y-%m-%d)" && git pull --rebase && git push)

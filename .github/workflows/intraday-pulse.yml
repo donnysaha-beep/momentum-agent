@@ -2,7 +2,6 @@ name: Intraday Pulse Check (hourly)
 
 on:
   schedule:
-    # Every hour from 10am to 3pm IST (4:30am to 9:30am UTC) Mon-Fri
     - cron: "30 4 * * 1-5"
     - cron: "30 5 * * 1-5"
     - cron: "30 6 * * 1-5"
@@ -35,5 +34,4 @@ jobs:
           git config user.name "momentum-bot"
           git config user.email "bot@github.com"
           git add reports/ market_pulse.json
-          git diff --cached --quiet || git commit -m "Pulse check $(date +%H:%M)"
-          git push
+          git diff --cached --quiet || (git commit -m "Pulse check $(date +%H:%M)" && git pull --rebase && git push)
