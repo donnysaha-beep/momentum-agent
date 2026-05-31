@@ -30,3 +30,9 @@ jobs:
           git config user.email "bot@github.com"
           git add reports/ layer0.json
           git diff --cached --quiet || (git commit -m "Layer 0 intelligence $(date +%Y-%m-%d)" && git pull --rebase && git push)
+
+      - name: Send email report
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python email_reporter.py layer0

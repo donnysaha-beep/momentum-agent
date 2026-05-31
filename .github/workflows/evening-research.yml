@@ -31,3 +31,9 @@ jobs:
           git config user.email "bot@github.com"
           git add reports/
           git diff --cached --quiet || (git commit -m "Evening research $(date +%Y-%m-%d)" && git pull --rebase && git push)
+
+      - name: Send email report
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python email_reporter.py researcher
