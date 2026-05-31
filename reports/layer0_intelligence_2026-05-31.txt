@@ -1,0 +1,42 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Sunday, May 31 2026
+  Layer 0 | Generated: 03:36 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+GLOBAL & INDIAN MACRO:
+  S&P 500 (US)      :    7,580.1  (+0.22%)
+  Nasdaq (US)       :   26,972.6  (+0.20%)
+  US VIX            :       15.3  (-2.67%)
+  India VIX         :       16.2  (+8.08%)
+  Crude Oil (WTI)   :       87.4  (-1.73%)
+  Gold              :    4,560.5  (+1.36%)
+  USD/INR           :       95.0  (-1.10%)
+  Nifty 50 (prev)   :   23,547.8  (-1.50%)
+
+GIFT NIFTY ESTIMATE:
+  Estimated open : 23573.65
+  Est. change    : +0.11%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.22% overnight
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX SPIKE +8.1% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Metals, Pharma
+  Avoid      : Energy, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
