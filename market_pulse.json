@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-05-31T03:46:13.530217",
+  "date": "2026-05-31",
+  "status": "NORMAL",
+  "action": "CONTINUE \u2014 market structure intact",
+  "nifty_price": null,
+  "nifty_vs_vwap": null,
+  "nifty_vs_orb_low": null,
+  "vix_level": null,
+  "vix_spike": false,
+  "alerts": []
+}
