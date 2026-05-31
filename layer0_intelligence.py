@@ -29,15 +29,20 @@ os.makedirs(REPORTS_DIR, exist_ok=True)
 
 def fetch_global_markets() -> dict:
     tickers = {
-        "sp500":   "^GSPC",
-        "nasdaq":  "^IXIC",
-        "dow":     "^DJI",
-        "us_vix":  "^VIX",
-        "india_vix": "^INDIAVIX",
-        "crude":   "CL=F",
-        "gold":    "GC=F",
-        "usd_inr": "USDINR=X",
-        "nifty":   "^NSEI",
+        # Global (used for GIFT Nifty estimate + sector rotation signals)
+        "sp500":     "^GSPC",
+        "nasdaq":    "^IXIC",
+        "dow":       "^DJI",
+        "us_vix":    "^VIX",
+        # Indian market — core inputs
+        "nifty":     "^NSEI",       # Nifty 50 previous close
+        "banknifty": "^NSEBANK",    # Bank Nifty previous close
+        "india_vix": "^INDIAVIX",   # India VIX — fear gauge
+        # Commodities & currency — directly affect Indian sectors
+        "crude":     "CL=F",        # Crude oil → Energy, Aviation, Paint
+        "gold":      "GC=F",        # Gold → Metals, jewellery stocks
+        "usd_inr":   "USDINR=X",    # USD/INR → IT exporters, importers
+        "silver":    "SI=F",        # Silver → Metals sector
     }
 
     result = {}
@@ -96,34 +101,53 @@ def fetch_fii_dii() -> dict:
     return {"fii_net_cr": None, "dii_net_cr": None}
 
 
-# ── GIFT Nifty proxy ──────────────────────────────────────────────────────────
+# ── GIFT Nifty ───────────────────────────────────────────────────────────────
 
-def estimate_gift_nifty(nifty: dict, sp500: dict) -> dict:
+def fetch_gift_nifty(nifty: dict, sp500: dict) -> dict:
     """
-    Estimate GIFT Nifty direction using:
-    - S&P 500 overnight change (strong correlation with Nifty futures)
-    - Previous Nifty close
+    Try to get live GIFT Nifty price via yfinance (NF=F or NIFTY_I.NS).
+    Falls back to S&P 500 correlation estimate if live data unavailable.
+    GIFT Nifty trades 6am–11:30pm IST — available before Indian market opens.
     """
-    try:
-        if not nifty or not sp500:
-            return {"estimated_open": None, "bias": "NEUTRAL"}
+    nifty_close = (nifty or {}).get("price")
 
-        nifty_close = nifty["price"]
-        sp_chg      = sp500["change_pct"]
+    # Attempt 1: GIFT Nifty futures on NSE IFSC (sometimes available via yfinance)
+    for gift_ticker in ("NIFTY_I.NS", "NF=F"):
+        try:
+            df = yf.download(gift_ticker, period="1d", interval="1m",
+                             progress=False, auto_adjust=True)
+            if df is not None and not df.empty:
+                df.columns = [c[0].lower() if isinstance(c, tuple) else c.lower()
+                              for c in df.columns]
+                gift_price = round(float(df["close"].iloc[-1]), 2)
+                if nifty_close and gift_price > 0:
+                    chg_pct = round((gift_price / nifty_close - 1) * 100, 2)
+                    bias = "BULLISH" if chg_pct > 0.2 else "BEARISH" if chg_pct < -0.2 else "NEUTRAL"
+                    return {
+                        "gift_price":       gift_price,
+                        "estimated_open":   gift_price,
+                        "estimated_chg_pct": chg_pct,
+                        "bias":             bias,
+                        "based_on":         f"GIFT Nifty live ({gift_ticker})",
+                        "live":             True,
+                    }
+        except:
+            continue
 
-        # Rough correlation: Nifty moves ~0.5x S&P 500 overnight
-        estimated_chg = sp_chg * 0.5
-        estimated_open = round(nifty_close * (1 + estimated_chg / 100), 2)
-        bias = "BULLISH" if estimated_chg > 0.3 else "BEARISH" if estimated_chg < -0.3 else "NEUTRAL"
+    # Fallback: estimate from S&P 500 overnight change
+    sp_chg = (sp500 or {}).get("change_pct", 0) or 0
+    estimated_chg  = round(sp_chg * 0.5, 2)
+    estimated_open = round(nifty_close * (1 + estimated_chg / 100), 2) if nifty_close else None
+    bias = "BULLISH" if estimated_chg > 0.3 else "BEARISH" if estimated_chg < -0.3 else "NEUTRAL"
 
-        return {
-            "estimated_open": estimated_open,
-            "estimated_chg_pct": round(estimated_chg, 2),
-            "bias": bias,
-            "based_on": f"S&P 500 {sp_chg:+.2f}% overnight"
-        }
-    except:
-        return {"estimated_open": None, "bias": "NEUTRAL"}
+    return {
+        "gift_price":        None,
+        "estimated_open":    estimated_open,
+        "estimated_chg_pct": estimated_chg,
+        "bias":              bias,
+        "based_on":          f"S&P 500 {sp_chg:+.2f}% overnight (GIFT Nifty unavailable)",
+        "live":              False,
+    }
 
 
 # ── Regime determination ──────────────────────────────────────────────────────
@@ -216,29 +240,59 @@ def determine_regime(markets: dict, fii_dii: dict, gift: dict) -> dict:
 
 def determine_sector_posture(markets: dict, regime: str) -> dict:
     """
-    Infer sector rotation from global macro signals.
+    Infer sector rotation from macro signals — focused on Indian sector impact.
+    Crude, gold, USD/INR, and US markets all have direct effects on NSE sectors.
     """
     prioritize = []
     avoid      = []
 
-    crude = markets.get("crude")
-    gold  = markets.get("gold")
-    sp500 = markets.get("sp500")
+    crude    = markets.get("crude")
+    gold     = markets.get("gold")
+    silver   = markets.get("silver")
+    sp500    = markets.get("sp500")
+    usd_inr  = markets.get("usd_inr")
+    banknifty = markets.get("banknifty")
 
+    # Crude oil → Energy (ONGC, RELIANCE, BPCL), Paint (ASIANPAINT), Aviation
     if crude and crude["change_pct"] > 1.5:
         prioritize.append("Energy")
-        avoid.append("Aviation")
+        avoid.extend(["Aviation", "Consumer"])  # high input costs
     elif crude and crude["change_pct"] < -1.5:
         avoid.append("Energy")
-        prioritize.append("Aviation")
+        prioritize.extend(["Aviation", "Consumer"])  # lower input costs
 
+    # Gold & Silver → Metals (TATASTEEL, HINDALCO, NMDC)
     if gold and gold["change_pct"] > 1.0:
         prioritize.append("Metals")
+    if silver and silver["change_pct"] > 1.5:
+        if "Metals" not in prioritize:
+            prioritize.append("Metals")
 
-    if sp500 and sp500["change_pct"] > 0.5:
-        prioritize.append("IT")  # IT follows US markets
-    elif sp500 and sp500["change_pct"] < -0.5:
+    # USD/INR → IT exporters benefit from weak rupee; importers (crude, gold) suffer
+    if usd_inr:
+        inr_chg = usd_inr["change_pct"]
+        if inr_chg > 0.3:
+            # Rupee weakening — good for IT exporters (TCS, INFY, WIPRO)
+            prioritize.append("IT")
+            avoid.append("Energy")  # crude import cost rises in INR
+        elif inr_chg < -0.3:
+            # Rupee strengthening — IT export revenue drops in INR terms
+            if "IT" not in prioritize:
+                avoid.append("IT")
+
+    # S&P 500 → IT sector follows US markets (direct revenue exposure)
+    if sp500 and sp500["change_pct"] > 0.5 and "IT" not in prioritize:
+        prioritize.append("IT")
+    elif sp500 and sp500["change_pct"] < -0.5 and "IT" not in avoid:
         avoid.append("IT")
+
+    # Bank Nifty prev close momentum
+    if banknifty and banknifty["change_pct"] > 0.5:
+        if "Banking" not in prioritize:
+            prioritize.append("Banking")
+    elif banknifty and banknifty["change_pct"] < -0.5:
+        if "Banking" not in avoid:
+            avoid.append("Banking")
 
     if regime in ("BULL", "NEUTRAL"):
         prioritize.extend(["Banking", "Infra"])
@@ -290,28 +344,25 @@ def build_report(markets: dict, fii_dii: dict, gift: dict,
     lines.append(f"SIZE MULTIPLIER  : {regime_data['size_multiplier']}x")
     lines.append("")
 
-    lines.append("GLOBAL & INDIAN MACRO:")
     def mkt_line(name, label):
         d = markets.get(name)
         if d:
             sign = "+" if d["change_pct"] >= 0 else ""
-            lines.append(f"  {label:<18}: {d['price']:>10,.1f}  ({sign}{d['change_pct']:.2f}%)")
+            lines.append(f"  {label:<22}: {d['price']:>10,.2f}  ({sign}{d['change_pct']:.2f}%)")
         else:
-            lines.append(f"  {label:<18}: N/A")
+            lines.append(f"  {label:<22}: N/A")
 
-    mkt_line("sp500",     "S&P 500 (US)")
-    mkt_line("nasdaq",    "Nasdaq (US)")
-    mkt_line("us_vix",   "US VIX")
-    mkt_line("india_vix","India VIX")
-    mkt_line("crude",    "Crude Oil (WTI)")
-    mkt_line("gold",     "Gold")
-    mkt_line("usd_inr",  "USD/INR")
-    mkt_line("nifty",    "Nifty 50 (prev)")
+    lines.append("INDIAN MARKET (prev close):")
+    mkt_line("nifty",     "Nifty 50")
+    mkt_line("banknifty", "Bank Nifty")
+    mkt_line("india_vix", "India VIX")
     lines.append("")
 
-    lines.append("GIFT NIFTY ESTIMATE:")
-    lines.append(f"  Estimated open : {gift.get('estimated_open', 'N/A')}")
-    lines.append(f"  Est. change    : {gift.get('estimated_chg_pct', 0):+.2f}%")
+    lines.append("GIFT NIFTY (pre-market indicator):")
+    gift_live = gift.get("live", False)
+    gift_label = "LIVE" if gift_live else "ESTIMATED"
+    lines.append(f"  Open estimate  : {gift.get('estimated_open', 'N/A')}  [{gift_label}]")
+    lines.append(f"  Change vs prev : {gift.get('estimated_chg_pct', 0):+.2f}%")
     lines.append(f"  Bias           : {gift.get('bias', 'NEUTRAL')}")
     lines.append(f"  Based on       : {gift.get('based_on', 'N/A')}")
     lines.append("")
@@ -320,9 +371,21 @@ def build_report(markets: dict, fii_dii: dict, gift: dict,
     fii = fii_dii.get("fii_net_cr")
     dii = fii_dii.get("dii_net_cr")
     lines.append(f"  FII Net : {'Rs {:,.0f} cr'.format(fii) if fii is not None else 'N/A'}"
-                 + (" [BUYING]" if fii and fii > 0 else " [SELLING]" if fii and fii < 0 else ""))
+                 + (" [BUYING — bullish]" if fii and fii > 0 else
+                    " [SELLING — bearish]" if fii and fii < 0 else ""))
     lines.append(f"  DII Net : {'Rs {:,.0f} cr'.format(dii) if dii is not None else 'N/A'}"
-                 + (" [BUYING]" if dii and dii > 0 else " [SELLING]" if dii and dii < 0 else ""))
+                 + (" [BUYING — support]" if dii and dii > 0 else
+                    " [SELLING]" if dii and dii < 0 else ""))
+    lines.append("")
+
+    lines.append("GLOBAL MACRO (overnight impact):")
+    mkt_line("sp500",   "S&P 500 (US)")
+    mkt_line("nasdaq",  "Nasdaq (US)")
+    mkt_line("us_vix",  "US VIX")
+    mkt_line("crude",   "Crude Oil (WTI)")
+    mkt_line("gold",    "Gold")
+    mkt_line("silver",  "Silver")
+    mkt_line("usd_inr", "USD/INR")
     lines.append("")
 
     lines.append("REGIME FACTORS:")
@@ -364,8 +427,8 @@ def run_intelligence():
     print("Fetching FII/DII flows...")
     fii_dii = fetch_fii_dii()
 
-    print("Estimating GIFT Nifty...")
-    gift = estimate_gift_nifty(markets.get("nifty"), markets.get("sp500"))
+    print("Fetching GIFT Nifty...")
+    gift = fetch_gift_nifty(markets.get("nifty"), markets.get("sp500"))
 
     print("Determining regime...")
     regime_data = determine_regime(markets, fii_dii, gift)
