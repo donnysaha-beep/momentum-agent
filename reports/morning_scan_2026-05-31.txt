@@ -1,0 +1,116 @@
+============================================================
+  HIGH MOMENTUM STOCKS — May 31, 2026
+  Morning Scan | S&P 500 Universe
+============================================================
+
+Found 19 momentum stocks. Top 25:
+
+#    Ticker      Price    Day%    RSI    Vol   52wH%  Score
+------------------------------------------------------------
+1    PANW     $ 281.69   +9.3%   80.5   1.8x   +0.0% 5/5
+2    IBM      $ 297.80  +12.7%   80.4   3.1x   -4.2% 4/5
+3    AAPL     $ 312.06   -0.1%   79.0   1.4x   -0.1% 4/5
+4    AMD      $ 516.10   -0.4%   76.0   0.8x   -0.4% 4/5
+5    CSCO     $ 120.42   +1.5%   75.7   1.5x   +0.0% 4/5
+6    GS       $1025.56   +1.7%   71.4   1.1x   +0.0% 4/5
+7    LLY      $1105.00   -1.9%   69.6   1.4x   -1.9% 4/5
+8    AVGO     $ 446.77   +4.7%   65.9   2.1x   +0.0% 4/5
+9    AMAT     $ 450.06   +0.1%   62.0   1.1x   -1.1% 4/5
+10   TXN      $ 305.68   -3.2%   61.0   2.2x   -5.9% 4/5
+11   ORCL     $ 225.78  +10.8%   75.1   1.9x  -30.7% 3/5
+12   NOW      $ 124.37  +14.4%   73.6   2.2x  -40.5% 3/5
+13   MSFT     $ 450.24   +5.5%   70.1   2.3x  -16.4% 3/5
+14   TMO      $ 492.51   +1.1%   62.3   1.6x  -22.9% 3/5
+15   ABBV     $ 217.72   -0.4%   62.0   1.4x   -8.8% 3/5
+16   CRM      $ 191.10   +8.5%   60.5   2.4x  -29.9% 3/5
+17   MRK      $ 118.72   -1.0%   57.2   1.9x   -3.6% 3/5
+18   BAC      $  51.60   +1.6%   51.2   1.6x   -9.4% 3/5
+19   JNJ      $ 225.33   -2.4%   44.2   1.8x   -8.8% 3/5
+
+------------------------------------------------------------
+SCORING CRITERIA:
+  [1] RSI > 60       [2] Price > SMA20 > SMA50 > SMA200
+  [3] MACD Bullish   [4] Volume > 1.5x avg   [5] Within 10% of 52w high
+------------------------------------------------------------
+
+DETAIL — TOP 10:
+
+  PANW — $281.69 | Score 5/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [+] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $141.67 — $281.69
+
+  IBM — $297.8 | Score 4/5
+    [+] RSI > 60
+    [-] Above SMA20/50/200
+    [+] MACD Bullish
+    [+] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $214.64 — $310.91
+
+  AAPL — $312.06 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $194.87 — $312.51
+
+  AMD — $516.1 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $110.73 — $518.09
+
+  CSCO — $120.42 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $61.62 — $120.42
+
+  GS — $1025.56 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $589.49 — $1025.56
+
+  LLY — $1105.0 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $621.26 — $1126.8
+
+  AVGO — $446.77 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [-] MACD Bullish
+    [+] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $240.12 — $446.77
+
+  AMAT — $450.06 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [+] MACD Bullish
+    [-] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $155.56 — $454.89
+
+  TXN — $305.68 | Score 4/5
+    [+] RSI > 60
+    [+] Above SMA20/50/200
+    [-] MACD Bullish
+    [+] Volume Spike >1.5x
+    [+] Near 52w High (<10% away)
+    52w range: $151.57 — $324.89
