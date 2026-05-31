@@ -1,0 +1,21 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — May 31, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs23547.75  1D: -1.5%  1W: -0.5%  1M: -1.9%  3M: -8.8%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
