@@ -1,20 +1,20 @@
 =================================================================
   MARKET INTELLIGENCE REPORT — Monday, June 01 2026
-  Layer 0 | Generated: 12:33 AM IST
+  Layer 0 | Generated: 04:11 AM IST
 =================================================================
 
-MARKET REGIME    : DANGER
-CONFIDENCE SCORE : 40/100
-TREND TYPE       : HIGH_VOLATILITY
-SIZE MULTIPLIER  : 0.0x
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 20/100
+TREND TYPE       : BREAKOUT_FRIENDLY
+SIZE MULTIPLIER  : 0.75x
 
 INDIAN MARKET (prev close):
-  Nifty 50              :  23,547.75  (-1.50%)
-  Bank Nifty            :  54,239.20  (-1.12%)
-  India VIX             :      16.19  (+8.08%)
+  Nifty 50              :  23,612.65  (+0.28%)
+  Bank Nifty            :  54,376.05  (+0.25%)
+  India VIX             :      15.75  (-2.72%)
 
 GIFT NIFTY (pre-market indicator):
-  Open estimate  : 23573.65  [ESTIMATED]
+  Open estimate  : 23638.62  [ESTIMATED]
   Change vs prev : +0.11%
   Bias           : NEUTRAL
   Based on       : S&P 500 +0.22% overnight (GIFT Nifty unavailable)
@@ -27,20 +27,20 @@ GLOBAL MACRO (overnight impact):
   S&P 500 (US)          :   7,580.06  (+0.22%)
   Nasdaq (US)           :  26,972.62  (+0.20%)
   US VIX                :      15.32  (-2.67%)
-  Crude Oil (WTI)       :      89.74  (+2.72%)
-  Gold                  :   4,571.10  (+0.23%)
-  Silver                :      75.83  (+0.28%)
-  USD/INR               :      94.99  (-1.10%)
+  Crude Oil (WTI)       :      89.77  (+2.76%)
+  Gold                  :   4,547.70  (-0.28%)
+  Silver                :      75.70  (+0.11%)
+  USD/INR               :      94.81  (-1.29%)
 
 REGIME FACTORS:
   * GIFT Nifty neutral
-  * India VIX SPIKE +8.1% (fear)
+  * India VIX 15.75 (normal)
   * FII flows neutral (Rs 0 cr)
 
 SECTOR ROTATION POSTURE:
-  Prioritize : Energy, Pharma
-  Avoid      : Aviation, Consumer, IT, Banking, NewEconomy
+  Prioritize : Energy, Banking, Infra
+  Avoid      : Aviation, Consumer, IT
 
-TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
 
 =================================================================
