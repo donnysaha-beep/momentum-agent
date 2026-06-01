@@ -1,46 +1,46 @@
 =================================================================
   MARKET INTELLIGENCE REPORT — Monday, June 01 2026
-  Layer 0 | Generated: 05:11 AM IST
+  Layer 0 | Generated: 08:00 PM IST
 =================================================================
 
-MARKET REGIME    : NEUTRAL
-CONFIDENCE SCORE : 20/100
-TREND TYPE       : BREAKOUT_FRIENDLY
-SIZE MULTIPLIER  : 0.75x
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
 
 INDIAN MARKET (prev close):
-  Nifty 50              :  23,542.50  (-0.02%)
-  Bank Nifty            :  53,917.20  (-0.59%)
-  India VIX             :      16.06  (-0.79%)
+  Nifty 50              :  23,547.75  (-1.50%)
+  Bank Nifty            :  54,239.20  (-1.12%)
+  India VIX             :      16.19  (+8.08%)
 
 GIFT NIFTY (pre-market indicator):
-  Open estimate  : 23568.4  [ESTIMATED]
-  Change vs prev : +0.11%
+  Open estimate  : 23578.36  [ESTIMATED]
+  Change vs prev : +0.13%
   Bias           : NEUTRAL
-  Based on       : S&P 500 +0.22% overnight (GIFT Nifty unavailable)
+  Based on       : S&P 500 +0.26% overnight (GIFT Nifty unavailable)
 
 FII/DII FLOWS (prev session):
   FII Net : Rs 0 cr
   DII Net : Rs 0 cr
 
 GLOBAL MACRO (overnight impact):
-  S&P 500 (US)          :   7,580.06  (+0.22%)
-  Nasdaq (US)           :  26,972.62  (+0.20%)
-  US VIX                :      15.32  (-2.67%)
-  Crude Oil (WTI)       :      89.70  (+2.68%)
-  Gold                  :   4,544.40  (-0.35%)
-  Silver                :      75.83  (+0.29%)
-  USD/INR               :      94.80  (-1.30%)
+  S&P 500 (US)          :   7,600.03  (+0.26%)
+  Nasdaq (US)           :  27,086.81  (+0.42%)
+  US VIX                :      15.98  (+4.31%)
+  Crude Oil (WTI)       :      92.48  (+5.86%)
+  Gold                  :   4,512.60  (-1.05%)
+  Silver                :      75.14  (-0.62%)
+  USD/INR               :      94.98  (-1.11%)
 
 REGIME FACTORS:
   * GIFT Nifty neutral
-  * India VIX 16.06 (normal)
+  * India VIX SPIKE +8.1% (fear)
   * FII flows neutral (Rs 0 cr)
 
 SECTOR ROTATION POSTURE:
-  Prioritize : Energy, Banking, Infra
-  Avoid      : Aviation, Consumer, IT
+  Prioritize : Energy, Pharma
+  Avoid      : Aviation, Consumer, IT, Banking, NewEconomy
 
-TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
 
 =================================================================
