@@ -1,30 +1,31 @@
 =================================================================
-  OPENING RANGE REPORT v2 — Monday, June 01 2026 04:18 AM IST
+  OPENING RANGE REPORT v2 — Monday, June 01 2026 08:45 PM IST
 =================================================================
 
 NIFTY AT 9:45am: BEARISH
-  Price: 23575.7  |  Gap: +0.2%  |  VWAP: nan
+  Price: 23379.2  |  Gap: +0.2%  |  VWAP: nan
   ORB: 23588.55 — 23727.65
   *** WARNING ***
     [-] Nifty broke below opening range low — avoid longs
 
 REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
 
-SUMMARY: 0 TRADE NOW | 0 WATCH | 0 WAIT | 5 SKIP
+SUMMARY: 0 TRADE NOW | 0 WATCH | 0 WAIT | 3 SKIP
 
 =================================================================
   SKIP — No Valid Setup
 =================================================================
-  BAJAJ-AUTO  [70%]  |  Rs 10537.0
+  HDFCBANK  [30%]  |  Rs 742.5
     [-] Nifty broke its own ORB low — avoid all longs
-  NATIONALUM  [70%]  |  Rs 428.4
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  LT  [30%]  |  Rs 4010.8
     [-] Nifty broke its own ORB low — avoid all longs
-  BANDHANBNK  [60%]  |  Rs 210.29
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  RELIANCE  [20%]  |  Rs 1320.9
     [-] Nifty broke its own ORB low — avoid all longs
-  GRASIM  [50%]  |  Rs 3133.5
-    [-] Nifty broke its own ORB low — avoid all longs
-  HINDALCO  [40%]  |  Rs 1134.0
-    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
     [-] Below VWAP with no breakout — no valid long
 
 =================================================================
