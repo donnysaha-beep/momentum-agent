@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, June 01 2026
+  Layer 0 | Generated: 12:33 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,547.75  (-1.50%)
+  Bank Nifty            :  54,239.20  (-1.12%)
+  India VIX             :      16.19  (+8.08%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23573.65  [ESTIMATED]
+  Change vs prev : +0.11%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.22% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,580.06  (+0.22%)
+  Nasdaq (US)           :  26,972.62  (+0.20%)
+  US VIX                :      15.32  (-2.67%)
+  Crude Oil (WTI)       :      89.74  (+2.72%)
+  Gold                  :   4,571.10  (+0.23%)
+  Silver                :      75.83  (+0.28%)
+  USD/INR               :      94.99  (-1.10%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX SPIKE +8.1% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, Pharma
+  Avoid      : Aviation, Consumer, IT, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
