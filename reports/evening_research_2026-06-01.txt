@@ -3,195 +3,190 @@
 =================================================================
 
 MARKET REGIME: BEAR
-  Nifty 50: Rs23382.6  1D: -0.7%  1W: -1.4%  1M: -3.3%  3M: -8.1%
+  Nifty 50: Rs23547.75  1D: -1.5%  1W: -0.5%  1M: -1.9%  3M: -8.8%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-GRASIM         Rs  3102.6   -0.6%  +11.0%   +14.3%   65.9  1.4x   WATCH NOW
-BANDHANBNK     Rs   207.1   -0.6%   +3.7%    +7.0%   66.1  1.2x   WATCH NOW
-HINDALCO       Rs  1141.3   +1.3%   +9.9%   +13.2%   64.9  1.9x   WATCH
-NATIONALUM     Rs   434.2   +2.3%   +9.3%   +12.6%   61.2  1.8x   WATCH
-BAJAJ-AUTO     Rs 10376.0   -0.8%   +5.3%    +8.6%   55.9  0.1x   WATCH
+LT             Rs     nan    nan%    nan%     nan%   62.9  0.0x   WATCH NOW
+HDFCBANK       Rs     nan    nan%    nan%     nan%   38.8  0.0x   WATCH
+INFY           Rs     nan    nan%    nan%     nan%   43.9  0.0x   WATCH
+TCS            Rs     nan    nan%    nan%     nan%   37.1  0.0x   WATCH
+RELIANCE       Rs     nan    nan%    nan%     nan%   38.4  0.0x   WATCH
 
 =================================================================
   FULL DETAIL
 =================================================================
 
-  GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.1T | P/E: 42.46647
-  Price: Rs3102.6  |  52w range: Rs2514.95 — Rs3171.6
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.5T | P/E: 34.280342
+  Price: Rsnan  |  52w range: Rs3310.07 — Rs4375.36
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.6%  vs Nifty -0.7%  -> RS: +0.1%
-    1W:  -1.7%  vs Nifty -1.4%
-    1M:  +11.0%  vs Nifty -3.3%  -> RS: +14.3% (OUTPERFORMING)
-    3M:  +9.5%  vs Nifty -8.1%  -> RS: +17.7% (OUTPERFORMING)
-    6M:  +12.3%
+    1D:  nan%  vs Nifty -1.5%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.8%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 65.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.24%
-    ATR extension from SMA20: 1.36x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.61x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs2998.35 (-3.4%)
-
-  VERDICT: WATCH NOW
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Within 2.2% of 52w high (breakout zone)
-
-  RECENT NEWS:
-    * Grasim Industries Ltd (BOM:500300) Q4 2026 Earnings Call Highlights: Record Revenue and ...
-    * India's Grasim Industries quarterly loss narrows as core businesses strengthen
-    * Grasim Industries Ltd (BOM:500300) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
-    * India's Grasim names Sachin Sahay as new Birla Opus CEO
-    * BlackRock fund to invest about $225 million in India's Aditya Birla Renewables
-
------------------------------------------------------------------
-
-  BANDHANBNK — Bandhan Bank Limited
-  Financial Services | Rs333.7B | P/E: 27.327177
-  Price: Rs207.14  |  52w range: Rs135.47 — Rs208.88
-
-  PERFORMANCE vs NIFTY:
-    1D:  -0.6%  vs Nifty -0.7%  -> RS: +0.1%
-    1W:  +5.2%  vs Nifty -1.4%
-    1M:  +3.7%  vs Nifty -3.3%  -> RS: +7.0% (OUTPERFORMING)
-    3M:  +19.3%  vs Nifty -8.1%  -> RS: +27.4% (OUTPERFORMING)
-    6M:  +35.5%
-
-  TREND HEALTH:
-    RSI: 66.1  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.89%
-    ATR extension from SMA20: 1.21x  (HEALTHY)
+    RSI: 62.9  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.9x 20-day avg
+    Volume today: 0.56x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs198.17 (-4.3%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 0.8% of 52w high (breakout zone)
 
   RECENT NEWS:
-    * Indian shares advance as earnings optimism counters oil surge
-    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
-    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
-    * How The Bandhan Bank (NSEI:BANDHANBNK) Story Is Shifting As Fair Value Assumptions Evolve
-    * How Recent Developments Are Shaping The Bandhan Bank (NSEI:BANDHANBNK) Investment Narrative
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+    * Oil and gas contracts activity drops in 2025
 
 -----------------------------------------------------------------
 
-  HINDALCO — Hindalco Industries Limited
-  Basic Materials | Rs2.6T | P/E: 18.967926
-  Price: Rs1141.3  |  52w range: Rs626.51 — Rs1149.7
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.4T | P/E: 16.570728
+  Price: Rsnan  |  52w range: Rs731.55 — Rs1012.9
 
   PERFORMANCE vs NIFTY:
-    1D:  +1.3%  vs Nifty -0.7%  -> RS: +2.0% (OUTPERFORMING)
-    1W:  +3.8%  vs Nifty -1.4%
-    1M:  +9.9%  vs Nifty -3.3%  -> RS: +13.2% (OUTPERFORMING)
-    3M:  +24.6%  vs Nifty -8.1%  -> RS: +32.7% (OUTPERFORMING)
-    6M:  +44.3%
+    1D:  nan%  vs Nifty -1.5%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.8%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 64.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.58%
-    ATR extension from SMA20: 1.95x  (EXTENDED)
-    Volatility trend: EXPANDING
-    Volume today: 1.25x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1097.06 (-3.9%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Within 0.7% of 52w high (breakout zone)
-    [~] Extended 1.95x from SMA20 — wait for pullback
-
-  RECENT NEWS:
-    * Hindalco Industries Ltd (FRA:HID) Q4 2026 Earnings Call Highlights: Strong EBITDA Growth Amid ...
-    * India's Hindalco sees steady Novelis earnings, strong domestic demand in 2027
-    * India's Hindalco misses profit estimates as Novelis disruptions weigh
-    * India's top copper producers oppose inclusion of scrap-based rods in standards
-    * India, Peru likely to hold talks on free trade pact in June, diplomat says
-
------------------------------------------------------------------
-
-  NATIONALUM — National Aluminium Company Limited
-  Basic Materials | Rs797.5B | P/E: 12.980568
-  Price: Rs434.2  |  52w range: Rs172.89 — Rs439.31
-
-  PERFORMANCE vs NIFTY:
-    1D:  +2.3%  vs Nifty -0.7%  -> RS: +3.0% (OUTPERFORMING)
-    1W:  +7.7%  vs Nifty -1.4%
-    1M:  +9.3%  vs Nifty -3.3%  -> RS: +12.6% (OUTPERFORMING)
-    3M:  +28.7%  vs Nifty -8.1%  -> RS: +36.9% (OUTPERFORMING)
-    6M:  +72.2%
-
-  TREND HEALTH:
-    RSI: 61.2  |  Days above SMA50 (last 20): 15/20
-    Daily volatility (ATR%): 3.08%
-    ATR extension from SMA20: 1.82x  (EXTENDED)
+    RSI: 38.8  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.78x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    Volume today: 1.24x 20-day avg
+    RS 55-day slope: NEGATIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs414.15 (-4.6%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Market Chatter: HDFC Bank's $4.71 Million Allegedly-Disguised Payment to State-Owned Indian Board Under Media Scrutiny
+    * Indian shares end flat as HDFC Bank offsets rally in metal stocks
+    * India's HDFC Bank falls on report of payments to attract big deposits
+    * EBKDY vs. HDB: Which Stock Is the Better Value Option?
+    * Asian Equities Traded in the US as American Depositary Receipts Lower in Monday Trading
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.9T | P/E: 15.552251
+  Price: Rsnan  |  52w range: Rs1095.0 — Rs1689.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -1.5%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.8%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.34x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 1.2% of 52w high (breakout zone)
-    [~] Extended 1.82x from SMA20 — wait for pullback
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
   RECENT NEWS:
-    * Four Indian stocks added, four excluded from key global index in MSCI's May rejig
-    * National Aluminium Co Ltd (BOM:532234) Q4 2026 Earnings Call Highlights: Record Growth Amidst ...
-    * India's NALCO posts quarterly profit drop on alumina softness
-    * NLCIL, NALCO sign thermal and renewable energy development deal
-    * National Aluminium Co Ltd (BOM:532234) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+    * Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Monday Trading
+    * Infosys Expands Roland-Garros Partnership, Unveils New AI Fan Experiences
+    * Infosys Limited (INFY): Leopold Aschenbrenner Is Bearish on This Firm
+    * Fair Isaac (FICO) Up 22.5% Since Last Earnings Report: Can It Continue?
+    * India Tests Banking, Aadhaar Systems Against Anthropic's Mythos AI Threats
 
 -----------------------------------------------------------------
 
-  BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs2.9T | P/E: 27.02928
-  Price: Rs10376.0  |  52w range: Rs7896.87 — Rs10658.5
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs8.3T | P/E: 16.893888
+  Price: Rsnan  |  52w range: Rs2215.95 — Rs3382.21
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.8%  vs Nifty -0.7%  -> RS: -0.1%
-    1W:  +0.3%  vs Nifty -1.4%
-    1M:  +5.3%  vs Nifty -3.3%  -> RS: +8.6% (OUTPERFORMING)
-    3M:  +6.2%  vs Nifty -8.1%  -> RS: +14.4% (OUTPERFORMING)
-    6M:  +18.4%
+    1D:  nan%  vs Nifty -1.5%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.8%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 55.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.38%
-    ATR extension from SMA20: 0.15x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 1.05x 20-day avg
-    RS 55-day slope: POSITIVE
+    RSI: 37.1  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.62x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs10005.05 (-3.6%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] Within 2.7% of 52w high (breakout zone)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
   RECENT NEWS:
-    * India's Eicher Motors beats quarterly profit estimates on strong sales
-    * Indian tyre maker MRF's quarterly profit more than doubles on higher demand
-    * Bajaj Auto Ltd (BOM:532977) Q3 2026 Earnings Call Highlights: Record Revenue and Strategic ...
-    * Indian e-scooter maker Ather Energy's quarterly loss narrows as sales rise
-    * India's Bajaj Auto quarterly profit rises on higher demand
+    * TCS and Mistral agree partnership for advanced AI model deployment
+    * Is Amazon.com (AMZN) the Best Strong Buy Stock to Buy and Hold for the Next 5 Years?
+    * India Tests Banking, Aadhaar Systems Against Anthropic's Mythos AI Threats
+    * TCS launches SovereignSecure Cloud in Europe for public sector
+    * Rezolve AI TCS Alliance Puts Growth Ambitions Against Valuation Concerns
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.9T | P/E: 22.103148
+  Price: Rsnan  |  52w range: Rs1304.6 — Rs1592.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -1.5%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.8%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 38.4  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's top court provides relief to Reliance in 2007 securities market fraud case
+    * How The Story On Reliance Industries (NSEI:RELIANCE) Is Shifting Around A ₹1,696 Fair Value
+    * How The Evolving Story For Reliance Industries (NSEI:RELIANCE) Is Shaping Its Valuation Reset
+    * India's Reliance hands over documents in bribery probe, executive gets bail
+    * India's Reliance cuts exports of alkylates, boosts LPG output
 
 -----------------------------------------------------------------
 
