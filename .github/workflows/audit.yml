@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "momentum-bot"
           git config user.email "bot@github.com"
-          git add reports/ trade_journal.json
+          git add reports/ trade_journal.json 2>/dev/null || git add reports/
           git diff --cached --quiet || (git commit -m "Audit $(date +%Y-%m-%d)" && git pull --rebase && git push)
 
       - name: Send email report
