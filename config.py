@@ -132,6 +132,12 @@ UNIVERSE = {
     "IRCTC.NS":      "PSU",      "IRFC.NS":       "PSU",
 }
 
+# ── Brokerage & taxes (Groww/Zerodha intraday estimates) ─────────────────────
+# Based on actual trades: ~Rs 23 brokerage + Rs 9 taxes per round trip
+BROKERAGE_PER_TRADE = 23   # Rs — flat brokerage per trade (entry + exit)
+TAXES_PER_TRADE     = 9    # Rs — STT + GST + stamp duty estimate
+CHARGES_PER_TRADE   = BROKERAGE_PER_TRADE + TAXES_PER_TRADE  # Rs 32 total
+
 # ── Email (set as GitHub Secrets, not here) ───────────────────────────────────
 ALERT_EMAIL = "donny.saha@gmail.com"
 

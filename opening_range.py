@@ -412,11 +412,21 @@ def analyse_stock(ticker: str, regime: str, nifty: dict) -> dict | None:
             verdict = "SKIP"
             invalidations.append("DANGER regime — no capital deployed today")
         elif broke_out and above_vwap and prob_score >= 60:
-            verdict = "TRADE NOW"
-            positive.append("Broke ORB high with VWAP support")
-            if vol_expanding:  positive.append("Volume expanding — conviction confirmed")
-            if hh:             positive.append("Making higher highs post-ORB")
-            if vwap_slope:     positive.append("VWAP sloping upward")
+            # Fix: volume gate — weak volume = downgrade to WATCH
+            if not vol_expanding:
+                verdict = "WATCH — near breakout"
+                cautious.append("Broke ORB high but VOLUME WEAK — wait for volume to confirm")
+                cautious.append("Volume must exceed 20-day avg before entering")
+            # Fix: regime gate — in CAUTION/DANGER, skip stocks underperforming Nifty today
+            elif regime in ("CAUTION", "DANGER", "BEAR") and gap_pct < 0:
+                verdict = "WAIT"
+                cautious.append(f"CAUTION regime + stock opened below prev close ({gap_pct:+.1f}%) — skip")
+            else:
+                verdict = "TRADE NOW"
+                positive.append("Broke ORB high with VWAP support")
+                if vol_expanding:  positive.append("Volume expanding — conviction confirmed")
+                if hh:             positive.append("Making higher highs post-ORB")
+                if vwap_slope:     positive.append("VWAP sloping upward")
         elif near_breakout and above_vwap and prob_score >= 50:
             verdict = "WATCH — near breakout"
             cautious.append(f"Within 0.5% of ORB high (Rs{orb_high}) — set alert")

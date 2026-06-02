@@ -126,14 +126,17 @@ def cmd_open(args: list):
 
 def cmd_close(args: list):
     if len(args) < 2:
-        print("Usage: python paper_tracker.py close TICKER EXIT_PRICE")
+        print("Usage: python paper_tracker.py close TICKER EXIT_PRICE [BROKERAGE] [TAXES]")
+        print("Example: python paper_tracker.py close ADANIGREEN 1426 23 9")
         return
 
     ticker     = args[0].upper().replace(".NS", "")
     try:
         exit_price = float(args[1])
+        brokerage  = float(args[2]) if len(args) > 2 else 0
+        taxes      = float(args[3]) if len(args) > 3 else 0
     except ValueError:
-        print("Error: EXIT_PRICE must be a number.")
+        print("Error: EXIT_PRICE, BROKERAGE and TAXES must be numbers.")
         return
 
     trades = load_trades()
@@ -160,22 +163,34 @@ def cmd_close(args: list):
     else:
         outcome = "BREAK EVEN"
 
-    trade["status"]     = "CLOSED"
-    trade["close_date"] = date.today().isoformat()
-    trade["exit_price"] = exit_price
-    trade["pnl"]        = pnl
-    trade["pnl_pct"]    = pnl_pct
-    trade["outcome"]    = outcome
+    net_pnl     = round(pnl - brokerage - taxes, 2)
+    net_pnl_pct = round((net_pnl / (trade["entry"] * trade["qty"])) * 100, 2)
+
+    trade["status"]      = "CLOSED"
+    trade["close_date"]  = date.today().isoformat()
+    trade["exit_price"]  = exit_price
+    trade["pnl"]         = pnl
+    trade["brokerage"]   = brokerage
+    trade["taxes"]       = taxes
+    trade["net_pnl"]     = net_pnl
+    trade["pnl_pct"]     = pnl_pct
+    trade["net_pnl_pct"] = net_pnl_pct
+    trade["outcome"]     = outcome
 
     save_trades(trades)
 
     pnl_sign = "+" if pnl >= 0 else ""
+    net_sign = "+" if net_pnl >= 0 else ""
     print(f"\nPAPER TRADE CLOSED")
     print(f"{'='*50}")
-    print(f"  Ticker   : {ticker}")
-    print(f"  Entry    : Rs {trade['entry']}  →  Exit: Rs {exit_price}")
-    print(f"  P&L      : Rs {pnl_sign}{pnl:,.0f}  ({pnl_sign}{pnl_pct:.2f}%)")
-    print(f"  Outcome  : {outcome}")
+    print(f"  Ticker     : {ticker}")
+    print(f"  Entry      : Rs {trade['entry']}  ->  Exit: Rs {exit_price}")
+    print(f"  Raw P&L    : Rs {pnl_sign}{pnl:,.2f}  ({pnl_sign}{pnl_pct:.2f}%)")
+    if brokerage or taxes:
+        print(f"  Brokerage  : Rs -{brokerage:.2f}")
+        print(f"  Taxes      : Rs -{taxes:.2f}")
+        print(f"  Net P&L    : Rs {net_sign}{net_pnl:,.2f}  ({net_sign}{net_pnl_pct:.2f}%)")
+    print(f"  Outcome    : {outcome}")
     print(f"{'='*50}")
 
 

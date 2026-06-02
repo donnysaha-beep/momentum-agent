@@ -12,6 +12,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import ta
+import json
 from datetime import datetime, date
 import os
 import warnings
@@ -102,7 +103,22 @@ def get_market_regime() -> dict:
     NEUTRAL → Nifty > EMA20, VIX < 25, no spike. Trade selectively (score >= 6).
     CAUTION → Nifty < EMA20 OR VIX 20-28. Reduce size, only A-grade.
     DANGER  → Nifty < EMA50 AND VIX > 25 OR VIX spike > 10%. DO NOT TRADE.
+
+    Prefers layer0.json regime (single source of truth) if available from today.
     """
+    # Try layer0.json first
+    LAYER0_FILE = os.path.join(os.path.dirname(__file__), "layer0.json")
+    layer0_regime = None
+    if os.path.exists(LAYER0_FILE):
+        try:
+            with open(LAYER0_FILE) as f:
+                l0 = json.load(f)
+            if l0.get("date") == date.today().isoformat():
+                layer0_regime = l0.get("regime")
+                print(f"  [regime] Using Layer 0 regime: {layer0_regime}")
+        except:
+            pass
+
     try:
         nifty = yf.download(NIFTY_TICKER, period="1y", interval="1d",
                             progress=False, auto_adjust=True)
@@ -133,7 +149,9 @@ def get_market_regime() -> dict:
     except:
         pass
 
-    if above_e20 and above_e50 and vix_level < 20 and not vix_spike:
+    if layer0_regime:
+        regime = layer0_regime  # layer0 is the single source of truth
+    elif above_e20 and above_e50 and vix_level < 20 and not vix_spike:
         regime = "BULL"
     elif above_e20 and vix_level < 25 and not vix_spike:
         regime = "NEUTRAL"

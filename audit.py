@@ -343,7 +343,15 @@ def run_audit():
 
     signals = load_todays_signals()
     if not signals:
-        print("No signals to audit today.")
+        print("No signals to audit today — writing empty audit report.")
+        summary = {"good_wins": 0, "good_losses": 0, "false_positives": 0,
+                   "valid_skips": 0, "missed_trades": 0, "false_negatives": 0}
+        cumulative = get_cumulative_stats()
+        report = build_report([], summary, cumulative)
+        fname = os.path.join(REPORTS_DIR, f"audit_{date.today().isoformat()}.txt")
+        with open(fname, "w", encoding="utf-8") as f:
+            f.write(report)
+        print(f"Empty audit saved: {fname}")
         return
 
     print(f"Auditing {len(signals)} signals...\n")

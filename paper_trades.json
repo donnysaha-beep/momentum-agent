@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "status": "CLOSED",
+    "ticker": "ADANIGREEN",
+    "regime": "CAUTION",
+    "open_date": "2026-06-02",
+    "open_time": "10:15 AM",
+    "entry": 1444.95,
+    "stop": 1426.0,
+    "target1": 1520.59,
+    "target2": 1571.01,
+    "qty": 8,
+    "capital": 11559.6,
+    "max_loss": 151.6,
+    "reward_t1": 604.72,
+    "rr1": 4.18,
+    "close_date": "2026-06-02",
+    "exit_price": 1426.0,
+    "pnl": -151.6,
+    "brokerage": 23,
+    "taxes": 9,
+    "net_pnl": -183.6,
+    "pnl_pct": -1.31,
+    "net_pnl_pct": -1.59,
+    "outcome": "LOSS - stop hit"
+  }
+]

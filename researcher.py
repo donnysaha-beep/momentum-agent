@@ -14,6 +14,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import ta
+import json
 from datetime import datetime, date
 import os
 import glob
@@ -78,6 +79,18 @@ def get_scan_tickers() -> list:
 # ── Market context ────────────────────────────────────────────────────────────
 
 def get_market_context() -> dict:
+    # Fix 1: Load regime from layer0.json (single source of truth)
+    LAYER0_FILE = os.path.join(os.path.dirname(__file__), "layer0.json")
+    layer0_regime = None
+    if os.path.exists(LAYER0_FILE):
+        try:
+            with open(LAYER0_FILE) as f:
+                l0 = json.load(f)
+            if l0.get("date") == date.today().isoformat():
+                layer0_regime = l0.get("regime")
+        except:
+            pass
+
     try:
         nifty = yf.download(NIFTY_TICKER, period="6mo", interval="1d",
                             progress=False, auto_adjust=True)
@@ -86,10 +99,15 @@ def get_market_context() -> dict:
         nc = nifty["close"]
         ema20 = nc.ewm(span=20, adjust=False).mean()
         ema50 = nc.ewm(span=50, adjust=False).mean()
-        regime = ("BULL" if float(nc.iloc[-1]) > float(ema20.iloc[-1]) > float(ema50.iloc[-1])
-                  else "CAUTION" if float(nc.iloc[-1]) > float(ema20.iloc[-1])
-                  else "BEAR")
-        return {
+        # Fix 2: Use layer0 regime if available, else calculate locally
+        if layer0_regime:
+            regime = layer0_regime
+        else:
+            regime = ("BULL" if float(nc.iloc[-1]) > float(ema20.iloc[-1]) > float(ema50.iloc[-1])
+                      else "CAUTION" if float(nc.iloc[-1]) > float(ema20.iloc[-1])
+                      else "BEAR")
+
+        ctx = {
             "nifty_close": nc,
             "nifty_price": round(float(nc.iloc[-1]), 2),
             "nifty_1d":    round((nc.iloc[-1]/nc.iloc[-2]-1)*100, 2) if len(nc)>=2 else 0,
@@ -102,6 +120,7 @@ def get_market_context() -> dict:
         return {"nifty_close": None, "nifty_price": 0, "nifty_1d": 0,
                 "nifty_1w": 0, "nifty_1m": 0, "nifty_3m": 0, "regime": "UNKNOWN"}
 
+    # Fix 3: VIX fetch was unreachable (was after return). Now fixed.
     try:
         vix = yf.download(VIX_TICKER, period="5d", interval="1d",
                           progress=False, auto_adjust=True)
@@ -113,6 +132,8 @@ def get_market_context() -> dict:
     except:
         ctx["vix"] = None
         ctx["vix_change"] = None
+
+    return ctx
 
 
 # ── Deep research per stock ───────────────────────────────────────────────────

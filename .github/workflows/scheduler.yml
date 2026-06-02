@@ -56,17 +56,18 @@ jobs:
           }
 
           # ── Schedule logic ─────────────────────────────────────────────────
+          # IST = UTC + 5:30. All windows are non-overlapping.
 
-          # 7:30am IST = 02:00 UTC | window: 01:45–02:29 UTC
-          if [ $HOUR -eq 2 ] || ([ $HOUR -eq 1 ] && [ $MIN -ge 45 ]); then
+          # 7:30am IST = 02:00 UTC | window: 01:45–02:14 UTC
+          if ([ $HOUR -eq 1 ] && [ $MIN -ge 45 ]) || ([ $HOUR -eq 2 ] && [ $MIN -lt 15 ]); then
             if ! already_ran "layer0-intelligence.yml"; then
               trigger "layer0-intelligence.yml" "Layer 0 (7:30am IST)"
             else
               echo "Layer 0 already ran today — skipping"
             fi
 
-          # 8:00am IST = 02:30 UTC | window: 02:30–02:59 UTC
-          elif [ $HOUR -eq 2 ] && [ $MIN -ge 30 ]; then
+          # 8:00am IST = 02:30 UTC | window: 02:15–02:44 UTC
+          elif [ $HOUR -eq 2 ] && [ $MIN -ge 15 ] && [ $MIN -lt 45 ]; then
             if ! already_ran "morning-scan.yml"; then
               trigger "morning-scan.yml" "Morning Scan (8:00am IST)"
             else
@@ -74,27 +75,27 @@ jobs:
             fi
 
           # 8:15am IST = 02:45 UTC | window: 02:45–03:14 UTC
-          elif [ $HOUR -eq 2 ] && [ $MIN -ge 45 ] || ([ $HOUR -eq 3 ] && [ $MIN -lt 15 ]); then
+          elif ([ $HOUR -eq 2 ] && [ $MIN -ge 45 ]) || ([ $HOUR -eq 3 ] && [ $MIN -lt 15 ]); then
             if ! already_ran "auth-watchdog.yml"; then
               trigger "auth-watchdog.yml" "Auth Watchdog (8:15am IST)"
             else
               echo "Auth Watchdog already ran today — skipping"
             fi
 
-          # 9:45am IST = 04:15 UTC | window: 04:00–04:44 UTC
-          elif [ $HOUR -eq 4 ]; then
+          # 9:45am IST = 04:15 UTC | window: 03:15–04:44 UTC
+          elif ([ $HOUR -eq 3 ] && [ $MIN -ge 15 ]) || ([ $HOUR -eq 4 ] && [ $MIN -lt 45 ]); then
             if ! already_ran "opening-range.yml"; then
               trigger "opening-range.yml" "Opening Range (9:45am IST)"
             else
               echo "Opening Range already ran today — skipping"
             fi
 
-          # 10am–3pm IST hourly pulse = 04:30–09:30 UTC
-          elif [ $HOUR -ge 5 ] && [ $HOUR -le 9 ]; then
+          # 10am–3pm IST hourly pulse = 04:45–09:59 UTC
+          elif ([ $HOUR -eq 4 ] && [ $MIN -ge 45 ]) || ([ $HOUR -ge 5 ] && [ $HOUR -le 9 ]); then
             trigger "intraday-pulse.yml" "Hourly Pulse"
 
-          # 6:00pm IST = 12:30 UTC | window: 12:00–12:59 UTC
-          elif [ $HOUR -eq 12 ]; then
+          # 6:00pm IST = 12:30 UTC | window: 10:00–12:59 UTC
+          elif [ $HOUR -ge 10 ] && [ $HOUR -lt 13 ]; then
             if ! already_ran "evening-research.yml"; then
               trigger "evening-research.yml" "Evening Research (6:00pm IST)"
             else
