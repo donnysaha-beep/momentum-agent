@@ -2,13 +2,17 @@ name: Morning Momentum Scan (NSE)
 
 on:
   schedule:
-    # 8:00 AM IST = 2:30 AM UTC | Mon-Fri
     - cron: "30 2 * * 1-5"
   workflow_dispatch:
+
+concurrency:
+  group: morning-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,3 +41,25 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python email_reporter.py scanner
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import smtplib, os
+          from email.mime.text import MIMEText
+          user = os.environ.get("GMAIL_USER","")
+          pwd  = os.environ.get("GMAIL_APP_PASSWORD","")
+          if not user or not pwd: exit()
+          msg = MIMEText("Morning Scan FAILED. Check GitHub Actions: https://github.com/donnysaha-beep/momentum-agent/actions")
+          msg["Subject"] = "[ALERT] Morning Scan failed — check now"
+          msg["From"] = user
+          msg["To"] = "donny.saha@gmail.com"
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
+              s.login(user, pwd)
+              s.sendmail(user, "donny.saha@gmail.com", msg.as_string())
+          print("Failure alert sent.")
+          EOF

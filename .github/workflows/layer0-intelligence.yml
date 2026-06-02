@@ -5,9 +5,14 @@ on:
     - cron: "0 2 * * 1-5"
   workflow_dispatch:
 
+concurrency:
+  group: layer0-intelligence
+  cancel-in-progress: false
+
 jobs:
   intelligence:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
@@ -36,3 +41,25 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python email_reporter.py layer0
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import smtplib, os
+          from email.mime.text import MIMEText
+          user = os.environ.get("GMAIL_USER","")
+          pwd  = os.environ.get("GMAIL_APP_PASSWORD","")
+          if not user or not pwd: exit()
+          msg = MIMEText("Layer 0 Market Intelligence FAILED. Check GitHub Actions: https://github.com/donnysaha-beep/momentum-agent/actions")
+          msg["Subject"] = "[ALERT] Layer 0 failed — check now"
+          msg["From"] = user
+          msg["To"] = "donny.saha@gmail.com"
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
+              s.login(user, pwd)
+              s.sendmail(user, "donny.saha@gmail.com", msg.as_string())
+          print("Failure alert sent.")
+          EOF

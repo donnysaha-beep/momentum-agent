@@ -2,13 +2,17 @@ name: Opening Range Analysis (9:45am IST)
 
 on:
   schedule:
-    # 9:45am IST = 4:15am UTC | Mon-Fri
     - cron: "15 4 * * 1-5"
   workflow_dispatch:
+
+concurrency:
+  group: opening-range
+  cancel-in-progress: false
 
 jobs:
   opening-range:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,3 +41,25 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python email_reporter.py opening_range
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import smtplib, os
+          from email.mime.text import MIMEText
+          user = os.environ.get("GMAIL_USER","")
+          pwd  = os.environ.get("GMAIL_APP_PASSWORD","")
+          if not user or not pwd: exit()
+          msg = MIMEText("Opening Range Analysis FAILED. Check GitHub Actions: https://github.com/donnysaha-beep/momentum-agent/actions")
+          msg["Subject"] = "[ALERT] Opening Range failed — check now"
+          msg["From"] = user
+          msg["To"] = "donny.saha@gmail.com"
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
+              s.login(user, pwd)
+              s.sendmail(user, "donny.saha@gmail.com", msg.as_string())
+          print("Failure alert sent.")
+          EOF

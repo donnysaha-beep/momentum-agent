@@ -1,88 +1,114 @@
-name: Master Scheduler (every 30 min)
+name: Master Scheduler (every 15 min)
+
+# Runs every 15 minutes during trading hours Mon-Fri (IST).
+# Before triggering any workflow, checks GitHub API to confirm
+# it hasn't already run successfully today — prevents duplicates.
 
 on:
   schedule:
-    # Runs every 30 minutes Mon-Fri, 2am-2pm UTC (7:30am-7:30pm IST)
-    - cron: "0,30 2-14 * * 1-5"
+    # Every 15 min, 1:45am–2:15pm UTC = 7:15am–7:45pm IST, Mon-Fri
+    - cron: "0,15,30,45 1-14 * * 1-5"
   workflow_dispatch:
+
+concurrency:
+  group: master-scheduler
+  cancel-in-progress: false
 
 jobs:
   schedule:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Trigger correct workflow based on IST time
+      - name: Determine and trigger workflow
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          # Get current UTC hour and minute
-          HOUR=$(date -u +%H)
-          MIN=$(date -u +%M)
-          TIME="${HOUR}:${MIN}"
-          echo "Current UTC time: $TIME"
+          HOUR=$(date -u +%-H)
+          MIN=$(date -u +%-M)
+          DATE=$(date -u +%Y-%m-%d)
+          echo "UTC: ${HOUR}:$(printf '%02d' $MIN) | Date: $DATE"
 
-          # 7:30am IST = 02:00 UTC
-          if [ "$HOUR" = "02" ] && [ "$MIN" -lt "20" ]; then
-            echo "Triggering Layer 0 (7:30am IST)"
-            curl -s -X POST \
+          # ── Helper: check if workflow ran successfully today ────────────────
+          already_ran() {
+            local workflow_file=$1
+            local count=$(curl -s \
               -H "Authorization: Bearer $GH_TOKEN" \
               -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/layer0-intelligence.yml/dispatches
+              "https://api.github.com/repos/$REPO/actions/workflows/${workflow_file}/runs?status=success&created=>=${DATE}T00:00:00Z&per_page=5" \
+              | python3 -c "import sys,json; runs=json.load(sys.stdin).get('workflow_runs',[]); print(len([r for r in runs if r['created_at'][:10]=='$DATE']))" 2>/dev/null || echo "0")
+            [ "$count" -gt "0" ]
+          }
 
-          # 8:00am IST = 02:30 UTC
-          elif [ "$HOUR" = "02" ] && [ "$MIN" -ge "28" ] && [ "$MIN" -lt "45" ]; then
-            echo "Triggering Morning Scan (8:00am IST)"
-            curl -s -X POST \
+          # ── Helper: trigger workflow ───────────────────────────────────────
+          trigger() {
+            local workflow_file=$1
+            local name=$2
+            echo ">>> Triggering: $name"
+            local status=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
               -H "Authorization: Bearer $GH_TOKEN" \
               -H "Accept: application/vnd.github+json" \
+              -H "Content-Type: application/json" \
               -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/morning-scan.yml/dispatches
+              "https://api.github.com/repos/$REPO/actions/workflows/${workflow_file}/dispatches")
+            echo "    Response: $status"
+            sleep 3
+          }
 
-          # 8:15am IST = 02:45 UTC
-          elif [ "$HOUR" = "02" ] && [ "$MIN" -ge "43" ]; then
-            echo "Triggering Auth Watchdog (8:15am IST)"
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/auth-watchdog.yml/dispatches
+          # ── Schedule logic ─────────────────────────────────────────────────
 
-          # 9:45am IST = 04:15 UTC
-          elif [ "$HOUR" = "04" ] && [ "$MIN" -ge "13" ] && [ "$MIN" -lt "30" ]; then
-            echo "Triggering Opening Range (9:45am IST)"
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/opening-range.yml/dispatches
+          # 7:30am IST = 02:00 UTC | window: 01:45–02:29 UTC
+          if [ $HOUR -eq 2 ] || ([ $HOUR -eq 1 ] && [ $MIN -ge 45 ]); then
+            if ! already_ran "layer0-intelligence.yml"; then
+              trigger "layer0-intelligence.yml" "Layer 0 (7:30am IST)"
+            else
+              echo "Layer 0 already ran today — skipping"
+            fi
 
-          # 10am-3pm IST hourly pulse = 04:30-09:30 UTC
-          elif [ "$HOUR" -ge "04" ] && [ "$HOUR" -le "09" ] && [ "$MIN" -lt "20" ]; then
-            echo "Triggering Hourly Pulse"
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/intraday-pulse.yml/dispatches
+          # 8:00am IST = 02:30 UTC | window: 02:30–02:59 UTC
+          elif [ $HOUR -eq 2 ] && [ $MIN -ge 30 ]; then
+            if ! already_ran "morning-scan.yml"; then
+              trigger "morning-scan.yml" "Morning Scan (8:00am IST)"
+            else
+              echo "Morning Scan already ran today — skipping"
+            fi
 
-          # 6:00pm IST = 12:30 UTC
-          elif [ "$HOUR" = "12" ] && [ "$MIN" -ge "28" ] && [ "$MIN" -lt "45" ]; then
-            echo "Triggering Evening Research (6:00pm IST)"
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/evening-research.yml/dispatches
+          # 8:15am IST = 02:45 UTC | window: 02:45–03:14 UTC
+          elif [ $HOUR -eq 2 ] && [ $MIN -ge 45 ] || ([ $HOUR -eq 3 ] && [ $MIN -lt 15 ]); then
+            if ! already_ran "auth-watchdog.yml"; then
+              trigger "auth-watchdog.yml" "Auth Watchdog (8:15am IST)"
+            else
+              echo "Auth Watchdog already ran today — skipping"
+            fi
 
-          # 6:30pm IST = 13:00 UTC
-          elif [ "$HOUR" = "13" ] && [ "$MIN" -lt "20" ]; then
-            echo "Triggering Performance Audit (6:30pm IST)"
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d '{"ref":"main"}' \
-              https://api.github.com/repos/${{ github.repository }}/actions/workflows/audit.yml/dispatches
+          # 9:45am IST = 04:15 UTC | window: 04:00–04:44 UTC
+          elif [ $HOUR -eq 4 ]; then
+            if ! already_ran "opening-range.yml"; then
+              trigger "opening-range.yml" "Opening Range (9:45am IST)"
+            else
+              echo "Opening Range already ran today — skipping"
+            fi
+
+          # 10am–3pm IST hourly pulse = 04:30–09:30 UTC
+          elif [ $HOUR -ge 5 ] && [ $HOUR -le 9 ]; then
+            trigger "intraday-pulse.yml" "Hourly Pulse"
+
+          # 6:00pm IST = 12:30 UTC | window: 12:00–12:59 UTC
+          elif [ $HOUR -eq 12 ]; then
+            if ! already_ran "evening-research.yml"; then
+              trigger "evening-research.yml" "Evening Research (6:00pm IST)"
+            else
+              echo "Evening Research already ran today — skipping"
+            fi
+
+          # 6:30pm IST = 13:00 UTC | window: 13:00–13:59 UTC
+          elif [ $HOUR -eq 13 ]; then
+            if ! already_ran "audit.yml"; then
+              trigger "audit.yml" "Performance Audit (6:30pm IST)"
+            else
+              echo "Performance Audit already ran today — skipping"
+            fi
 
           else
-            echo "No workflow scheduled for this time slot. UTC $TIME"
+            echo "Outside trading hours — nothing to trigger"
           fi
