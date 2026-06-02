@@ -14,12 +14,12 @@
     "Consumer"
   ],
   "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": 0.13,
-  "india_vix": 16.54,
-  "india_vix_chg": 2.16,
+  "gift_estimated_chg": 0.04,
+  "india_vix": 15.35,
+  "india_vix_chg": -7.16,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": 0.26,
-  "crude_chg": 4.93,
-  "gold_chg": -0.75
+  "sp500_chg": 0.08,
+  "crude_chg": 1.56,
+  "gold_chg": 0.89
 }
