@@ -1,0 +1,104 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, June 02 2026 03:45 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs23229.15  | Today: -0.7%  | 1W: -3.3%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 16.54  (+2.2%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Metals (+0.1%) | Energy (+0.0%) | IT (+0.0%)
+  Lagging : Electricals (-0.9%) | Consumer (-0.9%) | Cement (-1.4%)
+
+Found 79 momentum stocks → 5 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    JSWSTEEL     Rs  1299.4   +1.7%   57.5   0.7x   -0.8%   +2.4%  0.6x    8/10   A+
+2    SAIL         Rs   203.5   -0.1%   63.9   0.0x   -1.2%   +0.6%  1.3x    8/10   A+
+3    COALINDIA    Rs   471.9   -0.1%   59.5   0.0x   -2.0%   +0.5%  0.8x    8/10   A+
+4    ADANIGREEN   Rs  1431.4   -1.1%   63.1   0.0x   -3.9%   -0.4%  0.7x    8/10   A+
+5    MANAPPURAM   Rs   316.1   -2.9%   55.3   0.5x   -4.3%   -2.2%  0.0x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  JSWSTEEL (Metals) — Rs1299.4 | Grade A+ | 8/10
+  52w: Rs965.95 — Rs1309.3 | ATR: 1.97%/day | Ext: 0.64x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.4%)
+    [+] Not ATR-extended (0.6x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  SAIL (Metals) — Rs203.53 | Grade A+ | 8/10
+  52w: Rs117.19 — Rs206.06 | ATR: 2.76%/day | Ext: 1.32x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  COALINDIA (Energy) — Rs471.95 | Grade A+ | 8/10
+  52w: Rs348.03 — Rs481.45 | ATR: 2.71%/day | Ext: 0.78x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIGREEN (Energy) — Rs1431.4 | Grade A+ | 8/10
+  52w: Rs772.8 — Rs1489.9 | ATR: 3.43%/day | Ext: 0.68x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.4%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MANAPPURAM (Finance) — Rs316.05 | Grade A+ | 8/10
+  52w: Rs230.73 — Rs330.25 | ATR: 2.86%/day | Ext: 0.03x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-2.2%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [+] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
