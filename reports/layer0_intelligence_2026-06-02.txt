@@ -1,6 +1,6 @@
 =================================================================
   MARKET INTELLIGENCE REPORT — Tuesday, June 02 2026
-  Layer 0 | Generated: 03:44 AM IST
+  Layer 0 | Generated: 05:57 PM IST
 =================================================================
 
 MARKET REGIME    : NEUTRAL
@@ -9,32 +9,32 @@ TREND TYPE       : BREAKOUT_FRIENDLY
 SIZE MULTIPLIER  : 0.75x
 
 INDIAN MARKET (prev close):
-  Nifty 50              :  23,229.15  (-0.66%)
-  Bank Nifty            :  53,265.10  (-0.70%)
-  India VIX             :      16.54  (+2.16%)
+  Nifty 50              :  23,483.55  (+0.43%)
+  Bank Nifty            :  53,714.65  (+0.13%)
+  India VIX             :      15.35  (-7.16%)
 
 GIFT NIFTY (pre-market indicator):
-  Open estimate  : 23259.35  [ESTIMATED]
-  Change vs prev : +0.13%
+  Open estimate  : 23492.94  [ESTIMATED]
+  Change vs prev : +0.04%
   Bias           : NEUTRAL
-  Based on       : S&P 500 +0.26% overnight (GIFT Nifty unavailable)
+  Based on       : S&P 500 +0.08% overnight (GIFT Nifty unavailable)
 
 FII/DII FLOWS (prev session):
   FII Net : Rs 0 cr
   DII Net : Rs 0 cr
 
 GLOBAL MACRO (overnight impact):
-  S&P 500 (US)          :   7,599.96  (+0.26%)
-  Nasdaq (US)           :  27,086.81  (+0.42%)
-  US VIX                :      16.05  (+4.77%)
-  Crude Oil (WTI)       :      91.67  (+4.93%)
-  Gold                  :   4,526.10  (-0.75%)
-  Silver                :      75.57  (-0.06%)
-  USD/INR               :      95.09  (+0.09%)
+  S&P 500 (US)          :   7,605.89  (+0.08%)
+  Nasdaq (US)           :  27,080.47  (-0.02%)
+  US VIX                :      16.00  (-0.31%)
+  Crude Oil (WTI)       :      93.60  (+1.56%)
+  Gold                  :   4,514.90  (+0.89%)
+  Silver                :      75.43  (+0.56%)
+  USD/INR               :      95.25  (+0.27%)
 
 REGIME FACTORS:
   * GIFT Nifty neutral
-  * India VIX 16.54 (normal)
+  * India VIX 15.35 (normal)
   * FII flows neutral (Rs 0 cr)
 
 SECTOR ROTATION POSTURE:
