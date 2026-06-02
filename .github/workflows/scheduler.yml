@@ -90,8 +90,17 @@ jobs:
               echo "Opening Range already ran today — skipping"
             fi
 
-          # 10am–3pm IST hourly pulse = 04:45–09:59 UTC
-          elif ([ $HOUR -eq 4 ] && [ $MIN -ge 45 ]) || ([ $HOUR -ge 5 ] && [ $HOUR -le 9 ]); then
+          # 10:00am IST = 04:30 UTC | window: 04:45–05:14 UTC
+          elif ([ $HOUR -eq 4 ] && [ $MIN -ge 45 ]) || ([ $HOUR -eq 5 ] && [ $MIN -lt 15 ]); then
+            if ! already_ran "bear-scanner.yml"; then
+              trigger "bear-scanner.yml" "Bear Scanner (10:00am IST)"
+            else
+              echo "Bear Scanner already ran today — skipping"
+            fi
+            trigger "intraday-pulse.yml" "Hourly Pulse"
+
+          # 10:15am–3pm IST hourly pulse = 05:15–09:59 UTC
+          elif ([ $HOUR -eq 5 ] && [ $MIN -ge 15 ]) || ([ $HOUR -ge 6 ] && [ $HOUR -le 9 ]); then
             trigger "intraday-pulse.yml" "Hourly Pulse"
 
           # 6:00pm IST = 12:30 UTC | window: 10:00–12:59 UTC

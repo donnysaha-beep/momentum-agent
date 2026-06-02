@@ -1,0 +1,65 @@
+name: Bear Scanner (10:00am IST)
+
+on:
+  schedule:
+    - cron: "30 4 * * 1-5"
+  workflow_dispatch:
+
+concurrency:
+  group: bear-scanner
+  cancel-in-progress: false
+
+jobs:
+  bear-scanner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bear scanner
+        run: python bear_scanner.py
+
+      - name: Commit report
+        run: |
+          git config user.name "momentum-bot"
+          git config user.email "bot@github.com"
+          git add reports/
+          git diff --cached --quiet || (git commit -m "Bear scanner report $(date +%Y-%m-%d)" && git pull --rebase && git push)
+
+      - name: Send email report
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python email_reporter.py bear_scanner
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import smtplib, os
+          from email.mime.text import MIMEText
+          user = os.environ.get("GMAIL_USER","")
+          pwd  = os.environ.get("GMAIL_APP_PASSWORD","")
+          if not user or not pwd: exit()
+          msg = MIMEText("Bear Scanner FAILED. Check GitHub Actions: https://github.com/donnysaha-beep/momentum-agent/actions")
+          msg["Subject"] = "[ALERT] Bear Scanner failed — check now"
+          msg["From"] = user
+          msg["To"] = "donny.saha@gmail.com"
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
+              s.login(user, pwd)
+              s.sendmail(user, "donny.saha@gmail.com", msg.as_string())
+          print("Failure alert sent.")
+          EOF

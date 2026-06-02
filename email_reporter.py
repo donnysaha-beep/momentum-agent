@@ -52,6 +52,11 @@ REPORT_CONFIG = {
         "subject": "[Momentum Agent] Performance Audit — {date}",
         "emoji":   "📈",
     },
+    "bear_scanner": {
+        "pattern": "bear_scanner_*.txt",
+        "subject": "[Momentum Agent] Bear Scanner — Short Signals {date}",
+        "emoji":   "🐻",
+    },
 }
 
 
