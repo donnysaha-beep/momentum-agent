@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Tuesday, June 02 2026
+  Layer 0 | Generated: 03:44 AM IST
+=================================================================
+
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 20/100
+TREND TYPE       : BREAKOUT_FRIENDLY
+SIZE MULTIPLIER  : 0.75x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,229.15  (-0.66%)
+  Bank Nifty            :  53,265.10  (-0.70%)
+  India VIX             :      16.54  (+2.16%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23259.35  [ESTIMATED]
+  Change vs prev : +0.13%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.26% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,599.96  (+0.26%)
+  Nasdaq (US)           :  27,086.81  (+0.42%)
+  US VIX                :      16.05  (+4.77%)
+  Crude Oil (WTI)       :      91.67  (+4.93%)
+  Gold                  :   4,526.10  (-0.75%)
+  Silver                :      75.57  (-0.06%)
+  USD/INR               :      95.09  (+0.09%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX 16.54 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, Banking, Infra
+  Avoid      : Aviation, Consumer
+
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+
+=================================================================
