@@ -1,0 +1,85 @@
+[
+  {
+    "date": "2026-06-02",
+    "trades": [
+      {
+        "ticker": "ADANIPORTS",
+        "entry": 1776.15,
+        "target1": 1839.08,
+        "target2": 1881.04,
+        "stop": 1760.15,
+        "verdict": "TRADE NOW",
+        "eod_open": 1766.699951171875,
+        "eod_high": 1817.699951171875,
+        "eod_low": 1760.199951171875,
+        "eod_close": 1816.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1816.0 (+2.2%)"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 7019.05,
+        "target1": 7343.14,
+        "target2": 7559.2,
+        "stop": 6959.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 6965.5,
+        "eod_high": 7168.0,
+        "eod_low": 6960.0,
+        "eod_close": 7158.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 7158.0 (+2.0%)"
+      },
+      {
+        "ticker": "BHEL",
+        "entry": 407.05,
+        "target1": 425.4,
+        "target2": 437.64,
+        "stop": 399.9,
+        "verdict": "TRADE NOW",
+        "eod_open": 400.1000061035156,
+        "eod_high": 412.79998779296875,
+        "eod_low": 399.95001220703125,
+        "eod_close": 410.25,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 410.25 (+0.8%)"
+      },
+      {
+        "ticker": "POLYCAB",
+        "entry": 9418.55,
+        "target1": 9745.61,
+        "target2": 9963.64,
+        "stop": 9321.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 9392.5,
+        "eod_high": 9555.5,
+        "eod_low": 9321.5,
+        "eod_close": 9539.5,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 9539.5 (+1.3%)"
+      },
+      {
+        "ticker": "SIEMENS",
+        "entry": 3704.85,
+        "target1": 3911.92,
+        "target2": 4049.97,
+        "stop": 3639.55,
+        "verdict": "TRADE NOW",
+        "eod_open": 3704.800048828125,
+        "eod_high": 3756.89990234375,
+        "eod_low": 3639.60009765625,
+        "eod_close": 3729.199951171875,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 3729.199951171875 (+0.7%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 5,
+      "valid_skips": 0,
+      "missed_trades": 0,
+      "false_negatives": 0
+    }
+  }
+]
