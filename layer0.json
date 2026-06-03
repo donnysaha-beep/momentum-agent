@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "regime": "NEUTRAL",
   "confidence": 20,
   "trend_type": "BREAKOUT_FRIENDLY",
@@ -14,12 +14,12 @@
     "Consumer"
   ],
   "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": 0.04,
-  "india_vix": 15.35,
-  "india_vix_chg": -7.16,
+  "gift_estimated_chg": -0.23,
+  "india_vix": 15.36,
+  "india_vix_chg": -7.13,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": 0.08,
-  "crude_chg": 1.56,
-  "gold_chg": 0.89
+  "sp500_chg": -0.46,
+  "crude_chg": 2.29,
+  "gold_chg": -0.5
 }
