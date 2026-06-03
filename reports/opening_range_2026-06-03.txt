@@ -1,0 +1,37 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, June 03 2026 06:59 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23396.95  |  Gap: -0.5%  |  VWAP: nan
+  ORB: 23247.75 — 23442.4
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 2 WAIT | 1 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  HDFCBANK  [60%]  |  Rs 754.0  |  ORB: 743.05—748.25  |  VWAP: 749.08
+    [~] CAUTION regime + stock opened below prev close (-0.3%) — skip
+  RELIANCE  [60%]  |  Rs 1312.6  |  ORB: 1305.4—1323.6  |  VWAP: 1309.38
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  LT  [60%]  |  Rs 3953.2
+    [-] Stock broke below ORB low — setup invalidated
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
