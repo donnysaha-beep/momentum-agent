@@ -1,0 +1,201 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 03, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23483.55  1D: +0.4%  1W: -2.3%  1M: -2.1%  3M: -8.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+LT             Rs     nan    nan%    nan%     nan%   54.3  0.0x   WATCH NOW
+HDFCBANK       Rs     nan    nan%    nan%     nan%   41.0  0.0x   WATCH
+INFY           Rs     nan    nan%    nan%     nan%   65.8  0.0x   WATCH
+TCS            Rs     nan    nan%    nan%     nan%   62.8  0.0x   WATCH
+RELIANCE       Rs     nan    nan%    nan%     nan%   37.1  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.4T | P/E: 33.8372
+  Price: Rsnan  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.4%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.3%
+    1M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.3  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.92x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+    * Oil and gas contracts activity drops in 2025
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.6T | P/E: 16.815039
+  Price: Rsnan  |  52w range: Rs731.55 — Rs1012.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.4%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.3%
+    1M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 41.0  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.92x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Here’s Why HDFC Bank Limited (HDB) Traded Lower in Q1
+    * Market Chatter: HDFC Bank's $4.71 Million Allegedly-Disguised Payment to State-Owned Indian Board Under Media Scrutiny
+    * Indian shares end flat as HDFC Bank offsets rally in metal stocks
+    * India's HDFC Bank falls on report of payments to attract big deposits
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.9T | P/E: 16.088959
+  Price: Rsnan  |  52w range: Rs1095.0 — Rs1689.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.4%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.3%
+    1M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 65.8  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.14x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%
+    * Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Monday Trading
+    * Infosys Expands Roland-Garros Partnership, Unveils New AI Fan Experiences
+    * Infosys Limited (INFY): Leopold Aschenbrenner Is Bearish on This Firm
+    * Fair Isaac (FICO) Up 22.5% Since Last Earnings Report: Can It Continue?
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs8.1T | P/E: 16.47703
+  Price: Rsnan  |  52w range: Rs2215.95 — Rs3382.21
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.4%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.3%
+    1M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 62.8  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.77x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.77x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%
+    * TCS and Mistral agree partnership for advanced AI model deployment
+    * Is Amazon.com (AMZN) the Best Strong Buy Stock to Buy and Hold for the Next 5 Years?
+    * India Tests Banking, Aadhaar Systems Against Anthropic's Mythos AI Threats
+    * TCS launches SovereignSecure Cloud in Europe for public sector
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.8T | P/E: 22.00402
+  Price: Rsnan  |  52w range: Rs1304.6 — Rs1592.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.4%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.3%
+    1M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    3M:  nan%  vs Nifty -8.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 37.1  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.24x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's top court provides relief to Reliance in 2007 securities market fraud case
+    * How The Story On Reliance Industries (NSEI:RELIANCE) Is Shifting Around A ₹1,696 Fair Value
+    * How The Evolving Story For Reliance Industries (NSEI:RELIANCE) Is Shaping Its Valuation Reset
+    * India's Reliance hands over documents in bribery probe, executive gets bail
+    * India's Reliance cuts exports of alkylates, boosts LPG output
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
