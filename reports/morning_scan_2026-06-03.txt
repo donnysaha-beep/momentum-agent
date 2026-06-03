@@ -1,0 +1,34 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, June 03 2026 06:35 PM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs23483.55  | Today: +0.4%  | 1W: -2.3%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 15.36  (-7.1%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
+  Lagging : Electricals (+nan%) | NewEconomy (+nan%) | PSU (+nan%)
+
+Found 56 momentum stocks → 0 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
