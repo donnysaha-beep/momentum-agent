@@ -1,0 +1,201 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 04, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs23416.55  1D: +0.1%  1W: -2.0%  1M: -2.6%  3M: -7.9%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+LT             Rs  3942.1   -0.3%   -0.7%    +1.9%   48.3 -0.0x   WATCH NOW
+INFY           Rs  1201.3   -1.7%   +2.9%    +5.5%   51.4  0.9x   WATCH
+HDFCBANK       Rs   754.2   +0.1%   -5.3%    -2.8%   43.9 -0.4x   WATCH
+TCS            Rs  2241.0   -0.0%   -6.7%    -4.2%   42.2 -0.7x   WATCH
+RELIANCE       Rs  1303.7   -0.7%   -9.3%    -6.8%   34.7 -1.7x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.4T | P/E: 33.690285
+  Price: Rs3942.1  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.3%  vs Nifty +0.1%  -> RS: -0.3%
+    1W:  -2.6%  vs Nifty -2.0%
+    1M:  -0.7%  vs Nifty -2.6%  -> RS: +1.9% (OUTPERFORMING)
+    3M:  -7.1%  vs Nifty -7.9%  -> RS: +0.8% (OUTPERFORMING)
+    6M:  -0.8%
+
+  TREND HEALTH:
+    RSI: 48.3  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 1.99%
+    ATR extension from SMA20: -0.04x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.72x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3824.44 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's L&T to invest nearly $2 billion in Tamil Nadu, state government says
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.9T | P/E: 15.721764
+  Price: Rs1201.3  |  52w range: Rs1095.0 — Rs1689.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.7%  vs Nifty +0.1%  -> RS: -1.8% (UNDERPERFORMING)
+    1W:  +3.6%  vs Nifty -2.0%
+    1M:  +2.9%  vs Nifty -2.6%  -> RS: +5.5% (OUTPERFORMING)
+    3M:  -6.8%  vs Nifty -7.9%  -> RS: +1.1% (OUTPERFORMING)
+    6M:  -22.4%
+
+  TREND HEALTH:
+    RSI: 51.4  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 2.86%
+    ATR extension from SMA20: 0.86x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.78x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1149.69 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%
+    * Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Monday Trading
+    * Infosys Expands Roland-Garros Partnership, Unveils New AI Fan Experiences
+    * Infosys Limited (INFY): Leopold Aschenbrenner Is Bearish on This Firm
+    * Fair Isaac (FICO) Up 22.5% Since Last Earnings Report: Can It Continue?
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.6T | P/E: 16.819803
+  Price: Rs754.2  |  52w range: Rs731.55 — Rs1012.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +0.1%  -> RS: +0.0%
+    1W:  -0.6%  vs Nifty -2.0%
+    1M:  -5.3%  vs Nifty -2.6%  -> RS: -2.8% (UNDERPERFORMING)
+    3M:  -16.1%  vs Nifty -7.9%  -> RS: -8.2% (UNDERPERFORMING)
+    6M:  -24.5%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.15%
+    ATR extension from SMA20: -0.43x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.1x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs729.87 (-3.2%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Here’s Why HDFC Bank Limited (HDB) Traded Lower in Q1
+    * Market Chatter: HDFC Bank's $4.71 Million Allegedly-Disguised Payment to State-Owned Indian Board Under Media Scrutiny
+    * Indian shares end flat as HDFC Bank offsets rally in metal stocks
+    * India's HDFC Bank falls on report of payments to attract big deposits
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs8.1T | P/E: 16.469463
+  Price: Rs2241.0  |  52w range: Rs2215.95 — Rs3382.21
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.0%  vs Nifty +0.1%  -> RS: -0.1%
+    1W:  -1.9%  vs Nifty -2.0%
+    1M:  -6.7%  vs Nifty -2.6%  -> RS: -4.2% (UNDERPERFORMING)
+    3M:  -14.2%  vs Nifty -7.9%  -> RS: -6.3% (UNDERPERFORMING)
+    6M:  -26.4%
+
+  TREND HEALTH:
+    RSI: 42.2  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 3.1%
+    ATR extension from SMA20: -0.67x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.87x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2136.86 (-4.6%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%
+    * TCS and Mistral agree partnership for advanced AI model deployment
+    * Is Amazon.com (AMZN) the Best Strong Buy Stock to Buy and Hold for the Next 5 Years?
+    * India Tests Banking, Aadhaar Systems Against Anthropic's Mythos AI Threats
+    * TCS launches SovereignSecure Cloud in Europe for public sector
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.6T | P/E: 21.819246
+  Price: Rs1303.7  |  52w range: Rs1303.7 — Rs1592.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty +0.1%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  -3.5%  vs Nifty -2.0%
+    1M:  -9.3%  vs Nifty -2.6%  -> RS: -6.8% (UNDERPERFORMING)
+    3M:  -7.3%  vs Nifty -7.9%  -> RS: +0.6% (OUTPERFORMING)
+    6M:  -15.1%
+
+  TREND HEALTH:
+    RSI: 34.7  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 1.98%
+    ATR extension from SMA20: -1.72x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.44x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1264.98 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's top court provides relief to Reliance in 2007 securities market fraud case
+    * How The Story On Reliance Industries (NSEI:RELIANCE) Is Shifting Around A ₹1,696 Fair Value
+    * How The Evolving Story For Reliance Industries (NSEI:RELIANCE) Is Shaping Its Valuation Reset
+    * India's Reliance hands over documents in bribery probe, executive gets bail
+    * India's Reliance cuts exports of alkylates, boosts LPG output
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
