@@ -1,0 +1,68 @@
+=================================================================
+  BEAR SCANNER — Thursday, June 04 2026 02:18 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23438.0  |  Gap: -0.5%  |  VWAP: nan
+  ORB: 23249.6 — 23362.5
+
+REGIME: CAUTION  |  SHORT SIZE: ACTIVE SHORT SIZE (Rs 62,500/trade)
+
+SUMMARY: 0 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 3 SKIP
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  ADANIGREEN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1421.6
+  Gap from prev  : -0.2%  (prev Rs 1430.1 | opened Rs 1426.6)
+  Opening Range  : Rs 1420.0 — Rs 1446.9  (1.86% wide)
+  VWAP           : Rs 1431.53  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 57.9
+  ATR (daily)    : Rs 50.99
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1419.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1343.47  (-5.4%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1292.48  (-9.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1446.95  (+1.9%)  [above ORB high]
+    Risk/Reward    : 1:2.84 (T1)  |  1:4.73 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 44 shares
+    Capital needed : Rs 62,478  (margin)
+    Max loss       : Rs 1,188  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1420.0) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  POLYCAB  [50%]  |  Rs 9717.5
+    [-] Stock holding above ORB low — no breakdown yet
+  COALINDIA  [30%]  |  Rs 481.35
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BAJAJ-AUTO  [20%]  |  Rs 10364.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
