@@ -1,0 +1,93 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Thursday, June 04 2026 02:21 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23438.0  |  Gap: -0.5%  |  VWAP: nan
+  ORB: 23249.6 — 23362.5
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 1 TRADE NOW | 1 WATCH | 1 WAIT | 1 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  COALINDIA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 481.35
+  Gap from prev  : +0.4%  (prev Rs 472.3 | opened Rs 474.05)
+  Opening Range  : Rs 473.25 — Rs 476.6  (0.71% wide)
+  VWAP           : Rs 480.46  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 13.33
+
+  TRADE PLAN:
+    Entry trigger  : Rs 476.65  (break above ORB high)
+    Target 1 (50%) : Rs 496.65  (+4.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 509.98  (+7.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 473.2  (-0.7%)  [below ORB low]
+    Risk/Reward    : 1:5.83 (T1)  |  1:9.71 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 26 shares
+    Capital needed : Rs 12,393
+    Max loss       : Rs 90  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  BAJAJ-AUTO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 10364.0
+  Gap from prev  : -0.2%  (prev Rs 10259.0 | opened Rs 10239.0)
+  Opening Range  : Rs 10193.0 — Rs 10242.0  (0.48% wide)
+  VWAP           : Rs 10321.24  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 245.62
+
+  TRADE PLAN:
+    Entry trigger  : Rs 10242.05  (break above ORB high)
+    Target 1 (50%) : Rs 10610.47  (+3.6%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 10856.09  (+6.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 10192.95  (-0.5%)  [below ORB low]
+    Risk/Reward    : 1:7.5 (T1)  |  1:12.5 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 1 shares
+    Capital needed : Rs 10,242
+    Max loss       : Rs 49  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  POLYCAB  [40%]  |  Rs 9717.5  |  ORB: 9549.0—9685.0  |  VWAP: 9726.63
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  ADANIGREEN  [30%]  |  Rs 1421.6
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
