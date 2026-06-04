@@ -81,5 +81,32 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-06-04",
+    "trades": [
+      {
+        "ticker": "COALINDIA",
+        "entry": 10242.05,
+        "target1": 10610.47,
+        "target2": 10856.09,
+        "stop": 10192.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 474.04998779296875,
+        "eod_high": 484.45001220703125,
+        "eod_low": 472.95001220703125,
+        "eod_close": 481.3500061035156,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Entry never triggered \u2014 stock went down, skip was correct"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 0,
+      "false_negatives": 0
+    }
   }
 ]

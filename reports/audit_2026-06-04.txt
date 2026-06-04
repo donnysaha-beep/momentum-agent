@@ -1,0 +1,43 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, June 04 2026
+  Layer 3 | 08:35 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 1
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [SKIP OK]    COALINDIA    | Verdict: TRADE NOW
+               Entry: Rs 10242.05 | Stop: Rs 10192.95 | T1: Rs 10610.47
+               EOD: O:474.04998779296875 H:484.45001220703125 L:472.95001220703125 C:481.3500061035156
+               Entry never triggered — stock went down, skip was correct
+
+=================================================================
+  RUNNING PERFORMANCE (2 days tracked)
+=================================================================
+  Total Trades    : 5
+  Win Rate        : 0.0%
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 5
+  Valid Skips     : 1
+  Missed Trades   : 0
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
