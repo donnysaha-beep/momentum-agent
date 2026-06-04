@@ -1,0 +1,90 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Thursday, June 04 2026 12:53 PM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs23416.55  | Today: +0.1%  | 1W: -2.0%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 15.89  (-2.4%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : PSU (+1.8%) | Electricals (+1.3%) | Finance (+1.2%)
+  Lagging : Defence (-0.5%) | NewEconomy (-1.2%) | Metals (-1.4%)
+
+Found 80 momentum stocks → 4 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    POLYCAB      Rs  9717.5   +1.5%   74.7   0.8x   +0.0%   +1.5%  1.8x    9/10   A+
+2    BAJAJ-AUTO   Rs 10362.0   +1.0%   55.2   1.5x   -2.8%   +1.0%  0.0x    9/10   A+
+3    COALINDIA    Rs   481.6   +2.0%   65.8   0.7x   +0.0%   +1.9%  1.4x    8/10   A+
+4    ADANIGREEN   Rs  1423.3   -0.3%   61.0   0.5x   -4.5%   -0.3%  0.3x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  POLYCAB (Electricals) — Rs9717.5 | Grade A+ | 9/10
+  52w: Rs5789.6 — Rs9717.5 | ATR: 2.19%/day | Ext: 1.84x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.5%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [+] In leading sector (Electricals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BAJAJ-AUTO (Auto) — Rs10362.0 | Grade A+ | 9/10
+  52w: Rs7896.87 — Rs10658.5 | ATR: 2.34%/day | Ext: 0.02x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  COALINDIA (Energy) — Rs481.65 | Grade A+ | 8/10
+  52w: Rs348.03 — Rs481.65 | ATR: 2.74%/day | Ext: 1.43x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.9%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIGREEN (Energy) — Rs1423.3 | Grade A+ | 8/10
+  52w: Rs772.8 — Rs1489.9 | ATR: 3.56%/day | Ext: 0.35x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.3%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
