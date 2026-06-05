@@ -108,5 +108,74 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-06-05",
+    "trades": [
+      {
+        "ticker": "ADANIGREEN",
+        "entry": 1458.15,
+        "target1": 1539.02,
+        "target2": 1592.94,
+        "stop": 1431.05,
+        "verdict": "TRADE NOW",
+        "eod_open": 1432.0,
+        "eod_high": 1529.699951171875,
+        "eod_low": 1431.0999755859375,
+        "eod_close": 1525.699951171875,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1525.699951171875 (+4.6%)"
+      },
+      {
+        "ticker": "NESTLEIND",
+        "entry": 1386.55,
+        "target1": 1427.52,
+        "target2": 1454.84,
+        "stop": 1375.05,
+        "verdict": "TRADE NOW",
+        "eod_open": 1386.5,
+        "eod_high": 1393.0,
+        "eod_low": 1372.699951171875,
+        "eod_close": 1391.300048828125,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1375.05) \u2014 -0.83% (clean stop, system worked)"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 300.0,
+        "target1": 311.13,
+        "target2": 318.55,
+        "stop": 298.6,
+        "verdict": "WATCH",
+        "eod_open": 299.70001220703125,
+        "eod_high": 305.3999938964844,
+        "eod_low": 295.8999938964844,
+        "eod_close": 304.70001220703125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIPORTS",
+        "entry": 1812.05,
+        "target1": 1876.2,
+        "target2": 1918.97,
+        "stop": 1797.55,
+        "verdict": "TRADE NOW",
+        "eod_open": 1801.5,
+        "eod_high": 1827.4000244140625,
+        "eod_low": 1797.5999755859375,
+        "eod_close": 1825.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1825.0 (+0.7%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 2,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]

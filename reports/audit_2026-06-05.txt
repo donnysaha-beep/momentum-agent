@@ -1,0 +1,59 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, June 05 2026
+  Layer 3 | 07:23 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         ADANIGREEN   | Verdict: TRADE NOW
+               Entry: Rs 1458.15 | Stop: Rs 1431.05 | T1: Rs 1539.02
+               EOD: O:1432.0 H:1529.699951171875 L:1431.0999755859375 C:1525.699951171875
+               Triggered but no target/stop hit — closed at Rs 1525.699951171875 (+4.6%)
+
+  [LOSS]       NESTLEIND    | Verdict: TRADE NOW
+               Entry: Rs 1386.55 | Stop: Rs 1375.05 | T1: Rs 1427.52
+               EOD: O:1386.5 H:1393.0 L:1372.699951171875 C:1391.300048828125
+               Hit stop loss (Rs 1375.05) — -0.83% (clean stop, system worked)
+
+  [MISSED]     FEDERALBNK   | Verdict: WATCH
+               Entry: Rs 300.0 | Stop: Rs 298.6 | T1: Rs 311.13
+               EOD: O:299.70001220703125 H:305.3999938964844 L:295.8999938964844 C:304.70001220703125
+               Entry triggered but no target set — monitor
+
+  [FP]         ADANIPORTS   | Verdict: TRADE NOW
+               Entry: Rs 1812.05 | Stop: Rs 1797.55 | T1: Rs 1876.2
+               EOD: O:1801.5 H:1827.4000244140625 L:1797.5999755859375 C:1825.0
+               Triggered but no target/stop hit — closed at Rs 1825.0 (+0.7%)
+
+=================================================================
+  RUNNING PERFORMANCE (3 days tracked)
+=================================================================
+  Total Trades    : 8
+  Win Rate        : 0.0%
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 7
+  Valid Skips     : 1
+  Missed Trades   : 1
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
