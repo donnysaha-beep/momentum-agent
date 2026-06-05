@@ -1,0 +1,168 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 05, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs23366.7  1D: -0.2%  1W: -0.8%  1M: -4.0%  3M: -8.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+BAJAJ-AUTO     Rs 10342.0   -0.2%   -1.1%    +2.9%   54.5 -0.0x   WATCH NOW
+ADANIGREEN     Rs  1525.7   +7.2%  +11.8%   +15.7%   71.4  2.0x   WATCH
+POLYCAB        Rs  9699.0   -0.2%   +7.7%   +11.7%   73.6  1.6x   WATCH
+COALINDIA      Rs   472.3   -1.9%   +1.2%    +5.2%   56.6  0.7x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs2.9T | P/E: 26.902168
+  Price: Rs10342.0  |  52w range: Rs7896.87 — Rs10658.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.2%  -> RS: +0.0%
+    1W:  -1.1%  vs Nifty -0.8%
+    1M:  -1.1%  vs Nifty -4.0%  -> RS: +2.9% (OUTPERFORMING)
+    3M:  +5.2%  vs Nifty -8.3%  -> RS: +13.5% (OUTPERFORMING)
+    6M:  +15.9%
+
+  TREND HEALTH:
+    RSI: 54.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.27%
+    ATR extension from SMA20: -0.01x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.69x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9990.61 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 3.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Indian tyre maker MRF's quarterly profit more than doubles on higher demand
+    * Bajaj Auto Ltd (BOM:532977) Q3 2026 Earnings Call Highlights: Record Revenue and Strategic ...
+    * Indian e-scooter maker Ather Energy's quarterly loss narrows as sales rise
+    * India's Bajaj Auto quarterly profit rises on higher demand
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.5T | P/E: 157.61363
+  Price: Rs1525.7  |  52w range: Rs772.8 — Rs1525.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +7.2%  vs Nifty -0.2%  -> RS: +7.4% (OUTPERFORMING)
+    1W:  +3.4%  vs Nifty -0.8%
+    1M:  +11.8%  vs Nifty -4.0%  -> RS: +15.7% (OUTPERFORMING)
+    3M:  +61.0%  vs Nifty -8.3%  -> RS: +69.3% (OUTPERFORMING)
+    6M:  +50.8%
+
+  TREND HEALTH:
+    RSI: 71.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.58%
+    ATR extension from SMA20: 2.04x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 2.28x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1443.66 (-5.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (2.28x avg) = conviction
+    [~] Extended 2.04x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Indian magnate Adani agrees multi-million-dollar penalty in US court case
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+
+-----------------------------------------------------------------
+
+  POLYCAB — Polycab India Limited
+  Industrials | Rs1.5T | P/E: 54.839985
+  Price: Rs9699.0  |  52w range: Rs5789.6 — Rs9717.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.2%  -> RS: +0.0%
+    1W:  +2.3%  vs Nifty -0.8%
+    1M:  +7.7%  vs Nifty -4.0%  -> RS: +11.7% (OUTPERFORMING)
+    3M:  +12.6%  vs Nifty -8.3%  -> RS: +20.9% (OUTPERFORMING)
+    6M:  +30.4%
+
+  TREND HEALTH:
+    RSI: 73.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.16%
+    ATR extension from SMA20: 1.63x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.89x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9384.13 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.2% of 52w high (breakout zone)
+    [~] Extended 1.63x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Polycab India Ltd (BOM:542652) Q3 2026 Earnings Call Highlights: Record Revenue Growth and ...
+    * Polycab India's third-quarter profit jumps on sustained demand for wires, cables
+    * Polycab India Ltd (BOM:542652) Q2 2026 Earnings Call Highlights: Record Profit and Robust ...
+
+-----------------------------------------------------------------
+
+  COALINDIA — Coal India Limited
+  Energy | Rs2.9T | P/E: 9.35618
+  Price: Rs472.3  |  52w range: Rs348.03 — Rs481.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.9%  vs Nifty -0.2%  -> RS: -1.7% (UNDERPERFORMING)
+    1W:  +3.1%  vs Nifty -0.8%
+    1M:  +1.2%  vs Nifty -4.0%  -> RS: +5.2% (OUTPERFORMING)
+    3M:  +9.7%  vs Nifty -8.3%  -> RS: +18.0% (OUTPERFORMING)
+    6M:  +29.3%
+
+  TREND HEALTH:
+    RSI: 56.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.82%
+    ATR extension from SMA20: 0.66x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.44x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs452.34 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.9% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * India to sell up to 2% stake in Coal India via offer for sale
+    * Coal India asks units to ramp up supplies as heatwave fuels record power demand
+    * India likely to divest stake worth $1.06 billion in state-run Coal India, CNBC-TV18 reports
+    * Basic Materials Roundup: Market Talk
+    * Lithium bulls set to gatecrash Chile's copper party
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
