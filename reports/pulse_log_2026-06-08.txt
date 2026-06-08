@@ -18,3 +18,7 @@
 [18:14] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
   ! Nifty below VWAP — weakening
   ! VIX SPIKE +8.2% intraday — fear entering market
+
+[18:35] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
+  ! Nifty below VWAP — weakening
+  ! VIX SPIKE +8.2% intraday — fear entering market
