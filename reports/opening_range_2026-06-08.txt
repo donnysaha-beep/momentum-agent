@@ -1,0 +1,143 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, June 08 2026 04:58 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23103.7  |  Gap: -1.2%  |  VWAP: nan
+  ORB: 23071.5 — 23184.7
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 1 TRADE NOW | 2 WATCH | 4 WAIT | 8 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [70% probability]
+  TECHM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1500.0
+  Gap from prev  : -1.3%  (prev Rs 1483.5 | opened Rs 1463.9)
+  Opening Range  : Rs 1459.6 — Rs 1490.0  (2.08% wide)
+  VWAP           : Rs 1497.46  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 44.96
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1490.05  (break above ORB high)
+    Target 1 (50%) : Rs 1557.49  (+4.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1602.45  (+7.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1459.55  (-2.0%)  [below ORB low]
+    Risk/Reward    : 1:2.21 (T1)  |  1:3.68 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 26 shares
+    Capital needed : Rs 38,741
+    Max loss       : Rs 793  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  POWERGRID
+  ─────────────────────────────────────────────
+  Current Price  : Rs 290.55
+  Gap from prev  : -0.8%  (prev Rs 285.65 | opened Rs 283.4)
+  Opening Range  : Rs 282.6 — Rs 288.7  (2.16% wide)
+  VWAP           : Rs 289.85  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 6.7
+
+  TRADE PLAN:
+    Entry trigger  : Rs 288.75  (break above ORB high)
+    Target 1 (50%) : Rs 298.81  (+3.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 305.51  (+5.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 282.55  (-2.1%)  [below ORB low]
+    Risk/Reward    : 1:1.62 (T1)  |  1:2.7 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 138 shares
+    Capital needed : Rs 39,848
+    Max loss       : Rs 856  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  HAL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 4226.1
+  Gap from prev  : -1.2%  (prev Rs 4216.9 | opened Rs 4167.9)
+  Opening Range  : Rs 4150.0 — Rs 4200.0  (1.2% wide)
+  VWAP           : Rs 4219.28  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 110.1
+
+  TRADE PLAN:
+    Entry trigger  : Rs 4200.05  (break above ORB high)
+    Target 1 (50%) : Rs 4365.2  (+3.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 4475.3  (+6.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 4149.95  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:3.3 (T1)  |  1:5.5 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 9 shares
+    Capital needed : Rs 37,800
+    Max loss       : Rs 451  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  PAGEIND  [60%]  |  Rs 38425.0  |  ORB: 37775.0—38160.0  |  VWAP: 38521.11
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  ASIANPAINT  [40%]  |  Rs 2655.2  |  ORB: 2630.1—2659.8  |  VWAP: 2660.31
+    [~] Inside opening range — direction not confirmed yet
+  NESTLEIND  [30%]  |  Rs 1398.9  |  ORB: 1373.9—1401.7  |  VWAP: 1400.82
+    [~] Inside opening range — direction not confirmed yet
+  APOLLOHOSP  [20%]  |  Rs 8355.0  |  ORB: 8212.5—8377.0  |  VWAP: 8408.49
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  GMRAIRPORT  [50%]  |  Rs 100.32
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  MARICO  [40%]  |  Rs 803.65
+    [-] Below VWAP with no breakout — no valid long
+  FEDERALBNK  [30%]  |  Rs 304.15
+    [-] Below VWAP with no breakout — no valid long
+  BANDHANBNK  [30%]  |  Rs 202.91
+    [-] Below VWAP with no breakout — no valid long
+  ADANIGREEN  [30%]  |  Rs 1488.5
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ADANIPORTS  [30%]  |  Rs 1797.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  RBLBANK  [30%]  |  Rs 344.85
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  POLYCAB  [30%]  |  Rs 9459.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
