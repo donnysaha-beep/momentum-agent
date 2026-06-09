@@ -1,0 +1,566 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 09, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs23242.1  1D: +0.5%  1W: -1.0%  1M: -3.9%  3M: -7.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+POLYCAB        Rs  9615.5   +1.3%   +6.1%    +9.9%   66.0  0.9x   WATCH NOW
+ASIANPAINT     Rs  2708.1   +1.8%   +5.5%    +9.4%   66.0  1.0x   WATCH NOW
+ADANIPORTS     Rs  1826.4   +1.2%   +3.3%    +7.2%   62.2  0.7x   WATCH NOW
+BANDHANBNK     Rs   206.9   +2.0%   +2.8%    +6.7%   61.9  1.1x   WATCH NOW
+MARICO         Rs   813.2   +0.5%   -3.5%    +0.4%   49.9 -0.7x   WATCH NOW
+NESTLEIND      Rs  1410.4   +0.8%   -4.8%    -1.0%   51.7 -0.3x   WATCH NOW
+HAL            Rs  4263.8   +0.6%  -10.3%    -6.5%   44.3 -0.8x   WATCH NOW
+ADANIGREEN     Rs  1534.5   +3.0%  +10.6%   +14.4%   68.7  1.9x   WATCH
+PAGEIND        Rs 38905.0   +0.9%   +7.8%   +11.6%   60.8  1.0x   WATCH
+RBLBANK        Rs   361.0   +4.7%   +7.0%   +10.8%   64.4  1.9x   WATCH
+APOLLOHOSP     Rs  8524.0   +2.0%   +5.5%    +9.3%   69.2  1.8x   WATCH
+GMRAIRPORT     Rs   102.6   +2.3%   +4.6%    +8.5%   61.1  1.5x   WATCH
+TECHM          Rs  1483.8   -1.3%   +1.8%    +5.7%   52.8  0.6x   WATCH
+POWERGRID      Rs   285.7   -1.6%   -8.1%    -4.2%   37.9 -1.2x   WATCH
+FEDERALBNK     Rs   315.1   +3.5%   +7.7%   +11.6%   75.5  3.0x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  POLYCAB — Polycab India Limited
+  Industrials | Rs1.4T | P/E: 54.44482
+  Price: Rs9615.5  |  52w range: Rs5789.6 — Rs9717.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.5%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +0.9%  vs Nifty -1.0%
+    1M:  +6.1%  vs Nifty -3.9%  -> RS: +9.9% (OUTPERFORMING)
+    3M:  +16.1%  vs Nifty -7.7%  -> RS: +23.8% (OUTPERFORMING)
+    6M:  +28.6%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.27%
+    ATR extension from SMA20: 0.95x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.87x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9288.08 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Polycab India Ltd (BOM:542652) Q3 2026 Earnings Call Highlights: Record Revenue Growth and ...
+    * Polycab India's third-quarter profit jumps on sustained demand for wires, cables
+    * Polycab India Ltd (BOM:542652) Q2 2026 Earnings Call Highlights: Record Profit and Robust ...
+
+-----------------------------------------------------------------
+
+  ASIANPAINT — Asian Paints Limited
+  Basic Materials | Rs2.6T | P/E: 59.99336
+  Price: Rs2708.1  |  52w range: Rs2121.3 — Rs2968.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.8%  vs Nifty +0.5%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  +1.8%  vs Nifty -1.0%
+    1M:  +5.5%  vs Nifty -3.9%  -> RS: +9.4% (OUTPERFORMING)
+    3M:  +18.5%  vs Nifty -7.7%  -> RS: +26.2% (OUTPERFORMING)
+    6M:  -5.9%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.26%
+    ATR extension from SMA20: 1.04x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2616.25 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Asian Paints Ltd (BOM:500820) (Q4 FY26) Earnings Call Highlights: Strong Volume Growth and ...
+    * India's Asian Paints beats quarterly profit view on decorative business boost
+    * Berger Paints India's quarterly profit surges on strong volume growth
+    * Indian plastic maker Alternicq says Iran war has pushed up costs
+    * India's Asian Paints posts surprise quarterly profit drop
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.2T | P/E: 31.327616
+  Price: Rs1826.4  |  52w range: Rs1300.3 — Rs1826.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.5%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +0.7%  vs Nifty -1.0%
+    1M:  +3.3%  vs Nifty -3.9%  -> RS: +7.2% (OUTPERFORMING)
+    3M:  +27.3%  vs Nifty -7.7%  -> RS: +35.0% (OUTPERFORMING)
+    6M:  +21.0%
+
+  TREND HEALTH:
+    RSI: 62.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.32%
+    ATR extension from SMA20: 0.71x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.81x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1762.84 (-3.5%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Adani Ports to invest $1.36 billion in Europe expansion
+    * India's Adani Group to streamline internal structure to speed decisions
+    * India's Adani Group outlines restructuring to accelerate growth, Bloomberg News reports
+    * India's Adani Ports sees slower core earnings growth for fiscal 2027
+    * India's Adani Ports posts quarterly profit rise on strong cargo volumes, appoints new CFO
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs333.4B | P/E: 27.264822
+  Price: Rs206.94  |  52w range: Rs135.47 — Rs208.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.0%  vs Nifty +0.5%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +0.3%  vs Nifty -1.0%
+    1M:  +2.8%  vs Nifty -3.9%  -> RS: +6.7% (OUTPERFORMING)
+    3M:  +16.6%  vs Nifty -7.7%  -> RS: +24.3% (OUTPERFORMING)
+    6M:  +38.3%
+
+  TREND HEALTH:
+    RSI: 61.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.81%
+    ATR extension from SMA20: 1.13x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.15x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs198.21 (-4.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.9% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+    * How The Bandhan Bank (NSEI:BANDHANBNK) Story Is Shifting As Fair Value Assumptions Evolve
+    * How Recent Developments Are Shaping The Bandhan Bank (NSEI:BANDHANBNK) Investment Narrative
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.1T | P/E: 59.838116
+  Price: Rs813.2  |  52w range: Rs680.08 — Rs842.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty +0.5%  -> RS: +0.0%
+    1W:  +0.3%  vs Nifty -1.0%
+    1M:  -3.5%  vs Nifty -3.9%  -> RS: +0.4%
+    3M:  +5.4%  vs Nifty -7.7%  -> RS: +13.1% (OUTPERFORMING)
+    6M:  +11.8%
+
+  TREND HEALTH:
+    RSI: 49.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.97%
+    ATR extension from SMA20: -0.71x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs789.2 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Marico expects annual revenue above view on premium push; margin pressure to weigh
+    * India's Marico to buy 60% stake in protein brand Cosmix
+    * Marico snaps up India snacks firm Zea Maize
+    * Marico Ltd (BOM:531642) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst Pricing Challenges
+    * Indian consumer firm Marico beats profit estimates as tax cuts boost demand
+
+-----------------------------------------------------------------
+
+  NESTLEIND — Nestlé India Limited
+  Consumer Defensive | Rs2.7T | P/E: 77.53711
+  Price: Rs1410.4  |  52w range: Rs1083.55 — Rs1486.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.8%  vs Nifty +0.5%  -> RS: +0.3%
+    1W:  +0.8%  vs Nifty -1.0%
+    1M:  -4.8%  vs Nifty -3.9%  -> RS: -1.0% (UNDERPERFORMING)
+    3M:  +13.3%  vs Nifty -7.7%  -> RS: +20.9% (OUTPERFORMING)
+    6M:  +12.0%
+
+  TREND HEALTH:
+    RSI: 51.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.98%
+    ATR extension from SMA20: -0.26x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1368.55 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Nestle India profit jumps 26% on strong demand, shares rise
+    * Nestle India profit jumps 46% as tax cuts boost packaged food demand
+    * Nestle India names insider Edouard Mac Nab new CFO
+    * Nestle India's finance chief to step down
+    * Earnings, demand rebound hopes lift India's Nifty to one-year high
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs2.9T | P/E: 31.245783
+  Price: Rs4263.8  |  52w range: Rs3487.2 — Rs5052.96
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty +0.5%  -> RS: +0.1%
+    1W:  -0.3%  vs Nifty -1.0%
+    1M:  -10.3%  vs Nifty -3.9%  -> RS: -6.5% (UNDERPERFORMING)
+    3M:  +10.0%  vs Nifty -7.7%  -> RS: +17.7% (OUTPERFORMING)
+    6M:  -4.1%
+
+  TREND HEALTH:
+    RSI: 44.3  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.54%
+    ATR extension from SMA20: -0.81x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.51x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4101.09 (-3.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+    * India's Tejas jet-maker HAL calls Dubai crash an isolated occurrence
+    * India's Hindustan Aeronautics posts 11% rise in quarterly profit; key margin contracts 
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.5T | P/E: 158.35915
+  Price: Rs1534.5  |  52w range: Rs772.8 — Rs1534.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.0%  vs Nifty +0.5%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  +5.9%  vs Nifty -1.0%
+    1M:  +10.6%  vs Nifty -3.9%  -> RS: +14.4% (OUTPERFORMING)
+    3M:  +76.0%  vs Nifty -7.7%  -> RS: +83.7% (OUTPERFORMING)
+    6M:  +48.8%
+
+  TREND HEALTH:
+    RSI: 68.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.53%
+    ATR extension from SMA20: 1.92x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.0x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1453.14 (-5.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.92x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Indian magnate Adani agrees multi-million-dollar penalty in US court case
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+
+-----------------------------------------------------------------
+
+  PAGEIND — Page Industries Limited
+  Consumer Cyclical | Rs433.9B | P/E: 56.697124
+  Price: Rs38905.0  |  52w range: Rs30081.74 — Rs48745.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty +0.5%  -> RS: +0.4%
+    1W:  +4.1%  vs Nifty -1.0%
+    1M:  +7.8%  vs Nifty -3.9%  -> RS: +11.6% (OUTPERFORMING)
+    3M:  +25.3%  vs Nifty -7.7%  -> RS: +33.0% (OUTPERFORMING)
+    6M:  +1.7%
+
+  TREND HEALTH:
+    RSI: 60.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.62%
+    ATR extension from SMA20: 1.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.55x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs37377.26 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Page Industries Ltd (BOM:532827) Q4 2026 Earnings Call Highlights: Strong Revenue Growth Amid ...
+    * Jockey India licensee posts 9% in quarterly profit on premium push
+    * Page Industries Ltd (BOM:532827) Q3 2026 Earnings Call Highlights: Resilient Revenue Growth ...
+    * Speedo India licensee posts 7% fall in quarterly profit on labour law charge
+    * Page Industries Ltd (BOM:532827) Q2 2026 Earnings Call Highlights: Navigating Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs223.6B | P/E: 25.657427
+  Price: Rs361.0  |  52w range: Rs216.35 — Rs361.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.7%  vs Nifty +0.5%  -> RS: +4.1% (OUTPERFORMING)
+    1W:  +4.9%  vs Nifty -1.0%
+    1M:  +7.0%  vs Nifty -3.9%  -> RS: +10.8% (OUTPERFORMING)
+    3M:  +17.9%  vs Nifty -7.7%  -> RS: +25.6% (OUTPERFORMING)
+    6M:  +15.8%
+
+  TREND HEALTH:
+    RSI: 64.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.96%
+    ATR extension from SMA20: 1.91x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.2x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs344.99 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.91x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+    * RBL Bank Ltd (BOM:540065) Q4 2026 Earnings Call Highlights: Strong Growth in Advances and ...
+    * India's RBL Bank's quarterly profit jumps on solid loan growth
+    * Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.2T | P/E: 62.94956
+  Price: Rs8524.0  |  52w range: Rs6784.49 — Rs8524.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.0%  vs Nifty +0.5%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +5.4%  vs Nifty -1.0%
+    1M:  +5.5%  vs Nifty -3.9%  -> RS: +9.3% (OUTPERFORMING)
+    3M:  +11.2%  vs Nifty -7.7%  -> RS: +18.9% (OUTPERFORMING)
+    6M:  +16.6%
+
+  TREND HEALTH:
+    RSI: 69.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.97%
+    ATR extension from SMA20: 1.84x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.69x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8272.01 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.84x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+    * India's Apollo Hospitals posts higher quarterly profit, divests fertility business
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q3 2026 Earnings Call Highlights: Strong Revenue ...
+    * Indian shares pause after three-day rally
+
+-----------------------------------------------------------------
+
+  GMRAIRPORT — GMR Airports Limited
+  Industrials | Rs1.1T | P/E: 789.30774
+  Price: Rs102.61  |  52w range: Rs80.55 — Rs108.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty +0.5%  -> RS: +1.8% (OUTPERFORMING)
+    1W:  +4.6%  vs Nifty -1.0%
+    1M:  +4.6%  vs Nifty -3.9%  -> RS: +8.5% (OUTPERFORMING)
+    3M:  +7.8%  vs Nifty -7.7%  -> RS: +15.5% (OUTPERFORMING)
+    6M:  -3.8%
+
+  TREND HEALTH:
+    RSI: 61.1  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 3.09%
+    ATR extension from SMA20: 1.5x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.86x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs97.85 (-4.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * GMR Airports Ltd (BOM:532754) Q4 2026 Earnings Call Highlights: Record Income Growth and First ...
+    * GMR Airports Ltd (BOM:532754) Q3 2026 Earnings Call Highlights: Strong Income Growth Amidst ...
+    * India's GMR Airports plans about $245 million long-term bond sale, sources say
+    * GMR Airports Ltd (BOM:532754) Q2 2026 Earnings Call Highlights: Robust Revenue Growth Amid ...
+    * Corporate bond fundraising in India set to hit new highs as firms chase low-cost capital
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.3T | P/E: 27.416853
+  Price: Rs1483.8  |  52w range: Rs1331.7 — Rs1768.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.3%  vs Nifty +0.5%  -> RS: -1.8% (UNDERPERFORMING)
+    1W:  -5.6%  vs Nifty -1.0%
+    1M:  +1.8%  vs Nifty -3.9%  -> RS: +5.7% (OUTPERFORMING)
+    3M:  +9.8%  vs Nifty -7.7%  -> RS: +17.5% (OUTPERFORMING)
+    6M:  -1.7%
+
+  TREND HEALTH:
+    RSI: 52.8  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 3.13%
+    ATR extension from SMA20: 0.62x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.48x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1414.08 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * How The Investment Story Is Shifting For Tech Mahindra (NSEI:TECHM) After A Fair Value Reset
+    * India's Tech Mahindra beats quarterly revenue view on manufacturing, banking strength
+    * How The Tech Mahindra (NSEI:TECHM) Investment Story Is Shifting With A New Fair Value View
+    * An AI jobs apocalypse? The CEO of Tech Mahindra is not so sure
+    * Orange Business partners with Tech Mahindra for enterprise digital solutions
+
+-----------------------------------------------------------------
+
+  POWERGRID — Power Grid Corporation of India Limited
+  Utilities | Rs2.7T | P/E: 14.199801
+  Price: Rs285.7  |  52w range: Rs251.23 — Rs320.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.6%  vs Nifty +0.5%  -> RS: -2.1% (UNDERPERFORMING)
+    1W:  +1.3%  vs Nifty -1.0%
+    1M:  -8.1%  vs Nifty -3.9%  -> RS: -4.2% (UNDERPERFORMING)
+    3M:  -2.1%  vs Nifty -7.7%  -> RS: +5.5% (OUTPERFORMING)
+    6M:  +5.6%
+
+  TREND HEALTH:
+    RSI: 37.9  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.45%
+    ATR extension from SMA20: -1.16x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.55x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs275.19 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * GE Vernova to Modernize a Key High-Voltage Power Transmission Link in India
+    * KETRACO signs PPP for two high-voltage electricity transmission lines in Kenya
+    * Kenya signs $311 million power lines deal with Africa fund, Indian firm
+    * Power Grid Corp Of India Ltd (BOM:532898) Q2 2026 Earnings Call Highlights: Strong Operational ...
+    * India's Power Grid Corp posts profit decline due on higher expenses, delayed projects
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs776.7B | P/E: 18.026316
+  Price: Rs315.1  |  52w range: Rs189.9 — Rs315.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.5%  vs Nifty +0.5%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  +7.5%  vs Nifty -1.0%
+    1M:  +7.7%  vs Nifty -3.9%  -> RS: +11.6% (OUTPERFORMING)
+    3M:  +10.0%  vs Nifty -7.7%  -> RS: +17.7% (OUTPERFORMING)
+    6M:  +23.6%
+
+  TREND HEALTH:
+    RSI: 75.5  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.48%
+    ATR extension from SMA20: 3.05x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.71x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs303.36 (-3.7%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 3.05x from SMA20 — wait for pullback
+    [-] Severely extended (3.05x ATR from SMA20)
+
+  RECENT NEWS:
+    * Four Indian stocks added, four excluded from key global index in MSCI's May rejig
+    * Federal Bank to buy StanChart India credit card book
+    * StanChart to sell bulk of Indian credit cards to Federal Bank
+    * The Federal Bank Ltd (BOM:500469) Q4 2026 Earnings Call Highlights: Record Profit and Strategic ...
+    * How The Story Around Federal Bank (NSEI:FEDERALBNK) Is Evolving As Fair Value Holds Steady
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
