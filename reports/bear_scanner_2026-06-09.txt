@@ -1,0 +1,71 @@
+=================================================================
+  BEAR SCANNER — Tuesday, June 09 2026 02:01 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23254.8  |  Gap: +0.7%  |  VWAP: nan
+  ORB: 23199.0 — 23259.05
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 15 SKIP
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  EICHERMOT  [60%]  |  Rs 7185.0
+    [-] Stock holding above ORB low — no breakdown yet
+  POLYCAB  [40%]  |  Rs 9615.5
+    [-] Stock holding above ORB low — no breakdown yet
+  GRASIM  [40%]  |  Rs 3095.5
+    [-] Stock holding above ORB low — no breakdown yet
+  NYKAA  [40%]  |  Rs 266.0
+    [-] Stock holding above ORB low — no breakdown yet
+  DIVISLAB  [30%]  |  Rs 6759.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  RBLBANK  [30%]  |  Rs 361.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIPORTS  [30%]  |  Rs 1826.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ASIANPAINT  [30%]  |  Rs 2708.1
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PIDILITIND  [30%]  |  Rs 1485.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  FEDERALBNK  [30%]  |  Rs 315.55
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BANDHANBNK  [20%]  |  Rs 208.24
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIGREEN  [20%]  |  Rs 1531.3
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  APOLLOHOSP  [20%]  |  Rs 8526.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  GMRAIRPORT  [20%]  |  Rs 102.68
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  AUBANK  [20%]  |  Rs 978.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
