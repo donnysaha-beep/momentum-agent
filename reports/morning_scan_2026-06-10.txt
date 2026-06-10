@@ -1,0 +1,187 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, June 10 2026 02:33 PM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23214.95  | Today: -0.1%  | 1W: -0.8%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 15.63  (+0.3%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : FMCG (+1.2%) | Pharma (-0.3%) | Auto (-0.3%)
+  Lagging : Energy (-1.6%) | Metals (-2.0%) | Finance (-2.9%)
+
+Found 62 momentum stocks → 28 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    NESTLEIND    Rs  1438.3   +2.0%   59.9   1.1x   -3.2%   +2.1%  0.8x    9/10   A+
+2    PIDILITIND   Rs  1506.5   +1.7%   64.3   2.2x   -3.6%   +1.8%  1.1x    9/10   A+
+3    AXISBANK     Rs  1314.5   +1.7%   59.9   1.8x   -6.3%   +1.8%  1.5x    8/10   A+
+4    ASIANPAINT   Rs  2715.1   +0.3%   66.7   1.1x   -8.5%   +0.4%  1.1x    8/10   A+
+5    KOTAKBANK    Rs   388.1   +1.7%   56.5   1.4x  -12.9%   +1.8%  0.5x    7/10   A
+6    COLPAL       Rs  2056.3   +1.6%   50.4   2.5x  -14.7%   +1.7% -0.2x    7/10   A
+7    MARICO       Rs   819.9   +0.8%   53.9   1.4x   -2.7%   +0.9% -0.2x    7/10   A
+8    JSWSTEEL     Rs  1269.8   +0.6%   47.2   1.6x   -3.3%   +0.8% -0.7x    7/10   A
+9    SUNPHARMA    Rs  1786.4   +0.4%   44.3   0.7x   -6.3%   +0.5% -1.2x    7/10   A
+10   ADANIPORTS   Rs  1821.2   -0.3%   61.1   1.3x   -0.3%   -0.2%  0.5x    7/10   A
+11   APOLLOHOSP   Rs  8488.5   -0.4%   66.9   1.0x   -0.4%   -0.3%  1.5x    7/10   A
+12   RBLBANK      Rs   356.9   -1.1%   61.0   1.4x   -1.1%   -1.0%  1.4x    7/10   A
+13   NYKAA        Rs   262.4   -1.7%   45.7   1.8x   -6.5%   -1.6% -0.8x    7/10   A
+14   ADANIGREEN   Rs  1483.0   -3.4%   60.5   0.7x   -3.4%   -3.2%  0.8x    7/10   A
+15   HINDUNILVR   Rs  2169.5   +1.7%   48.8   1.0x  -18.8%   +1.8% -0.1x    6/10   A
+16   ICICIBANK    Rs  1293.3   +1.4%   57.9   1.6x  -12.4%   +1.6%  1.4x    6/10   A
+17   DABUR        Rs   427.9   +0.4%   41.0   1.0x  -22.2%   +0.5% -1.2x    6/10   A
+18   DRREDDY      Rs  1271.7   +0.2%   43.7   0.6x   -6.1%   +0.4% -1.1x    6/10   A
+19   TATACONSUM   Rs  1108.0   +0.1%   35.7   1.1x  -12.1%   +0.2% -2.2x    6/10   A
+20   CIPLA        Rs  1377.0   +0.0%   53.5   0.5x  -16.5%   +0.1% -0.6x    6/10   A
+21   GRASIM       Rs  3071.2   -0.8%   56.4   0.8x   -3.2%   -0.7% -0.1x    6/10   A
+22   POLYCAB      Rs  9523.5   -1.0%   61.7   1.5x   -2.0%   -0.8%  0.4x    6/10   A
+23   FEDERALBNK   Rs   311.1   -1.3%   69.0   0.3x   -1.3%   -1.1%  2.4x    6/10   A
+24   ADANIENT     Rs  2931.1   -1.6%   62.7   0.5x   -3.8%   -1.5%  0.7x    6/10   A
+25   GMRAIRPORT   Rs   100.9   -1.6%   56.3   0.7x   -6.9%   -1.5%  0.9x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  NESTLEIND (FMCG) — Rs1438.3 | Grade A+ | 9/10
+  52w: Rs1083.55 — Rs1486.1 | ATR: 2.03%/day | Ext: 0.76x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.1%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PIDILITIND (Consumer) — Rs1506.5 | Grade A+ | 9/10
+  52w: Rs1273.6 — Rs1563.5 | ATR: 2.05%/day | Ext: 1.12x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  AXISBANK (Banking) — Rs1314.5 | Grade A+ | 8/10
+  52w: Rs1045.2 — Rs1403.0 | ATR: 2.08%/day | Ext: 1.53x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ASIANPAINT (Consumer) — Rs2715.1 | Grade A+ | 8/10
+  52w: Rs2121.3 — Rs2968.5 | ATR: 2.21%/day | Ext: 1.1x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs388.1 | Grade A | 7/10
+  52w: Rs353.4 — Rs445.35 | ATR: 2.16%/day | Ext: 0.5x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  COLPAL (FMCG) — Rs2056.3 | Grade A | 7/10
+  52w: Rs1767.86 — Rs2410.6 | ATR: 2.29%/day | Ext: -0.25x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.7%)
+    [+] Not ATR-extended (-0.2x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MARICO (FMCG) — Rs819.9 | Grade A | 7/10
+  52w: Rs680.08 — Rs842.55 | ATR: 2.02%/day | Ext: -0.24x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (-0.2x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  JSWSTEEL (Metals) — Rs1269.8 | Grade A | 7/10
+  52w: Rs983.7 — Rs1312.9 | ATR: 2.11%/day | Ext: -0.73x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.8%)
+    [+] Not ATR-extended (-0.7x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SUNPHARMA (Pharma) — Rs1786.4 | Grade A | 7/10
+  52w: Rs1553.21 — Rs1905.8 | ATR: 1.99%/day | Ext: -1.24x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (-1.2x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1821.2 | Grade A | 7/10
+  52w: Rs1300.3 — Rs1826.4 | ATR: 2.34%/day | Ext: 0.49x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.2%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
