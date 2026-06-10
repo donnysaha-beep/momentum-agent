@@ -1,0 +1,77 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, June 10 2026 04:48 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23216.1  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 23220.55 — 23350.05
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 4 WAIT | 11 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  JSWSTEEL  [60%]  |  Rs 1269.8  |  ORB: 1255.3—1262.6  |  VWAP: 1278.63
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  AXISBANK  [50%]  |  Rs 1314.0  |  ORB: 1286.0—1301.7  |  VWAP: 1315.07
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  SUNPHARMA  [50%]  |  Rs 1786.4  |  ORB: 1771.4—1781.4  |  VWAP: 1786.83
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  KOTAKBANK  [40%]  |  Rs 388.1  |  ORB: 381.1—387.35  |  VWAP: 388.59
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  MARICO  [50%]  |  Rs 819.9
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  NESTLEIND  [40%]  |  Rs 1437.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  PIDILITIND  [40%]  |  Rs 1506.5
+    [-] Nifty broke its own ORB low — avoid all longs
+  ADANIPORTS  [40%]  |  Rs 1820.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  RBLBANK  [40%]  |  Rs 356.95
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [40%]  |  Rs 262.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  HINDUNILVR  [40%]  |  Rs 2169.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ASIANPAINT  [30%]  |  Rs 2715.1
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  COLPAL  [30%]  |  Rs 2058.2
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  APOLLOHOSP  [30%]  |  Rs 8488.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ADANIGREEN  [30%]  |  Rs 1485.9
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
