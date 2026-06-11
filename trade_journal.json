@@ -399,5 +399,88 @@
       "missed_trades": 5,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-06-11",
+    "trades": [
+      {
+        "ticker": "AUBANK",
+        "entry": 959.75,
+        "target1": 995.54,
+        "target2": 1019.41,
+        "stop": 947.55,
+        "verdict": "TRADE NOW",
+        "eod_open": 953.0499877929688,
+        "eod_high": 972.2999877929688,
+        "eod_low": 947.5999755859375,
+        "eod_close": 968.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 968.0 (+0.9%)"
+      },
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 1272.65,
+        "target1": 1311.81,
+        "target2": 1337.92,
+        "stop": 1261.05,
+        "verdict": "WATCH",
+        "eod_open": 1265.0999755859375,
+        "eod_high": 1292.800048828125,
+        "eod_low": 1261.0999755859375,
+        "eod_close": 1282.300048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "MANAPPURAM",
+        "entry": 286.75,
+        "target1": 302.08,
+        "target2": 312.3,
+        "stop": 282.65,
+        "verdict": "WATCH",
+        "eod_open": 285.5,
+        "eod_high": 293.3500061035156,
+        "eod_low": 282.70001220703125,
+        "eod_close": 292.3500061035156,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8531.05,
+        "target1": 8767.58,
+        "target2": 8925.27,
+        "stop": 8442.45,
+        "verdict": "WATCH",
+        "eod_open": 8460.5,
+        "eod_high": 8531.0,
+        "eod_low": 8429.0,
+        "eod_close": 8493.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "NMDC",
+        "entry": 88.62,
+        "target1": 92.64,
+        "target2": 95.32,
+        "stop": 87.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 88.11000061035156,
+        "eod_high": 88.98999786376953,
+        "eod_low": 87.5,
+        "eod_close": 88.47000122070312,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 88.47000122070312 (-0.2%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 2,
+      "valid_skips": 1,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
