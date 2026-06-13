@@ -1,0 +1,558 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 13, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs23622.9  1D: +2.0%  1W: +1.1%  1M: +0.9%  3M: -4.6%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+BANDHANBNK     Rs   204.6   +5.5%   +2.8%    +1.9%   55.8  0.6x   WATCH NOW
+ADANIPORTS     Rs  1812.9   +1.9%   +2.7%    +1.8%   59.0  0.4x   WATCH NOW
+AUBANK         Rs  1015.5   +5.4%   +1.1%    +0.2%   58.3  1.3x   WATCH NOW
+NYKAA          Rs   273.5   +5.1%   +0.2%    -0.7%   57.2  0.8x   WATCH NOW
+CHOLAFIN       Rs  1568.1   +7.8%   +0.1%    -0.8%   55.1  1.0x   WATCH NOW
+IIFL           Rs   518.9   +5.7%  +12.9%   +12.0%   61.0  1.7x   WATCH
+RBLBANK        Rs   365.9   +1.9%   +8.5%    +7.6%   65.5  1.9x   WATCH
+ADANIENT       Rs  2921.6   +0.5%   +7.7%    +6.8%   61.4  0.4x   WATCH
+PAGEIND        Rs 38625.0   +2.3%   +7.3%    +6.4%   56.9  0.4x   WATCH
+GMRAIRPORT     Rs   103.7   +3.5%   +7.1%    +6.2%   61.2  1.6x   WATCH
+KOTAKBANK      Rs   403.3   +2.5%   +5.2%    +4.3%   67.6  2.0x   WATCH
+ADANIGREEN     Rs  1485.7   +2.1%   +5.0%    +4.1%   59.7  0.8x   WATCH
+ASIANPAINT     Rs  2747.4   +2.1%   +4.8%    +3.9%   67.8  1.5x   WATCH
+LT             Rs  4049.3   +4.8%   +3.8%    +2.9%   58.3  1.1x   WATCH
+PIDILITIND     Rs  1535.5   +2.5%   +3.5%    +2.6%   68.5  1.9x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs329.6B | P/E: 26.956522
+  Price: Rs204.6  |  52w range: Rs135.47 — Rs208.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.5%  vs Nifty +2.0%  -> RS: +3.5% (OUTPERFORMING)
+    1W:  -0.6%  vs Nifty +1.1%
+    1M:  +2.8%  vs Nifty +0.9%  -> RS: +1.9% (OUTPERFORMING)
+    3M:  +17.5%  vs Nifty -4.6%  -> RS: +22.1% (OUTPERFORMING)
+    6M:  +36.6%
+
+  TREND HEALTH:
+    RSI: 55.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.27%
+    ATR extension from SMA20: 0.56x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.18x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs194.57 (-4.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+    * How The Bandhan Bank (NSEI:BANDHANBNK) Story Is Shifting As Fair Value Assumptions Evolve
+    * How Recent Developments Are Shaping The Bandhan Bank (NSEI:BANDHANBNK) Investment Narrative
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.2T | P/E: 31.154839
+  Price: Rs1812.9  |  52w range: Rs1294.84 — Rs1818.74
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty +2.0%  -> RS: -0.1%
+    1W:  -0.2%  vs Nifty +1.1%
+    1M:  +2.7%  vs Nifty +0.9%  -> RS: +1.8% (OUTPERFORMING)
+    3M:  +28.1%  vs Nifty -4.6%  -> RS: +32.7% (OUTPERFORMING)
+    6M:  +19.9%
+
+  TREND HEALTH:
+    RSI: 59.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.32%
+    ATR extension from SMA20: 0.43x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.17x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1749.82 (-3.5%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.3% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Adani Ports to invest $1.36 billion in Europe expansion
+    * India's Adani Group to streamline internal structure to speed decisions
+    * India's Adani Group outlines restructuring to accelerate growth, Bloomberg News reports
+    * India's Adani Ports sees slower core earnings growth for fiscal 2027
+    * India's Adani Ports posts quarterly profit rise on strong cargo volumes, appoints new CFO
+
+-----------------------------------------------------------------
+
+  AUBANK — AU Small Finance Bank Limited
+  Financial Services | Rs760.0B | P/E: 28.989439
+  Price: Rs1015.5  |  52w range: Rs694.3 — Rs1065.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.4%  vs Nifty +2.0%  -> RS: +3.4% (OUTPERFORMING)
+    1W:  +4.8%  vs Nifty +1.1%
+    1M:  +1.1%  vs Nifty +0.9%  -> RS: +0.2%
+    3M:  +9.0%  vs Nifty -4.6%  -> RS: +13.6% (OUTPERFORMING)
+    6M:  +6.5%
+
+  TREND HEALTH:
+    RSI: 58.3  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 2.72%
+    ATR extension from SMA20: 1.3x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.35x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs974.05 (-4.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.35x avg) = conviction
+
+  RECENT NEWS:
+    * Some lenders hike rates on FX deposits for non-resident Indians
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q4 2026 Earnings Call Highlights: Robust Profit Growth ...
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q3 2026 Earnings Call Highlights: Robust Growth in ...
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q2 2026 Earnings Call Highlights: Strong Growth in ...
+    * India's AU Small Finance Bank gets first universal banking licence in a decade
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs783.3B | P/E: 385.21127
+  Price: Rs273.5  |  52w range: Rs193.99 — Rs280.69
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.1%  vs Nifty +2.0%  -> RS: +3.1% (OUTPERFORMING)
+    1W:  +4.3%  vs Nifty +1.1%
+    1M:  +0.2%  vs Nifty +0.9%  -> RS: -0.7% (UNDERPERFORMING)
+    3M:  +9.5%  vs Nifty -4.6%  -> RS: +14.2% (OUTPERFORMING)
+    6M:  +4.5%
+
+  TREND HEALTH:
+    RSI: 57.2  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.73%
+    ATR extension from SMA20: 0.78x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.66x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs262.29 (-4.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.6% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * India's Nykaa posts profit surge on strong demand for beauty products
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Q3 2026 Earnings Call Highlights: Record Growth and ...
+    * Nykaa's profit more than doubles amid beauty demand surge in India
+
+-----------------------------------------------------------------
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.3T | P/E: 25.382
+  Price: Rs1568.1  |  52w range: Rs1354.7 — Rs1804.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  +7.8%  vs Nifty +2.0%  -> RS: +5.8% (OUTPERFORMING)
+    1W:  +4.3%  vs Nifty +1.1%
+    1M:  +0.1%  vs Nifty +0.9%  -> RS: -0.8% (UNDERPERFORMING)
+    3M:  -0.9%  vs Nifty -4.6%  -> RS: +3.7% (OUTPERFORMING)
+    6M:  -8.3%
+
+  TREND HEALTH:
+    RSI: 55.1  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): 3.37%
+    ATR extension from SMA20: 0.97x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.36x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1488.94 (-5.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.36x avg) = conviction
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
+
+-----------------------------------------------------------------
+
+  IIFL — IIFL Finance Limited
+  Financial Services | Rs220.7B | P/E: 13.387514
+  Price: Rs518.9  |  52w range: Rs416.27 — Rs660.26
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.7%  vs Nifty +2.0%  -> RS: +3.7% (OUTPERFORMING)
+    1W:  +0.4%  vs Nifty +1.1%
+    1M:  +12.9%  vs Nifty +0.9%  -> RS: +12.0% (OUTPERFORMING)
+    3M:  +10.1%  vs Nifty -4.6%  -> RS: +14.7% (OUTPERFORMING)
+    6M:  -10.0%
+
+  TREND HEALTH:
+    RSI: 61.0  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 3.91%
+    ATR extension from SMA20: 1.71x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.85x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs488.48 (-5.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.71x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * India's IIFL Finance revives dollar-bond plan, to meet investors, sources say
+    * India's IIFL Finance set to launch its largest public bond sale, sources say
+    * IIFL Finance Ltd (BOM:532636) Q3 2026 Earnings Call Highlights: Robust Growth in Gold Loans and ...
+    * Knight FinTech raises $23.6m in Accel-led Series A round
+    * IIFL Finance Ltd (BOM:532636) Q2 2026 Earnings Call Highlights: Robust Profit Growth Amid Asset ...
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs226.6B | P/E: 25.965223
+  Price: Rs365.85  |  52w range: Rs216.35 — Rs365.85
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty +2.0%  -> RS: -0.1%
+    1W:  +4.1%  vs Nifty +1.1%
+    1M:  +8.5%  vs Nifty +0.9%  -> RS: +7.6% (OUTPERFORMING)
+    3M:  +22.8%  vs Nifty -4.6%  -> RS: +27.4% (OUTPERFORMING)
+    6M:  +21.0%
+
+  TREND HEALTH:
+    RSI: 65.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.01%
+    ATR extension from SMA20: 1.92x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.95x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs349.34 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.92x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+    * RBL Bank Ltd (BOM:540065) Q4 2026 Earnings Call Highlights: Strong Growth in Advances and ...
+    * India's RBL Bank's quarterly profit jumps on solid loan growth
+    * Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.0T | P/E: 39.684868
+  Price: Rs2921.6  |  52w range: Rs1758.01 — Rs3046.84
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty +2.0%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  -4.1%  vs Nifty +1.1%
+    1M:  +7.7%  vs Nifty +0.9%  -> RS: +6.8% (OUTPERFORMING)
+    3M:  +46.2%  vs Nifty -4.6%  -> RS: +50.8% (OUTPERFORMING)
+    6M:  +30.5%
+
+  TREND HEALTH:
+    RSI: 61.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.88%
+    ATR extension from SMA20: 0.41x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.99x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2795.44 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Adani Group stocks rise after US drops fraud charges against Gautam Adani
+    * India's Adani to pay $275 mn settlement to US over alleged Iran sanctions violations
+    * Justice Department Drops Criminal Case Against Indian Billionaire Gautam Adani
+    * Adani group stocks rise on reports US close to dropping charges against Gautam Adani
+    * Adani Enterprises Ltd (BOM:512599) Q4 2026 Earnings Call Highlights: Strong Financial ...
+
+-----------------------------------------------------------------
+
+  PAGEIND — Page Industries Limited
+  Consumer Cyclical | Rs430.8B | P/E: 56.497383
+  Price: Rs38625.0  |  52w range: Rs30081.74 — Rs48745.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty +2.0%  -> RS: +0.3%
+    1W:  +0.7%  vs Nifty +1.1%
+    1M:  +7.3%  vs Nifty +0.9%  -> RS: +6.4% (OUTPERFORMING)
+    3M:  +22.7%  vs Nifty -4.6%  -> RS: +27.4% (OUTPERFORMING)
+    6M:  +1.6%
+
+  TREND HEALTH:
+    RSI: 56.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.7%
+    ATR extension from SMA20: 0.42x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.4x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs37059.09 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Page Industries Ltd (BOM:532827) Q4 2026 Earnings Call Highlights: Strong Revenue Growth Amid ...
+    * Jockey India licensee posts 9% in quarterly profit on premium push
+    * Page Industries Ltd (BOM:532827) Q3 2026 Earnings Call Highlights: Resilient Revenue Growth ...
+    * Speedo India licensee posts 7% fall in quarterly profit on labour law charge
+    * Page Industries Ltd (BOM:532827) Q2 2026 Earnings Call Highlights: Navigating Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  GMRAIRPORT — GMR Airports Limited
+  Industrials | Rs1.1T | P/E: 797.30774
+  Price: Rs103.65  |  52w range: Rs80.55 — Rs108.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.5%  vs Nifty +2.0%  -> RS: +1.6% (OUTPERFORMING)
+    1W:  +1.6%  vs Nifty +1.1%
+    1M:  +7.1%  vs Nifty +0.9%  -> RS: +6.2% (OUTPERFORMING)
+    3M:  +12.6%  vs Nifty -4.6%  -> RS: +17.2% (OUTPERFORMING)
+    6M:  -2.8%
+
+  TREND HEALTH:
+    RSI: 61.2  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 3.01%
+    ATR extension from SMA20: 1.63x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.8x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs98.98 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.63x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * GMR Airports Ltd (BOM:532754) Q4 2026 Earnings Call Highlights: Record Income Growth and First ...
+    * GMR Airports Ltd (BOM:532754) Q3 2026 Earnings Call Highlights: Strong Income Growth Amidst ...
+    * India's GMR Airports plans about $245 million long-term bond sale, sources say
+    * GMR Airports Ltd (BOM:532754) Q2 2026 Earnings Call Highlights: Robust Revenue Growth Amid ...
+    * Corporate bond fundraising in India set to hit new highs as firms chase low-cost capital
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.0T | P/E: 20.78866
+  Price: Rs403.3  |  52w range: Rs353.4 — Rs445.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.5%  vs Nifty +2.0%  -> RS: +0.5% (OUTPERFORMING)
+    1W:  +6.8%  vs Nifty +1.1%
+    1M:  +5.2%  vs Nifty +0.9%  -> RS: +4.3% (OUTPERFORMING)
+    3M:  +4.4%  vs Nifty -4.6%  -> RS: +9.0% (OUTPERFORMING)
+    6M:  -5.9%
+
+  TREND HEALTH:
+    RSI: 67.6  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.24%
+    ATR extension from SMA20: 2.0x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.15x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs389.73 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Extended 2.0x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * SoftBank sells 3% stake in India's Lenskart
+    * Kotak Mahindra Bank weighs Deutsche Bank retail unit
+    * India's Kotak Mahindra Bank beats profit estimates on strong loan growth
+    * StanChart to sell bulk of Indian credit cards to Federal Bank
+    * Indo-Pacific Defence: the top-performing defence trade in Europe - and most investors are missing it
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.4T | P/E: 153.79916
+  Price: Rs1485.7  |  52w range: Rs772.8 — Rs1534.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty +2.0%  -> RS: +0.2%
+    1W:  -2.6%  vs Nifty +1.1%
+    1M:  +5.0%  vs Nifty +0.9%  -> RS: +4.1% (OUTPERFORMING)
+    3M:  +73.9%  vs Nifty -4.6%  -> RS: +78.6% (OUTPERFORMING)
+    6M:  +45.3%
+
+  TREND HEALTH:
+    RSI: 59.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.55%
+    ATR extension from SMA20: 0.79x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.5x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1406.49 (-5.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Indian magnate Adani agrees multi-million-dollar penalty in US court case
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+
+-----------------------------------------------------------------
+
+  ASIANPAINT — Asian Paints Limited
+  Basic Materials | Rs2.6T | P/E: 60.972034
+  Price: Rs2747.4  |  52w range: Rs2121.3 — Rs2968.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty +2.0%  -> RS: +0.1%
+    1W:  +2.3%  vs Nifty +1.1%
+    1M:  +4.8%  vs Nifty +0.9%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  +23.7%  vs Nifty -4.6%  -> RS: +28.3% (OUTPERFORMING)
+    6M:  -7.0%
+
+  TREND HEALTH:
+    RSI: 67.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.15%
+    ATR extension from SMA20: 1.48x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.84x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2658.75 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Asian Paints Ltd (BOM:500820) (Q4 FY26) Earnings Call Highlights: Strong Volume Growth and ...
+    * India's Asian Paints beats quarterly profit view on decorative business boost
+    * Berger Paints India's quarterly profit surges on strong volume growth
+    * Indian plastic maker Alternicq says Iran war has pushed up costs
+    * India's Asian Paints posts surprise quarterly profit drop
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.6T | P/E: 34.60349
+  Price: Rs4049.3  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.8%  vs Nifty +2.0%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  +2.4%  vs Nifty +1.1%
+    1M:  +3.8%  vs Nifty +0.9%  -> RS: +2.9% (OUTPERFORMING)
+    3M:  +6.4%  vs Nifty -4.6%  -> RS: +11.0% (OUTPERFORMING)
+    6M:  +1.4%
+
+  TREND HEALTH:
+    RSI: 58.3  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.04%
+    ATR extension from SMA20: 1.1x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.63x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3925.19 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's L&T to invest nearly $2 billion in Tamil Nadu, state government says
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.6T | P/E: 64.11273
+  Price: Rs1535.5  |  52w range: Rs1273.6 — Rs1563.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.5%  vs Nifty +2.0%  -> RS: +0.5%
+    1W:  +4.0%  vs Nifty +1.1%
+    1M:  +3.5%  vs Nifty +0.9%  -> RS: +2.6% (OUTPERFORMING)
+    3M:  +10.8%  vs Nifty -4.6%  -> RS: +15.4% (OUTPERFORMING)
+    6M:  +4.5%
+
+  TREND HEALTH:
+    RSI: 68.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.07%
+    ATR extension from SMA20: 1.87x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.5x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1487.82 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.8% of 52w high (breakout zone)
+    [~] Extended 1.87x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
