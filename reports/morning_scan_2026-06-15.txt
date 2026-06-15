@@ -1,0 +1,182 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Monday, June 15 2026 06:54 PM
+=================================================================
+
+MARKET REGIME: BULL  [GO]
+  Nifty 50:  Rs23622.9  | Today: +2.0%  | 1W: +1.1%
+  EMA20: ABOVE  | EMA50: BELOW
+  India VIX: 14.72  (-5.7%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
+  Lagging : Electricals (+nan%) | NewEconomy (+nan%) | PSU (+nan%)
+
+Found 51 momentum stocks → 20 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    ASIANPAINT   Rs     nan   +nan%   67.8   2.0x   +nan%   +0.1%  0.0x    7/10   A
+2    CHOLAFIN     Rs     nan   +nan%   55.1   2.8x   +nan%   +5.8%  0.0x    6/10   A
+3    NYKAA        Rs     nan   +nan%   57.2   0.8x   +nan%   +3.1%  0.0x    6/10   A
+4    LT           Rs     nan   +nan%   58.3   2.0x   +nan%   +2.9%  0.0x    6/10   A
+5    PIDILITIND   Rs     nan   +nan%   68.5   2.1x   +nan%   +0.5%  0.0x    6/10   A
+6    PAGEIND      Rs     nan   +nan%   56.9   0.4x   +nan%   +0.3%  0.0x    6/10   A
+7    MARUTI       Rs     nan   +nan%   56.8   1.6x   +nan%   +0.1%  0.0x    6/10   A
+8    IIFL         Rs     nan   +nan%   61.0   0.8x   +nan%   +3.7%  0.0x    5/10   B
+9    BANDHANBNK   Rs     nan   +nan%   55.8   1.5x   +nan%   +3.5%  0.0x    5/10   B
+10   BAJFINANCE   Rs     nan   +nan%   54.1   1.1x   +nan%   +3.5%  0.0x    5/10   B
+11   AUBANK       Rs     nan   +nan%   58.3   1.0x   +nan%   +3.4%  0.0x    5/10   B
+12   IDFCFIRSTB   Rs     nan   +nan%   74.0   1.0x   +nan%   +2.9%  0.0x    5/10   B
+13   GMRAIRPORT   Rs     nan   +nan%   61.2   1.0x   +nan%   +1.6%  0.0x    5/10   B
+14   AXISBANK     Rs     nan   +nan%   68.0   1.0x   +nan%   +1.0%  0.0x    5/10   B
+15   KOTAKBANK    Rs     nan   +nan%   67.6   0.9x   +nan%   +0.5%  0.0x    5/10   B
+16   JINDALSTEL   Rs     nan   +nan%   37.1   2.7x   +nan%   +0.4%  0.0x    5/10   B
+17   ADANIGREEN   Rs     nan   +nan%   59.7   0.6x   +nan%   +0.1%  0.0x    5/10   B
+18   RBLBANK      Rs     nan   +nan%   65.5   1.9x   +nan%   -0.1%  0.0x    5/10   B
+19   ADANIPORTS   Rs     nan   +nan%   59.0   0.7x   +nan%   -0.1%  0.0x    5/10   B
+20   CIPLA        Rs     nan   +nan%   56.9   1.1x   +nan%   -1.6%  0.0x    5/10   B
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  ASIANPAINT (Consumer) — Rsnan | Grade A | 7/10
+  52w: Rs2121.3 — Rs2968.5 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  CHOLAFIN (Finance) — Rsnan | Grade A | 6/10
+  52w: Rs1354.7 — Rs1804.05 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.8%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rsnan | Grade A | 6/10
+  52w: Rs193.99 — Rs280.69 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.1%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  LT (Infra) — Rsnan | Grade A | 6/10
+  52w: Rs3310.07 — Rs4375.36 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.9%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  PIDILITIND (Consumer) — Rsnan | Grade A | 6/10
+  52w: Rs1273.6 — Rs1563.5 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PAGEIND (Consumer) — Rsnan | Grade A | 6/10
+  52w: Rs30081.74 — Rs48745.79 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MARUTI (Auto) — Rsnan | Grade A | 6/10
+  52w: Rs12207.87 — Rs17292.0 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IIFL (Finance) — Rsnan | Grade B | 5/10
+  52w: Rs416.27 — Rs660.26 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.7%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BANDHANBNK (Banking) — Rsnan | Grade B | 5/10
+  52w: Rs135.47 — Rs208.88 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.5%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  BAJFINANCE (Banking) — Rsnan | Grade B | 5/10
+  52w: Rs801.55 — Rs1094.15 | ATR: nan%/day | Ext: 0x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.5%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
