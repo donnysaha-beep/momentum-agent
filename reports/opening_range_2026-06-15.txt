@@ -1,0 +1,60 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, June 15 2026 07:10 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23855.9  |  Gap: +1.5%  |  VWAP: nan
+  ORB: 23928.5 — 24004.7
+  *** WARNING ***
+    [-] Nifty gap-up with red first candle — trap reversal risk
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 1 WAIT | 6 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  MARUTI  [50%]  |  Rs 13805.0  |  ORB: 13522.0—13744.0  |  VWAP: 13856.39
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  CHOLAFIN  [40%]  |  Rs 1653.6
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+  PIDILITIND  [40%]  |  Rs 1570.7
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+  PAGEIND  [40%]  |  Rs 39195.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] Below VWAP with no breakout — no valid long
+  ASIANPAINT  [30%]  |  Rs 2736.7
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [20%]  |  Rs 272.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  LT  [20%]  |  Rs 4172.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
