@@ -1,26 +1,21 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "regime": "NEUTRAL",
   "confidence": 40,
   "trend_type": "CHOPPY",
   "size_multiplier": 0.75,
   "prioritize_sectors": [
-    "Aviation",
-    "Consumer",
     "Banking",
     "Infra"
   ],
-  "avoid_sectors": [
-    "Energy",
-    "IT"
-  ],
+  "avoid_sectors": [],
   "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": -0.16,
-  "india_vix": 14.35,
-  "india_vix_chg": -2.51,
+  "gift_estimated_chg": 0.1,
+  "india_vix": 13.19,
+  "india_vix_chg": -8.1,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": -0.32,
-  "crude_chg": -6.75,
-  "gold_chg": 0.83
+  "sp500_chg": 0.21,
+  "crude_chg": 0.89,
+  "gold_chg": 0.71
 }
