@@ -1,0 +1,129 @@
+=================================================================
+  BEAR SCANNER — Wednesday, June 17 2026 04:47 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24081.0  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 23969.75 — 24045.45
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 13 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  ASIANPAINT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 2735.7
+  Gap from prev  : +0.3%  (prev Rs 2748.1 | opened Rs 2756.9)
+  Opening Range  : Rs 2751.6 — Rs 2762.0  (0.38% wide)
+  VWAP           : Rs 2742.97  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 65.1
+  ATR (daily)    : Rs 59.26
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 2751.55  (break BELOW ORB low)
+    Target 1 (50%) : Rs 2662.66  (-3.2%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 2603.4  (-5.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 2762.05  (+0.4%)  [above ORB high]
+    Risk/Reward    : 1:8.5 (T1)  |  1:14.16 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 9 shares
+    Capital needed : Rs 24,764  (margin)
+    Max loss       : Rs 94  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping downward
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  MANAPPURAM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 319.05
+  Gap from prev  : +0.4%  (prev Rs 317.8 | opened Rs 319.0)
+  Opening Range  : Rs 317.7 — Rs 319.3  (0.5% wide)
+  VWAP           : Rs 319.29  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 55.1
+  ATR (daily)    : Rs 10.0
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 317.65  (break BELOW ORB low)
+    Target 1 (50%) : Rs 302.65  (-4.7%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 292.65  (-7.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 319.35  (+0.5%)  [above ORB high]
+    Risk/Reward    : 1:8.74 (T1)  |  1:14.57 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 78 shares
+    Capital needed : Rs 24,777  (margin)
+    Max loss       : Rs 133  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 317.70001220703125) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  APOLLOHOSP  [40%]  |  Rs 8427.5
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIPORTS  [40%]  |  Rs 1828.6
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  POLYCAB  [30%]  |  Rs 9920.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SIEMENS  [30%]  |  Rs 3725.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SUNPHARMA  [30%]  |  Rs 1820.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [30%]  |  Rs 4482.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  IRFC  [30%]  |  Rs 100.45
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  CROMPTON  [20%]  |  Rs 276.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NYKAA  [20%]  |  Rs 280.95
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ABB  [20%]  |  Rs 7165.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  LT  [20%]  |  Rs 4205.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [20%]  |  Rs 2955.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  TRENT  [20%]  |  Rs 3099.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
