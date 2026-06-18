@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Thursday, June 18 2026
+  Layer 0 | Generated: 01:53 PM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,168.00  (+0.34%)
+  Bank Nifty            :  57,963.80  (+0.66%)
+  India VIX             :      12.67  (-3.92%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24276.76  [ESTIMATED]
+  Change vs prev : +0.45%
+  Bias           : BULLISH
+  Based on       : S&P 500 +0.89% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,486.49  (+0.89%)
+  Nasdaq (US)           :  26,300.76  (+1.07%)
+  US VIX                :      17.33  (-6.02%)
+  Crude Oil (WTI)       :      73.36  (-4.47%)
+  Gold                  :   4,284.00  (-1.72%)
+  Silver                :      67.38  (-4.69%)
+  USD/INR               :      94.32  (-0.60%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.5% (bullish)
+  * India VIX 12.67 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Consumer, IT, Banking, Infra
+  Avoid      : Energy
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
