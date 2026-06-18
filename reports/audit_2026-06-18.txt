@@ -1,0 +1,104 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, June 18 2026
+  Layer 3 | 09:30 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 2
+  False Positives : 1
+  Valid Skips     : 1
+  Missed Trades   : 8
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [WIN]        NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 289.95 | Stop: Rs 282.3 | T1: Rs 302.92
+               EOD: O:282.3500061035156 H:303.54998779296875 L:282.3500061035156 C:298.0
+               Hit Target 1 (Rs 302.92) — +4.47%
+
+  [FP]         BHEL         | Verdict: TRADE NOW
+               Entry: Rs 395.65 | Stop: Rs 391.3 | T1: Rs 415.36
+               EOD: O:392.54998779296875 H:409.3999938964844 L:391.3500061035156 C:405.0
+               Triggered but no target/stop hit — closed at Rs 405.0 (+2.4%)
+
+  [LOSS]       DIVISLAB     | Verdict: TRADE NOW
+               Entry: Rs 6675.55 | Stop: Rs 6640.45 | T1: Rs 6898.18
+               EOD: O:6661.0 H:6779.0 L:6637.0 C:6768.0
+               Hit stop loss (Rs 6640.45) — -0.53% (clean stop, system worked)
+
+  [MISSED]     AXISBANK     | Verdict: WATCH
+               Entry: Rs 1356.05 | Stop: Rs 1349.25 | T1: Rs 1394.28
+               EOD: O:1349.300048828125 H:1365.800048828125 L:1345.0999755859375 C:1359.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIGREEN   | Verdict: WATCH
+               Entry: Rs 1483.15 | Stop: Rs 1466.45 | T1: Rs 1559.68
+               EOD: O:1472.300048828125 H:1520.0 L:1465.0 C:1506.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIENT     | Verdict: WATCH
+               Entry: Rs 2985.05 | Stop: Rs 2952.55 | T1: Rs 3109.56
+               EOD: O:2952.60009765625 H:3040.89990234375 L:2938.0 C:3032.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7185.05 | Stop: Rs 7144.95 | T1: Rs 7479.82
+               EOD: O:7164.5 H:7254.0 L:7090.0 C:7240.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ASIANPAINT   | Verdict: WATCH
+               Entry: Rs 2748.15 | Stop: Rs 2728.45 | T1: Rs 2835.18
+               EOD: O:2745.89990234375 H:2760.300048828125 L:2728.5 C:2755.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SIEMENS      | Verdict: WATCH
+               Entry: Rs 3738.95 | Stop: Rs 3726.15 | T1: Rs 3907.27
+               EOD: O:3735.800048828125 H:3755.0 L:3686.39990234375 C:3746.199951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TRENT        | Verdict: WATCH
+               Entry: Rs 3148.55 | Stop: Rs 3107.05 | T1: Rs 3286.65
+               EOD: O:3126.5 H:3192.0 L:3107.10009765625 C:3180.60009765625
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1848.95 | Stop: Rs 1830.45 | T1: Rs 1909.04
+               EOD: O:1833.5999755859375 H:1848.9000244140625 L:1820.0 C:1845.0999755859375
+               Correctly watched — no valid entry formed
+
+  [MISSED]     AUBANK       | Verdict: WATCH
+               Entry: Rs 1026.3 | Stop: Rs 1021.9 | T1: Rs 1065.84
+               EOD: O:1021.9500122070312 H:1028.3499755859375 L:1016.5999755859375 C:1025.8499755859375
+               Entry triggered but no target set — monitor
+
+  [LOSS]       MANAPPURAM   | Verdict: TRADE NOW
+               Entry: Rs 321.45 | Stop: Rs 318.35 | T1: Rs 335.94
+               EOD: O:318.45001220703125 H:322.3500061035156 L:318.25 C:321.1499938964844
+               Hit stop loss (Rs 318.35) — -0.96% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (9 days tracked)
+=================================================================
+  Total Trades    : 33
+  Win Rate        : 6.1%
+  Good Wins       : 2
+  Good Losses     : 10
+  False Positives : 21
+  Valid Skips     : 3
+  Missed Trades   : 30
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
