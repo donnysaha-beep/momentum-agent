@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-18T18:35:55.661450",
-  "date": "2026-06-18",
+  "timestamp": "2026-06-19T16:13:57.257069",
+  "date": "2026-06-19",
   "status": "CAUTION",
   "action": "TIGHTEN_STOPS \u2014 no new entries unless A+ setup",
-  "nifty_price": 24179.4,
+  "nifty_price": 24044.2,
   "nifty_vs_vwap": "BELOW",
   "nifty_vs_orb_low": "ABOVE",
-  "vix_level": 12.73,
+  "vix_level": 12.77,
   "vix_spike": false,
   "alerts": [
     "Nifty below VWAP \u2014 weakening"
   ],
   "nifty_vwap": NaN,
-  "nifty_orb_low": 24059.65,
-  "vix_chg": -3.51
+  "nifty_orb_low": 23938.75,
+  "vix_chg": 0.81
 }
