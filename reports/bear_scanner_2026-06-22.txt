@@ -1,0 +1,101 @@
+=================================================================
+  BEAR SCANNER — Monday, June 22 2026 06:53 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24086.85  |  Gap: +0.3%  |  VWAP: nan
+  ORB: 24073.8 — 24142.4
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 3 WAIT | 11 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [50% probability]
+  POLICYBZR
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1662.0
+  Gap from prev  : +1.8%  (prev Rs 1640.0 | opened Rs 1670.0)
+  Opening Range  : Rs 1666.8 — Rs 1698.3  (1.85% wide)
+  VWAP           : Rs 1684.02  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 53.5
+  ATR (daily)    : Rs nan
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1666.75  (break BELOW ORB low)
+    Target 1 (50%) : Rs nan  (-nan%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs nan  (-nan%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1698.35  (+1.9%)  [above ORB high]
+    Risk/Reward    : 1:nan (T1)  |  1:nan (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 14 shares
+    Capital needed : Rs 23,334  (margin)
+    Max loss       : Rs 442  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  BANDHANBNK  [40%]  |  Rs 207.06  |  ORB: 208.12—210.74  |  VWAP: 208.81
+    [~] Inside opening range — direction not confirmed yet
+  AXISBANK  [40%]  |  Rs 1358.6  |  ORB: 1358.2—1361.1  |  VWAP: 1360.9
+    [~] Inside opening range — direction not confirmed yet
+  APOLLOHOSP  [30%]  |  Rs 8469.0  |  ORB: 8476.0—8538.0  |  VWAP: 8457.27
+    [~] Broke ORB low but reclaimed VWAP — wait for VWAP rejection
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  MANAPPURAM  [30%]  |  Rs 328.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  AUBANK  [30%]  |  Rs 1045.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  KOTAKBANK  [30%]  |  Rs 401.0
+    [-] Stock holding above ORB low — no breakdown yet
+  CESC  [30%]  |  Rs 173.7
+    [-] Stock holding above ORB low — no breakdown yet
+  ADANIGREEN  [20%]  |  Rs 1551.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [20%]  |  Rs 4520.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SUNPHARMA  [20%]  |  Rs 1863.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  GRASIM  [20%]  |  Rs 3175.2
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [20%]  |  Rs 3063.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  CIPLA  [10%]  |  Rs 1418.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  DIVISLAB  [10%]  |  Rs 6787.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
