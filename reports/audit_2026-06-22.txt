@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, June 22 2026
+  Layer 3 | 09:36 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 3
+  False Positives : 3
+  Valid Skips     : 0
+  Missed Trades   : 2
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [LOSS]       ADANIGREEN   | Verdict: TRADE NOW
+               Entry: Rs 1507.95 | Stop: Rs 1496.35 | T1: Rs nan
+               EOD: O:1507.800048828125 H:1555.0 L:1490.5 C:1551.0
+               Hit stop loss (Rs 1496.35) — -0.77% (clean stop, system worked)
+
+  [LOSS]       HAL          | Verdict: TRADE NOW
+               Entry: Rs 4450.85 | Stop: Rs 4408.05 | T1: Rs nan
+               EOD: O:4428.39990234375 H:4528.5 L:4386.0 C:4520.0
+               Hit stop loss (Rs 4408.05) — -0.96% (clean stop, system worked)
+
+  [FP]         SUNPHARMA    | Verdict: TRADE NOW
+               Entry: Rs 1844.45 | Stop: Rs 1833.95 | T1: Rs nan
+               EOD: O:1843.5999755859375 H:1864.800048828125 L:1834.0 C:1863.5
+               Triggered but no target/stop hit — closed at Rs 1863.5 (+1.0%)
+
+  [FP]         GRASIM       | Verdict: TRADE NOW
+               Entry: Rs 3156.55 | Stop: Rs 3129.95 | T1: Rs nan
+               EOD: O:3156.5 H:3180.0 L:3130.0 C:3175.199951171875
+               Triggered but no target/stop hit — closed at Rs 3175.199951171875 (+0.6%)
+
+  [LOSS]       MANAPPURAM   | Verdict: TRADE NOW
+               Entry: Rs 323.3 | Stop: Rs 318.2 | T1: Rs nan
+               EOD: O:323.25 H:328.79998779296875 L:317.5 C:328.79998779296875
+               Hit stop loss (Rs 318.2) — -1.58% (clean stop, system worked)
+
+  [MISSED]     AUBANK       | Verdict: WATCH
+               Entry: Rs 1032.8 | Stop: Rs 1025.0 | T1: Rs nan
+               EOD: O:1030.75 H:1050.050048828125 L:1023.25 C:1045.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     CIPLA        | Verdict: WATCH
+               Entry: Rs 1390.55 | Stop: Rs 1372.95 | T1: Rs nan
+               EOD: O:1377.0 H:1418.0 L:1373.0 C:1418.0
+               Entry triggered but no target set — monitor
+
+  [FP]         DIVISLAB     | Verdict: TRADE NOW
+               Entry: Rs 6758.05 | Stop: Rs 6715.45 | T1: Rs nan
+               EOD: O:6750.0 H:6798.0 L:6715.5 C:6787.5
+               Triggered but no target/stop hit — closed at Rs 6787.5 (+0.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (11 days tracked)
+=================================================================
+  Total Trades    : 46
+  Win Rate        : 4.3%
+  Good Wins       : 2
+  Good Losses     : 18
+  False Positives : 26
+  Valid Skips     : 5
+  Missed Trades   : 35
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
