@@ -1,0 +1,104 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, June 24 2026 12:08 PM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24021.65  | Today: +0.8%  | 1W: -0.3%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 13.39  (-4.0%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Banking (+1.9%) | IT (+1.1%) | Finance (+1.0%)
+  Lagging : Auto (-1.0%) | Defence (-2.2%) | PSU (-3.4%)
+
+Found 61 momentum stocks → 5 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    BANDHANBNK   Rs   211.8   +2.2%   58.0   1.3x   -2.3%   +1.4%  0.7x    9/10   A+
+2    ADANIENT     Rs  3069.7   +3.6%   65.5   1.2x   +0.0%   +2.8%  1.2x    8/10   A+
+3    DRREDDY      Rs  1328.4   +2.1%   64.8   2.3x   -1.9%   +1.2%  1.7x    8/10   A+
+4    APOLLOHOSP   Rs  8573.5   +1.0%   66.9   1.0x   +0.0%   +0.2%  1.4x    8/10   A+
+5    ADANIGREEN   Rs  1525.4   +0.9%   60.5   0.6x   -1.6%   +0.1%  0.8x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  BANDHANBNK (Banking) — Rs211.76 | Grade A+ | 9/10
+  52w: Rs135.47 — Rs216.74 | ATR: 3.23%/day | Ext: 0.66x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIENT (Infra) — Rs3069.7 | Grade A+ | 8/10
+  52w: Rs1758.01 — Rs3069.7 | ATR: 2.74%/day | Ext: 1.18x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.8%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  DRREDDY (Pharma) — Rs1328.4 | Grade A+ | 8/10
+  52w: Rs1157.2 — Rs1354.6 | ATR: 2.01%/day | Ext: 1.73x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.2%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  APOLLOHOSP (Pharma) — Rs8573.5 | Grade A+ | 8/10
+  52w: Rs6784.49 — Rs8573.5 | ATR: 1.61%/day | Ext: 1.41x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  ADANIGREEN (Energy) — Rs1525.4 | Grade A+ | 8/10
+  52w: Rs772.8 — Rs1549.9 | ATR: 3.27%/day | Ext: 0.8x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
