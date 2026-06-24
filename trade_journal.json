@@ -1345,5 +1345,74 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-06-24",
+    "trades": [
+      {
+        "ticker": "BANDHANBNK",
+        "entry": 208.3,
+        "target1": 218.34,
+        "target2": 225.04,
+        "stop": 205.45,
+        "verdict": "WATCH",
+        "eod_open": 207.63999938964844,
+        "eod_high": 214.14999389648438,
+        "eod_low": 204.8000030517578,
+        "eod_close": 211.75999450683594,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIENT",
+        "entry": 3018.55,
+        "target1": 3147.87,
+        "target2": 3234.08,
+        "stop": 2987.05,
+        "verdict": "WATCH",
+        "eod_open": 2987.10009765625,
+        "eod_high": 3077.0,
+        "eod_low": 2971.0,
+        "eod_close": 3068.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8583.55,
+        "target1": 8794.74,
+        "target2": 8935.53,
+        "stop": 8451.45,
+        "verdict": "WATCH",
+        "eod_open": 8498.0,
+        "eod_high": 8583.5,
+        "eod_low": 8451.5,
+        "eod_close": 8577.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "ADANIGREEN",
+        "entry": 1530.95,
+        "target1": 1606.13,
+        "target2": 1656.26,
+        "stop": 1507.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 1509.800048828125,
+        "eod_high": 1533.0,
+        "eod_low": 1493.300048828125,
+        "eod_close": 1525.4000244140625,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1507.95) \u2014 -1.5% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
