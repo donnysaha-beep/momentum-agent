@@ -7,186 +7,191 @@ MARKET REGIME: CAUTION
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-LT             Rs  4181.7   +0.1%   +3.6%    +3.6%   63.0  1.6x   WATCH
-HDFCBANK       Rs   793.2   +2.4%   +3.5%    +3.6%   63.4  2.5x   WATCH
-RELIANCE       Rs  1313.6   +0.3%   -2.7%    -2.7%   48.3  0.4x   WATCH
-TCS            Rs  2109.0   +2.4%   -7.3%    -7.3%   39.0 -1.4x   WATCH
-INFY           Rs  1056.6   +2.6%   -7.6%    -7.5%   38.0 -2.2x   WAIT
+BANDHANBNK     Rs   211.8   +2.2%   +5.7%    +5.7%   58.0  0.7x   WATCH NOW
+ADANIGREEN     Rs  1525.4   +0.9%   +4.7%    +4.7%   60.5  0.8x   WATCH NOW
+APOLLOHOSP     Rs  8573.5   +1.0%   +3.8%    +3.9%   66.9  1.4x   WATCH NOW
+ADANIENT       Rs  3069.7   +3.6%   +3.4%    +3.5%   65.5  1.2x   WATCH NOW
+DRREDDY        Rs  1328.4   +2.1%   +0.0%    +0.1%   64.8  1.7x   WATCH
 
 =================================================================
   FULL DETAIL
 =================================================================
 
-  LT — Larsen & Toubro Limited
-  Industrials | Rs5.8T | P/E: 35.73492
-  Price: Rs4181.7  |  52w range: Rs3310.07 — Rs4375.36
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs341.2B | P/E: 27.936674
+  Price: Rs211.76  |  52w range: Rs135.47 — Rs216.74
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.1%  vs Nifty +0.8%  -> RS: -0.8% (UNDERPERFORMING)
-    1W:  -0.6%  vs Nifty -0.3%
-    1M:  +3.6%  vs Nifty -0.0%  -> RS: +3.6% (OUTPERFORMING)
-    3M:  +22.9%  vs Nifty +1.9%  -> RS: +21.1% (OUTPERFORMING)
-    6M:  +3.6%
+    1D:  +2.2%  vs Nifty +0.8%  -> RS: +1.4% (OUTPERFORMING)
+    1W:  -0.9%  vs Nifty -0.3%
+    1M:  +5.7%  vs Nifty -0.0%  -> RS: +5.7% (OUTPERFORMING)
+    3M:  +34.0%  vs Nifty +1.9%  -> RS: +32.1% (OUTPERFORMING)
+    6M:  +41.6%
 
   TREND HEALTH:
-    RSI: 63.0  |  Days above SMA50 (last 20): 16/20
-    Daily volatility (ATR%): 1.83%
-    ATR extension from SMA20: 1.65x  (EXTENDED)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.7x 20-day avg
+    RSI: 58.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.23%
+    ATR extension from SMA20: 0.66x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.27x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs4067.14 (-2.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs201.51 (-4.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.3% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+    * How The Bandhan Bank (NSEI:BANDHANBNK) Story Is Shifting As Fair Value Assumptions Evolve
+    * How Recent Developments Are Shaping The Bandhan Bank (NSEI:BANDHANBNK) Investment Narrative
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.5T | P/E: 157.7456
+  Price: Rs1525.4  |  52w range: Rs772.8 — Rs1549.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty +0.8%  -> RS: +0.1%
+    1W:  +4.1%  vs Nifty -0.3%
+    1M:  +4.7%  vs Nifty -0.0%  -> RS: +4.7% (OUTPERFORMING)
+    3M:  +78.4%  vs Nifty +1.9%  -> RS: +76.6% (OUTPERFORMING)
+    6M:  +46.6%
+
+  TREND HEALTH:
+    RSI: 60.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.27%
+    ATR extension from SMA20: 0.8x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1450.62 (-4.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.6% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+    * India's Adani Green reports higher quarterly profit on strong power sales
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.2T | P/E: 63.530937
+  Price: Rs8573.5  |  52w range: Rs6784.49 — Rs8573.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.0%  vs Nifty +0.8%  -> RS: +0.2%
+    1W:  +1.7%  vs Nifty -0.3%
+    1M:  +3.8%  vs Nifty -0.0%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  +18.2%  vs Nifty +1.9%  -> RS: +16.4% (OUTPERFORMING)
+    6M:  +20.9%
+
+  TREND HEALTH:
+    RSI: 66.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.61%
+    ATR extension from SMA20: 1.41x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8366.38 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+    * India's Apollo Hospitals posts higher quarterly profit, divests fertility business
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.2T | P/E: 41.77599
+  Price: Rs3069.7  |  52w range: Rs1758.01 — Rs3069.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.6%  vs Nifty +0.8%  -> RS: +2.8% (OUTPERFORMING)
+    1W:  +4.0%  vs Nifty -0.3%
+    1M:  +3.4%  vs Nifty -0.0%  -> RS: +3.5% (OUTPERFORMING)
+    3M:  +58.6%  vs Nifty +1.9%  -> RS: +56.7% (OUTPERFORMING)
+    6M:  +34.5%
+
+  TREND HEALTH:
+    RSI: 65.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.74%
+    ATR extension from SMA20: 1.18x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.25x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2943.49 (-4.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Lawyers for Indian billionaire Adani urge US judge to dismiss criminal case
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+    * Apple supplier Jabil, Adani partner to build AI data center infra platform in India 
+    * Adani Group stocks rise after US drops fraud charges against Gautam Adani
+    * Justice Department Drops Criminal Case Against Indian Billionaire Gautam Adani
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.1T | P/E: 25.844358
+  Price: Rs1328.4  |  52w range: Rs1157.2 — Rs1354.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty +0.8%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  +4.7%  vs Nifty -0.3%
+    1M:  +0.0%  vs Nifty -0.0%  -> RS: +0.1%
+    3M:  +4.2%  vs Nifty +1.9%  -> RS: +2.4% (OUTPERFORMING)
+    6M:  +3.8%
+
+  TREND HEALTH:
+    RSI: 64.8  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 2.01%
+    ATR extension from SMA20: 1.73x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.26x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1288.44 (-3.0%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [~] Extended 1.65x from SMA20 — wait for pullback
+    [+] Within 1.9% of 52w high (breakout zone)
+    [+] Heavy volume today (2.26x avg) = conviction
+    [~] Extended 1.73x from SMA20 — wait for pullback
 
   RECENT NEWS:
-    * India's L&T to invest nearly $2 billion in Tamil Nadu, state government says
-    * LTM bids $186m for Randstad’s tech services in Europe and Australia
-    * India's L&T hits three-week low after profit dip, slower growth outlook
-    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
-    * Indian shares dip, rupee slips to record low on elevated oil prices
-
------------------------------------------------------------------
-
-  HDFCBANK — HDFC Bank Limited
-  Financial Services | Rs12.2T | P/E: 17.68562
-  Price: Rs793.2  |  52w range: Rs719.65 — Rs996.42
-
-  PERFORMANCE vs NIFTY:
-    1D:  +2.4%  vs Nifty +0.8%  -> RS: +1.6% (OUTPERFORMING)
-    1W:  +2.4%  vs Nifty -0.3%
-    1M:  +3.5%  vs Nifty -0.0%  -> RS: +3.6% (OUTPERFORMING)
-    3M:  +1.0%  vs Nifty +1.9%  -> RS: -0.8% (UNDERPERFORMING)
-    6M:  -19.5%
-
-  TREND HEALTH:
-    RSI: 63.4  |  Days above SMA50 (last 20): 8/20
-    Daily volatility (ATR%): 2.03%
-    ATR extension from SMA20: 2.46x  (STRETCHED)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.94x 20-day avg
-    RS 55-day slope: NEGATIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs769.09 (-3.0%)
-
-  VERDICT: WATCH
-    [+] RS accelerating (momentum building)
-    [+] Volatility contracting (base forming, potential breakout)
-    [~] Extended 2.46x from SMA20 — wait for pullback
-
-  RECENT NEWS:
-    * India's Kotak Mahindra Bank has 'high ambitions' to deploy capital for growth, CEO says
-    * India's HDFC Bank to extend interim chairman Keki Mistry's tenure for three months
-    * HDFC Bank (HDB) Fell as Deposit Fell Short of Expectations
-    * India's HDFC Bank to hit dollar bond market under new subsidised scheme, sources say
-    * EBKDY or HDB: Which Is the Better Value Stock Right Now?
-
------------------------------------------------------------------
-
-  RELIANCE — Reliance Industries Limited
-  Energy | Rs17.8T | P/E: 21.999664
-  Price: Rs1313.6  |  52w range: Rs1258.8 — Rs1584.97
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.3%  vs Nifty +0.8%  -> RS: -0.5% (UNDERPERFORMING)
-    1W:  -1.4%  vs Nifty -0.3%
-    1M:  -2.7%  vs Nifty -0.0%  -> RS: -2.7% (UNDERPERFORMING)
-    3M:  -4.7%  vs Nifty +1.9%  -> RS: -6.6% (UNDERPERFORMING)
-    6M:  -15.2%
-
-  TREND HEALTH:
-    RSI: 48.3  |  Days above SMA50 (last 20): 0/20
-    Daily volatility (ATR%): 2.03%
-    ATR extension from SMA20: 0.36x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.63x 20-day avg
-    RS 55-day slope: NEGATIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1273.66 (-3.0%)
-
-  VERDICT: WATCH
-    [+] RS accelerating (momentum building)
-    [+] Volatility contracting (base forming, potential breakout)
-    [~] Weak trend (only {days_above_50}/20 days above SMA50)
-
-  RECENT NEWS:
-    * Meta (META) Builds Its First India AI Data Center With Reliance
-    * Billionaire Ambani wants AI in every call, app, and home
-    * Meta Platforms, Inc. (META): A Top Growth Stock to Buy Pursuing Data Centers Opportunities in India
-    * Reliance Industries (NSEI:RELIANCE) Stock Fair Value Edges Higher After Analyst Fine Tuning
-    * Meta Platforms, Inc. (META): Among Stocks ChatGPT Predicts Could Make You Wealthy in 3 Years
-
------------------------------------------------------------------
-
-  TCS — Tata Consultancy Services Limited
-  Technology | Rs7.6T | P/E: 15.51534
-  Price: Rs2109.0  |  52w range: Rs2059.6 — Rs3330.93
-
-  PERFORMANCE vs NIFTY:
-    1D:  +2.4%  vs Nifty +0.8%  -> RS: +1.6% (OUTPERFORMING)
-    1W:  -5.1%  vs Nifty -0.3%
-    1M:  -7.3%  vs Nifty -0.0%  -> RS: -7.3% (UNDERPERFORMING)
-    3M:  -9.3%  vs Nifty +1.9%  -> RS: -11.1% (UNDERPERFORMING)
-    6M:  -32.4%
-
-  TREND HEALTH:
-    RSI: 39.0  |  Days above SMA50 (last 20): 1/20
-    Daily volatility (ATR%): 2.88%
-    ATR extension from SMA20: -1.44x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.78x 20-day avg
-    RS 55-day slope: NEGATIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs2017.77 (-4.3%)
-
-  VERDICT: WATCH
-    [+] RS accelerating (momentum building)
-    [~] Weak trend (only {days_above_50}/20 days above SMA50)
-
-  RECENT NEWS:
-    * India's Nifty IT index at three-year low as bellwether Accenture flags weak outlook
-    * Indian IT stocks tumble as Accenture flags weak outlook
-    * India's TCS to take $70 million hit after US Supreme Court rejects appeal
-    * US Supreme Court rejects Tata challenge to $168 million award in trade secrets case
-    * As Anthropic suspends access to new models, India debates its AI future
-
------------------------------------------------------------------
-
-  INFY — Infosys Limited
-  Technology | Rs4.3T | P/E: 14.003977
-  Price: Rs1056.6  |  52w range: Rs1029.3 — Rs1654.01
-
-  PERFORMANCE vs NIFTY:
-    1D:  +2.6%  vs Nifty +0.8%  -> RS: +1.8% (OUTPERFORMING)
-    1W:  -8.7%  vs Nifty -0.3%
-    1M:  -7.6%  vs Nifty -0.0%  -> RS: -7.5% (UNDERPERFORMING)
-    3M:  -11.6%  vs Nifty +1.9%  -> RS: -13.4% (UNDERPERFORMING)
-    6M:  -32.5%
-
-  TREND HEALTH:
-    RSI: 38.0  |  Days above SMA50 (last 20): 2/20
-    Daily volatility (ATR%): 3.32%
-    ATR extension from SMA20: -2.23x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.73x 20-day avg
-    RS 55-day slope: NEGATIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1004.01 (-5.0%)
-
-  VERDICT: WAIT
-    [~] Weak trend (only {days_above_50}/20 days above SMA50)
-
-  RECENT NEWS:
-    * Asian Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading
-    * India seeks tariff advantage before implementing U.S. trade deal
-    * Infosys (INFY) Partners With Valmet On Enterprise-Wide IT Transformation Initiative
-    * Infosys (NSEI:INFY) Stock Sees Split Analyst Revisions As Price Targets Edge Lower
-    * India's Nifty IT index at three-year low as bellwether Accenture flags weak outlook
+    * Dr. Reddy's Laboratories Q4 Earnings Call Highlights
+    * Dr. Reddy's Q4 Earnings and Revenues Miss Estimates, Stock Down
+    * Dr Reddy's Laboratories Ltd (RDY) Full Year 2026 Earnings Call Highlights: Strategic Growth ...
+    * Goldman Sees Limited Upside for Dr. Reddy’s Laboratories Limited (RDY) Amid Generic Drug Concerns
+    * AMPH vs. RDY: Which Stock Should Value Investors Buy Now?
 
 -----------------------------------------------------------------
 
