@@ -1,0 +1,44 @@
+=================================================================
+  BEAR SCANNER — Wednesday, June 24 2026 12:33 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24013.15  |  Gap: +0.0%  |  VWAP: nan
+  ORB: 23790.25 — 23888.3
+
+REGIME: CAUTION  |  SHORT SIZE: ACTIVE SHORT SIZE (Rs 62,500/trade)
+
+SUMMARY: 0 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 5 SKIP
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  ADANIGREEN  [40%]  |  Rs 1525.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BANDHANBNK  [30%]  |  Rs 211.76
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [30%]  |  Rs 3068.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  DRREDDY  [30%]  |  Rs 1327.3
+    [-] Stock holding above ORB low — no breakdown yet
+  APOLLOHOSP  [30%]  |  Rs 8577.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
