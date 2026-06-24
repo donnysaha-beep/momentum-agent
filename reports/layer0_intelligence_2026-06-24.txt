@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, June 24 2026
+  Layer 0 | Generated: 12:05 PM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 0/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,021.65  (+0.83%)
+  Bank Nifty            :  58,150.35  (+1.69%)
+  India VIX             :      13.39  (-3.98%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23848.69  [ESTIMATED]
+  Change vs prev : -0.72%
+  Bias           : BEARISH
+  Based on       : S&P 500 -1.44% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,365.46  (-1.44%)
+  Nasdaq (US)           :  25,587.04  (-2.21%)
+  US VIX                :      18.87  (-3.18%)
+  Crude Oil (WTI)       :      71.13  (-2.84%)
+  Gold                  :   4,066.70  (-1.53%)
+  Silver                :      59.90  (-3.42%)
+  USD/INR               :      94.67  (-0.04%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.7% (bearish)
+  * India VIX 13.39 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Consumer, Banking, Pharma
+  Avoid      : Energy, IT, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
