@@ -1,0 +1,49 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, June 25 2026
+  Layer 3 | 07:31 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [LOSS]       TATACONSUM   | Verdict: TRADE NOW
+               Entry: Rs 1104.45 | Stop: Rs 1100.25 | T1: Rs 1140.62
+               EOD: O:1103.9000244140625 H:1135.0 L:1100.0 C:1131.300048828125
+               Hit stop loss (Rs 1100.25) — -0.38% (clean stop, system worked)
+
+  [FP]         SIEMENS      | Verdict: TRADE NOW
+               Entry: Rs 3612.75 | Stop: Rs 3574.35 | T1: Rs 3778.55
+               EOD: O:3597.10009765625 H:3665.0 L:3574.39990234375 C:3641.0
+               Triggered but no target/stop hit — closed at Rs 3641.0 (+0.8%)
+
+=================================================================
+  RUNNING PERFORMANCE (13 days tracked)
+=================================================================
+  Total Trades    : 49
+  Win Rate        : 4.1%
+  Good Wins       : 2
+  Good Losses     : 20
+  False Positives : 27
+  Valid Skips     : 6
+  Missed Trades   : 37
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
