@@ -1,0 +1,206 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — June 25, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs24056.0  1D: +0.1%  1W: -0.5%  1M: +0.6%  3M: +1.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+APOLLOHOSP     Rs  8592.0   +0.2%   +3.9%    +3.3%   67.7  1.4x   WATCH NOW
+ADANIGREEN     Rs  1526.1   +0.1%   +2.4%    +1.8%   60.5  0.8x   WATCH NOW
+DRREDDY        Rs  1350.5   +1.7%   +2.4%    +1.8%   69.8  2.4x   WATCH
+ADANIENT       Rs  3038.0   -1.0%   +2.2%    +1.6%   62.2  0.8x   WATCH
+BANDHANBNK     Rs   201.8   -4.7%   -2.0%    -2.6%   47.6 -0.7x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.2T | P/E: 63.428314
+  Price: Rs8592.0  |  52w range: Rs6784.49 — Rs8592.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.2%  vs Nifty +0.1%  -> RS: +0.1%
+    1W:  +2.1%  vs Nifty -0.5%
+    1M:  +3.9%  vs Nifty +0.6%  -> RS: +3.3% (OUTPERFORMING)
+    3M:  +16.7%  vs Nifty +1.2%  -> RS: +15.5% (OUTPERFORMING)
+    6M:  +21.4%
+
+  TREND HEALTH:
+    RSI: 67.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.62%
+    ATR extension from SMA20: 1.42x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.92x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8382.74 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+    * India's Apollo Hospitals posts higher quarterly profit, divests fertility business
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.5T | P/E: 158.80333
+  Price: Rs1526.1  |  52w range: Rs772.8 — Rs1549.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +0.1%  -> RS: -0.1%
+    1W:  +1.3%  vs Nifty -0.5%
+    1M:  +2.4%  vs Nifty +0.6%  -> RS: +1.8% (OUTPERFORMING)
+    3M:  +76.8%  vs Nifty +1.2%  -> RS: +75.7% (OUTPERFORMING)
+    6M:  +45.7%
+
+  TREND HEALTH:
+    RSI: 60.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.18%
+    ATR extension from SMA20: 0.8x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.71x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1453.19 (-4.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.5% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+    * India's Adani Green reports higher quarterly profit on strong power sales
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.1T | P/E: 26.269209
+  Price: Rs1350.5  |  52w range: Rs1157.2 — Rs1354.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.7%  vs Nifty +0.1%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +6.5%  vs Nifty -0.5%
+    1M:  +2.4%  vs Nifty +0.6%  -> RS: +1.8% (OUTPERFORMING)
+    3M:  +4.0%  vs Nifty +1.2%  -> RS: +2.8% (OUTPERFORMING)
+    6M:  +5.5%
+
+  TREND HEALTH:
+    RSI: 69.8  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 2.01%
+    ATR extension from SMA20: 2.44x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1309.69 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.3% of 52w high (breakout zone)
+    [~] Extended 2.44x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Dr. Reddy's Laboratories Q4 Earnings Call Highlights
+    * Dr. Reddy's Q4 Earnings and Revenues Miss Estimates, Stock Down
+    * Dr Reddy's Laboratories Ltd (RDY) Full Year 2026 Earnings Call Highlights: Strategic Growth ...
+    * Goldman Sees Limited Upside for Dr. Reddy’s Laboratories Limited (RDY) Amid Generic Drug Concerns
+    * AMPH vs. RDY: Which Stock Should Value Investors Buy Now?
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.2T | P/E: 41.237953
+  Price: Rs3038.0  |  52w range: Rs1758.01 — Rs3069.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.1%  -> RS: -1.2% (UNDERPERFORMING)
+    1W:  +0.8%  vs Nifty -0.5%
+    1M:  +2.2%  vs Nifty +0.6%  -> RS: +1.6% (OUTPERFORMING)
+    3M:  +57.7%  vs Nifty +1.2%  -> RS: +56.5% (OUTPERFORMING)
+    6M:  +33.4%
+
+  TREND HEALTH:
+    RSI: 62.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.75%
+    ATR extension from SMA20: 0.77x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.82x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2912.52 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.0% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+    * Apple supplier Jabil, Adani partner to build AI data center infra platform in India 
+    * Adani Group stocks rise after US drops fraud charges against Gautam Adani
+    * Justice Department Drops Criminal Case Against Indian Billionaire Gautam Adani
+    * Adani group stocks rise on reports US close to dropping charges against Gautam Adani
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs325.1B | P/E: 26.617414
+  Price: Rs201.76  |  52w range: Rs135.47 — Rs216.74
+
+  PERFORMANCE vs NIFTY:
+    1D:  -4.7%  vs Nifty +0.1%  -> RS: -4.9% (UNDERPERFORMING)
+    1W:  -5.8%  vs Nifty -0.5%
+    1M:  -2.0%  vs Nifty +0.6%  -> RS: -2.6% (UNDERPERFORMING)
+    3M:  +27.3%  vs Nifty +1.2%  -> RS: +26.2% (OUTPERFORMING)
+    6M:  +32.9%
+
+  TREND HEALTH:
+    RSI: 47.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.71%
+    ATR extension from SMA20: -0.71x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 3.24x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs190.52 (-5.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.24x avg) = conviction
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+    * How The Bandhan Bank (NSEI:BANDHANBNK) Story Is Shifting As Fair Value Assumptions Evolve
+    * How Recent Developments Are Shaping The Bandhan Bank (NSEI:BANDHANBNK) Investment Narrative
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
