@@ -2,7 +2,7 @@
   EVENING RESEARCH REPORT v2 (NSE) — June 26, 2026
 =================================================================
 
-MARKET REGIME: CAUTION
+MARKET REGIME: NEUTRAL
   Nifty 50: Rs24056.0  1D: +0.1%  1W: -0.5%  1M: +0.6%  3M: +1.2%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
