@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, June 29 2026
+  Layer 0 | Generated: 03:03 PM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,946.25  (-0.46%)
+  Bank Nifty            :  57,727.35  (-0.77%)
+  India VIX             :      13.61  (+4.29%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24025.27  [ESTIMATED]
+  Change vs prev : +0.33%
+  Bias           : BULLISH
+  Based on       : S&P 500 +0.66% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,402.37  (+0.66%)
+  Nasdaq (US)           :  25,603.24  (+1.21%)
+  US VIX                :      18.63  (+1.19%)
+  Crude Oil (WTI)       :      70.54  (+1.89%)
+  Gold                  :   4,037.50  (-1.01%)
+  Silver                :      58.42  (-1.34%)
+  USD/INR               :      94.53  (+0.14%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.3% (bullish)
+  * India VIX 13.61 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, IT, Banking, Infra
+  Avoid      : Aviation, Consumer
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
