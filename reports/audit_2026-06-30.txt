@@ -1,0 +1,99 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, June 30 2026
+  Layer 3 | 01:29 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 2
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 10
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [LOSS]       MANAPPURAM   | Verdict: TRADE NOW
+               Entry: Rs 317.05 | Stop: Rs 313.45 | T1: Rs 331.07
+               EOD: O:315.6000061035156 H:325.6499938964844 L:313.0 C:324.20001220703125
+               Hit stop loss (Rs 313.45) — -1.14% (clean stop, system worked)
+
+  [MISSED]     PAGEIND      | Verdict: WATCH
+               Entry: Rs 40885.05 | Stop: Rs 40424.95 | T1: Rs 42516.48
+               EOD: O:40780.0 H:41700.0 L:40425.0 C:41480.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APOLLOHOSP   | Verdict: WATCH
+               Entry: Rs 8729.05 | Stop: Rs 8660.95 | T1: Rs 8944.72
+               EOD: O:8677.0 H:8758.5 L:8654.5 C:8682.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIENT     | Verdict: WATCH
+               Entry: Rs 2987.45 | Stop: Rs 2969.55 | T1: Rs 3100.2
+               EOD: O:2980.0 H:3054.60009765625 L:2969.60009765625 C:3043.10009765625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1800.65 | Stop: Rs 1783.15 | T1: Rs 1852.4
+               EOD: O:1787.0 H:1816.300048828125 L:1782.699951171875 C:1810.199951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 78.91 | Stop: Rs 78.08 | T1: Rs 81.37
+               EOD: O:78.86000061035156 H:79.66000366210938 L:78.12999725341797 C:79.48999786376953
+               Entry triggered but no target set — monitor
+
+  [MISSED]     POLYCAB      | Verdict: WATCH
+               Entry: Rs 9717.55 | Stop: Rs 9598.45 | T1: Rs 10062.32
+               EOD: O:9710.0 H:10004.0 L:9598.5 C:9961.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     RBLBANK      | Verdict: WATCH
+               Entry: Rs 368.0 | Stop: Rs 364.2 | T1: Rs 381.57
+               EOD: O:365.8999938964844 H:371.0 L:364.25 C:369.29998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 304.5 | Stop: Rs 301.5 | T1: Rs 315.74
+               EOD: O:304.1499938964844 H:312.75 L:301.54998779296875 C:312.6000061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     AUBANK       | Verdict: WATCH
+               Entry: Rs 1041.6 | Stop: Rs 1024.05 | T1: Rs 1081.52
+               EOD: O:1034.8499755859375 H:1043.5 L:1024.0999755859375 C:1037.050048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SIEMENS      | Verdict: WATCH
+               Entry: Rs 3606.55 | Stop: Rs 3578.35 | T1: Rs 3756.59
+               EOD: O:3605.0 H:3616.0 L:3578.39990234375 C:3601.300048828125
+               Entry triggered but no target set — monitor
+
+  [LOSS]       ABB          | Verdict: TRADE NOW
+               Entry: Rs 7062.55 | Stop: Rs 7004.95 | T1: Rs 7345.78
+               EOD: O:7050.0 H:7097.5 L:6996.0 C:7024.0
+               Hit stop loss (Rs 7004.95) — -0.82% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (14 days tracked)
+=================================================================
+  Total Trades    : 51
+  Win Rate        : 3.9%
+  Good Wins       : 2
+  Good Losses     : 22
+  False Positives : 27
+  Valid Skips     : 6
+  Missed Trades   : 47
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
