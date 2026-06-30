@@ -1,0 +1,14 @@
+=================================================================
+  BEAR SCANNER — Tuesday, June 30 2026 08:06 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23937.85  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 23867.7 — 24031.6
+
+REGIME: BULL  |  SHORT SIZE: NO SHORTS (Bull market)
+
+  *** BULL REGIME — NO SHORTS TODAY ***
+  Wait for regime to weaken before shorting.
+=================================================================
