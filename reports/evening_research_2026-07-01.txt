@@ -382,7 +382,7 @@ PAGEIND        Rs 43610.0   +5.4%  +16.7%   +14.0%   74.9  3.4x   AVOID
 -----------------------------------------------------------------
 
   DABUR — Dabur India Limited
-  Consumer Defensive | Rs789.0B | P/E: 41.799812
+  Consumer Defensive | Rs788.8B | P/E: 41.799812
   Price: Rs444.75  |  52w range: Rs410.45 — Rs549.8
 
   PERFORMANCE vs NIFTY:
@@ -489,7 +489,7 @@ PAGEIND        Rs 43610.0   +5.4%  +16.7%   +14.0%   74.9  3.4x   AVOID
 -----------------------------------------------------------------
 
   POLYCAB — Polycab India Limited
-  Industrials | Rs1.5T | P/E: 54.878532
+  Industrials | Rs1.5T | P/E: 54.782585
   Price: Rs9713.5  |  52w range: Rs6632.53 — Rs10083.0
 
   PERFORMANCE vs NIFTY:
