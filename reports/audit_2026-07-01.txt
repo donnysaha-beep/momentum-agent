@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, July 01 2026
+  Layer 3 | 03:42 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 3
+  Valid Skips     : 0
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         AXISBANK     | Verdict: TRADE NOW
+               Entry: Rs 1354.75 | Stop: Rs 1346.35 | T1: Rs 1391.63
+               EOD: O:1354.699951171875 H:1377.699951171875 L:1346.4000244140625 C:1368.699951171875
+               Triggered but no target/stop hit — closed at Rs 1368.699951171875 (+1.0%)
+
+  [FP]         ADANIENT     | Verdict: TRADE NOW
+               Entry: Rs 3029.05 | Stop: Rs 3014.95 | T1: Rs 3151.86
+               EOD: O:3026.10009765625 H:3149.800048828125 L:3015.0 C:3143.60009765625
+               Triggered but no target/stop hit — closed at Rs 3143.60009765625 (+3.8%)
+
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3100.55 | Stop: Rs 3085.95 | T1: Rs 3181.89
+               EOD: O:3100.10009765625 H:3144.39990234375 L:3086.0 C:3139.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIGREEN   | Verdict: WATCH
+               Entry: Rs 1499.05 | Stop: Rs 1482.35 | T1: Rs 1566.34
+               EOD: O:1493.0 H:1545.9000244140625 L:1482.4000244140625 C:1535.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ASIANPAINT   | Verdict: WATCH
+               Entry: Rs 2652.35 | Stop: Rs 2623.95 | T1: Rs 2732.83
+               EOD: O:2647.60009765625 H:2723.0 L:2624.0 C:2716.39990234375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MARICO       | Verdict: WATCH
+               Entry: Rs 852.0 | Stop: Rs 837.95 | T1: Rs 875.57
+               EOD: O:838.0 H:854.3499755859375 L:838.0 C:850.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NESTLEIND    | Verdict: WATCH
+               Entry: Rs 1438.55 | Stop: Rs 1410.25 | T1: Rs 1483.52
+               EOD: O:1410.9000244140625 H:1459.699951171875 L:1410.300048828125 C:1453.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DABUR        | Verdict: WATCH
+               Entry: Rs 440.05 | Stop: Rs 423.2 | T1: Rs 452.97
+               EOD: O:423.25 H:447.0 L:423.25 C:444.75
+               Entry triggered but no target set — monitor
+
+  [FP]         PAGEIND      | Verdict: TRADE NOW
+               Entry: Rs 43050.05 | Stop: Rs 42364.95 | T1: Rs 44780.83
+               EOD: O:42545.0 H:43850.0 L:42365.0 C:43545.0
+               Triggered but no target/stop hit — closed at Rs 43545.0 (+1.1%)
+
+=================================================================
+  RUNNING PERFORMANCE (15 days tracked)
+=================================================================
+  Total Trades    : 54
+  Win Rate        : 3.7%
+  Good Wins       : 2
+  Good Losses     : 22
+  False Positives : 30
+  Valid Skips     : 6
+  Missed Trades   : 53
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
