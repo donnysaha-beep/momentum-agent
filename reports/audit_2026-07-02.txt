@@ -1,0 +1,94 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, July 02 2026
+  Layer 3 | 03:15 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 9
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         SHRIRAMFIN   | Verdict: TRADE NOW
+               Entry: Rs 1054.25 | Stop: Rs 1048.55 | T1: Rs 1093.09
+               EOD: O:1050.0999755859375 H:1071.0 L:1048.5999755859375 C:1066.0999755859375
+               Triggered but no target/stop hit — closed at Rs 1066.0999755859375 (+1.1%)
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 6589.05 | Stop: Rs 6549.95 | T1: Rs 6785.92
+               EOD: O:6589.0 H:6716.0 L:6550.0 C:6707.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ASIANPAINT   | Verdict: WATCH
+               Entry: Rs 2734.85 | Stop: Rs 2711.55 | T1: Rs 2814.85
+               EOD: O:2723.0 H:2759.89990234375 L:2711.60009765625 C:2744.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3153.05 | Stop: Rs 3134.35 | T1: Rs 3228.87
+               EOD: O:3153.0 H:3173.800048828125 L:3134.39990234375 C:3169.199951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APOLLOHOSP   | Verdict: WATCH
+               Entry: Rs 8656.05 | Stop: Rs 8611.95 | T1: Rs 8855.7
+               EOD: O:8636.5 H:8750.0 L:8612.0 C:8696.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PIDILITIND   | Verdict: WATCH
+               Entry: Rs 1591.65 | Stop: Rs 1582.75 | T1: Rs 1632.15
+               EOD: O:1584.5 H:1611.9000244140625 L:1582.800048828125 C:1608.199951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 311.2 | Stop: Rs 307.55 | T1: Rs 322.33
+               EOD: O:309.6000061035156 H:314.8500061035156 L:307.6000061035156 C:314.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1871.95 | Stop: Rs 1846.95 | T1: Rs 1927.82
+               EOD: O:1858.0 H:1887.5 L:1847.0 C:1881.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MANAPPURAM   | Verdict: WATCH
+               Entry: Rs 322.95 | Stop: Rs 317.3 | T1: Rs 336.62
+               EOD: O:317.3500061035156 H:324.95001220703125 L:317.3500061035156 C:323.1000061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DRREDDY      | Verdict: WATCH
+               Entry: Rs 1341.45 | Stop: Rs 1329.65 | T1: Rs 1382.22
+               EOD: O:1339.9000244140625 H:1360.800048828125 L:1329.699951171875 C:1342.4000244140625
+               Entry triggered but no target set — monitor
+
+  [FP]         TECHM        | Verdict: TRADE NOW
+               Entry: Rs 1398.55 | Stop: Rs 1377.75 | T1: Rs 1463.05
+               EOD: O:1385.0 H:1425.0 L:1377.800048828125 C:1424.5999755859375
+               Triggered but no target/stop hit — closed at Rs 1424.5999755859375 (+1.9%)
+
+=================================================================
+  RUNNING PERFORMANCE (16 days tracked)
+=================================================================
+  Total Trades    : 56
+  Win Rate        : 3.6%
+  Good Wins       : 2
+  Good Losses     : 22
+  False Positives : 32
+  Valid Skips     : 6
+  Missed Trades   : 62
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
