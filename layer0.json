@@ -1,22 +1,21 @@
 {
-  "date": "2026-07-01",
-  "regime": "BULL",
-  "confidence": 80,
-  "trend_type": "TREND_DAY",
-  "size_multiplier": 1.0,
+  "date": "2026-07-02",
+  "regime": "NEUTRAL",
+  "confidence": 40,
+  "trend_type": "CHOPPY",
+  "size_multiplier": 0.75,
   "prioritize_sectors": [
-    "IT",
     "Banking",
     "Infra"
   ],
   "avoid_sectors": [],
-  "gift_bias": "BULLISH",
-  "gift_estimated_chg": 0.4,
-  "india_vix": 13.43,
-  "india_vix_chg": -1.29,
+  "gift_bias": "NEUTRAL",
+  "gift_estimated_chg": -0.11,
+  "india_vix": 12.79,
+  "india_vix_chg": -3.4,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": 0.79,
-  "crude_chg": 0.03,
-  "gold_chg": -1.05
+  "sp500_chg": -0.22,
+  "crude_chg": -1.08,
+  "gold_chg": 0.21
 }
