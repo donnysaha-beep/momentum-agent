@@ -1,0 +1,174 @@
+=================================================================
+  BEAR SCANNER — Friday, July 03 2026 07:46 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24316.75  |  Gap: +0.9%  |  VWAP: nan
+  ORB: 24295.45 — 24375.65
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 4 SHORT NOW | 0 WATCH SHORT | 2 WAIT | 9 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  PIDILITIND
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1600.9
+  Gap from prev  : +0.5%  (prev Rs 1608.2 | opened Rs 1615.8)
+  Opening Range  : Rs 1615.1 — Rs 1624.0  (0.55% wide)
+  VWAP           : Rs 1608.91  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 70.1
+  ATR (daily)    : Rs 26.94
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1615.05  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1574.64  (-2.5%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1547.7  (-4.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1624.05  (+0.6%)  [above ORB high]
+    Risk/Reward    : 1:4.46 (T1)  |  1:7.45 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 15 shares
+    Capital needed : Rs 24,226  (margin)
+    Max loss       : Rs 135  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [50% probability]
+  ASIANPAINT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 2740.2
+  Gap from prev  : +0.1%  (prev Rs 2744.5 | opened Rs 2746.0)
+  Opening Range  : Rs 2746.0 — Rs 2762.0  (0.58% wide)
+  VWAP           : Rs 2747.67  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 62.1
+  ATR (daily)    : Rs 50.96
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 2745.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 2669.51  (-2.8%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 2618.55  (-4.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 2762.05  (+0.6%)  [above ORB high]
+    Risk/Reward    : 1:4.71 (T1)  |  1:7.86 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 9 shares
+    Capital needed : Rs 24,714  (margin)
+    Max loss       : Rs 145  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [50% probability]
+  NAUKRI
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1032.35
+  Gap from prev  : +1.3%  (prev Rs 1026.15 | opened Rs 1039.15)
+  Opening Range  : Rs 1039.0 — Rs 1049.0  (0.95% wide)
+  VWAP           : Rs 1041.35  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 63.5
+  ATR (daily)    : Rs 31.05
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1038.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 992.38  (-4.5%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 961.33  (-7.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1049.05  (+1.0%)  [above ORB high]
+    Risk/Reward    : 1:4.62 (T1)  |  1:7.7 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 24 shares
+    Capital needed : Rs 24,935  (margin)
+    Max loss       : Rs 242  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [50% probability]
+  FEDERALBNK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 326.85
+  Gap from prev  : +0.0%  (prev Rs 331.75 | opened Rs 331.8)
+  Opening Range  : Rs 331.8 — Rs 334.0  (0.66% wide)
+  VWAP           : Rs 331.34  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 67.5
+  ATR (daily)    : Rs 5.94
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 331.75  (break BELOW ORB low)
+    Target 1 (50%) : Rs 322.84  (-2.7%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 316.9  (-4.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 334.05  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:3.9 (T1)  |  1:6.49 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 75 shares
+    Capital needed : Rs 24,881  (margin)
+    Max loss       : Rs 172  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  MANAPPURAM  [40%]  |  Rs 330.15  |  ORB: 328.95—334.25  |  VWAP: 332.52
+    [~] Inside opening range — direction not confirmed yet
+  JSWSTEEL  [40%]  |  Rs 1232.5  |  ORB: 1230.3—1243.7  |  VWAP: 1237.34
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  GRASIM  [40%]  |  Rs 3189.2
+    [-] Stock holding above ORB low — no breakdown yet
+  SUNPHARMA  [30%]  |  Rs 1909.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  DRREDDY  [30%]  |  Rs 1384.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  MARICO  [30%]  |  Rs 844.05
+    [-] Stock holding above ORB low — no breakdown yet
+  DIVISLAB  [20%]  |  Rs 6794.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIGREEN  [20%]  |  Rs 1544.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  APOLLOHOSP  [20%]  |  Rs 8865.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SHRIRAMFIN  [20%]  |  Rs 1073.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIPORTS  [20%]  |  Rs 1879.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
