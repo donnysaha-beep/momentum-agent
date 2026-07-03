@@ -1,0 +1,54 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, July 03 2026
+  Layer 3 | 03:11 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         SUNPHARMA    | Verdict: TRADE NOW
+               Entry: Rs 1890.55 | Stop: Rs 1872.05 | T1: Rs 1933.51
+               EOD: O:1879.699951171875 H:1925.0999755859375 L:1872.0999755859375 C:1905.9000244140625
+               Triggered but no target/stop hit — closed at Rs 1905.9000244140625 (+0.8%)
+
+  [MISSED]     DRREDDY      | Verdict: WATCH
+               Entry: Rs 1361.25 | Stop: Rs 1351.25 | T1: Rs 1404.74
+               EOD: O:1357.0999755859375 H:1390.4000244140625 L:1351.300048828125 C:1370.9000244140625
+               Entry triggered but no target set — monitor
+
+  [LOSS]       DIVISLAB     | Verdict: TRADE NOW
+               Entry: Rs 6785.05 | Stop: Rs 6725.95 | T1: Rs 6982.37
+               EOD: O:6726.0 H:6803.0 L:6725.0 C:6757.0
+               Hit stop loss (Rs 6725.95) — -0.87% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (17 days tracked)
+=================================================================
+  Total Trades    : 58
+  Win Rate        : 3.4%
+  Good Wins       : 2
+  Good Losses     : 23
+  False Positives : 33
+  Valid Skips     : 6
+  Missed Trades   : 63
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
