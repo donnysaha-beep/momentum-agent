@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-06",
   "regime": "NEUTRAL",
   "confidence": 40,
   "trend_type": "CHOPPY",
@@ -12,11 +12,11 @@
   "avoid_sectors": [],
   "gift_bias": "NEUTRAL",
   "gift_estimated_chg": 0.0,
-  "india_vix": 11.9,
-  "india_vix_chg": -3.19,
+  "india_vix": 11.88,
+  "india_vix_chg": 0.68,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
   "sp500_chg": 0.0,
-  "crude_chg": 0.67,
-  "gold_chg": 1.71
+  "crude_chg": 0.36,
+  "gold_chg": 1.37
 }
