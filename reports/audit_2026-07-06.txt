@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, July 06 2026
+  Layer 3 | 04:20 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 1
+  Missed Trades   : 7
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [SKIP OK]    MANAPPURAM   | Verdict: WATCH
+               Entry: Rs 9906.55 | Stop: Rs 9822.95 | T1: Rs 10214.64
+               EOD: O:328.04998779296875 H:347.8999938964844 L:323.20001220703125 C:347.8999938964844
+               Correctly watched — no valid entry formed
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 80.76 | Stop: Rs 79.73 | T1: Rs 83.31
+               EOD: O:80.66999816894531 H:81.75 L:79.7300033569336 C:81.05999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     FEDERALBNK   | Verdict: WATCH
+               Entry: Rs 329.95 | Stop: Rs 326.05 | T1: Rs 339.11
+               EOD: O:327.79998779296875 H:333.25 L:325.6000061035156 C:330.1000061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BANDHANBNK   | Verdict: WATCH
+               Entry: Rs 205.87 | Stop: Rs 200.91 | T1: Rs 215.69
+               EOD: O:200.9600067138672 H:208.8000030517578 L:200.9600067138672 C:208.77999877929688
+               Entry triggered but no target set — monitor
+
+  [MISSED]     EICHERMOT    | Verdict: WATCH
+               Entry: Rs 7361.55 | Stop: Rs 7285.45 | T1: Rs 7613.2
+               EOD: O:7320.5 H:7495.0 L:7285.5 C:7471.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IIFL         | Verdict: WATCH
+               Entry: Rs 521.05 | Stop: Rs 518.35 | T1: Rs 548.91
+               EOD: O:521.0 H:531.0 L:518.0 C:525.9500122070312
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ASIANPAINT   | Verdict: WATCH
+               Entry: Rs 2740.25 | Stop: Rs 2724.85 | T1: Rs 2816.23
+               EOD: O:2729.0 H:2758.0 L:2724.89990234375 C:2754.89990234375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ICICIBANK    | Verdict: TRADE NOW
+               Entry: Rs 1431.25 | Stop: Rs 1412.05 | T1: Rs 1467.06
+               EOD: O:1413.800048828125 H:1431.199951171875 L:1412.0999755859375 C:1426.9000244140625
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (18 days tracked)
+=================================================================
+  Total Trades    : 58
+  Win Rate        : 3.4%
+  Good Wins       : 2
+  Good Losses     : 23
+  False Positives : 33
+  Valid Skips     : 7
+  Missed Trades   : 70
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

@@ -1997,5 +1997,130 @@
       "missed_trades": 1,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-06",
+    "trades": [
+      {
+        "ticker": "MANAPPURAM",
+        "entry": 9906.55,
+        "target1": 10214.64,
+        "target2": 10420.04,
+        "stop": 9822.95,
+        "verdict": "WATCH",
+        "eod_open": 328.04998779296875,
+        "eod_high": 347.8999938964844,
+        "eod_low": 323.20001220703125,
+        "eod_close": 347.8999938964844,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 80.76,
+        "target1": 83.31,
+        "target2": 85.01,
+        "stop": 79.73,
+        "verdict": "WATCH",
+        "eod_open": 80.66999816894531,
+        "eod_high": 81.75,
+        "eod_low": 79.7300033569336,
+        "eod_close": 81.05999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 329.95,
+        "target1": 339.11,
+        "target2": 345.22,
+        "stop": 326.05,
+        "verdict": "WATCH",
+        "eod_open": 327.79998779296875,
+        "eod_high": 333.25,
+        "eod_low": 325.6000061035156,
+        "eod_close": 330.1000061035156,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BANDHANBNK",
+        "entry": 205.87,
+        "target1": 215.69,
+        "target2": 222.23,
+        "stop": 200.91,
+        "verdict": "WATCH",
+        "eod_open": 200.9600067138672,
+        "eod_high": 208.8000030517578,
+        "eod_low": 200.9600067138672,
+        "eod_close": 208.77999877929688,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "EICHERMOT",
+        "entry": 7361.55,
+        "target1": 7613.2,
+        "target2": 7780.96,
+        "stop": 7285.45,
+        "verdict": "WATCH",
+        "eod_open": 7320.5,
+        "eod_high": 7495.0,
+        "eod_low": 7285.5,
+        "eod_close": 7471.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 521.05,
+        "target1": 548.91,
+        "target2": 567.49,
+        "stop": 518.35,
+        "verdict": "WATCH",
+        "eod_open": 521.0,
+        "eod_high": 531.0,
+        "eod_low": 518.0,
+        "eod_close": 525.9500122070312,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ASIANPAINT",
+        "entry": 2740.25,
+        "target1": 2816.23,
+        "target2": 2866.88,
+        "stop": 2724.85,
+        "verdict": "WATCH",
+        "eod_open": 2729.0,
+        "eod_high": 2758.0,
+        "eod_low": 2724.89990234375,
+        "eod_close": 2754.89990234375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1431.25,
+        "target1": 1467.06,
+        "target2": 1490.93,
+        "stop": 1412.05,
+        "verdict": "TRADE NOW",
+        "eod_open": 1413.800048828125,
+        "eod_high": 1431.199951171875,
+        "eod_low": 1412.0999755859375,
+        "eod_close": 1426.9000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 7,
+      "false_negatives": 0
+    }
   }
 ]
