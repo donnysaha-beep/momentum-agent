@@ -1,0 +1,73 @@
+=================================================================
+  BEAR SCANNER — Monday, July 06 2026 08:47 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24406.2  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 24290.05 — 24369.75
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 0 WATCH SHORT | 1 WAIT | 14 SKIP
+
+=================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  MARICO  [40%]  |  Rs 838.3  |  ORB: 837.8—844.45  |  VWAP: 841.42
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  GRASIM  [50%]  |  Rs 3200.5
+    [-] Stock holding above ORB low — no breakdown yet
+  AUBANK  [50%]  |  Rs 1067.9
+    [-] Stock holding above ORB low — no breakdown yet
+  JUBLFOOD  [50%]  |  Rs 438.75
+    [-] Stock holding above ORB low — no breakdown yet
+  ADANIGREEN  [40%]  |  Rs 1569.4
+    [-] Stock holding above ORB low — no breakdown yet
+  MANAPPURAM  [40%]  |  Rs 344.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PIDILITIND  [30%]  |  Rs 1613.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  EICHERMOT  [30%]  |  Rs 7446.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ASIANPAINT  [30%]  |  Rs 2745.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ICICIBANK  [30%]  |  Rs 1425.9
+    [-] Stock holding above ORB low — no breakdown yet
+  FEDERALBNK  [20%]  |  Rs 333.25
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BANDHANBNK  [20%]  |  Rs 206.73
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BAJAJ-AUTO  [20%]  |  Rs 9994.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  IDFCFIRSTB  [20%]  |  Rs 81.68
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  IIFL  [20%]  |  Rs 529.6
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
