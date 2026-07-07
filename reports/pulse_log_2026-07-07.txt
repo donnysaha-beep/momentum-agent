@@ -13,3 +13,6 @@
 
 [10:04] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
   ! Nifty below VWAP AND ORB low — bearish structure
+
+[10:36] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
+  ! Nifty below VWAP AND ORB low — bearish structure
