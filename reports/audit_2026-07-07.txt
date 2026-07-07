@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, July 07 2026
+  Layer 3 | 01:32 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         MARICO       | Verdict: TRADE NOW
+               Entry: Rs 842.0 | Stop: Rs 838.15 | T1: Rs 866.42
+               EOD: O:838.6500244140625 H:850.4000244140625 L:838.2000122070312 C:847.6500244140625
+               Triggered but no target/stop hit — closed at Rs 847.6500244140625 (+0.7%)
+
+=================================================================
+  RUNNING PERFORMANCE (19 days tracked)
+=================================================================
+  Total Trades    : 59
+  Win Rate        : 3.4%
+  Good Wins       : 2
+  Good Losses     : 23
+  False Positives : 34
+  Valid Skips     : 7
+  Missed Trades   : 70
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
