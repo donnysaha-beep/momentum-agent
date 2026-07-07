@@ -1,0 +1,101 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Tuesday, July 07 2026 07:53 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24426.2  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 24426.25 — 24482.1
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 1 TRADE NOW | 0 WATCH | 1 WAIT | 13 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  MARICO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 843.65
+  Gap from prev  : +0.1%  (prev Rs 838.1 | opened Rs 838.65)
+  Opening Range  : Rs 838.2 — Rs 841.95  (0.45% wide)
+  VWAP           : Rs 842.63  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 16.28
+
+  TRADE PLAN:
+    Entry trigger  : Rs 842.0  (break above ORB high)
+    Target 1 (50%) : Rs 866.42  (+2.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 882.7  (+4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 838.15  (-0.5%)  [below ORB low]
+    Risk/Reward    : 1:6.3 (T1)  |  1:10.5 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 47 shares
+    Capital needed : Rs 39,574
+    Max loss       : Rs 181  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  TECHM  [70%]  |  Rs 1445.0  |  ORB: 1401.6—1423.4  |  VWAP: 1446.21
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  FEDERALBNK  [60%]  |  Rs 330.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  AUBANK  [60%]  |  Rs 1072.8
+    [-] Nifty broke its own ORB low — avoid all longs
+  PIDILITIND  [60%]  |  Rs 1617.3
+    [-] Nifty broke its own ORB low — avoid all longs
+  EICHERMOT  [40%]  |  Rs 7564.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  TITAN  [40%]  |  Rs 4591.7
+    [-] Nifty broke its own ORB low — avoid all longs
+  BAJAJ-AUTO  [40%]  |  Rs 10096.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  NYKAA  [40%]  |  Rs 314.5
+    [-] Nifty broke its own ORB low — avoid all longs
+  AXISBANK  [40%]  |  Rs 1344.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ADANIPORTS  [40%]  |  Rs 1864.2
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  RBLBANK  [30%]  |  Rs 370.6
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ADANIGREEN  [30%]  |  Rs 1527.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  IIFL  [30%]  |  Rs 523.85
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  DIVISLAB  [30%]  |  Rs 6776.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
