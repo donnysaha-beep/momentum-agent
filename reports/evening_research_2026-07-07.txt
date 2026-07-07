@@ -205,7 +205,7 @@ TITAN          Rs  4604.2   +2.7%   +9.8%    +5.4%   69.9  2.8x   AVOID
 -----------------------------------------------------------------
 
   AUBANK — AU Small Finance Bank Limited
-  Financial Services | Rs798.4B | P/E: 30.370054
+  Financial Services | Rs798.4B | P/E: 30.456753
   Price: Rs1066.9  |  52w range: Rs694.3 — Rs1067.2
 
   PERFORMANCE vs NIFTY:
@@ -239,7 +239,7 @@ TITAN          Rs  4604.2   +2.7%   +9.8%    +5.4%   69.9  2.8x   AVOID
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.7T | P/E: 66.89897
+  Basic Materials | Rs1.7T | P/E: 67.793564
   Price: Rs1622.3  |  52w range: Rs1273.6 — Rs1622.3
 
   PERFORMANCE vs NIFTY:
@@ -341,7 +341,7 @@ TITAN          Rs  4604.2   +2.7%   +9.8%    +5.4%   69.9  2.8x   AVOID
 -----------------------------------------------------------------
 
   AXISBANK — Axis Bank Limited
-  Financial Services | Rs4.2T | P/E: 15.915025
+  Financial Services | Rs4.2T | P/E: 15.86419
   Price: Rs1341.0  |  52w range: Rs1045.2 — Rs1403.0
 
   PERFORMANCE vs NIFTY:
@@ -486,7 +486,7 @@ TITAN          Rs  4604.2   +2.7%   +9.8%    +5.4%   69.9  2.8x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs902.7B | P/E: 437.77777
+  Consumer Cyclical | Rs902.7B | P/E: 456.8116
   Price: Rs315.2  |  52w range: Rs201.52 — Rs315.2
 
   PERFORMANCE vs NIFTY:
