@@ -1,2 +1,5 @@
 
 [06:39] NORMAL | CONTINUE — market structure intact
+
+[07:03] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
+  ! Nifty below VWAP AND ORB low — bearish structure
