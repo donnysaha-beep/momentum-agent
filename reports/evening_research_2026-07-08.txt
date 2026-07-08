@@ -2,91 +2,63 @@
   EVENING RESEARCH REPORT v2 (NSE) — July 08, 2026
 =================================================================
 
-MARKET REGIME: UNKNOWN
-  Nifty 50: Rs0  1D: +0.0%  1W: +0.0%  1M: +0.0%  3M: +0.0%
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23882.05  1D: -2.1%  1W: -0.5%  1M: +3.3%  3M: +5.3%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-ADANIGREEN     Rs  1504.6   -0.9%   -1.9%      N/A   52.4 -0.1x   WATCH
-DIVISLAB       Rs  6755.0   -0.2%   +0.0%      N/A   53.8  0.4x   WATCH
-SUNPHARMA      Rs  1888.2   -0.8%   +6.4%      N/A   63.0  1.2x   WATCH
-GRASIM         Rs  3134.8   -1.8%   +1.3%      N/A   52.1 -0.1x   WATCH
-MARICO         Rs   840.1   -0.9%   +3.3%      N/A   56.4  0.8x   WATCH
-NYKAA          Rs   317.9   +0.9%  +19.1%      N/A   73.0  2.4x   WATCH
-BAJAJ-AUTO     Rs 10164.0   +0.5%   -0.2%      N/A   56.1  1.0x   WATCH
-IIFL           Rs   517.8   -1.3%   +1.9%      N/A   53.4 -0.0x   WATCH
-AUBANK         Rs  1038.8   -2.6%   +6.2%      N/A   53.1  0.1x   WATCH
-IDFCFIRSTB     Rs    77.8   -3.2%   +5.6%      N/A   52.9 -0.5x   WATCH
-ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
+ICICIBANK      Rs  1380.6   -2.4%   +8.3%    +5.0%   57.6  0.5x   WATCH NOW
+SUNPHARMA      Rs  1888.2   -0.8%   +6.4%    +3.1%   63.0  1.2x   WATCH NOW
+DRREDDY        Rs  1349.0   -0.4%   +6.3%    +3.1%   57.9  0.9x   WATCH NOW
+FEDERALBNK     Rs   326.6   -1.5%   +3.6%    +0.3%   61.0  0.4x   WATCH NOW
+MARICO         Rs   840.1   -0.9%   +3.3%    +0.0%   56.4  0.8x   WATCH NOW
+APOLLOHOSP     Rs  8753.5   -0.9%   +2.7%    -0.6%   63.6  1.1x   WATCH NOW
+ADANIENT       Rs  3046.9   -1.9%   +2.3%    -1.0%   53.5  0.1x   WATCH NOW
+GRASIM         Rs  3134.8   -1.8%   +1.3%    -2.0%   52.1 -0.1x   WATCH NOW
+DIVISLAB       Rs  6755.0   -0.2%   +0.0%    -3.2%   53.8  0.4x   WATCH NOW
+BAJAJ-AUTO     Rs 10164.0   +0.5%   -0.2%    -3.5%   56.1  1.0x   WATCH NOW
+NYKAA          Rs   317.9   +0.9%  +19.1%   +15.8%   73.0  2.4x   WATCH
+AUBANK         Rs  1038.8   -2.6%   +6.2%    +2.9%   53.1  0.1x   WATCH
+IDFCFIRSTB     Rs    77.8   -3.2%   +5.6%    +2.3%   52.9 -0.5x   WATCH
+IIFL           Rs   517.8   -1.3%   +1.9%    -1.4%   53.4 -0.0x   WATCH
+ADANIGREEN     Rs  1504.6   -0.9%   -1.9%    -5.2%   52.4 -0.1x   WATCH
 
 =================================================================
   FULL DETAIL
 =================================================================
 
-  ADANIGREEN — Adani Green Energy Limited
-  Utilities | Rs2.5T | P/E: 154.79424
-  Price: Rs1504.6  |  52w range: Rs772.8 — Rs1556.2
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs9.9T | P/E: 18.447355
+  Price: Rs1380.6  |  52w range: Rs1205.9 — Rs1477.2
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.9%  vs Nifty +0.0%  -> RS: N/A
-    1W:  -2.0%  vs Nifty +0.0%
-    1M:  -1.9%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +62.6%  vs Nifty +0.0%  -> RS: N/A
-    6M:  +50.2%
+    1D:  -2.4%  vs Nifty -2.1%  -> RS: -0.3%
+    1W:  +0.1%  vs Nifty -0.5%
+    1M:  +8.3%  vs Nifty +3.3%  -> RS: +5.0% (OUTPERFORMING)
+    3M:  +10.8%  vs Nifty +5.3%  -> RS: +5.5% (OUTPERFORMING)
+    6M:  +2.8%
 
   TREND HEALTH:
-    RSI: 52.4  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.18%
-    ATR extension from SMA20: -0.15x  (HEALTHY)
+    RSI: 57.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.82%
+    ATR extension from SMA20: 0.5x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.97x 20-day avg
-    RS 55-day slope: NEGATIVE
+    Volume today: 0.77x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1432.75 (-4.8%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1342.92 (-2.7%)
 
-  VERDICT: WATCH
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
-    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
-    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
-    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
-    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
-    * India's Adani Green reports higher quarterly profit on strong power sales
-
------------------------------------------------------------------
-
-  DIVISLAB — Divi's Laboratories Limited
-  Healthcare | Rs1.8T | P/E: 69.76144
-  Price: Rs6755.0  |  52w range: Rs5689.5 — Rs6951.85
-
-  PERFORMANCE vs NIFTY:
-    1D:  -0.2%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +3.2%  vs Nifty +0.0%
-    1M:  +0.0%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +16.1%  vs Nifty +0.0%  -> RS: N/A
-    6M:  +5.1%
-
-  TREND HEALTH:
-    RSI: 53.8  |  Days above SMA50 (last 20): 17/20
-    Daily volatility (ATR%): 2.05%
-    ATR extension from SMA20: 0.39x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 1.14x 20-day avg
-    RS 55-day slope: NEGATIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs6546.96 (-3.1%)
-
-  VERDICT: WATCH
-    [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 2.8% of 52w high (breakout zone)
-
-  RECENT NEWS:
-    * Divi's Laboratories Ltd (BOM:532488) Q4 2026 Earnings Call Highlights: Strong Financial ...
-    * Divi's Laboratories Ltd (BOM:532488) Q3 2026 Earnings Call Highlights: Strong Export ...
-    * Indian contract drug maker Divi's misses profit view on high material costs, one-off labour charge
-    * Divi's Laboratories Ltd (BOM:532488) Q2 2026 Earnings Call Highlights: Strong Revenue Growth ...
-    * Indian drugmaker Divi's beats profit view for second quarter on API boost
+    * InsuranceDekho parent selects banks for possible IPO
+    * Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading
+    * India's ICICI Bank to join peers in dollar debt funding under RBI swap window, sources say
+    * Asian Equities Traded in the US as American Depositary Receipts Track Higher in Wednesday Trading
+    * India's Kotak Mahindra Bank has 'high ambitions' to deploy capital for growth, CEO says
 
 -----------------------------------------------------------------
 
@@ -95,10 +67,10 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
   Price: Rs1888.2  |  52w range: Rs1549.15 — Rs1907.8
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.8%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +1.4%  vs Nifty +0.0%
-    1M:  +6.4%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +10.2%  vs Nifty +0.0%  -> RS: N/A
+    1D:  -0.8%  vs Nifty -2.1%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  +1.4%  vs Nifty -0.5%
+    1M:  +6.4%  vs Nifty +3.3%  -> RS: +3.1% (OUTPERFORMING)
+    3M:  +10.2%  vs Nifty +5.3%  -> RS: +4.9% (OUTPERFORMING)
     6M:  +11.0%
 
   TREND HEALTH:
@@ -107,11 +79,13 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
     ATR extension from SMA20: 1.23x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 1.58x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs1842.71 (-2.4%)
 
-  VERDICT: WATCH
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
     [+] Within 1.0% of 52w high (breakout zone)
 
@@ -124,37 +98,73 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
 
 -----------------------------------------------------------------
 
-  GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.1T | P/E: 42.90133
-  Price: Rs3134.8  |  52w range: Rs2531.1 — Rs3213.0
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.1T | P/E: 26.209442
+  Price: Rs1349.0  |  52w range: Rs1157.2 — Rs1375.7
 
   PERFORMANCE vs NIFTY:
-    1D:  -1.8%  vs Nifty +0.0%  -> RS: N/A
-    1W:  -0.2%  vs Nifty +0.0%
-    1M:  +1.3%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +19.6%  vs Nifty +0.0%  -> RS: N/A
-    6M:  +10.3%
+    1D:  -0.4%  vs Nifty -2.1%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +0.7%  vs Nifty -0.5%
+    1M:  +6.3%  vs Nifty +3.3%  -> RS: +3.1% (OUTPERFORMING)
+    3M:  +12.8%  vs Nifty +5.3%  -> RS: +7.5% (OUTPERFORMING)
+    6M:  +6.3%
 
   TREND HEALTH:
-    RSI: 52.1  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 1.73%
-    ATR extension from SMA20: -0.15x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.82x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RSI: 57.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.25%
+    ATR extension from SMA20: 0.95x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.9x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs3053.44 (-2.6%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1303.43 (-3.4%)
 
-  VERDICT: WATCH
-    [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 2.4% of 52w high (breakout zone)
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.9% of 52w high (breakout zone)
 
   RECENT NEWS:
-    * Grasim Industries Ltd (BOM:500300) Q4 2026 Earnings Call Highlights: Record Revenue and ...
-    * India's Grasim Industries quarterly loss narrows as core businesses strengthen
-    * Grasim Industries Ltd (BOM:500300) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
-    * India's Grasim names Sachin Sahay as new Birla Opus CEO
-    * BlackRock fund to invest about $225 million in India's Aditya Birla Renewables
+    * Dr. Reddy's Laboratories Q4 Earnings Call Highlights
+    * Dr. Reddy's Q4 Earnings and Revenues Miss Estimates, Stock Down
+    * Dr Reddy's Laboratories Ltd (RDY) Full Year 2026 Earnings Call Highlights: Strategic Growth ...
+    * Goldman Sees Limited Upside for Dr. Reddy’s Laboratories Limited (RDY) Amid Generic Drug Concerns
+    * AMPH vs. RDY: Which Stock Should Value Investors Buy Now?
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs805.5B | P/E: 18.692043
+  Price: Rs326.55  |  52w range: Rs189.9 — Rs331.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.5%  vs Nifty -2.1%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  -1.5%  vs Nifty -0.5%
+    1M:  +3.6%  vs Nifty +3.3%  -> RS: +0.3%
+    3M:  +18.7%  vs Nifty +5.3%  -> RS: +13.4% (OUTPERFORMING)
+    6M:  +24.2%
+
+  TREND HEALTH:
+    RSI: 61.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.92%
+    ATR extension from SMA20: 0.41x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.66x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs317.15 (-2.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.5% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Split Analyst Revisions On Valuation Inputs
+    * Four Indian stocks added, four excluded from key global index in MSCI's May rejig
+    * Federal Bank to buy StanChart India credit card book
+    * StanChart to sell bulk of Indian credit cards to Federal Bank
+    * The Federal Bank Ltd (BOM:500469) Q4 2026 Earnings Call Highlights: Record Profit and Strategic ...
 
 -----------------------------------------------------------------
 
@@ -163,10 +173,10 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
   Price: Rs840.1  |  52w range: Rs687.11 — Rs856.0
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.9%  vs Nifty +0.0%  -> RS: N/A
-    1W:  -1.3%  vs Nifty +0.0%
-    1M:  +3.3%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +11.5%  vs Nifty +0.0%  -> RS: N/A
+    1D:  -0.9%  vs Nifty -2.1%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  -1.3%  vs Nifty -0.5%
+    1M:  +3.3%  vs Nifty +3.3%  -> RS: +0.0%
+    3M:  +11.5%  vs Nifty +5.3%  -> RS: +6.2% (OUTPERFORMING)
     6M:  +11.6%
 
   TREND HEALTH:
@@ -175,11 +185,13 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
     ATR extension from SMA20: 0.78x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 0.94x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs815.28 (-3.0%)
 
-  VERDICT: WATCH
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
     [+] Within 1.9% of 52w high (breakout zone)
 
@@ -192,15 +204,193 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
 
 -----------------------------------------------------------------
 
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 64.74003
+  Price: Rs8753.5  |  52w range: Rs6784.49 — Rs8893.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -2.1%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  +1.6%  vs Nifty -0.5%
+    1M:  +2.7%  vs Nifty +3.3%  -> RS: -0.6% (UNDERPERFORMING)
+    3M:  +19.5%  vs Nifty +5.3%  -> RS: +14.2% (OUTPERFORMING)
+    6M:  +23.7%
+
+  TREND HEALTH:
+    RSI: 63.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.58%
+    ATR extension from SMA20: 1.14x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.0x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8545.7 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.6% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Quantinuum Stock Fizzled in Its Debut, but Wall Street Calls It a Buy
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.2T | P/E: 41.37561
+  Price: Rs3046.9  |  52w range: Rs1758.01 — Rs3212.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.9%  vs Nifty -2.1%  -> RS: +0.2%
+    1W:  -3.1%  vs Nifty -0.5%
+    1M:  +2.3%  vs Nifty +3.3%  -> RS: -1.0% (UNDERPERFORMING)
+    3M:  +62.0%  vs Nifty +5.3%  -> RS: +56.7% (OUTPERFORMING)
+    6M:  +38.4%
+
+  TREND HEALTH:
+    RSI: 53.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.91%
+    ATR extension from SMA20: 0.09x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.14x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2913.89 (-4.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * LME approves Adani's major copper smelter in India as listed brand
+    * India's Adani Enterprises raises QIP issue size to $1.6 billion
+    * Adani prosecutors must justify dropping criminal case, US judge rules
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+    * Apple supplier Jabil, Adani partner to build AI data center infra platform in India 
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.1T | P/E: 42.90133
+  Price: Rs3134.8  |  52w range: Rs2531.1 — Rs3213.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.8%  vs Nifty -2.1%  -> RS: +0.4%
+    1W:  -0.2%  vs Nifty -0.5%
+    1M:  +1.3%  vs Nifty +3.3%  -> RS: -2.0% (UNDERPERFORMING)
+    3M:  +19.6%  vs Nifty +5.3%  -> RS: +14.3% (OUTPERFORMING)
+    6M:  +10.3%
+
+  TREND HEALTH:
+    RSI: 52.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.73%
+    ATR extension from SMA20: -0.15x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.82x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3053.44 (-2.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.4% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Grasim Industries Ltd (BOM:500300) Q4 2026 Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries quarterly loss narrows as core businesses strengthen
+    * Grasim Industries Ltd (BOM:500300) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+    * India's Grasim names Sachin Sahay as new Birla Opus CEO
+    * BlackRock fund to invest about $225 million in India's Aditya Birla Renewables
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs1.8T | P/E: 69.76144
+  Price: Rs6755.0  |  52w range: Rs5689.5 — Rs6951.85
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -2.1%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  +3.2%  vs Nifty -0.5%
+    1M:  +0.0%  vs Nifty +3.3%  -> RS: -3.2% (UNDERPERFORMING)
+    3M:  +16.1%  vs Nifty +5.3%  -> RS: +10.8% (OUTPERFORMING)
+    6M:  +5.1%
+
+  TREND HEALTH:
+    RSI: 53.8  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.05%
+    ATR extension from SMA20: 0.39x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.14x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs6546.96 (-3.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Divi's Laboratories Ltd (BOM:532488) Q4 2026 Earnings Call Highlights: Strong Financial ...
+    * Divi's Laboratories Ltd (BOM:532488) Q3 2026 Earnings Call Highlights: Strong Export ...
+    * Indian contract drug maker Divi's misses profit view on high material costs, one-off labour charge
+    * Divi's Laboratories Ltd (BOM:532488) Q2 2026 Earnings Call Highlights: Strong Revenue Growth ...
+    * Indian drugmaker Divi's beats profit view for second quarter on API boost
+
+-----------------------------------------------------------------
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs2.8T | P/E: 26.441208
+  Price: Rs10164.0  |  52w range: Rs7896.87 — Rs10658.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty -2.1%  -> RS: +2.7% (OUTPERFORMING)
+    1W:  +3.3%  vs Nifty -0.5%
+    1M:  -0.2%  vs Nifty +3.3%  -> RS: -3.5% (UNDERPERFORMING)
+    3M:  +13.9%  vs Nifty +5.3%  -> RS: +8.6% (OUTPERFORMING)
+    6M:  +13.4%
+
+  TREND HEALTH:
+    RSI: 56.1  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): 2.11%
+    ATR extension from SMA20: 0.99x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.71x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9842.48 (-3.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Bajaj Auto Credit accepts bids for 3-year bonds, bankers say
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Indian tyre maker MRF's quarterly profit more than doubles on higher demand
+    * Bajaj Auto Ltd (BOM:532977) Q3 2026 Earnings Call Highlights: Record Revenue and Strategic ...
+    * Indian e-scooter maker Ather Energy's quarterly loss narrows as sales rise
+
+-----------------------------------------------------------------
+
   NYKAA — FSN E-Commerce Ventures Limited
   Consumer Cyclical | Rs910.6B | P/E: 460.79712
   Price: Rs317.95  |  52w range: Rs202.13 — Rs317.95
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.9%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +3.0%  vs Nifty +0.0%
-    1M:  +19.1%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +28.2%  vs Nifty +0.0%  -> RS: N/A
+    1D:  +0.9%  vs Nifty -2.1%  -> RS: +3.0% (OUTPERFORMING)
+    1W:  +3.0%  vs Nifty -0.5%
+    1M:  +19.1%  vs Nifty +3.3%  -> RS: +15.8% (OUTPERFORMING)
+    3M:  +28.2%  vs Nifty +5.3%  -> RS: +22.9% (OUTPERFORMING)
     6M:  +22.8%
 
   TREND HEALTH:
@@ -209,11 +399,12 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
     ATR extension from SMA20: 2.4x  (STRETCHED)
     Volatility trend: EXPANDING
     Volume today: 1.07x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RS 55-day slope: POSITIVE
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs305.77 (-3.8%)
 
   VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
     [+] Within 0.0% of 52w high (breakout zone)
     [~] Extended 2.4x from SMA20 — wait for pullback
 
@@ -226,81 +417,15 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
 
 -----------------------------------------------------------------
 
-  BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs2.8T | P/E: 26.441208
-  Price: Rs10164.0  |  52w range: Rs7896.87 — Rs10658.5
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.5%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +3.3%  vs Nifty +0.0%
-    1M:  -0.2%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +13.9%  vs Nifty +0.0%  -> RS: N/A
-    6M:  +13.4%
-
-  TREND HEALTH:
-    RSI: 56.1  |  Days above SMA50 (last 20): 7/20
-    Daily volatility (ATR%): 2.11%
-    ATR extension from SMA20: 0.99x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.71x 20-day avg
-    RS 55-day slope: NEGATIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs9842.48 (-3.2%)
-
-  VERDICT: WATCH
-    [+] Volatility contracting (base forming, potential breakout)
-
-  RECENT NEWS:
-    * Bajaj Auto Credit accepts bids for 3-year bonds, bankers say
-    * India's Eicher Motors beats quarterly profit estimates on strong sales
-    * Indian tyre maker MRF's quarterly profit more than doubles on higher demand
-    * Bajaj Auto Ltd (BOM:532977) Q3 2026 Earnings Call Highlights: Record Revenue and Strategic ...
-    * Indian e-scooter maker Ather Energy's quarterly loss narrows as sales rise
-
------------------------------------------------------------------
-
-  IIFL — IIFL Finance Limited
-  Financial Services | Rs220.2B | P/E: 13.366029
-  Price: Rs517.8  |  52w range: Rs416.27 — Rs660.26
-
-  PERFORMANCE vs NIFTY:
-    1D:  -1.3%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +4.5%  vs Nifty +0.0%
-    1M:  +1.9%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +20.9%  vs Nifty +0.0%  -> RS: N/A
-    6M:  -12.2%
-
-  TREND HEALTH:
-    RSI: 53.4  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.59%
-    ATR extension from SMA20: -0.04x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 1.1x 20-day avg
-    RS 55-day slope: NEGATIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs489.9 (-5.4%)
-
-  VERDICT: WATCH
-    [+] Volatility contracting (base forming, potential breakout)
-
-  RECENT NEWS:
-    * India's IIFL Finance revives dollar-bond plan, to meet investors, sources say
-    * India's IIFL Finance set to launch its largest public bond sale, sources say
-    * IIFL Finance Ltd (BOM:532636) Q3 2026 Earnings Call Highlights: Robust Growth in Gold Loans and ...
-    * Knight FinTech raises $23.6m in Accel-led Series A round
-    * IIFL Finance Ltd (BOM:532636) Q2 2026 Earnings Call Highlights: Robust Profit Growth Amid Asset ...
-
------------------------------------------------------------------
-
   AUBANK — AU Small Finance Bank Limited
   Financial Services | Rs777.4B | P/E: 29.688482
   Price: Rs1038.8  |  52w range: Rs694.3 — Rs1067.2
 
   PERFORMANCE vs NIFTY:
-    1D:  -2.6%  vs Nifty +0.0%  -> RS: N/A
-    1W:  -1.2%  vs Nifty +0.0%
-    1M:  +6.2%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +16.9%  vs Nifty +0.0%  -> RS: N/A
+    1D:  -2.6%  vs Nifty -2.1%  -> RS: -0.5% (UNDERPERFORMING)
+    1W:  -1.2%  vs Nifty -0.5%
+    1M:  +6.2%  vs Nifty +3.3%  -> RS: +2.9% (OUTPERFORMING)
+    3M:  +16.9%  vs Nifty +5.3%  -> RS: +11.6% (OUTPERFORMING)
     6M:  +5.3%
 
   TREND HEALTH:
@@ -309,11 +434,12 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
     ATR extension from SMA20: 0.1x  (HEALTHY)
     Volatility trend: EXPANDING
     Volume today: 0.78x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RS 55-day slope: POSITIVE
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs998.83 (-3.8%)
 
   VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
     [+] Within 2.7% of 52w high (breakout zone)
 
   RECENT NEWS:
@@ -326,14 +452,14 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs670.4B | P/E: 41.61497
+  Financial Services | Rs670.4B | P/E: 41.393616
   Price: Rs77.82  |  52w range: Rs58.85 — Rs86.07
 
   PERFORMANCE vs NIFTY:
-    1D:  -3.2%  vs Nifty +0.0%  -> RS: N/A
-    1W:  -1.4%  vs Nifty +0.0%
-    1M:  +5.6%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +27.2%  vs Nifty +0.0%  -> RS: N/A
+    1D:  -3.2%  vs Nifty -2.1%  -> RS: -1.1% (UNDERPERFORMING)
+    1W:  -1.4%  vs Nifty -0.5%
+    1M:  +5.6%  vs Nifty +3.3%  -> RS: +2.3% (OUTPERFORMING)
+    3M:  +27.2%  vs Nifty +5.3%  -> RS: +21.9% (OUTPERFORMING)
     6M:  -8.0%
 
   TREND HEALTH:
@@ -342,12 +468,14 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
     ATR extension from SMA20: -0.45x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 0.81x 20-day avg
-    RS 55-day slope: NEGATIVE
+    RS 55-day slope: POSITIVE
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs75.12 (-3.5%)
 
   VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
     [+] Volatility contracting (base forming, potential breakout)
+    [~] Underperforming Nifty today — wait for RS to recover
 
   RECENT NEWS:
     * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
@@ -358,36 +486,71 @@ ICICIBANK      Rs  1380.6   -2.4%   +8.3%      N/A   57.6  0.5x   WATCH
 
 -----------------------------------------------------------------
 
-  ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs9.9T | P/E: 18.624039
-  Price: Rs1380.6  |  52w range: Rs1205.9 — Rs1477.2
+  IIFL — IIFL Finance Limited
+  Financial Services | Rs220.2B | P/E: 13.359134
+  Price: Rs517.8  |  52w range: Rs416.27 — Rs660.26
 
   PERFORMANCE vs NIFTY:
-    1D:  -2.4%  vs Nifty +0.0%  -> RS: N/A
-    1W:  +0.1%  vs Nifty +0.0%
-    1M:  +8.3%  vs Nifty +0.0%  -> RS: N/A
-    3M:  +10.8%  vs Nifty +0.0%  -> RS: N/A
-    6M:  +2.8%
+    1D:  -1.3%  vs Nifty -2.1%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +4.5%  vs Nifty -0.5%
+    1M:  +1.9%  vs Nifty +3.3%  -> RS: -1.4% (UNDERPERFORMING)
+    3M:  +20.9%  vs Nifty +5.3%  -> RS: +15.6% (OUTPERFORMING)
+    6M:  -12.2%
 
   TREND HEALTH:
-    RSI: 57.6  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 1.82%
-    ATR extension from SMA20: 0.5x  (HEALTHY)
+    RSI: 53.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.59%
+    ATR extension from SMA20: -0.04x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.77x 20-day avg
-    RS 55-day slope: NEGATIVE
+    Volume today: 1.1x 20-day avg
+    RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1342.92 (-2.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs489.9 (-5.4%)
 
   VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
-    * Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading
-    * India's ICICI Bank to join peers in dollar debt funding under RBI swap window, sources say
-    * Asian Equities Traded in the US as American Depositary Receipts Track Higher in Wednesday Trading
-    * India's Kotak Mahindra Bank has 'high ambitions' to deploy capital for growth, CEO says
-    * Is ICICI Bank Limited (IBN) The Best Deep Value Stock to Invest in?
+    * India's IIFL Finance revives dollar-bond plan, to meet investors, sources say
+    * India's IIFL Finance set to launch its largest public bond sale, sources say
+    * IIFL Finance Ltd (BOM:532636) Q3 2026 Earnings Call Highlights: Robust Growth in Gold Loans and ...
+    * Knight FinTech raises $23.6m in Accel-led Series A round
+    * IIFL Finance Ltd (BOM:532636) Q2 2026 Earnings Call Highlights: Robust Profit Growth Amid Asset ...
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.5T | P/E: 154.79424
+  Price: Rs1504.6  |  52w range: Rs772.8 — Rs1556.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -2.1%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  -2.0%  vs Nifty -0.5%
+    1M:  -1.9%  vs Nifty +3.3%  -> RS: -5.2% (UNDERPERFORMING)
+    3M:  +62.6%  vs Nifty +5.3%  -> RS: +57.3% (OUTPERFORMING)
+    6M:  +50.2%
+
+  TREND HEALTH:
+    RSI: 52.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.18%
+    ATR extension from SMA20: -0.15x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.97x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1432.75 (-4.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+    * India's Adani Green reports higher quarterly profit on strong power sales
 
 -----------------------------------------------------------------
 
