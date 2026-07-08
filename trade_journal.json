@@ -2149,5 +2149,74 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-08",
+    "trades": [
+      {
+        "ticker": "ADANIGREEN",
+        "entry": 1521.95,
+        "target1": 1591.49,
+        "target2": 1637.85,
+        "stop": 1508.25,
+        "verdict": "WATCH",
+        "eod_open": 1508.699951171875,
+        "eod_high": 1557.0,
+        "eod_low": 1493.699951171875,
+        "eod_close": 1510.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 524.9,
+        "target1": 552.8,
+        "target2": 571.4,
+        "stop": 517.55,
+        "verdict": "WATCH",
+        "eod_open": 519.9500122070312,
+        "eod_high": 538.5,
+        "eod_low": 513.5999755859375,
+        "eod_close": 517.7999877929688,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 10094.05,
+        "target1": 10405.91,
+        "target2": 10613.81,
+        "stop": 10020.95,
+        "verdict": "WATCH",
+        "eod_open": 312.1499938964844,
+        "eod_high": 325.45001220703125,
+        "eod_low": 312.1499938964844,
+        "eod_close": 319.29998779296875,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "AUBANK",
+        "entry": 1065.55,
+        "target1": 1103.55,
+        "target2": 1128.88,
+        "stop": 1056.35,
+        "verdict": "TRADE NOW",
+        "eod_open": 1059.5,
+        "eod_high": 1074.0,
+        "eod_low": 1033.5,
+        "eod_close": 1038.800048828125,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1056.35) \u2014 -0.86% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
