@@ -1,0 +1,74 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, July 09 2026
+  Layer 3 | 03:56 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3174.85 | Stop: Rs 3142.05 | T1: Rs 3259.36
+               EOD: O:3142.10009765625 H:3222.0 L:3142.10009765625 C:3191.89990234375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1029.35 | Stop: Rs 1023.05 | T1: Rs 1070.32
+               EOD: O:1023.9000244140625 H:1039.800048828125 L:1016.2000122070312 C:1031.699951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 78.68 | Stop: Rs 77.93 | T1: Rs 81.45
+               EOD: O:77.9800033569336 H:79.75 L:77.9800033569336 C:79.73999786376953
+               Entry triggered but no target set — monitor
+
+  [MISSED]     CHOLAFIN     | Verdict: WATCH
+               Entry: Rs 1785.75 | Stop: Rs 1771.35 | T1: Rs 1858.83
+               EOD: O:1777.0999755859375 H:1805.9000244140625 L:1755.4000244140625 C:1791.9000244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MARICO       | Verdict: WATCH
+               Entry: Rs 847.1 | Stop: Rs 841.4 | T1: Rs 872.72
+               EOD: O:841.4500122070312 H:862.1500244140625 L:841.4500122070312 C:860.0499877929688
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1813.85 | Stop: Rs 1796.35 | T1: Rs 1873.03
+               EOD: O:1796.4000244140625 H:1821.0 L:1796.0999755859375 C:1802.0
+               Entry triggered but no target set — monitor
+
+  [FP]         PIDILITIND   | Verdict: TRADE NOW
+               Entry: Rs 1586.75 | Stop: Rs 1570.35 | T1: Rs 1632.36
+               EOD: O:1570.4000244140625 H:1598.5999755859375 L:1570.4000244140625 C:1590.4000244140625
+               Triggered but no target/stop hit — closed at Rs 1590.4000244140625 (+0.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (21 days tracked)
+=================================================================
+  Total Trades    : 61
+  Win Rate        : 3.3%
+  Good Wins       : 2
+  Good Losses     : 24
+  False Positives : 35
+  Valid Skips     : 8
+  Missed Trades   : 78
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
