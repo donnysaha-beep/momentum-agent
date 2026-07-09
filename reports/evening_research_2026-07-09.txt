@@ -239,7 +239,7 @@ APOLLOHOSP     Rs  8845.5   +1.1%   +4.2%    +1.1%   67.5  1.6x   WATCH
 -----------------------------------------------------------------
 
   ASIANPAINT — Asian Paints Limited
-  Basic Materials | Rs2.6T | P/E: 59.325497
+  Basic Materials | Rs2.6T | P/E: 59.351833
   Price: Rs2673.8  |  52w range: Rs2103.05 — Rs2942.97
 
   PERFORMANCE vs NIFTY:
@@ -309,7 +309,7 @@ APOLLOHOSP     Rs  8845.5   +1.1%   +4.2%    +1.1%   67.5  1.6x   WATCH
 -----------------------------------------------------------------
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.5T | P/E: 30.319798
+  Financial Services | Rs1.5T | P/E: 29.018623
   Price: Rs1791.9  |  52w range: Rs1354.7 — Rs1853.4
 
   PERFORMANCE vs NIFTY:
@@ -479,7 +479,7 @@ APOLLOHOSP     Rs  8845.5   +1.1%   +4.2%    +1.1%   67.5  1.6x   WATCH
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 63.425514
+  Consumer Defensive | Rs1.1T | P/E: 63.192505
   Price: Rs860.05  |  52w range: Rs687.11 — Rs860.05
 
   PERFORMANCE vs NIFTY:
