@@ -1,0 +1,187 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, July 10 2026 06:24 AM
+=================================================================
+
+MARKET REGIME: BULL  [GO]
+  Nifty 50:  Rs24157.55  | Today: +0.8%  | 1W: -0.5%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 12.41  (-7.1%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : NewEconomy (+2.9%) | Defence (+2.4%) | Infra (+2.1%)
+  Lagging : Electricals (+0.2%) | Consumer (+0.1%) | Pharma (-1.2%)
+
+Found 59 momentum stocks → 43 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    BANDHANBNK   Rs   209.2   +4.7%   55.2   1.1x   -3.5%   +3.9%  0.4x    9/10   A+
+2    RBLBANK      Rs   375.8   +3.6%   57.9   0.6x   -0.8%   +2.8%  0.6x    9/10   A+
+3    ADANIPORTS   Rs  1844.7   +3.0%   55.0   0.4x   -2.0%   +1.8%  0.5x    9/10   A+
+4    ADANIENT     Rs  3168.5   +2.8%   61.2   0.4x   -1.4%   +1.9%  1.2x    8/10   A+
+5    MANAPPURAM   Rs   340.9   +2.5%   61.5   0.3x   -1.5%   +1.4%  1.6x    8/10   A+
+6    SHRIRAMFIN   Rs  1045.5   +1.3%   60.3   0.2x   -4.8%   +0.5%  0.8x    8/10   A+
+7    GRASIM       Rs  3227.8   +1.1%   62.8   0.4x   +0.0%   +0.3%  1.3x    8/10   A+
+8    AUBANK       Rs  1074.2   +2.6%   61.9   0.2x   +0.0%   +1.8%  1.2x    7/10   A
+9    ADANIGREEN   Rs  1543.8   +2.6%   58.4   0.6x   -0.8%   +1.4%  0.6x    7/10   A
+10   IDFCFIRSTB   Rs    81.1   +2.1%   63.2   0.3x   -5.8%   +1.3%  1.1x    7/10   A
+11   CHOLAFIN     Rs  1816.1   +1.4%   63.1   0.1x   -2.0%   +0.5%  1.1x    7/10   A
+12   PIDILITIND   Rs  1596.5   +1.7%   59.1   0.2x   -1.6%   +0.5%  0.3x    7/10   A
+13   ICICIBANK    Rs  1401.0   +1.5%   61.9   0.2x   -5.2%   +0.3%  1.1x    7/10   A
+14   MARICO       Rs   850.1   +1.2%   60.6   0.2x   -0.7%   +0.0%  1.2x    7/10   A
+15   GMRAIRPORT   Rs   112.3   +0.4%   61.0   0.1x   -2.3%   -0.4%  0.7x    7/10   A
+16   FEDERALBNK   Rs   328.6   +0.2%   63.1   0.3x   -0.9%   -0.6%  0.5x    7/10   A
+17   BHEL         Rs   390.8   +3.4%   48.3   0.4x   -7.5%   +2.3% -0.5x    6/10   A
+18   TECHM        Rs  1446.1   +1.4%   55.8   0.4x  -16.1%   +0.6%  1.0x    6/10   A
+19   IIFL         Rs   552.0   +1.3%   63.6   0.6x  -16.4%   +0.5%  1.5x    6/10   A
+20   BAJFINANCE   Rs  1012.4   +0.9%   61.9   0.3x   -6.9%   +0.0%  1.1x    6/10   A
+21   HDFCBANK     Rs   824.4   +0.8%   66.4   0.3x  -17.3%   +0.0%  1.9x    6/10   A
+22   TITAN        Rs  4593.4   +0.8%   68.4   0.3x   +0.0%   +0.0%  2.1x    6/10   A
+23   APOLLOHOSP   Rs  8822.0   +0.8%   66.6   0.3x   -0.8%   -0.4%  1.5x    6/10   A
+24   PAYTM        Rs  1318.8   +4.4%   76.2   1.1x   -3.6%   +3.6%  4.1x    5/10   B
+25   HAL          Rs  4514.8   +3.4%   60.4   0.7x   -7.4%   +2.3%  1.2x    5/10   B
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  BANDHANBNK (Banking) — Rs209.25 | Grade A+ | 9/10
+  52w: Rs135.47 — Rs216.74 | ATR: 3.41%/day | Ext: 0.39x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.9%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  RBLBANK (Banking) — Rs375.8 | Grade A+ | 9/10
+  52w: Rs249.94 — Rs378.85 | ATR: 2.78%/day | Ext: 0.64x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.8%)
+    [+] Not ATR-extended (0.6x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1844.7 | Grade A+ | 9/10
+  52w: Rs1294.84 — Rs1883.2 | ATR: 2.29%/day | Ext: 0.48x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIENT (Infra) — Rs3168.5 | Grade A+ | 8/10
+  52w: Rs1758.01 — Rs3212.1 | ATR: 2.78%/day | Ext: 1.23x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.9%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  MANAPPURAM (Finance) — Rs340.9 | Grade A+ | 8/10
+  52w: Rs246.16 — Rs346.1 | ATR: 3.14%/day | Ext: 1.62x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [+] Not ATR-extended (1.6x ATR from SMA20)
+    [+] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SHRIRAMFIN (Finance) — Rs1045.5 | Grade A+ | 8/10
+  52w: Rs564.99 — Rs1098.39 | ATR: 2.55%/day | Ext: 0.8x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  GRASIM (Cement) — Rs3227.8 | Grade A+ | 8/10
+  52w: Rs2531.1 — Rs3227.8 | ATR: 1.75%/day | Ext: 1.31x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  AUBANK (Banking) — Rs1074.2 | Grade A | 7/10
+  52w: Rs694.3 — Rs1074.2 | ATR: 2.44%/day | Ext: 1.18x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  ADANIGREEN (Energy) — Rs1543.8 | Grade A | 7/10
+  52w: Rs772.8 — Rs1556.2 | ATR: 3.12%/day | Ext: 0.58x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [+] Not ATR-extended (0.6x ATR from SMA20)
+    [-] In leading sector (Energy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs81.12 | Grade A | 7/10
+  52w: Rs58.85 — Rs86.07 | ATR: 2.23%/day | Ext: 1.07x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.3%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
