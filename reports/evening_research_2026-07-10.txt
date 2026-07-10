@@ -28,7 +28,7 @@ MARICO         Rs   852.5   -0.9%   +5.1%    +0.9%   59.8  1.2x   WATCH
 =================================================================
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.5T | P/E: 28.9063
+  Financial Services | Rs1.5T | P/E: 29.242964
   Price: Rs1807.8  |  52w range: Rs1354.7 — Rs1853.4
 
   PERFORMANCE vs NIFTY:
@@ -129,7 +129,7 @@ MARICO         Rs   852.5   -0.9%   +5.1%    +0.9%   59.8  1.2x   WATCH
 -----------------------------------------------------------------
 
   BANDHANBNK — Bandhan Bank Limited
-  Financial Services | Rs338.3B | P/E: 27.166882
+  Financial Services | Rs338.3B | P/E: 27.667984
   Price: Rs210.0  |  52w range: Rs135.47 — Rs216.74
 
   PERFORMANCE vs NIFTY:
@@ -410,7 +410,7 @@ MARICO         Rs   852.5   -0.9%   +5.1%    +0.9%   59.8  1.2x   WATCH
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs696.3B | P/E: 42.09896
+  Financial Services | Rs696.3B | P/E: 42.994682
   Price: Rs80.83  |  52w range: Rs58.85 — Rs86.07
 
   PERFORMANCE vs NIFTY:
