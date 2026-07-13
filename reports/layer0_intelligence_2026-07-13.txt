@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, July 13 2026
+  Layer 0 | Generated: 05:44 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,149.90  (-0.24%)
+  Bank Nifty            :  57,941.75  (-0.18%)
+  India VIX             :      13.33  (+8.82%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24200.61  [ESTIMATED]
+  Change vs prev : +0.21%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.42% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,575.39  (+0.42%)
+  Nasdaq (US)           :  26,281.61  (+0.29%)
+  US VIX                :      15.03  (-5.11%)
+  Crude Oil (WTI)       :      74.75  (+4.68%)
+  Gold                  :   4,069.60  (-0.84%)
+  Silver                :      58.65  (-1.95%)
+  USD/INR               :      95.77  (+0.40%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX SPIKE +8.8% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, IT, Pharma
+  Avoid      : Aviation, Consumer, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
