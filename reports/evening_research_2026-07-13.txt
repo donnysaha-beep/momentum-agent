@@ -1,0 +1,198 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 13, 2026
+=================================================================
+
+MARKET REGIME: DANGER
+  Nifty 50: Rs24211.0  1D: +0.0%  1W: -0.9%  1M: +4.5%  3M: +4.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HDFCBANK       Rs   818.0   -0.8%   +7.6%    +3.1%   62.3  1.3x   WATCH
+TCS            Rs  2181.5   +5.4%   +0.9%    -3.6%   55.1  1.2x   WATCH
+RELIANCE       Rs  1296.9   -0.8%   +0.3%    -4.2%   46.6 -0.5x   WATCH
+INFY           Rs  1102.6   +3.2%   -1.2%    -5.8%   54.1  1.2x   WATCH
+LT             Rs  3928.5   -0.4%   -3.0%    -7.5%   39.2 -2.3x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs12.6T | P/E: 18.261889
+  Price: Rs817.95  |  52w range: Rs719.65 — Rs996.42
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.8%  vs Nifty +0.0%  -> RS: -0.9% (UNDERPERFORMING)
+    1W:  -1.4%  vs Nifty -0.9%
+    1M:  +7.6%  vs Nifty +4.5%  -> RS: +3.1% (OUTPERFORMING)
+    3M:  +2.6%  vs Nifty +4.7%  -> RS: -2.1% (UNDERPERFORMING)
+    6M:  -16.1%
+
+  TREND HEALTH:
+    RSI: 62.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.85%
+    ATR extension from SMA20: 1.26x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs795.25 (-2.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * HDFC headcount shrinks by over 3,000 amid automation push
+    * India’s Largest Private Bank Lost Over 3,000 Employees to AI
+    * Asian Equities Traded in the US as American Depositary Receipts Higher in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading
+    * Indian shares likely to open higher on strong business updates from lenders
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs7.9T | P/E: 15.855077
+  Price: Rs2181.5  |  52w range: Rs1982.6 — Rs3221.85
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.4%  vs Nifty +0.0%  -> RS: +5.4% (OUTPERFORMING)
+    1W:  +6.0%  vs Nifty -0.9%
+    1M:  +0.9%  vs Nifty +4.5%  -> RS: -3.6% (UNDERPERFORMING)
+    3M:  -12.4%  vs Nifty +4.7%  -> RS: -17.1% (UNDERPERFORMING)
+    6M:  -30.2%
+
+  TREND HEALTH:
+    RSI: 55.1  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 3.05%
+    ATR extension from SMA20: 1.21x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.42x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2081.67 (-4.6%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.42x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India's TCS bags multi-million contract from industrial giant ABB
+    * India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions
+    * India's TCS rises after quarterly revenue beat
+    * Indian shares set to open higher; TCS in focus after revenue beat
+    * Tata Consultancy Services Ltd (BOM:532540) Q1 2027 Earnings Call Highlights: Strong Revenue ...
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.6T | P/E: 21.745474
+  Price: Rs1296.9  |  52w range: Rs1258.8 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.8%  vs Nifty +0.0%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  -1.9%  vs Nifty -0.9%
+    1M:  +0.3%  vs Nifty +4.5%  -> RS: -4.2% (UNDERPERFORMING)
+    3M:  -3.5%  vs Nifty +4.7%  -> RS: -8.2% (UNDERPERFORMING)
+    6M:  -17.3%
+
+  TREND HEALTH:
+    RSI: 46.6  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 1.76%
+    ATR extension from SMA20: -0.54x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.74x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1262.57 (-2.6%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Meta (META) Builds Its First India AI Data Center With Reliance
+    * Billionaire Ambani wants AI in every call, app, and home
+    * Reliance’s Jio Platforms to Seek India Listing
+    * Meta Platforms, Inc. (META): A Top Growth Stock to Buy Pursuing Data Centers Opportunities in India
+    * Reliance Industries (NSEI:RELIANCE) Stock Fair Value Edges Higher After Analyst Fine Tuning
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.5T | P/E: 14.602038
+  Price: Rs1102.6  |  52w range: Rs985.3 — Rs1654.01
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.2%  vs Nifty +0.0%  -> RS: +3.2% (OUTPERFORMING)
+    1W:  +5.8%  vs Nifty -0.9%
+    1M:  -1.2%  vs Nifty +4.5%  -> RS: -5.8% (UNDERPERFORMING)
+    3M:  -12.8%  vs Nifty +4.7%  -> RS: -17.6% (UNDERPERFORMING)
+    6M:  -30.9%
+
+  TREND HEALTH:
+    RSI: 54.1  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 3.11%
+    ATR extension from SMA20: 1.2x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.42x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1051.12 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund
+    * Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals
+    * Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Tuesday Trading
+    * Indian IT firms face muted Q1 as AI shift, weak demand weigh
+    * Madison Square Garden Entertainment Corp. (MSGE) To Remain Fully Operational Amid New York Penn Station Redevelopment
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.4T | P/E: 33.63442
+  Price: Rs3928.5  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty +0.0%  -> RS: -0.5%
+    1W:  -2.8%  vs Nifty -0.9%
+    1M:  -3.0%  vs Nifty +4.5%  -> RS: -7.5% (UNDERPERFORMING)
+    3M:  +0.2%  vs Nifty +4.7%  -> RS: -4.5% (UNDERPERFORMING)
+    6M:  -4.2%
+
+  TREND HEALTH:
+    RSI: 39.2  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 1.91%
+    ATR extension from SMA20: -2.26x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3816.14 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's L&T to invest nearly $2 billion in Tamil Nadu, state government says
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
