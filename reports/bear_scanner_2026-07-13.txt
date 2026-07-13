@@ -1,0 +1,72 @@
+=================================================================
+  BEAR SCANNER — Monday, July 13 2026 07:49 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24212.35  |  Gap: -0.7%  |  VWAP: nan
+  ORB: 24000.85 — 24044.0
+
+REGIME: DANGER  |  SHORT SIZE: SMALL SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 4 SKIP
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  RELIANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1299.4
+  Gap from prev  : -0.6%  (prev Rs 1309.6 | opened Rs 1301.2)
+  Opening Range  : Rs 1299.2 — Rs 1305.1  (0.45% wide)
+  VWAP           : Rs 1300.59  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 48.7
+  ATR (daily)    : Rs 22.71
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1299.15  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1265.09  (-2.6%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1242.38  (-4.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1305.15  (+0.5%)  [above ORB high]
+    Risk/Reward    : 1:5.7 (T1)  |  1:9.5 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 19 shares
+    Capital needed : Rs 24,684  (margin)
+    Max loss       : Rs 114  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1299.199951171875) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  INFY  [40%]  |  Rs 1110.7
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HDFCBANK  [30%]  |  Rs 818.85
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  TCS  [30%]  |  Rs 2190.7
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SBIN  [30%]  |  Rs 1038.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
