@@ -1,0 +1,128 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 14, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs24052.05  1D: -0.7%  1W: -1.4%  1M: +1.8%  3M: +0.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+ADANIGREEN     Rs  1604.5   +3.8%   +8.2%    +6.4%   65.5  1.5x   WATCH NOW
+GMRAIRPORT     Rs   113.4   -1.1%   +6.3%    +4.5%   61.3  0.9x   WATCH NOW
+ADANIENT       Rs  3188.9   +0.4%   +8.4%    +6.5%   62.5  1.2x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.6T | P/E: 167.66423
+  Price: Rs1604.5  |  52w range: Rs772.8 — Rs1604.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.8%  vs Nifty -0.7%  -> RS: +4.4% (OUTPERFORMING)
+    1W:  +5.6%  vs Nifty -1.4%
+    1M:  +8.2%  vs Nifty +1.8%  -> RS: +6.4% (OUTPERFORMING)
+    3M:  +47.8%  vs Nifty +0.2%  -> RS: +47.6% (OUTPERFORMING)
+    6M:  +54.5%
+
+  TREND HEALTH:
+    RSI: 65.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.31%
+    ATR extension from SMA20: 1.5x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.91x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1524.93 (-5.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
+    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
+    * India's Adani Green reports higher quarterly profit on strong power sales
+
+-----------------------------------------------------------------
+
+  GMRAIRPORT — GMR Airports Limited
+  Industrials | Rs1.2T | P/E: 882.1539
+  Price: Rs113.38  |  52w range: Rs84.75 — Rs114.98
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty -0.7%  -> RS: -0.5%
+    1W:  -1.4%  vs Nifty -1.4%
+    1M:  +6.3%  vs Nifty +1.8%  -> RS: +4.5% (OUTPERFORMING)
+    3M:  +19.4%  vs Nifty +0.2%  -> RS: +19.2% (OUTPERFORMING)
+    6M:  +7.2%
+
+  TREND HEALTH:
+    RSI: 61.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.41%
+    ATR extension from SMA20: 0.86x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.58x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs109.28 (-3.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.4% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * GMR Airports Ltd (BOM:532754) Q4 2026 Earnings Call Highlights: Record Income Growth and First ...
+    * GMR Airports Ltd (BOM:532754) Q3 2026 Earnings Call Highlights: Strong Income Growth Amidst ...
+    * India's GMR Airports plans about $245 million long-term bond sale, sources say
+    * GMR Airports Ltd (BOM:532754) Q2 2026 Earnings Call Highlights: Robust Revenue Growth Amid ...
+    * Corporate bond fundraising in India set to hit new highs as firms chase low-cost capital
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.5T | P/E: 42.964615
+  Price: Rs3188.9  |  52w range: Rs1758.01 — Rs3212.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.7%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +2.6%  vs Nifty -1.4%
+    1M:  +8.4%  vs Nifty +1.8%  -> RS: +6.5% (OUTPERFORMING)
+    3M:  +49.9%  vs Nifty +0.2%  -> RS: +49.6% (OUTPERFORMING)
+    6M:  +39.9%
+
+  TREND HEALTH:
+    RSI: 62.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.73%
+    ATR extension from SMA20: 1.21x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3058.17 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * LME approves Adani's major copper smelter in India as listed brand
+    * India's Adani Enterprises raises QIP issue size to $1.6 billion
+    * Adani prosecutors must justify dropping criminal case, US judge rules
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+    * Apple supplier Jabil, Adani partner to build AI data center infra platform in India 
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
