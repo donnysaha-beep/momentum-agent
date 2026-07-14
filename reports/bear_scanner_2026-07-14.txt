@@ -1,0 +1,66 @@
+=================================================================
+  BEAR SCANNER — Tuesday, July 14 2026 06:36 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24103.0  |  Gap: -0.5%  |  VWAP: nan
+  ORB: 24050.55 — 24156.4
+
+REGIME: CAUTION  |  SHORT SIZE: ACTIVE SHORT SIZE (Rs 62,500/trade)
+
+SUMMARY: 0 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 2 SKIP
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  GMRAIRPORT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 113.13
+  Gap from prev  : -0.7%  (prev Rs 114.48 | opened Rs 113.64)
+  Opening Range  : Rs 113.12 — Rs 113.89  (0.68% wide)
+  VWAP           : Rs 113.21  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 63.8
+  ATR (daily)    : Rs 2.72
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 113.07  (break BELOW ORB low)
+    Target 1 (50%) : Rs 108.99  (-3.6%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 106.27  (-6.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 113.94  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:4.69 (T1)  |  1:7.81 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 552 shares
+    Capital needed : Rs 62,415  (margin)
+    Max loss       : Rs 480  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 113.12000274658203) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  ADANIGREEN  [40%]  |  Rs 1614.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [30%]  |  Rs 3204.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
