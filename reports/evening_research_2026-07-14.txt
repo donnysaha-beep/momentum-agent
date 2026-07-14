@@ -16,7 +16,7 @@ ADANIENT       Rs  3188.9   +0.4%   +8.4%    +6.5%   62.5  1.2x   WATCH
 =================================================================
 
   ADANIGREEN — Adani Green Energy Limited
-  Utilities | Rs2.6T | P/E: 167.66423
+  Utilities | Rs2.6T | P/E: 164.88707
   Price: Rs1604.5  |  52w range: Rs772.8 — Rs1604.5
 
   PERFORMANCE vs NIFTY:
@@ -51,7 +51,7 @@ ADANIENT       Rs  3188.9   +0.4%   +8.4%    +6.5%   62.5  1.2x   WATCH
 -----------------------------------------------------------------
 
   GMRAIRPORT — GMR Airports Limited
-  Industrials | Rs1.2T | P/E: 882.1539
+  Industrials | Rs1.2T | P/E: 819.1429
   Price: Rs113.38  |  52w range: Rs84.75 — Rs114.98
 
   PERFORMANCE vs NIFTY:
@@ -86,7 +86,7 @@ ADANIENT       Rs  3188.9   +0.4%   +8.4%    +6.5%   62.5  1.2x   WATCH
 -----------------------------------------------------------------
 
   ADANIENT — Adani Enterprises Limited
-  Energy | Rs4.5T | P/E: 42.964615
+  Energy | Rs4.5T | P/E: 43.06186
   Price: Rs3188.9  |  52w range: Rs1758.01 — Rs3212.1
 
   PERFORMANCE vs NIFTY:
