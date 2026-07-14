@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, July 14 2026
+  Layer 3 | 01:27 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         ADANIENT     | Verdict: TRADE NOW
+               Entry: Rs 3175.55 | Stop: Rs 3146.75 | T1: Rs 3305.52
+               EOD: O:3162.0 H:3219.699951171875 L:3146.800048828125 C:3188.89990234375
+               Triggered but no target/stop hit — closed at Rs 3188.89990234375 (+0.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (23 days tracked)
+=================================================================
+  Total Trades    : 63
+  Win Rate        : 3.2%
+  Good Wins       : 2
+  Good Losses     : 24
+  False Positives : 37
+  Valid Skips     : 8
+  Missed Trades   : 80
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
