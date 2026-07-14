@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Tuesday, July 14 2026
+  Layer 0 | Generated: 04:56 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 0/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,071.15  (-0.58%)
+  Bank Nifty            :  57,419.05  (-1.23%)
+  India VIX             :      13.76  (+3.58%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23974.87  [ESTIMATED]
+  Change vs prev : -0.40%
+  Bias           : BEARISH
+  Based on       : S&P 500 -0.79% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,515.34  (-0.79%)
+  Nasdaq (US)           :  25,873.18  (-1.55%)
+  US VIX                :      17.16  (+14.17%)
+  Crude Oil (WTI)       :      79.80  (+2.12%)
+  Gold                  :   4,027.20  (+0.76%)
+  Silver                :      58.04  (+0.70%)
+  USD/INR               :      96.16  (+0.88%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.4% (bearish)
+  * India VIX 13.76 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, IT, Pharma
+  Avoid      : Aviation, Consumer, Banking, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================

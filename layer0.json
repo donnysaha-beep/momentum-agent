@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-13",
-  "regime": "DANGER",
-  "confidence": 40,
-  "trend_type": "HIGH_VOLATILITY",
-  "size_multiplier": 0.0,
+  "date": "2026-07-14",
+  "regime": "CAUTION",
+  "confidence": 0,
+  "trend_type": "MEAN_REVERSION",
+  "size_multiplier": 0.5,
   "prioritize_sectors": [
     "Energy",
     "IT",
@@ -15,13 +15,13 @@
     "Banking",
     "NewEconomy"
   ],
-  "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": 0.21,
-  "india_vix": 13.33,
-  "india_vix_chg": 8.82,
+  "gift_bias": "BEARISH",
+  "gift_estimated_chg": -0.4,
+  "india_vix": 13.76,
+  "india_vix_chg": 3.58,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": 0.42,
-  "crude_chg": 4.68,
-  "gold_chg": -0.84
+  "sp500_chg": -0.79,
+  "crude_chg": 2.12,
+  "gold_chg": 0.76
 }
