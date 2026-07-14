@@ -1,0 +1,76 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, July 14 2026 05:13 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24090.4  | Today: -0.5%  | 1W: -1.3%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 13.71  (+3.2%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Pharma (+0.9%) | Metals (+0.7%) | IT (+0.0%)
+  Lagging : Defence (-1.7%) | Cement (-2.8%) | Finance (-3.2%)
+
+Found 65 momentum stocks → 3 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    ADANIGREEN   Rs  1582.0   +2.3%   63.1   0.6x   +0.0%   +2.8%  1.2x    8/10   A+
+2    ADANIENT     Rs  3177.7   +0.0%   61.8   0.3x   -1.1%   +0.5%  1.1x    8/10   A+
+3    GMRAIRPORT   Rs   112.4   -0.1%   61.1   0.2x   -2.2%   +0.4%  0.7x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  ADANIGREEN (Energy) — Rs1582.0 | Grade A+ | 8/10
+  52w: Rs772.8 — Rs1582.0 | ATR: 3.14%/day | Ext: 1.17x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.8%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [+] In leading sector (Energy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  ADANIENT (Infra) — Rs3177.7 | Grade A+ | 8/10
+  52w: Rs1758.01 — Rs3212.1 | ATR: 2.67%/day | Ext: 1.12x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  GMRAIRPORT (Infra) — Rs112.42 | Grade A+ | 8/10
+  52w: Rs84.75 — Rs114.98 | ATR: 2.35%/day | Ext: 0.68x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
