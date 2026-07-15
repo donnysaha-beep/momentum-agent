@@ -1,0 +1,556 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 15, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs24078.5  1D: -0.6%  1W: -1.3%  1M: +1.9%  3M: +0.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+CHOLAFIN       Rs  1803.9   +1.8%   +7.3%    +5.4%   59.7  0.5x   WATCH NOW
+GMRAIRPORT     Rs   111.8   -1.4%   +4.0%    +2.1%   56.6  0.2x   WATCH NOW
+ABB            Rs  7204.5   +4.5%   +2.6%    +0.7%   59.1  1.0x   WATCH NOW
+RBLBANK        Rs   372.8   -1.4%   +0.8%    -1.1%   54.5  0.2x   WATCH NOW
+ADANIPORTS     Rs  1829.1   +0.4%   +0.4%    -1.5%   53.2  0.2x   WATCH NOW
+BANDHANBNK     Rs   216.5   +4.2%   -0.1%    -2.0%   59.4  1.4x   WATCH NOW
+EICHERMOT      Rs  7404.5   +1.7%   -2.1%    -4.0%   52.1 -0.1x   WATCH NOW
+SUNPHARMA      Rs  1951.5   +0.5%   +8.7%    +6.7%   71.0  2.1x   WATCH
+BAJFINANCE     Rs  1021.3   +1.5%   +7.1%    +5.2%   61.7  0.9x   WATCH
+ADANIENT       Rs  3150.6   -1.2%   +7.0%    +5.1%   58.7  0.7x   WATCH
+APOLLOHOSP     Rs  8934.0   +0.4%   +6.5%    +4.5%   68.7  1.7x   WATCH
+ICICIBANK      Rs  1416.2   +0.6%   +6.1%    +4.2%   65.2  1.2x   WATCH
+MANAPPURAM     Rs   328.6   +0.1%   +3.5%    +1.6%   53.0  0.2x   WATCH
+SHRIRAMFIN     Rs  1033.8   +2.0%   +3.4%    +1.4%   55.3  0.2x   WATCH
+DIVISLAB       Rs  7273.0   +1.2%   +8.3%    +6.4%   73.8  3.2x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.5T | P/E: 29.175158
+  Price: Rs1803.9  |  52w range: Rs1354.7 — Rs1853.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.8%  vs Nifty -0.6%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  +1.9%  vs Nifty -1.3%
+    1M:  +7.3%  vs Nifty +1.9%  -> RS: +5.4% (OUTPERFORMING)
+    3M:  +16.3%  vs Nifty +0.3%  -> RS: +16.0% (OUTPERFORMING)
+    6M:  +1.9%
+
+  TREND HEALTH:
+    RSI: 59.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.66%
+    ATR extension from SMA20: 0.47x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1731.86 (-4.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
+
+-----------------------------------------------------------------
+
+  GMRAIRPORT — GMR Airports Limited
+  Industrials | Rs1.2T | P/E: 931.8334
+  Price: Rs111.82  |  52w range: Rs84.75 — Rs114.98
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.4%  vs Nifty -0.6%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  +0.7%  vs Nifty -1.3%
+    1M:  +4.0%  vs Nifty +1.9%  -> RS: +2.1% (OUTPERFORMING)
+    3M:  +12.7%  vs Nifty +0.3%  -> RS: +12.4% (OUTPERFORMING)
+    6M:  +5.8%
+
+  TREND HEALTH:
+    RSI: 56.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.47%
+    ATR extension from SMA20: 0.24x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.74x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs107.68 (-3.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * GMR Airports Ltd (BOM:532754) Q4 2026 Earnings Call Highlights: Record Income Growth and First ...
+    * GMR Airports Ltd (BOM:532754) Q3 2026 Earnings Call Highlights: Strong Income Growth Amidst ...
+    * India's GMR Airports plans about $245 million long-term bond sale, sources say
+    * GMR Airports Ltd (BOM:532754) Q2 2026 Earnings Call Highlights: Robust Revenue Growth Amid ...
+    * Corporate bond fundraising in India set to hit new highs as firms chase low-cost capital
+
+-----------------------------------------------------------------
+
+  ABB — ABB India Limited
+  Industrials | Rs1.5T | P/E: 98.61073
+  Price: Rs7204.5  |  52w range: Rs4672.39 — Rs7556.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.5%  vs Nifty -0.6%  -> RS: +5.1% (OUTPERFORMING)
+    1W:  +6.4%  vs Nifty -1.3%
+    1M:  +2.6%  vs Nifty +1.9%  -> RS: +0.7% (OUTPERFORMING)
+    3M:  +5.2%  vs Nifty +0.3%  -> RS: +4.9% (OUTPERFORMING)
+    6M:  +40.0%
+
+  TREND HEALTH:
+    RSI: 59.1  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 2.63%
+    ATR extension from SMA20: 1.04x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.7x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs6920.57 (-3.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.7x avg) = conviction
+
+  RECENT NEWS:
+    * ABB India Ltd (BOM:500002) Q3 2025 Earnings Call Highlights: Strong Revenue Growth Amid Market ...
+    * Engineering firm ABB India's profit falls as orders dip
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs577.3B | P/E: 26.439714
+  Price: Rs372.8  |  52w range: Rs249.94 — Rs380.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.4%  vs Nifty -0.6%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  +3.6%  vs Nifty -1.3%
+    1M:  +0.8%  vs Nifty +1.9%  -> RS: -1.1% (UNDERPERFORMING)
+    3M:  +16.6%  vs Nifty +0.3%  -> RS: +16.3% (OUTPERFORMING)
+    6M:  +18.0%
+
+  TREND HEALTH:
+    RSI: 54.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.74%
+    ATR extension from SMA20: 0.24x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.6x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs357.47 (-4.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.1% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+    * RBL Bank Ltd (BOM:540065) Q4 2026 Earnings Call Highlights: Strong Growth in Advances and ...
+    * India's RBL Bank's quarterly profit jumps on solid loan growth
+    * Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.2T | P/E: 31.17607
+  Price: Rs1829.1  |  52w range: Rs1294.84 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.6%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  +2.1%  vs Nifty -1.3%
+    1M:  +0.4%  vs Nifty +1.9%  -> RS: -1.5% (UNDERPERFORMING)
+    3M:  +21.5%  vs Nifty +0.3%  -> RS: +21.2% (OUTPERFORMING)
+    6M:  +23.0%
+
+  TREND HEALTH:
+    RSI: 53.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.06%
+    ATR extension from SMA20: 0.16x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.48x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1772.64 (-3.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.9% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Kerala state not consulted on MSC's $1.4 billion port investment, chief minister says
+    * Adani Ports to Sell India Port Stake to Swiss Shipping Group MSC for $1.40B
+    * India's Adani Ports to invest $1.36 billion in Europe expansion
+    * India's Adani Group to streamline internal structure to speed decisions
+    * India's Adani Group outlines restructuring to accelerate growth, Bloomberg News reports
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs348.8B | P/E: 28.52701
+  Price: Rs216.52  |  52w range: Rs135.47 — Rs216.74
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.2%  vs Nifty -0.6%  -> RS: +4.7% (OUTPERFORMING)
+    1W:  +10.4%  vs Nifty -1.3%
+    1M:  -0.1%  vs Nifty +1.9%  -> RS: -2.0% (UNDERPERFORMING)
+    3M:  +24.6%  vs Nifty +0.3%  -> RS: +24.3% (OUTPERFORMING)
+    6M:  +47.1%
+
+  TREND HEALTH:
+    RSI: 59.4  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 3.49%
+    ATR extension from SMA20: 1.35x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.37x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs205.19 (-5.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.1% of 52w high (breakout zone)
+    [+] Heavy volume today (2.37x avg) = conviction
+
+  RECENT NEWS:
+    * Indian shares likely to open higher on strong business updates from lenders
+    * Bandhan Bank (NSEI:BANDHANBNK) Stock Gets Fair Value Boost On Stronger Margin Assumptions
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.0T | P/E: 36.85481
+  Price: Rs7404.5  |  52w range: Rs5317.06 — Rs8190.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.7%  vs Nifty -0.6%  -> RS: +2.3% (OUTPERFORMING)
+    1W:  -0.2%  vs Nifty -1.3%
+    1M:  -2.1%  vs Nifty +1.9%  -> RS: -4.0% (UNDERPERFORMING)
+    3M:  +3.9%  vs Nifty +0.3%  -> RS: +3.5% (OUTPERFORMING)
+    6M:  -1.0%
+
+  TREND HEALTH:
+    RSI: 52.1  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.21%
+    ATR extension from SMA20: -0.14x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.06x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7158.97 (-3.3%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+    * Indian shares pause after three-day rally
+    * Royal Enfield parent Eicher jumps to record high on capacity expansion, growth outlook
+
+-----------------------------------------------------------------
+
+  SUNPHARMA — Sun Pharmaceutical Industries Limited
+  Healthcare | Rs4.7T | P/E: 40.834904
+  Price: Rs1951.5  |  52w range: Rs1549.15 — Rs1951.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty -0.6%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +3.4%  vs Nifty -1.3%
+    1M:  +8.7%  vs Nifty +1.9%  -> RS: +6.7% (OUTPERFORMING)
+    3M:  +15.3%  vs Nifty +0.3%  -> RS: +15.0% (OUTPERFORMING)
+    6M:  +13.9%
+
+  TREND HEALTH:
+    RSI: 71.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.62%
+    ATR extension from SMA20: 2.1x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.16x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1904.2 (-2.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 2.1x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Sun Pharma to acquire Innovcare Lifesciences for $28.7m
+    * India's top drugmaker Sun Pharma beats profit view on specialty drugs demand
+    * Organon Buyout By Sun Pharma Shifts Focus To Cash Value And Timing
+    * Organon (OGN)’s Investors React Strongly as Sun Pharma Bets Big on Specialty Drug Expansion
+    * Micron initiated, Rambus downgraded: Wall Street's top analyst calls
+
+-----------------------------------------------------------------
+
+  BAJFINANCE — Bajaj Finance Limited
+  Financial Services | Rs6.4T | P/E: 34.04333
+  Price: Rs1021.3  |  52w range: Rs796.65 — Rs1087.47
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty -0.6%  -> RS: +2.0% (OUTPERFORMING)
+    1W:  +1.1%  vs Nifty -1.3%
+    1M:  +7.1%  vs Nifty +1.9%  -> RS: +5.2% (OUTPERFORMING)
+    3M:  +12.5%  vs Nifty +0.3%  -> RS: +12.2% (OUTPERFORMING)
+    6M:  +5.0%
+
+  TREND HEALTH:
+    RSI: 61.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.39%
+    ATR extension from SMA20: 0.95x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.65x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs984.71 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Indian non-bank lenders plan $1.6 billion in debt sales as yields decline, bankers say
+    * India's Bajaj Finance jumps as easing credit costs, asset quality gains boost outlook
+    * Indian non-bank lender Bajaj Finance posts 22% profit growth, pushes AI adoption
+    * India's Bajaj Finance posts higher profit on loan growth, lower provisions
+    * Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.5T | P/E: 42.772194
+  Price: Rs3150.6  |  52w range: Rs1758.01 — Rs3212.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.2%  vs Nifty -0.6%  -> RS: -0.7% (UNDERPERFORMING)
+    1W:  +3.4%  vs Nifty -1.3%
+    1M:  +7.0%  vs Nifty +1.9%  -> RS: +5.1% (OUTPERFORMING)
+    3M:  +47.0%  vs Nifty +0.3%  -> RS: +46.6% (OUTPERFORMING)
+    6M:  +38.3%
+
+  TREND HEALTH:
+    RSI: 58.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.7%
+    ATR extension from SMA20: 0.67x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.49x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3023.04 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.9% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * LME approves Adani's major copper smelter in India as listed brand
+    * India's Adani Enterprises raises QIP issue size to $1.6 billion
+    * Adani prosecutors must justify dropping criminal case, US judge rules
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+    * Apple supplier Jabil, Adani partner to build AI data center infra platform in India 
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 66.03593
+  Price: Rs8934.0  |  52w range: Rs6784.49 — Rs8934.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.6%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  +2.1%  vs Nifty -1.3%
+    1M:  +6.5%  vs Nifty +1.9%  -> RS: +4.5% (OUTPERFORMING)
+    3M:  +16.9%  vs Nifty +0.3%  -> RS: +16.6% (OUTPERFORMING)
+    6M:  +26.3%
+
+  TREND HEALTH:
+    RSI: 68.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.58%
+    ATR extension from SMA20: 1.68x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.6x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8722.49 (-2.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.68x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Quantinuum Stock Fizzled in Its Debut, but Wall Street Calls It a Buy
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs10.2T | P/E: 18.9585
+  Price: Rs1416.2  |  52w range: Rs1205.9 — Rs1477.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty -0.6%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  +2.6%  vs Nifty -1.3%
+    1M:  +6.1%  vs Nifty +1.9%  -> RS: +4.2% (OUTPERFORMING)
+    3M:  +5.0%  vs Nifty +0.3%  -> RS: +4.7% (OUTPERFORMING)
+    6M:  +3.3%
+
+  TREND HEALTH:
+    RSI: 65.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.75%
+    ATR extension from SMA20: 1.22x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.07x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1379.12 (-2.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's ICICI Prudential Life reports quarterly profit jump on strong premium growth
+    * Quadria-backed India's Maxivision hires IPO bankers, sources say
+    * ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure
+    * InsuranceDekho parent selects banks for possible IPO
+    * Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading
+
+-----------------------------------------------------------------
+
+  MANAPPURAM — Manappuram Finance Limited
+  Financial Services | Rs308.7B | P/E: 28.061487
+  Price: Rs328.6  |  52w range: Rs246.16 — Rs346.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -0.6%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  -1.2%  vs Nifty -1.3%
+    1M:  +3.5%  vs Nifty +1.9%  -> RS: +1.6% (OUTPERFORMING)
+    3M:  +22.3%  vs Nifty +0.3%  -> RS: +22.0% (OUTPERFORMING)
+    6M:  +7.3%
+
+  TREND HEALTH:
+    RSI: 53.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.14%
+    ATR extension from SMA20: 0.19x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.41x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs313.12 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
+    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
+    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
+    * India's Manappuram Finance quarterly profit drops amid microfinance slowdown
+    * Exclusive-Bain's Manappuram deal delayed by Indian regulatory concerns, sources say
+
+-----------------------------------------------------------------
+
+  SHRIRAMFIN — Shriram Finance Limited
+  Financial Services | Rs2.4T | P/E: 19.42138
+  Price: Rs1033.8  |  52w range: Rs564.99 — Rs1098.39
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.0%  vs Nifty -0.6%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  +1.9%  vs Nifty -1.3%
+    1M:  +3.4%  vs Nifty +1.9%  -> RS: +1.4% (OUTPERFORMING)
+    3M:  +1.8%  vs Nifty +0.3%  -> RS: +1.5% (OUTPERFORMING)
+    6M:  +3.6%
+
+  TREND HEALTH:
+    RSI: 55.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.79%
+    ATR extension from SMA20: 0.17x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.37x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs990.6 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Mitsubishi UFJ Financial Group Q4 Earnings Call Highlights
+    * Shriram Finance Ltd (BOM:511218) Q4 2026 Earnings Call Highlights: Robust Profit Growth and ...
+    * India's Shriram Finance beats profit forecasts, crosses 3 trillion rupees in AUM
+    * MUFG lending head signals further Asia dealmaking
+    * Advent to buy 14.3% of Indian mortgage lender Aditya Birla Housing Finance for $304 million
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs1.9T | P/E: 74.94847
+  Price: Rs7273.0  |  52w range: Rs5689.5 — Rs7273.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty -0.6%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +7.7%  vs Nifty -1.3%
+    1M:  +8.3%  vs Nifty +1.9%  -> RS: +6.4% (OUTPERFORMING)
+    3M:  +19.8%  vs Nifty +0.3%  -> RS: +19.5% (OUTPERFORMING)
+    6M:  +13.8%
+
+  TREND HEALTH:
+    RSI: 73.8  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.1%
+    ATR extension from SMA20: 3.17x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.87x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7044.01 (-3.1%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 3.17x from SMA20 — wait for pullback
+    [-] Severely extended (3.17x ATR from SMA20)
+
+  RECENT NEWS:
+    * Divi's Laboratories Ltd (BOM:532488) Q4 2026 Earnings Call Highlights: Strong Financial ...
+    * Divi's Laboratories Ltd (BOM:532488) Q3 2026 Earnings Call Highlights: Strong Export ...
+    * Indian contract drug maker Divi's misses profit view on high material costs, one-off labour charge
+    * Divi's Laboratories Ltd (BOM:532488) Q2 2026 Earnings Call Highlights: Strong Revenue Growth ...
+    * Indian drugmaker Divi's beats profit view for second quarter on API boost
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
