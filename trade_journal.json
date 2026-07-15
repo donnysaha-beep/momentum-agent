@@ -2411,5 +2411,102 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-15",
+    "trades": [
+      {
+        "ticker": "ABB",
+        "entry": 7011.55,
+        "target1": 7287.87,
+        "target2": 7472.08,
+        "stop": 6937.95,
+        "verdict": "WATCH",
+        "eod_open": 6938.5,
+        "eod_high": 7270.0,
+        "eod_low": 6938.0,
+        "eod_close": 7204.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SUNPHARMA",
+        "entry": 1954.25,
+        "target1": 1999.23,
+        "target2": 2029.21,
+        "stop": 1943.55,
+        "verdict": "WATCH",
+        "eod_open": 1952.0,
+        "eod_high": 1962.699951171875,
+        "eod_low": 1943.5999755859375,
+        "eod_close": 1953.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "EICHERMOT",
+        "entry": 7364.05,
+        "target1": 7605.75,
+        "target2": 7766.88,
+        "stop": 7300.45,
+        "verdict": "WATCH",
+        "eod_open": 7310.0,
+        "eod_high": 7427.5,
+        "eod_low": 7300.5,
+        "eod_close": 7404.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SHRIRAMFIN",
+        "entry": 1048.05,
+        "target1": 1091.32,
+        "target2": 1120.17,
+        "stop": 1027.35,
+        "verdict": "WATCH",
+        "eod_open": 1032.0,
+        "eod_high": 1048.800048828125,
+        "eod_low": 1027.4000244140625,
+        "eod_close": 1032.0999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "DIVISLAB",
+        "entry": 7323.55,
+        "target1": 7553.33,
+        "target2": 7706.51,
+        "stop": 7242.95,
+        "verdict": "WATCH",
+        "eod_open": 7269.5,
+        "eod_high": 7325.0,
+        "eod_low": 7234.5,
+        "eod_close": 7273.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8990.05,
+        "target1": 9196.28,
+        "target2": 9333.76,
+        "stop": 8914.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 8937.5,
+        "eod_high": 9009.0,
+        "eod_low": 8912.0,
+        "eod_close": 8936.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 8914.45) \u2014 -0.84% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 5,
+      "false_negatives": 0
+    }
   }
 ]

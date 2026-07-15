@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, July 15 2026
+  Layer 3 | 02:50 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 5
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7011.55 | Stop: Rs 6937.95 | T1: Rs 7287.87
+               EOD: O:6938.5 H:7270.0 L:6938.0 C:7204.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SUNPHARMA    | Verdict: WATCH
+               Entry: Rs 1954.25 | Stop: Rs 1943.55 | T1: Rs 1999.23
+               EOD: O:1952.0 H:1962.699951171875 L:1943.5999755859375 C:1953.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     EICHERMOT    | Verdict: WATCH
+               Entry: Rs 7364.05 | Stop: Rs 7300.45 | T1: Rs 7605.75
+               EOD: O:7310.0 H:7427.5 L:7300.5 C:7404.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1048.05 | Stop: Rs 1027.35 | T1: Rs 1091.32
+               EOD: O:1032.0 H:1048.800048828125 L:1027.4000244140625 C:1032.0999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 7323.55 | Stop: Rs 7242.95 | T1: Rs 7553.33
+               EOD: O:7269.5 H:7325.0 L:7234.5 C:7273.0
+               Entry triggered but no target set — monitor
+
+  [LOSS]       APOLLOHOSP   | Verdict: TRADE NOW
+               Entry: Rs 8990.05 | Stop: Rs 8914.45 | T1: Rs 9196.28
+               EOD: O:8937.5 H:9009.0 L:8912.0 C:8936.0
+               Hit stop loss (Rs 8914.45) — -0.84% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (24 days tracked)
+=================================================================
+  Total Trades    : 64
+  Win Rate        : 3.1%
+  Good Wins       : 2
+  Good Losses     : 25
+  False Positives : 37
+  Valid Skips     : 8
+  Missed Trades   : 85
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
