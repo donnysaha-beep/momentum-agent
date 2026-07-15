@@ -1,0 +1,64 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, July 15 2026 03:56 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24205.85  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 24074.7 — 24205.85
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 1 WATCH | 1 WAIT | 1 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [50% probability]
+  ADANIENT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3185.0
+  Gap from prev  : +0.2%  (prev Rs 3188.9 | opened Rs 3196.0)
+  Opening Range  : Rs 3176.4 — Rs 3196.0  (0.62% wide)
+  VWAP           : Rs 3182.96  (ABOVE, flat/down)
+  Volume         : WEAK
+  ATR (daily)    : Rs 82.1
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3196.05  (break above ORB high)
+    Target 1 (50%) : Rs 3319.19  (+3.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3401.29  (+6.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3176.35  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:6.21 (T1)  |  1:10.35 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 3 shares
+    Capital needed : Rs 9,588
+    Max loss       : Rs 59  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs3196.0) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  GMRAIRPORT  [40%]  |  Rs 113.93  |  ORB: 113.5—114.47  |  VWAP: 114.09
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  ADANIGREEN  [40%]  |  Rs 1598.0
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
