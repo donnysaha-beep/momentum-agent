@@ -162,7 +162,7 @@ DIVISLAB       Rs  7273.0   +1.2%   +8.3%    +6.4%   73.8  3.2x   AVOID
 -----------------------------------------------------------------
 
   ADANIPORTS — Adani Ports and Special Economic Zone Limited
-  Industrials | Rs4.2T | P/E: 31.17607
+  Industrials | Rs4.2T | P/E: 31.373928
   Price: Rs1829.1  |  52w range: Rs1294.84 — Rs1883.2
 
   PERFORMANCE vs NIFTY:
@@ -305,7 +305,7 @@ DIVISLAB       Rs  7273.0   +1.2%   +8.3%    +6.4%   73.8  3.2x   AVOID
 -----------------------------------------------------------------
 
   BAJFINANCE — Bajaj Finance Limited
-  Financial Services | Rs6.4T | P/E: 34.04333
+  Financial Services | Rs6.4T | P/E: 33.485245
   Price: Rs1021.3  |  52w range: Rs796.65 — Rs1087.47
 
   PERFORMANCE vs NIFTY:
@@ -408,7 +408,7 @@ DIVISLAB       Rs  7273.0   +1.2%   +8.3%    +6.4%   73.8  3.2x   AVOID
 -----------------------------------------------------------------
 
   ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs10.2T | P/E: 18.9585
+  Financial Services | Rs10.2T | P/E: 18.945818
   Price: Rs1416.2  |  52w range: Rs1205.9 — Rs1477.2
 
   PERFORMANCE vs NIFTY:
@@ -433,11 +433,11 @@ DIVISLAB       Rs  7273.0   +1.2%   +8.3%    +6.4%   73.8  3.2x   AVOID
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
+    * India's ICICI Lombard's quarterly profit falls
     * India's ICICI Prudential Life reports quarterly profit jump on strong premium growth
     * Quadria-backed India's Maxivision hires IPO bankers, sources say
     * ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure
     * InsuranceDekho parent selects banks for possible IPO
-    * Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading
 
 -----------------------------------------------------------------
 
