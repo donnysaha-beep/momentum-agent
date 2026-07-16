@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, July 16 2026
+  Layer 3 | 03:01 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         ADANIPORTS   | Verdict: TRADE NOW
+               Entry: Rs 1834.55 | Stop: Rs 1817.75 | T1: Rs 1892.15
+               EOD: O:1828.4000244140625 H:1859.4000244140625 L:1817.800048828125 C:1826.4000244140625
+               Triggered but no target/stop hit — closed at Rs 1826.4000244140625 (-0.4%)
+
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7368.05 | Stop: Rs 7201.45 | T1: Rs 7715.44
+               EOD: O:7262.5 H:7924.5 L:7191.0 C:7655.5
+               Would have worked — reached Target 1 (Rs 7715.44)
+
+  [MISSED]     TITAN        | Verdict: WATCH
+               Entry: Rs 4639.35 | Stop: Rs 4583.55 | T1: Rs 4773.58
+               EOD: O:4588.89990234375 H:4668.7998046875 L:4583.60009765625 C:4625.7998046875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BAJFINANCE   | Verdict: WATCH
+               Entry: Rs 1029.35 | Stop: Rs 1021.55 | T1: Rs 1065.99
+               EOD: O:1023.5999755859375 H:1042.300048828125 L:1021.5999755859375 C:1037.5999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NHPC         | Verdict: WATCH
+               Entry: Rs 79.54 | Stop: Rs 78.87 | T1: Rs 81.97
+               EOD: O:79.18000030517578 H:80.05000305175781 L:78.76000213623047 C:78.94999694824219
+               Entry triggered but no target set — monitor
+
+  [LOSS]       ADANIGREEN   | Verdict: TRADE NOW
+               Entry: Rs 1567.15 | Stop: Rs 1543.35 | T1: Rs 1647.74
+               EOD: O:1567.0 H:1585.800048828125 L:1541.0 C:1543.0
+               Hit stop loss (Rs 1543.35) — -1.52% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (25 days tracked)
+=================================================================
+  Total Trades    : 66
+  Win Rate        : 3.0%
+  Good Wins       : 2
+  Good Losses     : 26
+  False Positives : 38
+  Valid Skips     : 8
+  Missed Trades   : 89
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
