@@ -63,7 +63,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   BANDHANBNK — Bandhan Bank Limited
-  Financial Services | Rs345.4B | P/E: 28.250328
+  Financial Services | Rs345.5B | P/E: 28.213158
   Price: Rs214.42  |  52w range: Rs135.47 — Rs216.74
 
   PERFORMANCE vs NIFTY:
@@ -98,7 +98,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   ADANIPORTS — Adani Ports and Special Economic Zone Limited
-  Industrials | Rs4.2T | P/E: 31.327616
+  Industrials | Rs4.2T | P/E: 31.397629
   Price: Rs1826.4  |  52w range: Rs1294.84 — Rs1883.2
 
   PERFORMANCE vs NIFTY:
@@ -203,7 +203,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs930.3B | P/E: 457.53525
+  Consumer Cyclical | Rs930.3B | P/E: 470.79712
   Price: Rs324.85  |  52w range: Rs202.13 — Rs330.1
 
   PERFORMANCE vs NIFTY:
@@ -276,7 +276,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   BAJFINANCE — Bajaj Finance Limited
-  Financial Services | Rs6.5T | P/E: 33.52504
+  Financial Services | Rs6.5T | P/E: 33.975113
   Price: Rs1037.6  |  52w range: Rs796.65 — Rs1087.47
 
   PERFORMANCE vs NIFTY:
@@ -376,7 +376,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   TITAN — Titan Company Limited
-  Consumer Cyclical | Rs4.1T | P/E: 80.91306
+  Consumer Cyclical | Rs4.1T | P/E: 80.81411
   Price: Rs4625.8  |  52w range: Rs3305.15 — Rs4625.8
 
   PERFORMANCE vs NIFTY:
@@ -413,7 +413,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.6T | P/E: 65.118996
+  Basic Materials | Rs1.6T | P/E: 64.98333
   Price: Rs1559.6  |  52w range: Rs1273.6 — Rs1622.3
 
   PERFORMANCE vs NIFTY:
@@ -511,7 +511,7 @@ ABB            Rs  7667.5   +6.4%   +7.0%    +6.7%   69.7  2.8x   AVOID
 -----------------------------------------------------------------
 
   ABB — ABB India Limited
-  Industrials | Rs1.6T | P/E: 104.94799
+  Industrials | Rs1.6T | P/E: 104.33392
   Price: Rs7667.5  |  52w range: Rs4672.39 — Rs7667.5
 
   PERFORMANCE vs NIFTY:
