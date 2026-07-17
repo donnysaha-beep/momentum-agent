@@ -1,0 +1,566 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 17, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs24334.3  1D: +1.1%  1W: +0.5%  1M: +1.0%  3M: +2.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+SBIN           Rs  1044.3   +1.3%   +0.1%    -0.9%   57.0  0.5x   WATCH NOW
+EICHERMOT      Rs  7563.5   +1.9%   -0.5%    -1.5%   58.6  0.9x   WATCH NOW
+BAJFINANCE     Rs  1056.3   +1.8%  +10.8%    +9.8%   68.8  2.0x   WATCH
+NYKAA          Rs   323.1   -0.6%   +8.4%    +7.3%   65.2  1.1x   WATCH
+ICICIBANK      Rs  1444.3   +1.8%   +7.6%    +6.6%   70.8  2.0x   WATCH
+ADANIENT       Rs  3160.7   +0.3%   +4.9%    +3.9%   59.4  0.7x   WATCH
+BHEL           Rs   422.0   -2.8%   +4.3%    +3.3%   59.7  1.3x   WATCH
+HDFCBANK       Rs   819.6   +1.4%   +4.3%    +3.2%   60.4  0.9x   WATCH
+HAL            Rs  4500.7   +1.5%   +2.0%    +1.0%   58.4  0.8x   WATCH
+RBLBANK        Rs   368.1   +1.5%   -0.3%    -1.3%   51.5 -0.1x   WATCH
+BANDHANBNK     Rs   213.2   -0.6%   -0.5%    -1.5%   56.2  0.9x   WATCH
+AXISBANK       Rs  1328.5   +1.6%   -2.2%    -3.3%   50.5 -0.5x   WATCH
+KOTAKBANK      Rs   389.9   +3.6%   -3.1%    -4.1%   52.3  0.0x   WATCH
+TECHM          Rs  1572.9   +4.1%  +11.5%   +10.4%   69.0  3.0x   AVOID
+FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  SBIN — State Bank of India
+  Financial Services | Rs9.6T | P/E: 11.44313
+  Price: Rs1044.3  |  52w range: Rs779.94 — Rs1206.06
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +1.1%  -> RS: +0.2%
+    1W:  +0.8%  vs Nifty +0.5%
+    1M:  +0.1%  vs Nifty +1.0%  -> RS: -0.9% (UNDERPERFORMING)
+    3M:  -1.6%  vs Nifty +2.1%  -> RS: -3.6% (UNDERPERFORMING)
+    6M:  +5.6%
+
+  TREND HEALTH:
+    RSI: 57.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.81%
+    ATR extension from SMA20: 0.49x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.83x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1015.94 (-2.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Ondo Finance partners with SBI Group to bring Japanese stocks onchain
+    * XRP Price Prediction: Can XRP Hit Double Digits?
+    * India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO
+    * SBI hires former LIC finance head Sunil Agrawal as CFO
+    * India's SBI Funds' $1 billion IPO fully subscribed amid bets on market growth
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.1T | P/E: 37.62187
+  Price: Rs7563.5  |  52w range: Rs5317.06 — Rs8190.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty +1.1%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  +2.7%  vs Nifty +0.5%
+    1M:  -0.5%  vs Nifty +1.0%  -> RS: -1.5% (UNDERPERFORMING)
+    3M:  +5.2%  vs Nifty +2.1%  -> RS: +3.1% (OUTPERFORMING)
+    6M:  -0.2%
+
+  TREND HEALTH:
+    RSI: 58.6  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.09%
+    ATR extension from SMA20: 0.93x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7326.62 (-3.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+    * Indian shares pause after three-day rally
+    * Royal Enfield parent Eicher jumps to record high on capacity expansion, growth outlook
+
+-----------------------------------------------------------------
+
+  BAJFINANCE — Bajaj Finance Limited
+  Financial Services | Rs6.6T | P/E: 34.052227
+  Price: Rs1056.3  |  52w range: Rs796.65 — Rs1087.47
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.8%  vs Nifty +1.1%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +3.5%  vs Nifty +0.5%
+    1M:  +10.8%  vs Nifty +1.0%  -> RS: +9.8% (OUTPERFORMING)
+    3M:  +17.0%  vs Nifty +2.1%  -> RS: +15.0% (OUTPERFORMING)
+    6M:  +9.7%
+
+  TREND HEALTH:
+    RSI: 68.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.27%
+    ATR extension from SMA20: 2.04x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.49x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1020.4 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.9% of 52w high (breakout zone)
+    [~] Extended 2.04x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Indian non-bank lenders plan $1.6 billion in debt sales as yields decline, bankers say
+    * India's Bajaj Finance jumps as easing credit costs, asset quality gains boost outlook
+    * Indian non-bank lender Bajaj Finance posts 22% profit growth, pushes AI adoption
+    * India's Bajaj Finance posts higher profit on loan growth, lower provisions
+    * Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs925.2B | P/E: 475.07352
+  Price: Rs323.05  |  52w range: Rs202.13 — Rs330.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty +1.1%  -> RS: -1.6% (UNDERPERFORMING)
+    1W:  -2.1%  vs Nifty +0.5%
+    1M:  +8.4%  vs Nifty +1.0%  -> RS: +7.3% (OUTPERFORMING)
+    3M:  +19.8%  vs Nifty +2.1%  -> RS: +17.7% (OUTPERFORMING)
+    6M:  +21.3%
+
+  TREND HEALTH:
+    RSI: 65.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.38%
+    ATR extension from SMA20: 1.09x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.51x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs311.51 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.1% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * India's Nykaa posts profit surge on strong demand for beauty products
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Q3 2026 Earnings Call Highlights: Record Growth and ...
+    * Nykaa's profit more than doubles amid beauty demand surge in India
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs10.4T | P/E: 19.288197
+  Price: Rs1444.3  |  52w range: Rs1205.9 — Rs1477.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.8%  vs Nifty +1.1%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +3.1%  vs Nifty +0.5%
+    1M:  +7.6%  vs Nifty +1.0%  -> RS: +6.6% (OUTPERFORMING)
+    3M:  +7.2%  vs Nifty +2.1%  -> RS: +5.2% (OUTPERFORMING)
+    6M:  +1.2%
+
+  TREND HEALTH:
+    RSI: 70.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.74%
+    ATR extension from SMA20: 1.98x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1406.63 (-2.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.2% of 52w high (breakout zone)
+    [~] Extended 1.98x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * IT, financials lead Indian benchmarks higher; Reliance, private banks up ahead of results
+    * India's ICICI Lombard's quarterly profit falls
+    * India's ICICI Prudential Life reports quarterly profit jump on strong premium growth
+    * Quadria-backed India's Maxivision hires IPO bankers, sources say
+    * ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.5T | P/E: 42.862762
+  Price: Rs3160.7  |  52w range: Rs1758.01 — Rs3212.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty +1.1%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  +0.1%  vs Nifty +0.5%
+    1M:  +4.9%  vs Nifty +1.0%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  +42.5%  vs Nifty +2.1%  -> RS: +40.5% (OUTPERFORMING)
+    6M:  +39.0%
+
+  TREND HEALTH:
+    RSI: 59.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.53%
+    ATR extension from SMA20: 0.68x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.52x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3040.95 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.6% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * LME approves Adani's major copper smelter in India as listed brand
+    * India's Adani Enterprises raises QIP issue size to $1.6 billion
+    * Adani prosecutors must justify dropping criminal case, US judge rules
+    * Lawyers for Indian billionaire Adani urge US judge to dismiss criminal case
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 88.10021
+  Price: Rs422.0  |  52w range: Rs207.34 — Rs434.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.8%  vs Nifty +1.1%  -> RS: -3.9% (UNDERPERFORMING)
+    1W:  +7.1%  vs Nifty +0.5%
+    1M:  +4.3%  vs Nifty +1.0%  -> RS: +3.3% (OUTPERFORMING)
+    3M:  +33.6%  vs Nifty +2.1%  -> RS: +31.6% (OUTPERFORMING)
+    6M:  +39.5%
+
+  TREND HEALTH:
+    RSI: 59.7  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 3.81%
+    ATR extension from SMA20: 1.28x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs397.87 (-5.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.8% of 52w high (breakout zone)
+    [+] Heavy volume today (2.61x avg) = conviction
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * India relaxes rules for some state-run firms to procure critical equipment from China
+    * GE Power India Ltd (BOM:532309) Q3 2026 Earnings Call Highlights: Strong Profit Growth Amid ...
+    * Synergy Green Industries Ltd (BOM:541929) Q3 2026 Earnings Call Highlights: Expansion Plans and ...
+    * Adani secures Japanese funding for India’s green energy corridor
+    * India's Adani Power reports quarterly profit fall as demand eases
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs12.6T | P/E: 18.302814
+  Price: Rs819.6  |  52w range: Rs719.65 — Rs996.42
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.4%  vs Nifty +1.1%  -> RS: +0.3%
+    1W:  -0.7%  vs Nifty +0.5%
+    1M:  +4.3%  vs Nifty +1.0%  -> RS: +3.2% (OUTPERFORMING)
+    3M:  +4.2%  vs Nifty +2.1%  -> RS: +2.1% (OUTPERFORMING)
+    6M:  -12.2%
+
+  TREND HEALTH:
+    RSI: 60.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.76%
+    ATR extension from SMA20: 0.95x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.54x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs798.0 (-2.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * IT, financials lead Indian benchmarks higher; Reliance, private banks up ahead of results
+    * BKEAY or HDB: Which Is the Better Value Stock Right Now?
+    * India's HDB Financial Services posts higher quarterly profit on steady loan demand
+    * India's retail inflation accelerates to 4.38%, raising rate hike expectations
+    * HDFC headcount shrinks by over 3,000 amid automation push
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.0T | P/E: 32.957676
+  Price: Rs4500.7  |  52w range: Rs3487.2 — Rs4875.69
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +1.1%  -> RS: +0.4%
+    1W:  -0.1%  vs Nifty +0.5%
+    1M:  +2.0%  vs Nifty +1.0%  -> RS: +1.0% (OUTPERFORMING)
+    3M:  +2.6%  vs Nifty +2.1%  -> RS: +0.5% (OUTPERFORMING)
+    6M:  +0.3%
+
+  TREND HEALTH:
+    RSI: 58.4  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.06%
+    ATR extension from SMA20: 0.79x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.94x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4361.59 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+    * India's Tejas jet-maker HAL calls Dubai crash an isolated occurrence
+    * India's Hindustan Aeronautics posts 11% rise in quarterly profit; key margin contracts 
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs570.0B | P/E: 26.143467
+  Price: Rs368.1  |  52w range: Rs249.94 — Rs380.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +1.1%  -> RS: +0.4%
+    1W:  -3.3%  vs Nifty +0.5%
+    1M:  -0.3%  vs Nifty +1.0%  -> RS: -1.3% (UNDERPERFORMING)
+    3M:  +16.6%  vs Nifty +2.1%  -> RS: +14.6% (OUTPERFORMING)
+    6M:  +15.5%
+
+  TREND HEALTH:
+    RSI: 51.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.8%
+    ATR extension from SMA20: -0.13x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs352.62 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+    * RBL Bank Ltd (BOM:540065) Q4 2026 Earnings Call Highlights: Strong Growth in Advances and ...
+    * India's RBL Bank's quarterly profit jumps on solid loan growth
+    * Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs343.6B | P/E: 28.320053
+  Price: Rs213.25  |  52w range: Rs135.47 — Rs216.74
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty +1.1%  -> RS: -1.6% (UNDERPERFORMING)
+    1W:  +1.6%  vs Nifty +0.5%
+    1M:  -0.5%  vs Nifty +1.0%  -> RS: -1.5% (UNDERPERFORMING)
+    3M:  +22.2%  vs Nifty +2.1%  -> RS: +20.2% (OUTPERFORMING)
+    6M:  +44.4%
+
+  TREND HEALTH:
+    RSI: 56.2  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 3.36%
+    ATR extension from SMA20: 0.93x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.67x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs202.52 (-5.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.6% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Indian shares likely to open higher on strong business updates from lenders
+    * Bandhan Bank (NSEI:BANDHANBNK) Stock Gets Fair Value Boost On Stronger Margin Assumptions
+    * Indian shares advance as earnings optimism counters oil surge
+    * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
+    * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs4.1T | P/E: 15.776036
+  Price: Rs1328.5  |  52w range: Rs1044.39 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +1.1%  -> RS: +0.5% (OUTPERFORMING)
+    1W:  +0.4%  vs Nifty +0.5%
+    1M:  -2.2%  vs Nifty +1.0%  -> RS: -3.3% (UNDERPERFORMING)
+    3M:  -2.2%  vs Nifty +2.1%  -> RS: -4.2% (UNDERPERFORMING)
+    6M:  +2.6%
+
+  TREND HEALTH:
+    RSI: 50.5  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.02%
+    ATR extension from SMA20: -0.46x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.88x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1288.31 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Indian shares likely to open higher on strong business updates from lenders
+    * India's ICICI Bank to join peers in dollar debt funding under RBI swap window, sources say
+    * India's Axis Bank says finance chief Puneet Sharma to exit
+    * India's Kotak Mahindra Bank has 'high ambitions' to deploy capital for growth, CEO says
+    * Banks reduce headcounts globally as AI boosts efficiency
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs3.9T | P/E: 20.110884
+  Price: Rs389.95  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.6%  vs Nifty +1.1%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  +3.5%  vs Nifty +0.5%
+    1M:  -3.1%  vs Nifty +1.0%  -> RS: -4.1% (UNDERPERFORMING)
+    3M:  +1.8%  vs Nifty +2.1%  -> RS: -0.2%
+    6M:  -8.9%
+
+  TREND HEALTH:
+    RSI: 52.3  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 2.18%
+    ATR extension from SMA20: 0.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs377.21 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Indian shares likely to open higher on strong business updates from lenders
+    * Deutsche Bank (XTRA:DBK) Agrees To Sell India Retail Unit To Kotak Mahindra
+    * DB to Offload India Retail Unit to Kotak Amid Global Hausbank Push
+    * Kotak to acquire Deutsche Bank’s retail and wealth businesses in India
+    * Deutsche Bank sells India retail business to Kotak Mahindra
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 27.193983
+  Price: Rs1572.9  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.1%  vs Nifty +1.1%  -> RS: +3.0% (OUTPERFORMING)
+    1W:  +8.1%  vs Nifty +0.5%
+    1M:  +11.5%  vs Nifty +1.0%  -> RS: +10.4% (OUTPERFORMING)
+    3M:  +6.8%  vs Nifty +2.1%  -> RS: +4.7% (OUTPERFORMING)
+    6M:  -0.7%
+
+  TREND HEALTH:
+    RSI: 69.0  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 3.02%
+    ATR extension from SMA20: 2.98x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 3.89x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1501.71 (-4.5%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.89x avg) = conviction
+    [~] Extended 2.98x from SMA20 — wait for pullback
+    [-] Severely extended (2.98x ATR from SMA20)
+
+  RECENT NEWS:
+    * IT, financials lead Indian benchmarks higher; Reliance, private banks up ahead of results
+    * India's Tech Mahindra gains after revenue beat 
+    * India's Tech Mahindra gains as strong deal wins lift growth outlook
+    * Tech Mahindra (NSEI:TECHM) Stock Fair Value Edges Lower On Softer Growth And Multiple Assumptions
+    * Tech Mahindra Ltd (BOM:532755) Q1 2027 Earnings Call Highlights: Strong Revenue Growth and ...
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs861.0B | P/E: 19.977104
+  Price: Rs349.0  |  52w range: Rs189.9 — Rs349.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +6.9%  vs Nifty +1.1%  -> RS: +5.8% (OUTPERFORMING)
+    1W:  +5.8%  vs Nifty +0.5%
+    1M:  +8.9%  vs Nifty +1.0%  -> RS: +7.9% (OUTPERFORMING)
+    3M:  +18.8%  vs Nifty +2.1%  -> RS: +16.8% (OUTPERFORMING)
+    6M:  +35.0%
+
+  TREND HEALTH:
+    RSI: 74.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.23%
+    ATR extension from SMA20: 2.63x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 5.42x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs337.31 (-3.3%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (5.42x avg) = conviction
+    [~] Extended 2.63x from SMA20 — wait for pullback
+    [-] Severely extended (2.63x ATR from SMA20)
+
+  RECENT NEWS:
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Split Analyst Revisions On Valuation Inputs
+    * Four Indian stocks added, four excluded from key global index in MSCI's May rejig
+    * Federal Bank to buy StanChart India credit card book
+    * StanChart to sell bulk of Indian credit cards to Federal Bank
+    * The Federal Bank Ltd (BOM:500469) Q4 2026 Earnings Call Highlights: Record Profit and Strategic ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
