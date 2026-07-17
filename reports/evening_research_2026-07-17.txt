@@ -28,7 +28,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 =================================================================
 
   SBIN — State Bank of India
-  Financial Services | Rs9.6T | P/E: 11.44313
+  Financial Services | Rs9.6T | P/E: 11.455683
   Price: Rs1044.3  |  52w range: Rs779.94 — Rs1206.06
 
   PERFORMANCE vs NIFTY:
@@ -63,7 +63,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 -----------------------------------------------------------------
 
   EICHERMOT — Eicher Motors Limited
-  Consumer Cyclical | Rs2.1T | P/E: 37.62187
+  Consumer Cyclical | Rs2.1T | P/E: 37.69311
   Price: Rs7563.5  |  52w range: Rs5317.06 — Rs8190.0
 
   PERFORMANCE vs NIFTY:
@@ -133,7 +133,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs925.2B | P/E: 475.07352
+  Consumer Cyclical | Rs925.2B | P/E: 455.0
   Price: Rs323.05  |  52w range: Rs202.13 — Rs330.1
 
   PERFORMANCE vs NIFTY:
@@ -169,7 +169,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 -----------------------------------------------------------------
 
   ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs10.4T | P/E: 19.288197
+  Financial Services | Rs10.4T | P/E: 19.324326
   Price: Rs1444.3  |  52w range: Rs1205.9 — Rs1477.2
 
   PERFORMANCE vs NIFTY:
@@ -239,7 +239,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 -----------------------------------------------------------------
 
   BHEL — Bharat Heavy Electricals Limited
-  Industrials | Rs1.5T | P/E: 88.10021
+  Industrials | Rs1.5T | P/E: 60.19971
   Price: Rs422.0  |  52w range: Rs207.34 — Rs434.0
 
   PERFORMANCE vs NIFTY:
@@ -378,7 +378,7 @@ FEDERALBNK     Rs   349.0   +6.9%   +8.9%    +7.9%   74.6  2.6x   AVOID
 -----------------------------------------------------------------
 
   BANDHANBNK — Bandhan Bank Limited
-  Financial Services | Rs343.6B | P/E: 28.320053
+  Financial Services | Rs343.6B | P/E: 28.096178
   Price: Rs213.25  |  52w range: Rs135.47 — Rs216.74
 
   PERFORMANCE vs NIFTY:
