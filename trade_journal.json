@@ -2605,5 +2605,116 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-17",
+    "trades": [
+      {
+        "ticker": "AXISBANK",
+        "entry": 1319.55,
+        "target1": 1359.66,
+        "target2": 1386.39,
+        "stop": 1305.65,
+        "verdict": "TRADE NOW",
+        "eod_open": 1308.0,
+        "eod_high": 1332.9000244140625,
+        "eod_low": 1305.699951171875,
+        "eod_close": 1329.4000244140625,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1329.4000244140625 (+0.8%)"
+      },
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 380.1,
+        "target1": 392.22,
+        "target2": 400.3,
+        "stop": 375.9,
+        "verdict": "WATCH",
+        "eod_open": 377.29998779296875,
+        "eod_high": 391.54998779296875,
+        "eod_low": 375.95001220703125,
+        "eod_close": 390.70001220703125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1431.05,
+        "target1": 1467.43,
+        "target2": 1491.68,
+        "stop": 1420.15,
+        "verdict": "WATCH",
+        "eod_open": 1422.800048828125,
+        "eod_high": 1455.0999755859375,
+        "eod_low": 1420.199951171875,
+        "eod_close": 1452.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4460.15,
+        "target1": 4599.3,
+        "target2": 4692.07,
+        "stop": 4427.35,
+        "verdict": "WATCH",
+        "eod_open": 4440.0,
+        "eod_high": 4509.0,
+        "eod_low": 4427.39990234375,
+        "eod_close": 4500.7001953125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HDFCBANK",
+        "entry": 814.3,
+        "target1": 835.35,
+        "target2": 849.38,
+        "stop": 809.0,
+        "verdict": "WATCH",
+        "eod_open": 810.0,
+        "eod_high": 823.5999755859375,
+        "eod_low": 809.0499877929688,
+        "eod_close": 819.5999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "RBLBANK",
+        "entry": 365.25,
+        "target1": 380.73,
+        "target2": 391.04,
+        "stop": 360.2,
+        "verdict": "WATCH",
+        "eod_open": 362.25,
+        "eod_high": 369.5,
+        "eod_low": 360.25,
+        "eod_close": 367.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BAJFINANCE",
+        "entry": 1049.95,
+        "target1": 1085.13,
+        "target2": 1108.59,
+        "stop": 1037.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 1043.800048828125,
+        "eod_high": 1058.4000244140625,
+        "eod_low": 1037.800048828125,
+        "eod_close": 1056.300048828125,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1056.300048828125 (+0.6%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 2,
+      "valid_skips": 0,
+      "missed_trades": 5,
+      "false_negatives": 0
+    }
   }
 ]

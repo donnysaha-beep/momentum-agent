@@ -1,0 +1,74 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, July 17 2026
+  Layer 3 | 01:21 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 5
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         AXISBANK     | Verdict: TRADE NOW
+               Entry: Rs 1319.55 | Stop: Rs 1305.65 | T1: Rs 1359.66
+               EOD: O:1308.0 H:1332.9000244140625 L:1305.699951171875 C:1329.4000244140625
+               Triggered but no target/stop hit — closed at Rs 1329.4000244140625 (+0.8%)
+
+  [MISSED]     KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 380.1 | Stop: Rs 375.9 | T1: Rs 392.22
+               EOD: O:377.29998779296875 H:391.54998779296875 L:375.95001220703125 C:390.70001220703125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ICICIBANK    | Verdict: WATCH
+               Entry: Rs 1431.05 | Stop: Rs 1420.15 | T1: Rs 1467.43
+               EOD: O:1422.800048828125 H:1455.0999755859375 L:1420.199951171875 C:1452.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4460.15 | Stop: Rs 4427.35 | T1: Rs 4599.3
+               EOD: O:4440.0 H:4509.0 L:4427.39990234375 C:4500.7001953125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HDFCBANK     | Verdict: WATCH
+               Entry: Rs 814.3 | Stop: Rs 809.0 | T1: Rs 835.35
+               EOD: O:810.0 H:823.5999755859375 L:809.0499877929688 C:819.5999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     RBLBANK      | Verdict: WATCH
+               Entry: Rs 365.25 | Stop: Rs 360.2 | T1: Rs 380.73
+               EOD: O:362.25 H:369.5 L:360.25 C:367.5
+               Entry triggered but no target set — monitor
+
+  [FP]         BAJFINANCE   | Verdict: TRADE NOW
+               Entry: Rs 1049.95 | Stop: Rs 1037.75 | T1: Rs 1085.13
+               EOD: O:1043.800048828125 H:1058.4000244140625 L:1037.800048828125 C:1056.300048828125
+               Triggered but no target/stop hit — closed at Rs 1056.300048828125 (+0.6%)
+
+=================================================================
+  RUNNING PERFORMANCE (26 days tracked)
+=================================================================
+  Total Trades    : 68
+  Win Rate        : 2.9%
+  Good Wins       : 2
+  Good Losses     : 26
+  False Positives : 40
+  Valid Skips     : 8
+  Missed Trades   : 94
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
