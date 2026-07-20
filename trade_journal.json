@@ -2716,5 +2716,46 @@
       "missed_trades": 5,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-20",
+    "trades": [
+      {
+        "ticker": "SUNPHARMA",
+        "entry": 1954.25,
+        "target1": 1996.91,
+        "target2": 2025.35,
+        "stop": 1935.85,
+        "verdict": "WATCH",
+        "eod_open": 1939.9000244140625,
+        "eod_high": 1958.5999755859375,
+        "eod_low": 1935.9000244140625,
+        "eod_close": 1958.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8896.05,
+        "target1": 9095.61,
+        "target2": 9228.65,
+        "stop": 8789.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 8790.0,
+        "eod_high": 8958.0,
+        "eod_low": 8790.0,
+        "eod_close": 8905.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 8905.0 (+0.1%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]
