@@ -1,0 +1,130 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 20, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs24238.5  1D: -0.4%  1W: +0.1%  1M: +0.3%  3M: +0.0%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+APOLLOHOSP     Rs  8905.0   +0.9%   +4.9%    +4.6%   63.7  1.0x   WATCH NOW
+MARICO         Rs   855.3   +1.3%   +4.7%    +4.4%   59.7  0.8x   WATCH NOW
+SUNPHARMA      Rs  1956.4   +1.2%   +6.7%    +6.4%   68.1  1.8x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 65.94343
+  Price: Rs8905.0  |  52w range: Rs6784.49 — Rs8934.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty -0.4%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  +1.4%  vs Nifty +0.1%
+    1M:  +4.9%  vs Nifty +0.3%  -> RS: +4.6% (OUTPERFORMING)
+    3M:  +16.3%  vs Nifty +0.0%  -> RS: +16.3% (OUTPERFORMING)
+    6M:  +21.1%
+
+  TREND HEALTH:
+    RSI: 63.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.6%
+    ATR extension from SMA20: 1.02x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.04x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8691.63 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.3% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Quantinuum Stock Fizzled in Its Debut, but Wall Street Calls It a Buy
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.1T | P/E: 62.93598
+  Price: Rs855.3  |  52w range: Rs687.11 — Rs860.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty -0.4%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +1.0%  vs Nifty +0.1%
+    1M:  +4.7%  vs Nifty +0.3%  -> RS: +4.4% (OUTPERFORMING)
+    3M:  +12.4%  vs Nifty +0.0%  -> RS: +12.4% (OUTPERFORMING)
+    6M:  +12.7%
+
+  TREND HEALTH:
+    RSI: 59.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.9%
+    ATR extension from SMA20: 0.85x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.73x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs830.98 (-2.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.6% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Marico expects annual revenue above view on premium push; margin pressure to weigh
+    * India's Marico to buy 60% stake in protein brand Cosmix
+    * Marico snaps up India snacks firm Zea Maize
+    * Marico Ltd (BOM:531642) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst Pricing Challenges
+    * Indian consumer firm Marico beats profit estimates as tax cuts boost demand
+
+-----------------------------------------------------------------
+
+  SUNPHARMA — Sun Pharmaceutical Industries Limited
+  Healthcare | Rs4.7T | P/E: 40.98031
+  Price: Rs1956.4  |  52w range: Rs1549.15 — Rs1956.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty -0.4%  -> RS: +1.6% (OUTPERFORMING)
+    1W:  +1.8%  vs Nifty +0.1%
+    1M:  +6.7%  vs Nifty +0.3%  -> RS: +6.4% (OUTPERFORMING)
+    3M:  +17.6%  vs Nifty +0.0%  -> RS: +17.5% (OUTPERFORMING)
+    6M:  +12.1%
+
+  TREND HEALTH:
+    RSI: 68.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.53%
+    ATR extension from SMA20: 1.83x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.86x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1911.37 (-2.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.83x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * India's Dr Reddy's on track for worst day in 3 years as semaglutide supplies hit
+    * Sun Pharma to acquire Innovcare Lifesciences for $28.7m
+    * India's top drugmaker Sun Pharma beats profit view on specialty drugs demand
+    * Organon Buyout By Sun Pharma Shifts Focus To Cash Value And Timing
+    * Organon (OGN)’s Investors React Strongly as Sun Pharma Bets Big on Specialty Drug Expansion
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
