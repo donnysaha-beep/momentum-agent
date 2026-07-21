@@ -21,7 +21,6 @@ ADANIENT       Rs  3182.7   -0.0%   +4.0%    +3.3%   61.1  0.8x   WATCH
 ASIANPAINT     Rs  2692.4   +0.0%   +1.6%    +0.8%   53.7  0.2x   WATCH
 EICHERMOT      Rs  7689.5   +1.7%   +0.7%    -0.1%   63.2  1.8x   WATCH
 BANDHANBNK     Rs   208.8   -1.2%   +0.2%    -0.5%   51.7  0.3x   WATCH
-ADANIGREEN     Rs  1541.9   +0.8%   -0.5%    -1.2%   54.3  0.2x   WATCH
 
 =================================================================
   FULL DETAIL
@@ -202,7 +201,7 @@ ADANIGREEN     Rs  1541.9   +0.8%   -0.5%    -1.2%   54.3  0.2x   WATCH
 -----------------------------------------------------------------
 
   MANAPPURAM — Manappuram Finance Limited
-  Financial Services | Rs330.4B | P/E: 30.012798
+  Financial Services | Rs330.4B | P/E: 29.733728
   Price: Rs351.75  |  52w range: Rs246.16 — Rs351.75
 
   PERFORMANCE vs NIFTY:
@@ -238,7 +237,7 @@ ADANIGREEN     Rs  1541.9   +0.8%   -0.5%    -1.2%   54.3  0.2x   WATCH
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.5T | P/E: 19.908102
+  Financial Services | Rs2.5T | P/E: 19.945509
   Price: Rs1061.5  |  52w range: Rs564.99 — Rs1098.39
 
   PERFORMANCE vs NIFTY:
@@ -271,7 +270,7 @@ ADANIGREEN     Rs  1541.9   +0.8%   -0.5%    -1.2%   54.3  0.2x   WATCH
 -----------------------------------------------------------------
 
   ULTRACEMCO — UltraTech Cement Limited
-  Basic Materials | Rs3.6T | P/E: 42.871323
+  Basic Materials | Rs3.6T | P/E: 41.641705
   Price: Rs12094.0  |  52w range: Rs10362.0 — Rs13052.0
 
   PERFORMANCE vs NIFTY:
@@ -511,40 +510,6 @@ ADANIGREEN     Rs  1541.9   +0.8%   -0.5%    -1.2%   54.3  0.2x   WATCH
     * Indian shares advance as earnings optimism counters oil surge
     * Bandhan Bank Ltd (BOM:541153) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amidst ...
     * Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...
-
------------------------------------------------------------------
-
-  ADANIGREEN — Adani Green Energy Limited
-  Utilities | Rs2.5T | P/E: 157.49745
-  Price: Rs1541.9  |  52w range: Rs772.8 — Rs1604.5
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.8%  vs Nifty -0.2%  -> RS: +1.0% (OUTPERFORMING)
-    1W:  -3.9%  vs Nifty +0.6%
-    1M:  -0.5%  vs Nifty +0.7%  -> RS: -1.2% (UNDERPERFORMING)
-    3M:  +34.1%  vs Nifty -0.0%  -> RS: +34.1% (OUTPERFORMING)
-    6M:  +63.0%
-
-  TREND HEALTH:
-    RSI: 54.3  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.31%
-    ATR extension from SMA20: 0.18x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.73x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1465.42 (-5.0%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-
-  RECENT NEWS:
-    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
-    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
-    * Factbox-A look at Indian billionaire Gautam Adani's businesses 
-    * Adani Green Energy Ltd (BOM:541450) Q4 2026 Earnings Call Highlights: Record Growth and ...
-    * India's Adani Green reports higher quarterly profit on strong power sales
 
 -----------------------------------------------------------------
 
