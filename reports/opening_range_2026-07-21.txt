@@ -1,51 +1,192 @@
 =================================================================
-  OPENING RANGE REPORT v2 — Tuesday, July 21 2026 04:13 AM IST
+  OPENING RANGE REPORT v2 — Tuesday, July 21 2026 06:42 AM IST
 =================================================================
 
 NIFTY AT 9:45am: BEARISH
-  Price: 24226.9  |  Gap: -0.1%  |  VWAP: nan
+  Price: 24176.85  |  Gap: -0.1%  |  VWAP: nan
   ORB: 24206.85 — 24262.2
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
 
-REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
 
-SUMMARY: 0 TRADE NOW | 1 WATCH | 2 WAIT | 0 SKIP
+SUMMARY: 1 TRADE NOW | 4 WATCH | 0 WAIT | 10 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  GRASIM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3160.8
+  Gap from prev  : +1.2%  (prev Rs 3109.7 | opened Rs 3146.6)
+  Opening Range  : Rs 3146.2 — Rs 3159.9  (0.44% wide)
+  VWAP           : Rs 3154.15  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 57.48
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3159.95  (break above ORB high)
+    Target 1 (50%) : Rs 3246.16  (+2.7%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3303.64  (+4.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3146.15  (-0.4%)  [below ORB low]
+    Risk/Reward    : 1:6.2 (T1)  |  1:10.34 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 7 shares
+    Capital needed : Rs 22,120
+    Max loss       : Rs 97  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
 
 =================================================================
   WATCH — Set Price Alert at Entry Trigger
 =================================================================
+  WATCH — near breakout  [70% probability]
+  NYKAA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 326.65
+  Gap from prev  : +0.3%  (prev Rs 323.05 | opened Rs 323.95)
+  Opening Range  : Rs 323.2 — Rs 324.9  (0.53% wide)
+  VWAP           : Rs 326.24  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 7.73
+
+  TRADE PLAN:
+    Entry trigger  : Rs 324.95  (break above ORB high)
+    Target 1 (50%) : Rs 336.55  (+3.6%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 344.28  (+6.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 323.15  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:6.49 (T1)  |  1:10.82 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 76 shares
+    Capital needed : Rs 24,696
+    Max loss       : Rs 137  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+  WATCH — near breakout  [60% probability]
+  MANAPPURAM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 349.25
+  Gap from prev  : +3.8%  (prev Rs 325.45 | opened Rs 337.8)
+  Opening Range  : Rs 337.8 — Rs 346.0  (2.43% wide)
+  VWAP           : Rs 347.09  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 11.17
+
+  TRADE PLAN:
+    Entry trigger  : Rs 346.05  (break above ORB high)
+    Target 1 (50%) : Rs 362.81  (+4.8%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 373.98  (+8.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 337.75  (-2.4%)  [below ORB low]
+    Risk/Reward    : 1:2.02 (T1)  |  1:3.36 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 72 shares
+    Capital needed : Rs 24,916
+    Max loss       : Rs 598  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+  WATCH — near breakout  [60% probability]
+  SHRIRAMFIN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1064.4
+  Gap from prev  : -0.4%  (prev Rs 1035.4 | opened Rs 1031.3)
+  Opening Range  : Rs 1031.3 — Rs 1047.8  (1.6% wide)
+  VWAP           : Rs 1057.64  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 28.0
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1047.85  (break above ORB high)
+    Target 1 (50%) : Rs 1089.85  (+4.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1117.85  (+6.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1031.25  (-1.6%)  [below ORB low]
+    Risk/Reward    : 1:2.54 (T1)  |  1:4.23 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 23 shares
+    Capital needed : Rs 24,101
+    Max loss       : Rs 382  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
   WATCH — near breakout  [60% probability]
   SUNPHARMA
   ─────────────────────────────────────────────
-  Current Price  : Rs 1945.8
+  Current Price  : Rs 1959.0
   Gap from prev  : +0.7%  (prev Rs 1932.6 | opened Rs 1945.4)
   Opening Range  : Rs 1939.1 — Rs 1949.5  (0.54% wide)
-  VWAP           : Rs 1943.71  (ABOVE, sloping UP)
+  VWAP           : Rs 1952.12  (ABOVE, sloping UP)
   Volume         : WEAK
-  ATR (daily)    : Rs 28.06
+  ATR (daily)    : Rs 28.67
 
   TRADE PLAN:
     Entry trigger  : Rs 1949.55  (break above ORB high)
-    Target 1 (50%) : Rs 1991.64  (+2.2%)  [1.5x ATR] — sell half here
-    Target 2 (50%) : Rs 2019.7  (+3.6%)  [2.5x ATR] — trail stop for rest
+    Target 1 (50%) : Rs 1992.55  (+2.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 2021.21  (+3.7%)  [2.5x ATR] — trail stop for rest
     Stop Loss      : Rs 1939.05  (-0.5%)  [below ORB low]
-    Risk/Reward    : 1:4.0 (T1)  |  1:6.67 (T2)
+    Risk/Reward    : 1:4.09 (T1)  |  1:6.81 (T2)
 
-  POSITION SIZE (CAUTION regime):
-    Qty            : 6 shares
-    Capital needed : Rs 11,697
-    Max loss       : Rs 63  (if stop hit)
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 12 shares
+    Capital needed : Rs 23,395
+    Max loss       : Rs 126  (if stop hit)
 
-  WHY THIS SETUP:
-    [+] Above VWAP — institutional support intact
-    [~] Within 0.5% of ORB high (Rs1949.5) — set alert
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
 
 =================================================================
-  WAIT — No Signal Yet
+  SKIP — No Valid Setup
 =================================================================
-  MARICO  [40%]  |  Rs 854.15  |  ORB: 852.1—856.2  |  VWAP: 854.24
-    [~] Inside opening range — direction not confirmed yet
-  APOLLOHOSP  [40%]  |  Rs 8895.0  |  ORB: 8894.0—8935.0  |  VWAP: 8915.12
-    [~] Inside opening range — direction not confirmed yet
+  NESTLEIND  [50%]  |  Rs 1454.2
+    [-] Nifty broke its own ORB low — avoid all longs
+  ADANIPORTS  [50%]  |  Rs 1839.6
+    [-] Nifty broke its own ORB low — avoid all longs
+  ASIANPAINT  [40%]  |  Rs 2695.9
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  MARICO  [40%]  |  Rs 849.85
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ADANIGREEN  [40%]  |  Rs 1526.3
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ADANIENT  [40%]  |  Rs 3193.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  APOLLOHOSP  [40%]  |  Rs 8899.5
+    [-] Nifty broke its own ORB low — avoid all longs
+  EICHERMOT  [40%]  |  Rs 7591.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  BANDHANBNK  [30%]  |  Rs 211.36
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ULTRACEMCO  [30%]  |  Rs 12005.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
 
 =================================================================
   TRADE MANAGEMENT RULES:
