@@ -1,0 +1,60 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Tuesday, July 21 2026 04:13 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24226.9  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 24206.85 — 24262.2
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 1 WATCH | 2 WAIT | 0 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  SUNPHARMA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1945.8
+  Gap from prev  : +0.7%  (prev Rs 1932.6 | opened Rs 1945.4)
+  Opening Range  : Rs 1939.1 — Rs 1949.5  (0.54% wide)
+  VWAP           : Rs 1943.71  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 28.06
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1949.55  (break above ORB high)
+    Target 1 (50%) : Rs 1991.64  (+2.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 2019.7  (+3.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1939.05  (-0.5%)  [below ORB low]
+    Risk/Reward    : 1:4.0 (T1)  |  1:6.67 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 6 shares
+    Capital needed : Rs 11,697
+    Max loss       : Rs 63  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs1949.5) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  MARICO  [40%]  |  Rs 854.15  |  ORB: 852.1—856.2  |  VWAP: 854.24
+    [~] Inside opening range — direction not confirmed yet
+  APOLLOHOSP  [40%]  |  Rs 8895.0  |  ORB: 8894.0—8935.0  |  VWAP: 8915.12
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
