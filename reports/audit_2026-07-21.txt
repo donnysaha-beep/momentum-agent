@@ -1,0 +1,64 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, July 21 2026
+  Layer 3 | 03:03 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3159.95 | Stop: Rs 3146.15 | T1: Rs 3246.16
+               EOD: O:3146.60009765625 H:3194.89990234375 L:3143.800048828125 C:3179.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 324.95 | Stop: Rs 323.15 | T1: Rs 336.55
+               EOD: O:323.95001220703125 H:329.0 L:323.20001220703125 C:328.79998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MANAPPURAM   | Verdict: WATCH
+               Entry: Rs 346.05 | Stop: Rs 337.75 | T1: Rs 362.81
+               EOD: O:337.79998779296875 H:353.5 L:337.79998779296875 C:352.6000061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1047.85 | Stop: Rs 1031.25 | T1: Rs 1089.85
+               EOD: O:1031.300048828125 H:1067.4000244140625 L:1031.300048828125 C:1063.9000244140625
+               Entry triggered but no target set — monitor
+
+  [FP]         SUNPHARMA    | Verdict: TRADE NOW
+               Entry: Rs 1949.55 | Stop: Rs 1939.05 | T1: Rs 1992.55
+               EOD: O:1945.4000244140625 H:1966.0 L:1939.0999755859375 C:1961.9000244140625
+               Triggered but no target/stop hit — closed at Rs 1961.9000244140625 (+0.6%)
+
+=================================================================
+  RUNNING PERFORMANCE (28 days tracked)
+=================================================================
+  Total Trades    : 70
+  Win Rate        : 2.9%
+  Good Wins       : 2
+  Good Losses     : 26
+  False Positives : 42
+  Valid Skips     : 8
+  Missed Trades   : 99
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
