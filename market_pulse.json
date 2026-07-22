@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-22T09:45:10.961747",
+  "timestamp": "2026-07-22T10:37:32.584666",
   "date": "2026-07-22",
-  "status": "CAUTION",
-  "action": "TIGHTEN_STOPS \u2014 no new entries unless A+ setup",
-  "nifty_price": 24022.3,
+  "status": "DANGER",
+  "action": "STOP_NEW_ENTRIES \u2014 tighten stops on open positions",
+  "nifty_price": 23991.05,
   "nifty_vs_vwap": "BELOW",
-  "nifty_vs_orb_low": "ABOVE",
-  "vix_level": 13.27,
+  "nifty_vs_orb_low": "BELOW",
+  "vix_level": 13.31,
   "vix_spike": false,
   "alerts": [
-    "Nifty below VWAP \u2014 weakening"
+    "Nifty below VWAP AND ORB low \u2014 bearish structure"
   ],
   "nifty_vwap": NaN,
   "nifty_orb_low": 24022.2,
-  "vix_chg": 5.36
+  "vix_chg": 5.62
 }
