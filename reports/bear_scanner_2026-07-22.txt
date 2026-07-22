@@ -1,0 +1,15 @@
+=================================================================
+  BEAR SCANNER — Wednesday, July 22 2026 07:14 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: BEARISH
+  Price: 23978.05  |  Gap: -0.2%  |  VWAP: nan
+  ORB: 24022.2 — 24164.65
+  *** Nifty broke ORB low — bearish breadth confirmed ***
+
+REGIME: BULL  |  SHORT SIZE: NO SHORTS (Bull market)
+
+  *** BULL REGIME — NO SHORTS TODAY ***
+  Wait for regime to weaken before shorting.
+=================================================================
