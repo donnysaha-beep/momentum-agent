@@ -2840,5 +2840,60 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-22",
+    "trades": [
+      {
+        "ticker": "HAL",
+        "entry": 4593.85,
+        "target1": 4731.06,
+        "target2": 4822.54,
+        "stop": 4548.95,
+        "verdict": "WATCH",
+        "eod_open": 4584.2998046875,
+        "eod_high": 4627.0,
+        "eod_low": 4549.0,
+        "eod_close": 4565.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "POLYCAB",
+        "entry": 8990.55,
+        "target1": 9364.22,
+        "target2": 9613.33,
+        "stop": 8896.45,
+        "verdict": "WATCH",
+        "eod_open": 8915.0,
+        "eod_high": 9199.5,
+        "eod_low": 8886.0,
+        "eod_close": 9090.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "MARICO",
+        "entry": 853.85,
+        "target1": 877.92,
+        "target2": 893.96,
+        "stop": 847.0,
+        "verdict": "TRADE NOW",
+        "eod_open": 850.2999877929688,
+        "eod_high": 866.0,
+        "eod_low": 843.7999877929688,
+        "eod_close": 862.6500244140625,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 847.0) \u2014 -0.8% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]

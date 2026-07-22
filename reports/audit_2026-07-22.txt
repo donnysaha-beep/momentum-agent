@@ -1,0 +1,54 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, July 22 2026
+  Layer 3 | 03:03 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 2
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4593.85 | Stop: Rs 4548.95 | T1: Rs 4731.06
+               EOD: O:4584.2998046875 H:4627.0 L:4549.0 C:4565.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     POLYCAB      | Verdict: WATCH
+               Entry: Rs 8990.55 | Stop: Rs 8896.45 | T1: Rs 9364.22
+               EOD: O:8915.0 H:9199.5 L:8886.0 C:9090.5
+               Entry triggered but no target set — monitor
+
+  [LOSS]       MARICO       | Verdict: TRADE NOW
+               Entry: Rs 853.85 | Stop: Rs 847.0 | T1: Rs 877.92
+               EOD: O:850.2999877929688 H:866.0 L:843.7999877929688 C:862.6500244140625
+               Hit stop loss (Rs 847.0) — -0.8% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (29 days tracked)
+=================================================================
+  Total Trades    : 71
+  Win Rate        : 2.8%
+  Good Wins       : 2
+  Good Losses     : 27
+  False Positives : 42
+  Valid Skips     : 8
+  Missed Trades   : 101
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
