@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, July 22 2026
+  Layer 0 | Generated: 05:25 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,021.80  (-0.69%)
+  Bank Nifty            :  57,256.95  (-1.00%)
+  India VIX             :      13.06  (+3.67%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24129.9  [ESTIMATED]
+  Change vs prev : +0.45%
+  Bias           : BULLISH
+  Based on       : S&P 500 +0.89% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,509.20  (+0.89%)
+  Nasdaq (US)           :  25,837.21  (+1.29%)
+  US VIX                :      17.05  (-8.58%)
+  Crude Oil (WTI)       :      85.55  (+0.75%)
+  Gold                  :   4,133.00  (+1.52%)
+  Silver                :      59.99  (+1.96%)
+  USD/INR               :      96.43  (-0.06%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.5% (bullish)
+  * India VIX 13.06 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Metals, IT, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
