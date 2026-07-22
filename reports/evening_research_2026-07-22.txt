@@ -1,0 +1,554 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 22, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs23996.25  1D: -0.8%  1W: -0.3%  1M: -0.4%  3M: -1.5%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+APOLLOHOSP     Rs  8938.0   +0.1%   +5.3%    +5.8%   65.2  1.0x   WATCH NOW
+MARICO         Rs   862.6   +1.1%   +5.1%    +5.5%   62.5  1.1x   WATCH NOW
+ADANIPORTS     Rs  1819.4   -1.5%   +2.0%    +2.4%   50.0 -0.2x   WATCH NOW
+EICHERMOT      Rs  7632.0   -0.8%   +0.7%    +1.1%   59.9  1.4x   WATCH NOW
+NESTLEIND      Rs  1493.6   +2.9%   +7.8%    +8.2%   67.9  1.9x   WATCH
+NYKAA          Rs   326.6   -0.4%   +7.8%    +8.2%   66.6  1.1x   WATCH
+SHRIRAMFIN     Rs  1058.8   -0.2%   +7.2%    +7.6%   60.4  0.7x   WATCH
+ADANIENT       Rs  3147.7   -1.1%   +6.2%    +6.7%   56.8  0.3x   WATCH
+ABB            Rs  7506.0   -0.3%   +4.8%    +5.3%   63.0  1.9x   WATCH
+BHEL           Rs   416.4   +0.8%   +4.5%    +4.9%   56.6  0.9x   WATCH
+JSWSTEEL       Rs  1266.9   -0.0%   +2.6%    +3.0%   57.2  1.4x   WATCH
+HAL            Rs  4574.8   -0.1%   +1.7%    +2.1%   63.0  1.5x   WATCH
+GRASIM         Rs  3166.3   -0.4%   +0.7%    +1.1%   54.6  0.4x   WATCH
+POLYCAB        Rs  9090.5   +2.1%   -8.4%    -7.9%   43.8 -1.1x   WATCH
+BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 65.875595
+  Price: Rs8938.0  |  52w range: Rs6784.49 — Rs8938.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -0.8%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  +0.0%  vs Nifty -0.3%
+    1M:  +5.3%  vs Nifty -0.4%  -> RS: +5.8% (OUTPERFORMING)
+    3M:  +16.6%  vs Nifty -1.5%  -> RS: +18.1% (OUTPERFORMING)
+    6M:  +23.1%
+
+  TREND HEALTH:
+    RSI: 65.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.48%
+    ATR extension from SMA20: 1.04x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.54x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8739.1 (-2.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Quantinuum Stock Fizzled in Its Debut, but Wall Street Calls It a Buy
+    * Personalised gummies firm Rem3dy Health raises funds for global push
+    * Hijos de Rivera invests in gummies firm Rem3dy Health
+    * From diapers to drugs: How India's global corporate hubs are putting AI to work
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) Q4 2026 Earnings Call Highlights: Record Revenue ...
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.1T | P/E: 63.430145
+  Price: Rs862.65  |  52w range: Rs687.11 — Rs862.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty -0.8%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  +2.2%  vs Nifty -0.3%
+    1M:  +5.1%  vs Nifty -0.4%  -> RS: +5.5% (OUTPERFORMING)
+    3M:  +11.7%  vs Nifty -1.5%  -> RS: +13.1% (OUTPERFORMING)
+    6M:  +14.1%
+
+  TREND HEALTH:
+    RSI: 62.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.9%
+    ATR extension from SMA20: 1.06x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.59x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs838.01 (-2.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India's Marico expects annual revenue above view on premium push; margin pressure to weigh
+    * India's Marico to buy 60% stake in protein brand Cosmix
+    * Marico snaps up India snacks firm Zea Maize
+    * Marico Ltd (BOM:531642) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst Pricing Challenges
+    * Indian consumer firm Marico beats profit estimates as tax cuts boost demand
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.2T | P/E: 31.223614
+  Price: Rs1819.4  |  52w range: Rs1294.84 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.5%  vs Nifty -0.8%  -> RS: -0.7% (UNDERPERFORMING)
+    1W:  -0.5%  vs Nifty -0.3%
+    1M:  +2.0%  vs Nifty -0.4%  -> RS: +2.4% (OUTPERFORMING)
+    3M:  +15.0%  vs Nifty -1.5%  -> RS: +16.5% (OUTPERFORMING)
+    6M:  +26.6%
+
+  TREND HEALTH:
+    RSI: 50.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.94%
+    ATR extension from SMA20: -0.21x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1766.39 (-2.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Kerala state not consulted on MSC's $1.4 billion port investment, chief minister says
+    * Adani Ports to Sell India Port Stake to Swiss Shipping Group MSC for $1.40B
+    * Adani Ports to sell 49% stake in Indian port to MSC for $1.4 billion
+    * India's Adani Ports to invest $1.36 billion in Europe expansion
+    * India's Adani Group to streamline internal structure to speed decisions
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.1T | P/E: 38.026905
+  Price: Rs7632.0  |  52w range: Rs5317.06 — Rs8190.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.8%  vs Nifty -0.8%  -> RS: +0.0%
+    1W:  +3.1%  vs Nifty -0.3%
+    1M:  +0.7%  vs Nifty -0.4%  -> RS: +1.1% (OUTPERFORMING)
+    3M:  +5.6%  vs Nifty -1.5%  -> RS: +7.0% (OUTPERFORMING)
+    6M:  +2.6%
+
+  TREND HEALTH:
+    RSI: 59.9  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.01%
+    ATR extension from SMA20: 1.37x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.57x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7401.6 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+    * Indian shares pause after three-day rally
+    * Royal Enfield parent Eicher jumps to record high on capacity expansion, growth outlook
+
+-----------------------------------------------------------------
+
+  NESTLEIND — Nestlé India Limited
+  Consumer Defensive | Rs2.9T | P/E: 82.61062
+  Price: Rs1493.6  |  52w range: Rs1078.37 — Rs1493.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.9%  vs Nifty -0.8%  -> RS: +3.7% (OUTPERFORMING)
+    1W:  +4.9%  vs Nifty -0.3%
+    1M:  +7.8%  vs Nifty -0.4%  -> RS: +8.2% (OUTPERFORMING)
+    3M:  +7.5%  vs Nifty -1.5%  -> RS: +9.0% (OUTPERFORMING)
+    6M:  +15.0%
+
+  TREND HEALTH:
+    RSI: 67.9  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 1.99%
+    ATR extension from SMA20: 1.94x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.26x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1448.91 (-3.0%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.26x avg) = conviction
+    [~] Extended 1.94x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * India's FMCG sector faces margin squeeze as costs spike amid strong demand, price hikes
+    * Nestle India profit jumps 26% on strong demand, shares rise
+    * Nestle India profit jumps 46% as tax cuts boost packaged food demand
+    * Nestle India names insider Edouard Mac Nab new CFO
+    * Nestle India's finance chief to step down
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs935.3B | P/E: 453.6111
+  Price: Rs326.6  |  52w range: Rs202.13 — Rs330.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.8%  -> RS: +0.4%
+    1W:  -0.8%  vs Nifty -0.3%
+    1M:  +7.8%  vs Nifty -0.4%  -> RS: +8.2% (OUTPERFORMING)
+    3M:  +25.6%  vs Nifty -1.5%  -> RS: +27.1% (OUTPERFORMING)
+    6M:  +29.2%
+
+  TREND HEALTH:
+    RSI: 66.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.37%
+    ATR extension from SMA20: 1.13x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.0x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs314.99 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.1% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * India's Nykaa posts profit surge on strong demand for beauty products
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Q3 2026 Earnings Call Highlights: Record Growth and ...
+    * Nykaa's profit more than doubles amid beauty demand surge in India
+
+-----------------------------------------------------------------
+
+  SHRIRAMFIN — Shriram Finance Limited
+  Financial Services | Rs2.5T | P/E: 19.406158
+  Price: Rs1058.8  |  52w range: Rs564.99 — Rs1098.39
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.8%  -> RS: +0.5% (OUTPERFORMING)
+    1W:  +2.4%  vs Nifty -0.3%
+    1M:  +7.2%  vs Nifty -0.4%  -> RS: +7.6% (OUTPERFORMING)
+    3M:  +1.9%  vs Nifty -1.5%  -> RS: +3.4% (OUTPERFORMING)
+    6M:  +9.5%
+
+  TREND HEALTH:
+    RSI: 60.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.55%
+    ATR extension from SMA20: 0.68x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1018.34 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Mitsubishi UFJ Financial Group Q4 Earnings Call Highlights
+    * Shriram Finance Ltd (BOM:511218) Q4 2026 Earnings Call Highlights: Robust Profit Growth and ...
+    * India's Shriram Finance beats profit forecasts, crosses 3 trillion rupees in AUM
+    * MUFG lending head signals further Asia dealmaking
+    * Advent to buy 14.3% of Indian mortgage lender Aditya Birla Housing Finance for $304 million
+
+-----------------------------------------------------------------
+
+  ADANIENT — Adani Enterprises Limited
+  Energy | Rs4.5T | P/E: 42.8142
+  Price: Rs3147.7  |  52w range: Rs1758.01 — Rs3212.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty -0.8%  -> RS: -0.3%
+    1W:  -0.1%  vs Nifty -0.3%
+    1M:  +6.2%  vs Nifty -0.4%  -> RS: +6.7% (OUTPERFORMING)
+    3M:  +39.3%  vs Nifty -1.5%  -> RS: +40.8% (OUTPERFORMING)
+    6M:  +45.0%
+
+  TREND HEALTH:
+    RSI: 56.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.37%
+    ATR extension from SMA20: 0.27x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.54x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3035.58 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * LME approves Adani's major copper smelter in India as listed brand
+    * India's Adani Enterprises raises QIP issue size to $1.6 billion
+    * Adani prosecutors must justify dropping criminal case, US judge rules
+    * Lawyers for Indian billionaire Adani urge US judge to dismiss criminal case
+    * Electronics firm Jabil raises annual profit forecast on strong data center demand
+
+-----------------------------------------------------------------
+
+  ABB — ABB India Limited
+  Industrials | Rs1.6T | P/E: 102.73748
+  Price: Rs7506.0  |  52w range: Rs4672.39 — Rs7667.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.3%  vs Nifty -0.8%  -> RS: +0.4%
+    1W:  +4.2%  vs Nifty -0.3%
+    1M:  +4.8%  vs Nifty -0.4%  -> RS: +5.3% (OUTPERFORMING)
+    3M:  -0.7%  vs Nifty -1.5%  -> RS: +0.8% (OUTPERFORMING)
+    6M:  +49.3%
+
+  TREND HEALTH:
+    RSI: 63.0  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.83%
+    ATR extension from SMA20: 1.91x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.52x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7187.58 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.1% of 52w high (breakout zone)
+    [~] Extended 1.91x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * ABB India Ltd (BOM:500002) Q3 2025 Earnings Call Highlights: Strong Revenue Growth Amid Market ...
+    * Engineering firm ABB India's profit falls as orders dip
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 59.663326
+  Price: Rs416.45  |  52w range: Rs207.34 — Rs434.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.8%  vs Nifty -0.8%  -> RS: +1.6% (OUTPERFORMING)
+    1W:  -0.0%  vs Nifty -0.3%
+    1M:  +4.5%  vs Nifty -0.4%  -> RS: +4.9% (OUTPERFORMING)
+    3M:  +25.2%  vs Nifty -1.5%  -> RS: +26.7% (OUTPERFORMING)
+    6M:  +56.0%
+
+  TREND HEALTH:
+    RSI: 56.6  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 3.54%
+    ATR extension from SMA20: 0.89x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs394.34 (-5.3%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * India relaxes rules for some state-run firms to procure critical equipment from China
+    * GE Power India Ltd (BOM:532309) Q3 2026 Earnings Call Highlights: Strong Profit Growth Amid ...
+    * Synergy Green Industries Ltd (BOM:541929) Q3 2026 Earnings Call Highlights: Expansion Plans and ...
+    * Adani secures Japanese funding for India’s green energy corridor
+    * India's Adani Power reports quarterly profit fall as demand eases
+
+-----------------------------------------------------------------
+
+  JSWSTEEL — JSW Steel Limited
+  Basic Materials | Rs3.1T | P/E: 12.495316
+  Price: Rs1266.9  |  52w range: Rs1020.74 — Rs1305.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.0%  vs Nifty -0.8%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +3.3%  vs Nifty -0.3%
+    1M:  +2.6%  vs Nifty -0.4%  -> RS: +3.0% (OUTPERFORMING)
+    3M:  +0.8%  vs Nifty -1.5%  -> RS: +2.3% (OUTPERFORMING)
+    6M:  +7.7%
+
+  TREND HEALTH:
+    RSI: 57.2  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 1.89%
+    ATR extension from SMA20: 1.38x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.45x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1231.06 (-2.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.9% of 52w high (breakout zone)
+    [+] Heavy volume today (2.45x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * JSW Steel Ltd (BOM:500228) Q1 2027 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's JSW Steel beats profit view on higher prices
+    * JSW Steel Ltd (BOM:500228) Q4 2026 Earnings Call Highlights: Strong Financial Performance Amid ...
+    * India's JSW Steel posts two-fold quarterly profit rise on price recovery
+    * POSCO Deepens India Push With JSW in Landmark Steel Plant Deal
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.1T | P/E: 33.618458
+  Price: Rs4574.8  |  52w range: Rs3487.2 — Rs4875.69
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.1%  vs Nifty -0.8%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  +3.5%  vs Nifty -0.3%
+    1M:  +1.7%  vs Nifty -0.4%  -> RS: +2.1% (OUTPERFORMING)
+    3M:  +4.0%  vs Nifty -1.5%  -> RS: +5.4% (OUTPERFORMING)
+    6M:  +2.1%
+
+  TREND HEALTH:
+    RSI: 63.0  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.01%
+    ATR extension from SMA20: 1.46x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.59x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4436.78 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+    * India's Tejas jet-maker HAL calls Dubai crash an isolated occurrence
+    * India's Hindustan Aeronautics posts 11% rise in quarterly profit; key margin contracts 
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.1T | P/E: 43.22594
+  Price: Rs3166.3  |  52w range: Rs2531.1 — Rs3213.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.8%  -> RS: +0.4%
+    1W:  +2.6%  vs Nifty -0.3%
+    1M:  +0.7%  vs Nifty -0.4%  -> RS: +1.1% (OUTPERFORMING)
+    3M:  +14.0%  vs Nifty -1.5%  -> RS: +15.5% (OUTPERFORMING)
+    6M:  +12.8%
+
+  TREND HEALTH:
+    RSI: 54.6  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 1.81%
+    ATR extension from SMA20: 0.39x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.65x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3080.26 (-2.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.5% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
+    * India's Aditya Birla Group's renewables arm to buy Sprng Energy from Shell
+    * Grasim Industries Ltd (BOM:500300) Q4 2026 Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries quarterly loss narrows as core businesses strengthen
+    * Grasim Industries Ltd (BOM:500300) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  POLYCAB — Polycab India Limited
+  Industrials | Rs1.4T | P/E: 47.935562
+  Price: Rs9090.5  |  52w range: Rs6666.37 — Rs10083.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty -0.8%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  -2.5%  vs Nifty -0.3%
+    1M:  -8.4%  vs Nifty -0.4%  -> RS: -7.9% (UNDERPERFORMING)
+    3M:  +13.6%  vs Nifty -1.5%  -> RS: +15.1% (OUTPERFORMING)
+    6M:  +19.7%
+
+  TREND HEALTH:
+    RSI: 43.8  |  Days above SMA50 (last 20): 10/20
+    Daily volatility (ATR%): 2.75%
+    ATR extension from SMA20: -1.1x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.4x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8715.18 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Polycab India Ltd (BOM:542652) Q1 2027 Earnings Call Highlights: Record Revenue and Profit ...
+    * Polycab India Ltd (BOM:542652) Q3 2026 Earnings Call Highlights: Record Revenue Growth and ...
+    * Polycab India's third-quarter profit jumps on sustained demand for wires, cables
+    * Polycab India Ltd (BOM:542652) Q2 2026 Earnings Call Highlights: Record Profit and Robust ...
+
+-----------------------------------------------------------------
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs3.1T | P/E: 26.168215
+  Price: Rs10998.5  |  52w range: Rs7896.87 — Rs10998.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.7%  vs Nifty -0.8%  -> RS: +6.5% (OUTPERFORMING)
+    1W:  +6.5%  vs Nifty -0.3%
+    1M:  +9.7%  vs Nifty -0.4%  -> RS: +10.2% (OUTPERFORMING)
+    3M:  +16.2%  vs Nifty -1.5%  -> RS: +17.6% (OUTPERFORMING)
+    6M:  +17.5%
+
+  TREND HEALTH:
+    RSI: 71.6  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): 2.15%
+    ATR extension from SMA20: 3.65x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 3.21x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs10643.96 (-3.2%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.21x avg) = conviction
+    [~] Extended 3.65x from SMA20 — wait for pullback
+    [-] Severely extended (3.65x ATR from SMA20)
+
+  RECENT NEWS:
+    * Bajaj Auto Ltd (BOM:532977) Q1 2027 Earnings Call Highlights: Record Growth and Strategic Expansions
+    * India's Bajaj Auto posts quarterly profit rise on strong export demand
+    * India's Hero MotoCorp to invest about $104 million in Ather Energy
+    * Bajaj Auto Credit accepts bids for 3-year bonds, bankers say
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
