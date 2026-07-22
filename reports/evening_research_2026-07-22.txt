@@ -63,7 +63,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 63.430145
+  Consumer Defensive | Rs1.1T | P/E: 63.570377
   Price: Rs862.65  |  52w range: Rs687.11 — Rs862.65
 
   PERFORMANCE vs NIFTY:
@@ -98,7 +98,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   ADANIPORTS — Adani Ports and Special Economic Zone Limited
-  Industrials | Rs4.2T | P/E: 31.223614
+  Industrials | Rs4.2T | P/E: 31.28267
   Price: Rs1819.4  |  52w range: Rs1294.84 — Rs1883.2
 
   PERFORMANCE vs NIFTY:
@@ -168,7 +168,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs2.9T | P/E: 82.61062
+  Consumer Defensive | Rs2.9T | P/E: 82.292015
   Price: Rs1493.6  |  52w range: Rs1078.37 — Rs1493.6
 
   PERFORMANCE vs NIFTY:
@@ -204,7 +204,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs935.3B | P/E: 453.6111
+  Unknown | Rs935.3B | P/E: 473.33334
   Price: Rs326.6  |  52w range: Rs202.13 — Rs330.1
 
   PERFORMANCE vs NIFTY:
@@ -338,7 +338,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   BHEL — Bharat Heavy Electricals Limited
-  Industrials | Rs1.5T | P/E: 59.663326
+  Industrials | Rs1.5T | P/E: 60.355072
   Price: Rs416.45  |  52w range: Rs207.34 — Rs434.0
 
   PERFORMANCE vs NIFTY:
@@ -371,7 +371,7 @@ BAJAJ-AUTO     Rs 10998.5   +5.7%   +9.7%   +10.2%   71.6  3.6x   AVOID
 -----------------------------------------------------------------
 
   JSWSTEEL — JSW Steel Limited
-  Basic Materials | Rs3.1T | P/E: 12.495316
+  Basic Materials | Rs3.1T | P/E: 12.505182
   Price: Rs1266.9  |  52w range: Rs1020.74 — Rs1305.4
 
   PERFORMANCE vs NIFTY:
