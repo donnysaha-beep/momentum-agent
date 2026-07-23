@@ -134,7 +134,7 @@ ADANIPORTS     Rs  1778.5   -2.2%   -1.9%    -2.1%   42.2 -1.3x   WATCH
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs688.5B | P/E: 42.95699
+  Financial Services | Rs688.5B | P/E: 42.5
   Price: Rs79.9  |  52w range: Rs58.85 — Rs86.07
 
   PERFORMANCE vs NIFTY:
@@ -169,7 +169,7 @@ ADANIPORTS     Rs  1778.5   -2.2%   -1.9%    -2.1%   42.2 -1.3x   WATCH
 -----------------------------------------------------------------
 
   TRENT — Trent Limited
-  Consumer Cyclical | Rs1.5T | P/E: 89.47401
+  Consumer Cyclical | Rs1.5T | P/E: 88.89301
   Price: Rs2874.8  |  52w range: Rs2193.96 — Rs5520.84
 
   PERFORMANCE vs NIFTY:
@@ -228,11 +228,11 @@ ADANIPORTS     Rs  1778.5   -2.2%   -1.9%    -2.1%   42.2 -1.3x   WATCH
     [+] RS slope positive (institutional accumulation)
 
   RECENT NEWS:
+    * Indian payments firms oppose one-click UPI checkout proposal, citing competition risks
     * One97 Communications Ltd (BOM:543396) Q1 2027 Earnings Call Highlights: Strong Profitability ...
     * Paytm Europe wins CSSF payment institution licence
     * Apple says India 'copy-pasted' rivals' claims in antitrust probe
     * Paytm unit approves investment in European payments subsidiary
-    * India's Pine Labs posts quarterly profit on digital payments boost
 
 -----------------------------------------------------------------
 
@@ -440,7 +440,7 @@ ADANIPORTS     Rs  1778.5   -2.2%   -1.9%    -2.1%   42.2 -1.3x   WATCH
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.4T | P/E: 19.249392
+  Financial Services | Rs2.4T | P/E: 19.260235
   Price: Rs1025.8  |  52w range: Rs564.99 — Rs1098.39
 
   PERFORMANCE vs NIFTY:
@@ -475,7 +475,7 @@ ADANIPORTS     Rs  1778.5   -2.2%   -1.9%    -2.1%   42.2 -1.3x   WATCH
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.6T | P/E: 64.396866
+  Basic Materials | Rs1.6T | P/E: 65.25657
   Price: Rs1564.2  |  52w range: Rs1264.49 — Rs1610.7
 
   PERFORMANCE vs NIFTY:
