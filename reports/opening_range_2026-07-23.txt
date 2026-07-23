@@ -1,0 +1,119 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Thursday, July 23 2026 04:13 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23911.35  |  Gap: -0.4%  |  VWAP: nan
+  ORB: 23876.75 — 23951.5
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 0 TRADE NOW | 2 WATCH | 2 WAIT | 11 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [50% probability]
+  JSWSTEEL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1268.5
+  Gap from prev  : -0.6%  (prev Rs 1267.4 | opened Rs 1260.3)
+  Opening Range  : Rs 1257.4 — Rs 1274.4  (1.35% wide)
+  VWAP           : Rs 1267.63  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 23.56
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1274.45  (break above ORB high)
+    Target 1 (50%) : Rs 1309.79  (+2.8%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1333.34  (+4.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1257.35  (-1.3%)  [below ORB low]
+    Risk/Reward    : 1:2.07 (T1)  |  1:3.45 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 31 shares
+    Capital needed : Rs 39,508
+    Max loss       : Rs 530  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs1274.4000244140625) — set alert
+
+  WATCH — near breakout  [50% probability]
+  POLYCAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 9058.5
+  Gap from prev  : -0.4%  (prev Rs 9090.5 | opened Rs 9055.5)
+  Opening Range  : Rs 8991.0 — Rs 9104.0  (1.26% wide)
+  VWAP           : Rs 9056.96  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 240.6
+
+  TRADE PLAN:
+    Entry trigger  : Rs 9104.05  (break above ORB high)
+    Target 1 (50%) : Rs 9464.94  (+4.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 9705.54  (+6.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 8990.95  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:3.19 (T1)  |  1:5.33 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 4 shares
+    Capital needed : Rs 36,416
+    Max loss       : Rs 452  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs9104.0) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  GRASIM  [50%]  |  Rs 3172.2  |  ORB: 3159.9—3179.5  |  VWAP: 3173.64
+    [~] Inside opening range — direction not confirmed yet
+  BAJAJ-AUTO  [30%]  |  Rs 11069.0  |  ORB: 10967.0—11110.0  |  VWAP: 11072.84
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  ADANIENT  [40%]  |  Rs 3086.3
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ADANIPORTS  [40%]  |  Rs 1803.5
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  MARICO  [40%]  |  Rs 857.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  BHEL  [40%]  |  Rs 411.5
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ABB  [40%]  |  Rs 7589.0
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [40%]  |  Rs 323.9
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  SHRIRAMFIN  [40%]  |  Rs 1062.3
+    [-] Below VWAP with no breakout — no valid long
+  HAL  [30%]  |  Rs 4551.8
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  APOLLOHOSP  [30%]  |  Rs 8889.5
+    [-] Stock broke below ORB low — setup invalidated
+  EICHERMOT  [30%]  |  Rs 7618.0
+    [-] Below VWAP with no breakout — no valid long
+  NESTLEIND  [30%]  |  Rs 1456.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
