@@ -2895,5 +2895,144 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-23",
+    "trades": [
+      {
+        "ticker": "EICHERMOT",
+        "entry": 7664.05,
+        "target1": 7897.0,
+        "target2": 8052.3,
+        "stop": 7615.95,
+        "verdict": "WATCH",
+        "eod_open": 7622.0,
+        "eod_high": 7789.0,
+        "eod_low": 7610.0,
+        "eod_close": 7718.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1280.05,
+        "target1": 1345.18,
+        "target2": 1388.61,
+        "stop": 1258.35,
+        "verdict": "WATCH",
+        "eod_open": 1270.0,
+        "eod_high": 1285.9000244140625,
+        "eod_low": 1250.0999755859375,
+        "eod_close": 1256.800048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4584.95,
+        "target1": 4719.85,
+        "target2": 4809.78,
+        "stop": 4553.45,
+        "verdict": "WATCH",
+        "eod_open": 4569.0,
+        "eod_high": 4600.0,
+        "eod_low": 4545.2998046875,
+        "eod_close": 4586.7998046875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIPORTS",
+        "entry": 1819.05,
+        "target1": 1870.13,
+        "target2": 1904.18,
+        "stop": 1807.15,
+        "verdict": "WATCH",
+        "eod_open": 1817.0,
+        "eod_high": 1825.5,
+        "eod_low": 1769.5,
+        "eod_close": 1780.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 80.96,
+        "target1": 83.49,
+        "target2": 85.18,
+        "stop": 80.14,
+        "verdict": "WATCH",
+        "eod_open": 80.4000015258789,
+        "eod_high": 81.18000030517578,
+        "eod_low": 79.70999908447266,
+        "eod_close": 80.05000305175781,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SIEMENS",
+        "entry": 3688.85,
+        "target1": 3832.44,
+        "target2": 3928.16,
+        "stop": 3620.75,
+        "verdict": "WATCH",
+        "eod_open": 3632.5,
+        "eod_high": 3708.5,
+        "eod_low": 3620.800048828125,
+        "eod_close": 3686.300048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TRENT",
+        "entry": 2917.75,
+        "target1": 3038.55,
+        "target2": 3119.08,
+        "stop": 2877.45,
+        "verdict": "WATCH",
+        "eod_open": 2880.0,
+        "eod_high": 2929.89990234375,
+        "eod_low": 2865.0,
+        "eod_close": 2870.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 7630.55,
+        "target1": 7947.62,
+        "target2": 8159.0,
+        "stop": 7510.45,
+        "verdict": "WATCH",
+        "eod_open": 7510.5,
+        "eod_high": 7684.0,
+        "eod_low": 7503.0,
+        "eod_close": 7528.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "GODREJCP",
+        "entry": 1077.25,
+        "target1": 1113.14,
+        "target2": 1137.07,
+        "stop": 1065.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 1070.0,
+        "eod_high": 1082.699951171875,
+        "eod_low": 1053.0999755859375,
+        "eod_close": 1060.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1065.95) \u2014 -1.05% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 8,
+      "false_negatives": 0
+    }
   }
 ]

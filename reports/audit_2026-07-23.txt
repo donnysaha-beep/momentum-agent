@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, July 23 2026
+  Layer 3 | 03:08 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 8
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     EICHERMOT    | Verdict: WATCH
+               Entry: Rs 7664.05 | Stop: Rs 7615.95 | T1: Rs 7897.0
+               EOD: O:7622.0 H:7789.0 L:7610.0 C:7718.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1280.05 | Stop: Rs 1258.35 | T1: Rs 1345.18
+               EOD: O:1270.0 H:1285.9000244140625 L:1250.0999755859375 C:1256.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4584.95 | Stop: Rs 4553.45 | T1: Rs 4719.85
+               EOD: O:4569.0 H:4600.0 L:4545.2998046875 C:4586.7998046875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1819.05 | Stop: Rs 1807.15 | T1: Rs 1870.13
+               EOD: O:1817.0 H:1825.5 L:1769.5 C:1780.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 80.96 | Stop: Rs 80.14 | T1: Rs 83.49
+               EOD: O:80.4000015258789 H:81.18000030517578 L:79.70999908447266 C:80.05000305175781
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SIEMENS      | Verdict: WATCH
+               Entry: Rs 3688.85 | Stop: Rs 3620.75 | T1: Rs 3832.44
+               EOD: O:3632.5 H:3708.5 L:3620.800048828125 C:3686.300048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TRENT        | Verdict: WATCH
+               Entry: Rs 2917.75 | Stop: Rs 2877.45 | T1: Rs 3038.55
+               EOD: O:2880.0 H:2929.89990234375 L:2865.0 C:2870.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7630.55 | Stop: Rs 7510.45 | T1: Rs 7947.62
+               EOD: O:7510.5 H:7684.0 L:7503.0 C:7528.0
+               Entry triggered but no target set — monitor
+
+  [LOSS]       GODREJCP     | Verdict: TRADE NOW
+               Entry: Rs 1077.25 | Stop: Rs 1065.95 | T1: Rs 1113.14
+               EOD: O:1070.0 H:1082.699951171875 L:1053.0999755859375 C:1060.0
+               Hit stop loss (Rs 1065.95) — -1.05% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (30 days tracked)
+=================================================================
+  Total Trades    : 72
+  Win Rate        : 2.8%
+  Good Wins       : 2
+  Good Losses     : 28
+  False Positives : 42
+  Valid Skips     : 8
+  Missed Trades   : 109
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
