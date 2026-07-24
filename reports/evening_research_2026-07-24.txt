@@ -17,8 +17,8 @@ LT             Rs  3785.6   -0.2%  -10.2%    -9.2%   33.8 -2.1x   WATCH
   FULL DETAIL
 =================================================================
 
-  TCS — Tata Consultancy Services Limited
-  Technology | Rs8.2T | P/E: 16.369907
+  TCS — TCS
+  Technology | N/A | P/E: 16.369907
   Price: Rs2254.3  |  52w range: Rs1971.79 — Rs3204.28
 
   PERFORMANCE vs NIFTY:
@@ -78,16 +78,16 @@ LT             Rs  3785.6   -0.2%  -10.2%    -9.2%   33.8 -2.1x   WATCH
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
   RECENT NEWS:
+    * SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls
+    * Infosys downgraded by JPMorgan, HSBC after earnings miss and weaker growth outlook
     * Indian shares fall as crude tops $100; Infosys, IndiGo drop on subdued Q2 results
     * Infosys (INFY) Q1 2027 Earnings Call Transcript
     * Infosys Ltd (INFY) Q1 2027 Earnings Call Highlights: AI Services Surge Amidst Revenue Challenges
-    * Infosys Q1 Earnings Call Highlights
-    * Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted
 
 -----------------------------------------------------------------
 
-  RELIANCE — Reliance Industries Limited
-  Energy | Rs17.3T | P/E: 23.147982
+  RELIANCE — RELIANCE
+  Energy | N/A | P/E: 23.147982
   Price: Rs1278.0  |  52w range: Rs1258.8 — Rs1584.97
 
   PERFORMANCE vs NIFTY:
