@@ -1,0 +1,13 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, July 24 2026 05:33 AM
+=================================================================
+
+MARKET REGIME: DANGER [DO NOT TRADE]
+  Nifty 50:  Rs23630.2  | Today: -1.0%  | 1W: -2.9%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 14.55  (+7.9%)
+
+  *** DO NOT OPEN NEW POSITIONS TODAY ***
+  Market is in distribution / high fear. Wait for regime to recover.
+
+No qualifying momentum setups found today.
