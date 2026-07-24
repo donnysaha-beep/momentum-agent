@@ -1,0 +1,197 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — July 24, 2026
+=================================================================
+
+MARKET REGIME: DANGER
+  Nifty 50: Rs23767.45  1D: -0.4%  1W: -2.3%  1M: -1.1%  3M: -3.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TCS            Rs  2254.3   +0.5%   +8.2%    +9.3%   60.2  2.1x   WATCH
+INFY           Rs  1040.9   -0.6%   -0.0%    +1.0%   41.8 -0.6x   WATCH
+RELIANCE       Rs  1278.0   +0.5%   -3.0%    -2.0%   42.4 -0.9x   WATCH
+HDFCBANK       Rs   742.8   -0.6%   -6.7%    -5.7%   33.7 -3.5x   WATCH
+LT             Rs  3785.6   -0.2%  -10.2%    -9.2%   33.8 -2.1x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs8.2T | P/E: 16.369907
+  Price: Rs2254.3  |  52w range: Rs1971.79 — Rs3204.28
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty -0.4%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  -0.7%  vs Nifty -2.3%
+    1M:  +8.2%  vs Nifty -1.1%  -> RS: +9.3% (OUTPERFORMING)
+    3M:  -4.2%  vs Nifty -3.3%  -> RS: -0.9% (UNDERPERFORMING)
+    6M:  -26.7%
+
+  TREND HEALTH:
+    RSI: 60.2  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): 2.57%
+    ATR extension from SMA20: 2.07x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.66x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2167.38 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Extended 2.07x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub
+    * Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted
+    * TCS opens industrial AI lab in Bengaluru in partnership with Nvidia
+    * India's Wipro lags peers after earnings miss, weak forecast
+    * ABB taps TCS to overhaul global network operations with AI
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.2T | P/E: 13.339742
+  Price: Rs1040.9  |  52w range: Rs985.3 — Rs1654.01
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -0.4%  -> RS: -0.2%
+    1W:  -5.1%  vs Nifty -2.3%
+    1M:  -0.0%  vs Nifty -1.1%  -> RS: +1.0% (OUTPERFORMING)
+    3M:  -7.9%  vs Nifty -3.3%  -> RS: -4.6% (UNDERPERFORMING)
+    6M:  -33.5%
+
+  TREND HEALTH:
+    RSI: 41.8  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 2.93%
+    ATR extension from SMA20: -0.57x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.15x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs995.1 (-4.4%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.15x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Indian shares fall as crude tops $100; Infosys, IndiGo drop on subdued Q2 results
+    * Infosys (INFY) Q1 2027 Earnings Call Transcript
+    * Infosys Ltd (INFY) Q1 2027 Earnings Call Highlights: AI Services Surge Amidst Revenue Challenges
+    * Infosys Q1 Earnings Call Highlights
+    * Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.3T | P/E: 23.147982
+  Price: Rs1278.0  |  52w range: Rs1258.8 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty -0.4%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  -3.7%  vs Nifty -2.3%
+    1M:  -3.0%  vs Nifty -1.1%  -> RS: -2.0% (UNDERPERFORMING)
+    3M:  -3.3%  vs Nifty -3.3%  -> RS: -0.0%
+    6M:  -12.0%
+
+  TREND HEALTH:
+    RSI: 42.4  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 1.89%
+    ATR extension from SMA20: -0.87x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.77x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1241.85 (-2.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly
+    * South West Pinnacle Exploration Ltd (NSE:SOUTHWEST) Q1 2027 Earnings Call Highlights: Record ...
+    * Indian shares open lower, dragged by HDFC Bank; higher oil also weighs
+    * Billionaire Mukesh Ambani's Reliance beats first-quarter profit view
+    * Reliance Founders Lift Stake by Most Since 2019 as Stock Slumps
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.4T | P/E: 16.565567
+  Price: Rs742.8  |  52w range: Rs719.65 — Rs996.42
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -0.4%  -> RS: -0.2%
+    1W:  -9.4%  vs Nifty -2.3%
+    1M:  -6.7%  vs Nifty -1.1%  -> RS: -5.7% (UNDERPERFORMING)
+    3M:  -3.8%  vs Nifty -3.3%  -> RS: -0.5%
+    6M:  -18.4%
+
+  TREND HEALTH:
+    RSI: 33.7  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.08%
+    ATR extension from SMA20: -3.55x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.7x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs719.61 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
+    * India’s Private-Sector Banks Sold Off on NIM Fears. Ignore the Panic and Buy the Dip in HDFC Stock Here.
+    * Indian shares muted as firmer oil, HDFC Bank weigh
+    * India's HDFC CEO reappointment delayed by board review, sources say
+    * India's HDFC Bank drops on weak margins; drags Nifty, bank stocks
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.2T | P/E: 32.408184
+  Price: Rs3785.6  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.4%  -> RS: +0.2%
+    1W:  -0.8%  vs Nifty -2.3%
+    1M:  -10.2%  vs Nifty -1.1%  -> RS: -9.2% (UNDERPERFORMING)
+    3M:  -4.8%  vs Nifty -3.3%  -> RS: -1.5% (UNDERPERFORMING)
+    6M:  -1.1%
+
+  TREND HEALTH:
+    RSI: 33.8  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 1.77%
+    ATR extension from SMA20: -2.06x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.95x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3684.93 (-2.7%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's L&T to invest nearly $2 billion in Tamil Nadu, state government says
+    * LTM bids $186m for Randstad’s tech services in Europe and Australia
+    * India's L&T hits three-week low after profit dip, slower growth outlook
+    * India's L&T expects fiscal revenue growth may temper on Middle East disruption
+    * Indian shares dip, rupee slips to record low on elevated oil prices
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
