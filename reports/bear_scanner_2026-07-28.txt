@@ -1,0 +1,150 @@
+=================================================================
+  BEAR SCANNER — Tuesday, July 28 2026 07:17 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24020.15  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 23969.25 — 24039.85
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 2 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 12 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [70% probability]
+  AUBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1045.9
+  Gap from prev  : -0.4%  (prev Rs 1052.2 | opened Rs 1048.0)
+  Opening Range  : Rs 1048.0 — Rs 1054.8  (0.64% wide)
+  VWAP           : Rs 1052.89  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 54.6
+  ATR (daily)    : Rs 28.1
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1047.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1005.8  (-4.0%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 977.7  (-6.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1054.85  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:6.09 (T1)  |  1:10.15 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 23 shares
+    Capital needed : Rs 24,103  (margin)
+    Max loss       : Rs 159  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping downward
+
+  SHORT NOW  [70% probability]
+  ICICIBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1428.5
+  Gap from prev  : -0.2%  (prev Rs 1445.7 | opened Rs 1443.0)
+  Opening Range  : Rs 1440.5 — Rs 1445.0  (0.31% wide)
+  VWAP           : Rs 1436.03  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 57.0
+  ATR (daily)    : Rs 23.97
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1440.45  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1404.5  (-2.5%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1380.53  (-4.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1445.05  (+0.3%)  [above ORB high]
+    Risk/Reward    : 1:7.81 (T1)  |  1:13.0 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 17 shares
+    Capital needed : Rs 24,488  (margin)
+    Max loss       : Rs 78  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  PIDILITIND
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1618.3
+  Gap from prev  : +0.4%  (prev Rs 1611.3 | opened Rs 1617.7)
+  Opening Range  : Rs 1613.8 — Rs 1627.9  (0.87% wide)
+  VWAP           : Rs 1620.84  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 60.9
+  ATR (daily)    : Rs 34.16
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1613.75  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1562.51  (-3.2%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1528.35  (-5.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1627.95  (+0.9%)  [above ORB high]
+    Risk/Reward    : 1:3.61 (T1)  |  1:6.01 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 15 shares
+    Capital needed : Rs 24,206  (margin)
+    Max loss       : Rs 213  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1613.800048828125) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  MARICO  [50%]  |  Rs 866.5
+    [-] Stock holding above ORB low — no breakdown yet
+  RBLBANK  [50%]  |  Rs 363.55
+    [-] Stock holding above ORB low — no breakdown yet
+  ASIANPAINT  [40%]  |  Rs 2727.1
+    [-] Stock holding above ORB low — no breakdown yet
+  CHOLAFIN  [40%]  |  Rs 1804.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PAYTM  [40%]  |  Rs 1307.0
+    [-] Stock holding above ORB low — no breakdown yet
+  IDFCFIRSTB  [30%]  |  Rs 86.05
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SHRIRAMFIN  [20%]  |  Rs 1046.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NYKAA  [20%]  |  Rs 330.75
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BAJFINANCE  [20%]  |  Rs 1049.3
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NESTLEIND  [20%]  |  Rs 1482.6
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SUNPHARMA  [20%]  |  Rs 1985.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  TITAN  [20%]  |  Rs 4831.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
