@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, July 29 2026
+  Layer 3 | 01:24 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 0
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 3
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         CIPLA        | Verdict: TRADE NOW
+               Entry: Rs 1461.55 | Stop: Rs 1442.75 | T1: Rs 1512.61
+               EOD: O:1450.0 H:1490.5 L:1442.800048828125 C:1475.0
+               Triggered but no target/stop hit — closed at Rs 1475.0 (+0.9%)
+
+  [WIN]        ASIANPAINT   | Verdict: TRADE NOW
+               Entry: Rs 2748.05 | Stop: Rs 2719.15 | T1: Rs 2823.09
+               EOD: O:2748.0 H:2862.60009765625 L:2719.199951171875 C:2758.39990234375
+               Hit Target 1 (Rs 2823.09) — +2.73%
+
+  [MISSED]     JSWSTEEL     | Verdict: WATCH
+               Entry: Rs 1262.05 | Stop: Rs 1245.05 | T1: Rs 1297.97
+               EOD: O:1252.9000244140625 H:1279.0 L:1245.0999755859375 C:1275.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1309.95 | Stop: Rs 1295.65 | T1: Rs 1373.07
+               EOD: O:1297.4000244140625 H:1334.5999755859375 L:1295.699951171875 C:1330.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NESTLEIND    | Verdict: WATCH
+               Entry: Rs 1513.85 | Stop: Rs 1489.25 | T1: Rs 1563.34
+               EOD: O:1493.5999755859375 H:1515.5999755859375 L:1489.300048828125 C:1505.0
+               Entry triggered but no target set — monitor
+
+  [FP]         SAIL         | Verdict: TRADE NOW
+               Entry: Rs 172.63 | Stop: Rs 165.94 | T1: Rs 180.28
+               EOD: O:165.99000549316406 H:174.97000122070312 L:165.99000549316406 C:171.30999755859375
+               Triggered but no target/stop hit — closed at Rs 171.30999755859375 (-0.8%)
+
+=================================================================
+  RUNNING PERFORMANCE (33 days tracked)
+=================================================================
+  Total Trades    : 78
+  Win Rate        : 3.8%
+  Good Wins       : 3
+  Good Losses     : 29
+  False Positives : 46
+  Valid Skips     : 8
+  Missed Trades   : 125
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

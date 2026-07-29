@@ -3284,5 +3284,102 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-07-29",
+    "trades": [
+      {
+        "ticker": "CIPLA",
+        "entry": 1461.55,
+        "target1": 1512.61,
+        "target2": 1546.65,
+        "stop": 1442.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 1450.0,
+        "eod_high": 1490.5,
+        "eod_low": 1442.800048828125,
+        "eod_close": 1475.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1475.0 (+0.9%)"
+      },
+      {
+        "ticker": "ASIANPAINT",
+        "entry": 2748.05,
+        "target1": 2823.09,
+        "target2": 2873.12,
+        "stop": 2719.15,
+        "verdict": "TRADE NOW",
+        "eod_open": 2748.0,
+        "eod_high": 2862.60009765625,
+        "eod_low": 2719.199951171875,
+        "eod_close": 2758.39990234375,
+        "outcome": "GOOD_WIN",
+        "outcome_detail": "Hit Target 1 (Rs 2823.09) \u2014 +2.73%"
+      },
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 1262.05,
+        "target1": 1297.97,
+        "target2": 1321.92,
+        "stop": 1245.05,
+        "verdict": "WATCH",
+        "eod_open": 1252.9000244140625,
+        "eod_high": 1279.0,
+        "eod_low": 1245.0999755859375,
+        "eod_close": 1275.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1309.95,
+        "target1": 1373.07,
+        "target2": 1415.15,
+        "stop": 1295.65,
+        "verdict": "WATCH",
+        "eod_open": 1297.4000244140625,
+        "eod_high": 1334.5999755859375,
+        "eod_low": 1295.699951171875,
+        "eod_close": 1330.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NESTLEIND",
+        "entry": 1513.85,
+        "target1": 1563.34,
+        "target2": 1596.33,
+        "stop": 1489.25,
+        "verdict": "WATCH",
+        "eod_open": 1493.5999755859375,
+        "eod_high": 1515.5999755859375,
+        "eod_low": 1489.300048828125,
+        "eod_close": 1505.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SAIL",
+        "entry": 172.63,
+        "target1": 180.28,
+        "target2": 185.39,
+        "stop": 165.94,
+        "verdict": "TRADE NOW",
+        "eod_open": 165.99000549316406,
+        "eod_high": 174.97000122070312,
+        "eod_low": 165.99000549316406,
+        "eod_close": 171.30999755859375,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 171.30999755859375 (-0.8%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 1,
+      "good_losses": 0,
+      "false_positives": 2,
+      "valid_skips": 0,
+      "missed_trades": 3,
+      "false_negatives": 0
+    }
   }
 ]
