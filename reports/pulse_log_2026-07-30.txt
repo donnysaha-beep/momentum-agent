@@ -16,3 +16,6 @@
 
 [09:56] CAUTION | TIGHTEN_STOPS — no new entries unless A+ setup
   ! Nifty below VWAP — weakening
+
+[10:37] CAUTION | TIGHTEN_STOPS — no new entries unless A+ setup
+  ! Nifty below VWAP — weakening
