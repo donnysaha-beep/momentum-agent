@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, July 30 2026
+  Layer 3 | 01:05 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         PAGEIND      | Verdict: TRADE NOW
+               Entry: Rs 40830.05 | Stop: Rs 40289.95 | T1: Rs 42350.65
+               EOD: O:40495.0 H:41590.0 L:40290.0 C:41085.0
+               Triggered but no target/stop hit — closed at Rs 41085.0 (+0.6%)
+
+=================================================================
+  RUNNING PERFORMANCE (34 days tracked)
+=================================================================
+  Total Trades    : 79
+  Win Rate        : 3.8%
+  Good Wins       : 3
+  Good Losses     : 29
+  False Positives : 47
+  Valid Skips     : 8
+  Missed Trades   : 125
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
