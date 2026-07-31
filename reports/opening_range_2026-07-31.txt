@@ -1,0 +1,29 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Friday, July 31 2026 04:20 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24358.75  |  Gap: +0.3%  |  VWAP: nan
+  ORB: 24308.9 — 24377.55
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 0 WAIT | 1 SKIP
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  PAGEIND  [50%]  |  Rs 40990.0
+    [-] GAP TRAP: Gapped up 2.0% but first candle closed red — institutions selling into gap, do not buy
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
