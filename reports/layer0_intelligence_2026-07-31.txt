@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, July 31 2026
+  Layer 0 | Generated: 05:41 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,341.75  (+0.10%)
+  Bank Nifty            :  57,166.30  (+0.03%)
+  India VIX             :      11.89  (-2.22%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24543.79  [ESTIMATED]
+  Change vs prev : +0.83%
+  Bias           : BULLISH
+  Based on       : S&P 500 +1.66% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,437.63  (+1.66%)
+  Nasdaq (US)           :  25,122.18  (+2.78%)
+  US VIX                :      17.09  (-17.28%)
+  Crude Oil (WTI)       :      81.39  (-2.63%)
+  Gold                  :   4,138.70  (+0.94%)
+  Silver                :      58.83  (+0.03%)
+  USD/INR               :      95.39  (-0.35%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.8% (bullish)
+  * India VIX 11.89 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Consumer, IT, Banking, Infra
+  Avoid      : Energy
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
