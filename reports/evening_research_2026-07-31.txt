@@ -63,7 +63,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 27.361338
+  Financial Services | Rs1.6T | P/E: 27.373484
   Price: Rs1849.9  |  52w range: Rs1354.17 — Rs1852.67
 
   PERFORMANCE vs NIFTY:
@@ -95,7 +95,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 65.99617
+  Healthcare | Rs1.3T | P/E: 66.43673
   Price: Rs8957.0  |  52w range: Rs6784.49 — Rs8988.0
 
   PERFORMANCE vs NIFTY:
@@ -121,16 +121,16 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
     [+] Within 0.3% of 52w high (breakout zone)
 
   RECENT NEWS:
+    * India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution
     * Apollo’s Torsten Sløk Sees Growing Risks Beyond Tech Stocks
     * India's Manipal Health to spend $414.4 million to expand capacity
     * Quantinuum Stock Fizzled in Its Debut, but Wall Street Calls It a Buy
     * Personalised gummies firm Rem3dy Health raises funds for global push
-    * Hijos de Rivera invests in gummies firm Rem3dy Health
 
 -----------------------------------------------------------------
 
-  AUBANK — AUBANK
-  Financial Services | Rs784.1B | P/E: 28.070223
+  AUBANK — AU Small Finance Bank Limited
+  Financial Services | Rs784.1B | P/E: 27.765112
   Price: Rs1047.3  |  52w range: Rs693.63 — Rs1071.06
 
   PERFORMANCE vs NIFTY:
@@ -165,7 +165,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   IIFL — IIFL Finance Limited
-  Financial Services | Rs258.9B | P/E: 12.13659
+  Financial Services | Rs258.9B | P/E: 12.408768
   Price: Rs608.65  |  52w range: Rs416.27 — Rs660.26
 
   PERFORMANCE vs NIFTY:
@@ -200,7 +200,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   EICHERMOT — Eicher Motors Limited
-  Consumer Cyclical | Rs2.2T | P/E: 37.297054
+  Consumer Cyclical | Rs2.2T | P/E: 37.21908
   Price: Rs7833.5  |  52w range: Rs5342.55 — Rs8105.12
 
   PERFORMANCE vs NIFTY:
@@ -236,7 +236,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs4.1T | P/E: 22.348259
+  Consumer Cyclical | Rs4.1T | P/E: 20.69858
   Price: Rs3398.5  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
@@ -309,7 +309,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   ABB — ABB India Limited
-  Industrials | Rs1.5T | P/E: 99.89715
+  Industrials | Rs1.5T | P/E: 98.920425
   Price: Rs7284.5  |  52w range: Rs4672.39 — Rs7667.5
 
   PERFORMANCE vs NIFTY:
@@ -339,7 +339,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   ULTRACEMCO — UltraTech Cement Limited
-  Basic Materials | Rs3.5T | P/E: 40.99535
+  Basic Materials | Rs3.5T | P/E: 41.009476
   Price: Rs11903.0  |  52w range: Rs10154.73 — Rs12790.92
 
   PERFORMANCE vs NIFTY:
@@ -373,7 +373,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.1T | P/E: 34.070244
+  Industrials | Rs3.1T | P/E: 34.032814
   Price: Rs4646.5  |  52w range: Rs3487.2 — Rs4875.69
 
   PERFORMANCE vs NIFTY:
@@ -476,7 +476,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.2T | P/E: 27.388027
+  Consumer Cyclical | Rs3.2T | P/E: 27.38412
   Price: Rs11520.5  |  52w range: Rs7896.87 — Rs11520.5
 
   PERFORMANCE vs NIFTY:
@@ -513,7 +513,7 @@ BAJFINANCE     Rs  1141.2   +8.3%  +12.1%   +11.2%   74.1  3.3x   AVOID
 -----------------------------------------------------------------
 
   BAJFINANCE — Bajaj Finance Limited
-  Financial Services | Rs7.1T | P/E: 37.47783
+  Financial Services | Rs7.1T | P/E: 35.059906
   Price: Rs1141.2  |  52w range: Rs796.65 — Rs1141.2
 
   PERFORMANCE vs NIFTY:
