@@ -1,0 +1,138 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, August 03 2026 04:27 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24567.8  |  Gap: +0.8%  |  VWAP: nan
+  ORB: 24515.5 — 24568.0
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 0 TRADE NOW | 3 WATCH | 2 WAIT | 10 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  EICHERMOT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 7975.0
+  Gap from prev  : +0.8%  (prev Rs 7833.5 | opened Rs 7900.0)
+  Opening Range  : Rs 7856.0 — Rs 7955.0  (1.26% wide)
+  VWAP           : Rs 7943.83  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 157.07
+
+  TRADE PLAN:
+    Entry trigger  : Rs 7955.05  (break above ORB high)
+    Target 1 (50%) : Rs 8190.65  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 8347.72  (+4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 7855.95  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:2.37 (T1)  |  1:3.95 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 5 shares
+    Capital needed : Rs 39,775
+    Max loss       : Rs 496  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  ICICIBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1449.5
+  Gap from prev  : +1.3%  (prev Rs 1423.4 | opened Rs 1442.4)
+  Opening Range  : Rs 1434.2 — Rs 1447.7  (0.94% wide)
+  VWAP           : Rs 1443.94  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 23.67
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1447.75  (break above ORB high)
+    Target 1 (50%) : Rs 1483.25  (+2.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1506.92  (+4.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1434.15  (-0.9%)  [below ORB low]
+    Risk/Reward    : 1:2.61 (T1)  |  1:4.35 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 27 shares
+    Capital needed : Rs 39,089
+    Max loss       : Rs 367  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [50% probability]
+  BAJAJ-AUTO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 11522.0
+  Gap from prev  : +1.1%  (prev Rs 11432.0 | opened Rs 11564.0)
+  Opening Range  : Rs 11460.0 — Rs 11564.0  (0.91% wide)
+  VWAP           : Rs 11514.94  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 232.58
+
+  TRADE PLAN:
+    Entry trigger  : Rs 11564.05  (break above ORB high)
+    Target 1 (50%) : Rs 11912.92  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 12145.5  (+5.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 11459.95  (-0.9%)  [below ORB low]
+    Risk/Reward    : 1:3.36 (T1)  |  1:5.59 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 3 shares
+    Capital needed : Rs 34,692
+    Max loss       : Rs 312  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs11564.0) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  SHRIRAMFIN  [60%]  |  Rs 1070.3  |  ORB: 1054.4—1076.6  |  VWAP: 1069.37
+    [~] Inside opening range — direction not confirmed yet
+  IDFCFIRSTB  [30%]  |  Rs 85.19  |  ORB: 85.07—85.55  |  VWAP: 85.28
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  RBLBANK  [50%]  |  Rs 377.45
+    [-] Below VWAP with no breakout — no valid long
+  CHOLAFIN  [40%]  |  Rs 1895.0
+    [-] Below VWAP with no breakout — no valid long
+  HAL  [40%]  |  Rs 4660.6
+    [-] Below VWAP with no breakout — no valid long
+  IIFL  [40%]  |  Rs 604.75
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  APOLLOHOSP  [40%]  |  Rs 8947.0
+    [-] Below VWAP with no breakout — no valid long
+  ABB  [30%]  |  Rs 7346.5
+    [-] Below VWAP with no breakout — no valid long
+  ULTRACEMCO  [30%]  |  Rs 11927.0
+    [-] Below VWAP with no breakout — no valid long
+  AUBANK  [30%]  |  Rs 1046.7
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  M&M  [30%]  |  Rs 3406.6
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  BAJFINANCE  [20%]  |  Rs 1162.4
+    [-] Below VWAP with no breakout — no valid long
+    [-] GAP TRAP: Gapped up 3.1% but first candle closed red — institutions selling into gap, do not buy
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
