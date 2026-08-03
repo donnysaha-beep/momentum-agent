@@ -3463,5 +3463,88 @@
       "missed_trades": 1,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-03",
+    "trades": [
+      {
+        "ticker": "PAYTM",
+        "entry": 1389.85,
+        "target1": 1458.07,
+        "target2": 1503.55,
+        "stop": 1344.95,
+        "verdict": "WATCH",
+        "eod_open": 1348.0,
+        "eod_high": 1436.0999755859375,
+        "eod_low": 1345.0,
+        "eod_close": 1410.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SHRIRAMFIN",
+        "entry": 1076.65,
+        "target1": 1122.69,
+        "target2": 1153.38,
+        "stop": 1054.35,
+        "verdict": "WATCH",
+        "eod_open": 1055.0,
+        "eod_high": 1095.0,
+        "eod_low": 1054.4000244140625,
+        "eod_close": 1090.199951171875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NAUKRI",
+        "entry": 1245.05,
+        "target1": 1298.53,
+        "target2": 1334.19,
+        "stop": 1235.55,
+        "verdict": "WATCH",
+        "eod_open": 1235.5999755859375,
+        "eod_high": 1268.800048828125,
+        "eod_low": 1235.5999755859375,
+        "eod_close": 1268.800048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 7445.05,
+        "target1": 7792.14,
+        "target2": 8023.53,
+        "stop": 7264.45,
+        "verdict": "WATCH",
+        "eod_open": 7276.5,
+        "eod_high": 7656.0,
+        "eod_low": 7264.5,
+        "eod_close": 7601.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "EICHERMOT",
+        "entry": 7955.05,
+        "target1": 8197.19,
+        "target2": 8358.61,
+        "stop": 7855.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 7900.0,
+        "eod_high": 8056.0,
+        "eod_low": 7856.0,
+        "eod_close": 8050.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 8050.0 (+1.2%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]

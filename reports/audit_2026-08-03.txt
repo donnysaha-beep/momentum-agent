@@ -1,0 +1,64 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, August 03 2026
+  Layer 3 | 01:57 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1389.85 | Stop: Rs 1344.95 | T1: Rs 1458.07
+               EOD: O:1348.0 H:1436.0999755859375 L:1345.0 C:1410.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1076.65 | Stop: Rs 1054.35 | T1: Rs 1122.69
+               EOD: O:1055.0 H:1095.0 L:1054.4000244140625 C:1090.199951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NAUKRI       | Verdict: WATCH
+               Entry: Rs 1245.05 | Stop: Rs 1235.55 | T1: Rs 1298.53
+               EOD: O:1235.5999755859375 H:1268.800048828125 L:1235.5999755859375 C:1268.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7445.05 | Stop: Rs 7264.45 | T1: Rs 7792.14
+               EOD: O:7276.5 H:7656.0 L:7264.5 C:7601.0
+               Entry triggered but no target set — monitor
+
+  [FP]         EICHERMOT    | Verdict: TRADE NOW
+               Entry: Rs 7955.05 | Stop: Rs 7855.95 | T1: Rs 8197.19
+               EOD: O:7900.0 H:8056.0 L:7856.0 C:8050.0
+               Triggered but no target/stop hit — closed at Rs 8050.0 (+1.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (36 days tracked)
+=================================================================
+  Total Trades    : 81
+  Win Rate        : 3.7%
+  Good Wins       : 3
+  Good Losses     : 29
+  False Positives : 49
+  Valid Skips     : 9
+  Missed Trades   : 130
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
