@@ -1,6 +1,6 @@
 =================================================================
   PERFORMANCE AUDIT — Tuesday, August 04 2026
-  Layer 3 | 01:24 PM IST
+  Layer 3 | 03:23 PM IST
 =================================================================
 
 TODAY'S SUMMARY:
@@ -19,8 +19,8 @@ TRADE-BY-TRADE BREAKDOWN:
 
   [FP]         ABB          | Verdict: TRADE NOW
                Entry: Rs 7753.05 | Stop: Rs 7613.45 | T1: Rs 8118.3
-               EOD: O:7625.0 H:7894.5 L:7613.5 C:7763.0
-               Triggered but no target/stop hit — closed at Rs 7763.0 (+0.1%)
+               EOD: O:7625.0 H:7894.5 L:7613.5 C:7700.0
+               Triggered but no target/stop hit — closed at Rs 7700.0 (-0.7%)
 
 =================================================================
   RUNNING PERFORMANCE (37 days tracked)

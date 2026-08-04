@@ -3574,9 +3574,9 @@
         "eod_open": 7625.0,
         "eod_high": 7894.5,
         "eod_low": 7613.5,
-        "eod_close": 7763.0,
+        "eod_close": 7700.0,
         "outcome": "FALSE_POSITIVE",
-        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 7763.0 (+0.1%)"
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 7700.0 (-0.7%)"
       }
     ],
     "summary": {
