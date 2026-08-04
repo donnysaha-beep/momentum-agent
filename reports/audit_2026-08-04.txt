@@ -1,0 +1,49 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, August 04 2026
+  Layer 3 | 01:24 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     NHPC         | Verdict: WATCH
+               Entry: Rs 80.35 | Stop: Rs 79.42 | T1: Rs 82.88
+               EOD: O:79.5999984741211 H:81.4000015258789 L:79.47000122070312 C:80.5
+               Entry triggered but no target set — monitor
+
+  [FP]         ABB          | Verdict: TRADE NOW
+               Entry: Rs 7753.05 | Stop: Rs 7613.45 | T1: Rs 8118.3
+               EOD: O:7625.0 H:7894.5 L:7613.5 C:7763.0
+               Triggered but no target/stop hit — closed at Rs 7763.0 (+0.1%)
+
+=================================================================
+  RUNNING PERFORMANCE (37 days tracked)
+=================================================================
+  Total Trades    : 82
+  Win Rate        : 3.7%
+  Good Wins       : 3
+  Good Losses     : 29
+  False Positives : 50
+  Valid Skips     : 9
+  Missed Trades   : 131
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
