@@ -1,0 +1,136 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, August 05 2026 03:58 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24615.35  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 24611.45 — 24669.2
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 3 WATCH | 5 WAIT | 7 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  ADANIENT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3072.7
+  Gap from prev  : +0.2%  (prev Rs 3050.0 | opened Rs 3057.0)
+  Opening Range  : Rs 3056.1 — Rs 3085.0  (0.95% wide)
+  VWAP           : Rs 3072.15  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 69.8
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3085.05  (break above ORB high)
+    Target 1 (50%) : Rs 3189.75  (+3.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3259.56  (+5.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3056.05  (-0.9%)  [below ORB low]
+    Risk/Reward    : 1:3.61 (T1)  |  1:6.02 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 8 shares
+    Capital needed : Rs 24,680
+    Max loss       : Rs 232  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs3085.0) — set alert
+
+  WATCH — near breakout  [60% probability]
+  EICHERMOT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 7938.5
+  Gap from prev  : +0.0%  (prev Rs 7935.0 | opened Rs 7935.5)
+  Opening Range  : Rs 7907.5 — Rs 7957.0  (0.63% wide)
+  VWAP           : Rs 7935.15  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 156.61
+
+  TRADE PLAN:
+    Entry trigger  : Rs 7957.05  (break above ORB high)
+    Target 1 (50%) : Rs 8191.96  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 8348.56  (+4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 7907.45  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:4.76 (T1)  |  1:7.94 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 3 shares
+    Capital needed : Rs 23,871
+    Max loss       : Rs 149  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs7957.0) — set alert
+
+  WATCH — near breakout  [60% probability]
+  GRASIM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3156.6
+  Gap from prev  : +0.2%  (prev Rs 3138.0 | opened Rs 3145.0)
+  Opening Range  : Rs 3136.7 — Rs 3157.0  (0.65% wide)
+  VWAP           : Rs 3152.87  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 61.16
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3157.05  (break above ORB high)
+    Target 1 (50%) : Rs 3248.79  (+2.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3309.95  (+4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3136.65  (-0.7%)  [below ORB low]
+    Risk/Reward    : 1:4.48 (T1)  |  1:7.45 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 7 shares
+    Capital needed : Rs 22,099
+    Max loss       : Rs 143  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs3157.0) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  CHOLAFIN  [50%]  |  Rs 1899.7  |  ORB: 1891.3—1906.7  |  VWAP: 1899.9
+    [~] Inside opening range — direction not confirmed yet
+  ABB  [40%]  |  Rs 7783.5  |  ORB: 7735.0—7818.0  |  VWAP: 7771.06
+    [~] Inside opening range — direction not confirmed yet
+  NAUKRI  [40%]  |  Rs 1270.0  |  ORB: 1268.1—1275.4  |  VWAP: 1273.06
+    [~] Inside opening range — direction not confirmed yet
+  ICICIBANK  [30%]  |  Rs 1448.8  |  ORB: 1447.3—1454.0  |  VWAP: 1451.03
+    [~] Inside opening range — direction not confirmed yet
+  IDFCFIRSTB  [30%]  |  Rs 85.85  |  ORB: 85.71—86.16  |  VWAP: 85.93
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  NHPC  [50%]  |  Rs 81.91
+    [-] Below VWAP with no breakout — no valid long
+  SHRIRAMFIN  [40%]  |  Rs 1096.6
+    [-] Below VWAP with no breakout — no valid long
+  PAYTM  [40%]  |  Rs 1411.9
+    [-] Below VWAP with no breakout — no valid long
+  PIDILITIND  [30%]  |  Rs 1627.0
+    [-] Below VWAP with no breakout — no valid long
+  ASIANPAINT  [30%]  |  Rs 2761.7
+    [-] Below VWAP with no breakout — no valid long
+  MARICO  [30%]  |  Rs 849.9
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [20%]  |  Rs 334.95
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
