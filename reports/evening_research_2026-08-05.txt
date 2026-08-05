@@ -19,7 +19,7 @@ PIDILITIND     Rs  1665.0   +2.8%   +3.4%    +2.4%   65.4  2.1x   WATCH
 CHOLAFIN       Rs  1880.0   +0.3%   +1.5%    +0.6%   63.0  1.6x   WATCH
 GRASIM         Rs  3224.0   +2.7%   +1.0%    +0.1%   57.7  1.3x   WATCH
 ADANIENT       Rs  3050.0   +0.0%   -1.8%    -2.8%   49.0 -0.7x   WATCH
-GMRAIRPORT     Rs   107.0   +0.4%   -5.7%    -6.6%   46.0 -1.0x   WATCH
+GMRAIRPORT     Rs   107.0   +0.4%   -6.9%    -7.9%   46.4 -0.9x   WATCH
 M&M            Rs  3455.4   +0.7%   +8.1%    +7.2%   69.9  2.8x   AVOID
 SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 
@@ -28,7 +28,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 =================================================================
 
   MANAPPURAM — Manappuram Finance Limited
-  Financial Services | Rs341.5B | P/E: 31.48052
+  Financial Services | Rs341.5B | P/E: 30.70946
   Price: Rs363.6  |  52w range: Rs250.7 — Rs371.85
 
   PERFORMANCE vs NIFTY:
@@ -98,7 +98,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs916.2B | P/E: 143.76259
+  Technology | Rs916.2B | P/E: 141.76587
   Price: Rs1429.0  |  52w range: Rs959.0 — Rs1429.0
 
   PERFORMANCE vs NIFTY:
@@ -134,7 +134,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   ABB — ABB India Limited
-  Industrials | Rs1.6T | P/E: 99.19386
+  Industrials | Rs1.6T | P/E: 102.96559
   Price: Rs7690.5  |  52w range: Rs4672.39 — Rs7700.0
 
   PERFORMANCE vs NIFTY:
@@ -273,7 +273,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   RBLBANK — RBL Bank Limited
-  Financial Services | Rs603.6B | P/E: 32.10873
+  Financial Services | Rs603.6B | P/E: 31.76854
   Price: Rs389.8  |  52w range: Rs249.94 — Rs389.8
 
   PERFORMANCE vs NIFTY:
@@ -310,7 +310,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.7T | P/E: 70.401695
+  Basic Materials | Rs1.7T | P/E: 64.236115
   Price: Rs1665.0  |  52w range: Rs1264.49 — Rs1665.0
 
   PERFORMANCE vs NIFTY:
@@ -344,7 +344,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 27.76547
+  Financial Services | Rs1.6T | P/E: 27.773674
   Price: Rs1880.0  |  52w range: Rs1354.17 — Rs1888.2
 
   PERFORMANCE vs NIFTY:
@@ -377,7 +377,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.2T | P/E: 45.867123
+  Basic Materials | Rs2.2T | P/E: 41.90278
   Price: Rs3224.0  |  52w range: Rs2531.1 — Rs3260.0
 
   PERFORMANCE vs NIFTY:
@@ -411,7 +411,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   ADANIENT — Adani Enterprises Limited
-  Energy | Rs4.3T | P/E: 53.19149
+  Energy | Rs4.3T | P/E: 52.047783
   Price: Rs3050.0  |  52w range: Rs1758.01 — Rs3212.1
 
   PERFORMANCE vs NIFTY:
@@ -450,20 +450,20 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 
   PERFORMANCE vs NIFTY:
     1D:  +0.4%  vs Nifty +0.0%  -> RS: +0.4%
-    1W:  -0.9%  vs Nifty +1.5%
-    1M:  -5.7%  vs Nifty +0.9%  -> RS: -6.6% (UNDERPERFORMING)
-    3M:  +10.3%  vs Nifty +2.1%  -> RS: +8.2% (OUTPERFORMING)
-    6M:  +17.3%
+    1W:  -0.1%  vs Nifty +1.5%
+    1M:  -6.9%  vs Nifty +0.9%  -> RS: -7.9% (UNDERPERFORMING)
+    3M:  +7.8%  vs Nifty +2.1%  -> RS: +5.7% (OUTPERFORMING)
+    6M:  +15.5%
 
   TREND HEALTH:
-    RSI: 46.0  |  Days above SMA50 (last 20): 16/20
-    Daily volatility (ATR%): 2.3%
-    ATR extension from SMA20: -1.04x  (HEALTHY)
+    RSI: 46.4  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: -0.95x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.57x 20-day avg
+    Volume today: 0.61x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs103.32 (-3.4%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs103.44 (-3.3%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -479,7 +479,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs4.1T | P/E: 21.013134
+  Consumer Cyclical | Rs4.1T | P/E: 20.823189
   Price: Rs3455.4  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
@@ -515,7 +515,7 @@ SHRIRAMFIN     Rs  1122.4   +3.2%   +5.2%    +4.3%   67.7  2.5x   AVOID
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.6T | P/E: 19.89013
+  Financial Services | Rs2.6T | P/E: 19.03018
   Price: Rs1122.4  |  52w range: Rs564.99 — Rs1122.4
 
   PERFORMANCE vs NIFTY:
