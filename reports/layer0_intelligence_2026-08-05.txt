@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, August 05 2026
+  Layer 0 | Generated: 05:20 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,615.80  (+0.00%)
+  Bank Nifty            :  57,847.05  (-0.10%)
+  India VIX             :      11.93  (-2.15%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24837.34  [ESTIMATED]
+  Change vs prev : +0.90%
+  Bias           : BULLISH
+  Based on       : S&P 500 +1.79% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,736.52  (+1.79%)
+  Nasdaq (US)           :  26,584.99  (+2.59%)
+  US VIX                :      16.50  (+4.04%)
+  Crude Oil (WTI)       :      75.24  (-6.35%)
+  Gold                  :   4,193.60  (+3.96%)
+  Silver                :      61.01  (+5.79%)
+  USD/INR               :      95.09  (-0.26%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.9% (bullish)
+  * India VIX 11.93 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Consumer, Metals, IT, Banking, Infra
+  Avoid      : Energy
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
