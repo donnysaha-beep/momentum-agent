@@ -28,7 +28,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 =================================================================
 
   ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs10.5T | P/E: 18.85755
+  Financial Services | Rs10.5T | P/E: 18.835617
   Price: Rs1457.5  |  52w range: Rs1195.82 — Rs1460.0
 
   PERFORMANCE vs NIFTY:
@@ -63,7 +63,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs924.5B | P/E: 140.13605
+  Technology | Rs924.5B | P/E: 144.2
   Price: Rs1442.0  |  52w range: Rs959.0 — Rs1442.0
 
   PERFORMANCE vs NIFTY:
@@ -272,7 +272,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   FEDERALBNK — The Federal Bank Limited
-  Financial Services | Rs872.5B | P/E: 18.906416
+  Financial Services | Rs872.5B | P/E: 18.926659
   Price: Rs353.55  |  52w range: Rs189.9 — Rs371.7
 
   PERFORMANCE vs NIFTY:
@@ -305,7 +305,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs3.0T | P/E: 77.760895
+  Consumer Defensive | Rs3.0T | P/E: 77.68218
   Price: Rs1535.0  |  52w range: Rs1078.37 — Rs1535.0
 
   PERFORMANCE vs NIFTY:
@@ -447,7 +447,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.2T | P/E: 44.09751
+  Basic Materials | Rs2.2T | P/E: 44.001095
   Price: Rs3220.0  |  52w range: Rs2531.1 — Rs3260.0
 
   PERFORMANCE vs NIFTY:
@@ -481,7 +481,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.7T | P/E: 20.166136
+  Financial Services | Rs2.7T | P/E: 20.130558
   Price: Rs1141.0  |  52w range: Rs564.99 — Rs1141.0
 
   PERFORMANCE vs NIFTY:
@@ -519,7 +519,7 @@ SBIN           Rs  1085.0   +2.8%   +6.7%    +3.5%   68.3  2.7x   AVOID
 -----------------------------------------------------------------
 
   SBIN — State Bank of India
-  Financial Services | Rs10.0T | P/E: 11.907374
+  Financial Services | Rs10.0T | P/E: 11.903456
   Price: Rs1085.0  |  52w range: Rs787.75 — Rs1206.06
 
   PERFORMANCE vs NIFTY:
