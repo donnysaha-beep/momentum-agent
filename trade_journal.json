@@ -3642,5 +3642,88 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-06",
+    "trades": [
+      {
+        "ticker": "CHOLAFIN",
+        "entry": 1889.05,
+        "target1": 1977.38,
+        "target2": 2036.27,
+        "stop": 1872.05,
+        "verdict": "WATCH",
+        "eod_open": 1889.0,
+        "eod_high": 1952.4000244140625,
+        "eod_low": 1872.0999755859375,
+        "eod_close": 1940.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1455.75,
+        "target1": 1490.7,
+        "target2": 1514.01,
+        "stop": 1448.55,
+        "verdict": "WATCH",
+        "eod_open": 1455.0,
+        "eod_high": 1460.0,
+        "eod_low": 1448.5999755859375,
+        "eod_close": 1457.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1433.85,
+        "target1": 1504.5,
+        "target2": 1551.6,
+        "stop": 1420.95,
+        "verdict": "WATCH",
+        "eod_open": 1433.5,
+        "eod_high": 1459.300048828125,
+        "eod_low": 1421.0,
+        "eod_close": 1442.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "AUBANK",
+        "entry": 1058.75,
+        "target1": 1100.56,
+        "target2": 1128.43,
+        "stop": 1048.15,
+        "verdict": "WATCH",
+        "eod_open": 1050.0,
+        "eod_high": 1104.4000244140625,
+        "eod_low": 1048.199951171875,
+        "eod_close": 1087.5999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Would have worked \u2014 reached Target 1 (Rs 1100.56)"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 85.33,
+        "target1": 88.19,
+        "target2": 90.1,
+        "stop": 84.84,
+        "verdict": "TRADE NOW",
+        "eod_open": 85.2300033569336,
+        "eod_high": 85.54000091552734,
+        "eod_low": 84.6500015258789,
+        "eod_close": 85.3499984741211,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 84.84) \u2014 -0.57% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]
