@@ -1,0 +1,61 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Friday, August 07 2026 03:47 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24594.25  |  Gap: -0.4%  |  VWAP: nan
+  ORB: 24535.05 — 24597.7
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 12 WAIT | 3 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  AUBANK  [40%]  |  Rs 1086.0  |  ORB: 1083.1—1086.5  |  VWAP: 1085.2
+    [~] Inside opening range — direction not confirmed yet
+  RBLBANK  [40%]  |  Rs 389.5  |  ORB: 389.1—390.1  |  VWAP: 389.57
+    [~] Inside opening range — direction not confirmed yet
+  CHOLAFIN  [40%]  |  Rs 1912.8  |  ORB: 1907.2—1917.4  |  VWAP: 1912.47
+    [~] Inside opening range — direction not confirmed yet
+  PAYTM  [40%]  |  Rs 1449.0  |  ORB: 1429.0—1452.0  |  VWAP: 1443.33
+    [~] Inside opening range — direction not confirmed yet
+  MANAPPURAM  [40%]  |  Rs 361.6  |  ORB: 358.85—364.0  |  VWAP: 361.48
+    [~] Inside opening range — direction not confirmed yet
+  NESTLEIND  [40%]  |  Rs 1542.0  |  ORB: 1527.9—1543.9  |  VWAP: 1537.93
+    [~] Inside opening range — direction not confirmed yet
+  ICICIBANK  [30%]  |  Rs 1452.5  |  ORB: 1450.5—1455.0  |  VWAP: 1452.67
+    [~] Inside opening range — direction not confirmed yet
+  IIFL  [30%]  |  Rs 604.8  |  ORB: 604.05—606.7  |  VWAP: 605.18
+    [~] Inside opening range — direction not confirmed yet
+  GRASIM  [30%]  |  Rs 3197.3  |  ORB: 3191.4—3213.2  |  VWAP: 3200.63
+    [~] Inside opening range — direction not confirmed yet
+  CIPLA  [30%]  |  Rs 1471.8  |  ORB: 1469.6—1477.0  |  VWAP: 1472.8
+    [~] Inside opening range — direction not confirmed yet
+  IDFCFIRSTB  [30%]  |  Rs 84.65  |  ORB: 84.45—84.98  |  VWAP: 84.69
+    [~] Inside opening range — direction not confirmed yet
+  FEDERALBNK  [30%]  |  Rs 351.55  |  ORB: 351.45—352.0  |  VWAP: 351.67
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  SHRIRAMFIN  [40%]  |  Rs 1120.6
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [30%]  |  Rs 329.5
+    [-] Below VWAP with no breakout — no valid long
+  SBIN  [30%]  |  Rs 1077.5
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
