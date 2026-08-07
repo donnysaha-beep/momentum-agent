@@ -1,51 +1,228 @@
 =================================================================
-  OPENING RANGE REPORT v2 — Friday, August 07 2026 03:47 AM IST
+  OPENING RANGE REPORT v2 — Friday, August 07 2026 05:51 AM IST
 =================================================================
 
 NIFTY AT 9:45am: BEARISH
-  Price: 24594.25  |  Gap: -0.4%  |  VWAP: nan
-  ORB: 24535.05 — 24597.7
+  Price: 24568.55  |  Gap: -0.4%  |  VWAP: nan
+  ORB: 24535.05 — 24620.0
 
 REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
 
-SUMMARY: 0 TRADE NOW | 0 WATCH | 12 WAIT | 3 SKIP
+SUMMARY: 2 TRADE NOW | 5 WATCH | 2 WAIT | 6 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  BHEL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 415.9
+  Gap from prev  : +0.1%  (prev Rs 408.15 | opened Rs 408.5)
+  Opening Range  : Rs 408.5 — Rs 413.2  (1.15% wide)
+  VWAP           : Rs 415.35  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 12.01
+
+  TRADE PLAN:
+    Entry trigger  : Rs 413.25  (break above ORB high)
+    Target 1 (50%) : Rs 431.27  (+4.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 443.28  (+7.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 408.45  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:3.76 (T1)  |  1:6.27 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 60 shares
+    Capital needed : Rs 24,795
+    Max loss       : Rs 288  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+  TRADE NOW  [60% probability]
+  BAJAJ-AUTO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 11693.0
+  Gap from prev  : -0.3%  (prev Rs 11620.0 | opened Rs 11582.0)
+  Opening Range  : Rs 11582.0 — Rs 11675.0  (0.8% wide)
+  VWAP           : Rs 11687.71  (ABOVE, flat/down)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 249.39
+
+  TRADE PLAN:
+    Entry trigger  : Rs 11675.05  (break above ORB high)
+    Target 1 (50%) : Rs 12049.14  (+3.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 12298.53  (+5.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 11581.95  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:4.0 (T1)  |  1:6.67 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 2 shares
+    Capital needed : Rs 23,350
+    Max loss       : Rs 186  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [70% probability]
+  NYKAA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 333.7
+  Gap from prev  : -0.5%  (prev Rs 331.95 | opened Rs 330.25)
+  Opening Range  : Rs 329.15 — Rs 331.85  (0.82% wide)
+  VWAP           : Rs 333.04  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 8.52
+
+  TRADE PLAN:
+    Entry trigger  : Rs 331.9  (break above ORB high)
+    Target 1 (50%) : Rs 344.67  (+3.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 353.19  (+6.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 329.1  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:4.58 (T1)  |  1:7.63 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 75 shares
+    Capital needed : Rs 24,892
+    Max loss       : Rs 210  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  M&M
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3450.4
+  Gap from prev  : +0.0%  (prev Rs 3406.0 | opened Rs 3406.1)
+  Opening Range  : Rs 3406.1 — Rs 3455.0  (1.44% wide)
+  VWAP           : Rs 3446.49  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 78.53
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3455.05  (break above ORB high)
+    Target 1 (50%) : Rs 3572.85  (+3.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3651.38  (+5.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3406.05  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:2.4 (T1)  |  1:4.0 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 7 shares
+    Capital needed : Rs 24,185
+    Max loss       : Rs 343  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs3455.0) — set alert
+
+  WATCH — near breakout  [50% probability]
+  PAYTM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1451.7
+  Gap from prev  : -0.9%  (prev Rs 1442.0 | opened Rs 1429.6)
+  Opening Range  : Rs 1429.0 — Rs 1452.0  (1.61% wide)
+  VWAP           : Rs 1447.86  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 45.4
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1452.05  (break above ORB high)
+    Target 1 (50%) : Rs 1520.15  (+4.7%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1565.55  (+7.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1428.95  (-1.6%)  [below ORB low]
+    Risk/Reward    : 1:2.95 (T1)  |  1:4.92 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 17 shares
+    Capital needed : Rs 24,685
+    Max loss       : Rs 393  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs1452.0) — set alert
+
+  WATCH — near breakout  [50% probability]
+  ADANIENT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3034.0
+  Gap from prev  : -0.1%  (prev Rs 3026.0 | opened Rs 3021.4)
+  Opening Range  : Rs 3020.1 — Rs 3036.3  (0.54% wide)
+  VWAP           : Rs 3026.98  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 67.07
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3036.35  (break above ORB high)
+    Target 1 (50%) : Rs 3136.95  (+3.3%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3204.02  (+5.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3020.05  (-0.5%)  [below ORB low]
+    Risk/Reward    : 1:6.13 (T1)  |  1:10.22 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 8 shares
+    Capital needed : Rs 24,291
+    Max loss       : Rs 130  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs3036.300048828125) — set alert
+
+  WATCH — near breakout  [50% probability]
+  NESTLEIND
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1543.5
+  Gap from prev  : -0.4%  (prev Rs 1535.0 | opened Rs 1529.4)
+  Opening Range  : Rs 1527.9 — Rs 1546.8  (1.24% wide)
+  VWAP           : Rs 1543.42  (ABOVE, flat/down)
+  Volume         : WEAK
+  ATR (daily)    : Rs 35.62
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1546.85  (break above ORB high)
+    Target 1 (50%) : Rs 1600.27  (+3.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1635.89  (+5.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1527.85  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:2.8 (T1)  |  1:4.68 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 16 shares
+    Capital needed : Rs 24,750
+    Max loss       : Rs 304  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs1546.800048828125) — set alert
 
 =================================================================
   WAIT — No Signal Yet
 =================================================================
-  AUBANK  [40%]  |  Rs 1086.0  |  ORB: 1083.1—1086.5  |  VWAP: 1085.2
+  EICHERMOT  [50%]  |  Rs 8004.5  |  ORB: 7960.0—8015.5  |  VWAP: 8025.18
     [~] Inside opening range — direction not confirmed yet
-  RBLBANK  [40%]  |  Rs 389.5  |  ORB: 389.1—390.1  |  VWAP: 389.57
-    [~] Inside opening range — direction not confirmed yet
-  CHOLAFIN  [40%]  |  Rs 1912.8  |  ORB: 1907.2—1917.4  |  VWAP: 1912.47
-    [~] Inside opening range — direction not confirmed yet
-  PAYTM  [40%]  |  Rs 1449.0  |  ORB: 1429.0—1452.0  |  VWAP: 1443.33
-    [~] Inside opening range — direction not confirmed yet
-  MANAPPURAM  [40%]  |  Rs 361.6  |  ORB: 358.85—364.0  |  VWAP: 361.48
-    [~] Inside opening range — direction not confirmed yet
-  NESTLEIND  [40%]  |  Rs 1542.0  |  ORB: 1527.9—1543.9  |  VWAP: 1537.93
-    [~] Inside opening range — direction not confirmed yet
-  ICICIBANK  [30%]  |  Rs 1452.5  |  ORB: 1450.5—1455.0  |  VWAP: 1452.67
-    [~] Inside opening range — direction not confirmed yet
-  IIFL  [30%]  |  Rs 604.8  |  ORB: 604.05—606.7  |  VWAP: 605.18
-    [~] Inside opening range — direction not confirmed yet
-  GRASIM  [30%]  |  Rs 3197.3  |  ORB: 3191.4—3213.2  |  VWAP: 3200.63
-    [~] Inside opening range — direction not confirmed yet
-  CIPLA  [30%]  |  Rs 1471.8  |  ORB: 1469.6—1477.0  |  VWAP: 1472.8
-    [~] Inside opening range — direction not confirmed yet
-  IDFCFIRSTB  [30%]  |  Rs 84.65  |  ORB: 84.45—84.98  |  VWAP: 84.69
-    [~] Inside opening range — direction not confirmed yet
-  FEDERALBNK  [30%]  |  Rs 351.55  |  ORB: 351.45—352.0  |  VWAP: 351.67
+  GODREJCP  [40%]  |  Rs 1078.0  |  ORB: 1074.3—1082.6  |  VWAP: 1078.67
     [~] Inside opening range — direction not confirmed yet
 
 =================================================================
   SKIP — No Valid Setup
 =================================================================
-  SHRIRAMFIN  [40%]  |  Rs 1120.6
+  SHRIRAMFIN  [50%]  |  Rs 1120.4
     [-] Below VWAP with no breakout — no valid long
-  NYKAA  [30%]  |  Rs 329.5
+  MARICO  [50%]  |  Rs 854.6
+    [-] Stock broke below ORB low — setup invalidated
     [-] Below VWAP with no breakout — no valid long
-  SBIN  [30%]  |  Rs 1077.5
+  TECHM  [40%]  |  Rs 1645.8
+    [-] Below VWAP with no breakout — no valid long
+  CHOLAFIN  [30%]  |  Rs 1896.3
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  NAUKRI  [30%]  |  Rs 1230.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  BRITANNIA  [30%]  |  Rs 5586.5
     [-] Below VWAP with no breakout — no valid long
 
 =================================================================
