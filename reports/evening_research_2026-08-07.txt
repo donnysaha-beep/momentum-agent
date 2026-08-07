@@ -28,7 +28,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 =================================================================
 
   ADANIENT — Adani Enterprises Limited
-  Energy | Rs4.3T | P/E: 52.806435
+  Energy | Rs4.3T | P/E: 52.530872
   Price: Rs3020.0  |  52w range: Rs1758.01 — Rs3212.1
 
   PERFORMANCE vs NIFTY:
@@ -63,7 +63,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.2T | P/E: 28.191553
+  Consumer Cyclical | Rs3.2T | P/E: 27.724419
   Price: Rs11662.0  |  52w range: Rs8082.75 — Rs11856.0
 
   PERFORMANCE vs NIFTY:
@@ -98,7 +98,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   TECHM — Tech Mahindra Limited
-  Technology | Rs1.4T | P/E: 28.311687
+  Technology | Rs1.4T | P/E: 28.29699
   Price: Rs1635.0  |  52w range: Rs1297.97 — Rs1723.61
 
   PERFORMANCE vs NIFTY:
@@ -167,7 +167,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   EICHERMOT — Eicher Motors Limited
-  Consumer Cyclical | Rs2.2T | P/E: 38.183205
+  Consumer Cyclical | Rs2.2T | P/E: 38.128746
   Price: Rs8020.0  |  52w range: Rs5599.36 — Rs8105.12
 
   PERFORMANCE vs NIFTY:
@@ -203,7 +203,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.6T | P/E: 19.671843
+  Financial Services | Rs2.6T | P/E: 19.703127
   Price: Rs1115.0  |  52w range: Rs564.99 — Rs1141.0
 
   PERFORMANCE vs NIFTY:
@@ -273,7 +273,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs3.0T | P/E: 77.15431
+  Consumer Defensive | Rs3.0T | P/E: 77.77778
   Price: Rs1540.0  |  52w range: Rs1078.37 — Rs1540.0
 
   PERFORMANCE vs NIFTY:
@@ -308,7 +308,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   BRITANNIA — Britannia Industries Limited
-  Consumer Defensive | Rs1.3T | P/E: 52.48119
+  Consumer Defensive | Rs1.3T | P/E: 52.286964
   Price: Rs5510.0  |  52w range: Rs4981.04 — Rs6197.29
 
   PERFORMANCE vs NIFTY:
@@ -333,16 +333,16 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
     [+] Heavy volume today (4.25x avg) = conviction
 
   RECENT NEWS:
+    * Britannia Industries Ltd (BOM:500825) (Q1 2027) Earnings Call Highlights: Robust 9. ...
     * India's Britannia rises as upbeat demand outlook, profit growth cheer investors
     * India's Britannia misses quarterly profit view as Middle East war pushes costs higher
     * India's Swiggy names Nandita Sinha as CEO of quick commerce arm Instamart
     * India Inc hikes prices, shrinks packs as Iran war squeezes margins
-    * Britannia Industries Ltd (BOM:500825) Q4 2026 Earnings Call Highlights: Strong Profitability ...
 
 -----------------------------------------------------------------
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 27.573875
+  Financial Services | Rs1.6T | P/E: 27.561659
   Price: Rs1866.2  |  52w range: Rs1354.17 — Rs1940.0
 
   PERFORMANCE vs NIFTY:
@@ -437,7 +437,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 58.59959
+  Consumer Defensive | Rs1.1T | P/E: 59.325535
   Price: Rs862.0  |  52w range: Rs694.23 — Rs885.35
 
   PERFORMANCE vs NIFTY:
@@ -507,7 +507,7 @@ M&M            Rs  3502.0   +2.8%  +13.5%   +11.0%   69.4  3.0x   AVOID
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs4.2T | P/E: 21.59995
+  Consumer Cyclical | Rs4.2T | P/E: 21.28746
   Price: Rs3502.0  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
