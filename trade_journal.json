@@ -3725,5 +3725,102 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-07",
+    "trades": [
+      {
+        "ticker": "BHEL",
+        "entry": 11675.05,
+        "target1": 12049.14,
+        "target2": 12298.53,
+        "stop": 11581.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 408.5,
+        "eod_high": 418.70001220703125,
+        "eod_low": 402.3999938964844,
+        "eod_close": 405.20001220703125,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Entry never triggered \u2014 stock went down, skip was correct"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 331.9,
+        "target1": 344.67,
+        "target2": 353.19,
+        "stop": 329.1,
+        "verdict": "WATCH",
+        "eod_open": 330.25,
+        "eod_high": 335.6000061035156,
+        "eod_low": 328.95001220703125,
+        "eod_close": 332.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "M&M",
+        "entry": 3455.05,
+        "target1": 3572.85,
+        "target2": 3651.38,
+        "stop": 3406.05,
+        "verdict": "WATCH",
+        "eod_open": 3406.10009765625,
+        "eod_high": 3504.300048828125,
+        "eod_low": 3406.10009765625,
+        "eod_close": 3502.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1452.05,
+        "target1": 1520.15,
+        "target2": 1565.55,
+        "stop": 1428.95,
+        "verdict": "WATCH",
+        "eod_open": 1429.5999755859375,
+        "eod_high": 1457.5,
+        "eod_low": 1429.0,
+        "eod_close": 1441.5999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIENT",
+        "entry": 3036.35,
+        "target1": 3136.95,
+        "target2": 3204.02,
+        "stop": 3020.05,
+        "verdict": "WATCH",
+        "eod_open": 3021.39990234375,
+        "eod_high": 3039.5,
+        "eod_low": 3004.5,
+        "eod_close": 3020.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NESTLEIND",
+        "entry": 1546.85,
+        "target1": 1600.27,
+        "target2": 1635.89,
+        "stop": 1527.85,
+        "verdict": "TRADE NOW",
+        "eod_open": 1529.4000244140625,
+        "eod_high": 1552.800048828125,
+        "eod_low": 1527.9000244140625,
+        "eod_close": 1540.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1540.0 (-0.4%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 1,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]

@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, August 07 2026
+  Layer 3 | 01:01 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 1
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [SKIP OK]    BHEL         | Verdict: TRADE NOW
+               Entry: Rs 11675.05 | Stop: Rs 11581.95 | T1: Rs 12049.14
+               EOD: O:408.5 H:418.70001220703125 L:402.3999938964844 C:405.20001220703125
+               Entry never triggered — stock went down, skip was correct
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 331.9 | Stop: Rs 329.1 | T1: Rs 344.67
+               EOD: O:330.25 H:335.6000061035156 L:328.95001220703125 C:332.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     M&M          | Verdict: WATCH
+               Entry: Rs 3455.05 | Stop: Rs 3406.05 | T1: Rs 3572.85
+               EOD: O:3406.10009765625 H:3504.300048828125 L:3406.10009765625 C:3502.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1452.05 | Stop: Rs 1428.95 | T1: Rs 1520.15
+               EOD: O:1429.5999755859375 H:1457.5 L:1429.0 C:1441.5999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIENT     | Verdict: WATCH
+               Entry: Rs 3036.35 | Stop: Rs 3020.05 | T1: Rs 3136.95
+               EOD: O:3021.39990234375 H:3039.5 L:3004.5 C:3020.0
+               Entry triggered but no target set — monitor
+
+  [FP]         NESTLEIND    | Verdict: TRADE NOW
+               Entry: Rs 1546.85 | Stop: Rs 1527.85 | T1: Rs 1600.27
+               EOD: O:1529.4000244140625 H:1552.800048828125 L:1527.9000244140625 C:1540.0
+               Triggered but no target/stop hit — closed at Rs 1540.0 (-0.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (40 days tracked)
+=================================================================
+  Total Trades    : 85
+  Win Rate        : 3.5%
+  Good Wins       : 3
+  Good Losses     : 30
+  False Positives : 52
+  Valid Skips     : 10
+  Missed Trades   : 141
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
