@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, August 07 2026
+  Layer 0 | Generated: 04:29 AM IST
+=================================================================
+
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : CHOPPY
+SIZE MULTIPLIER  : 0.75x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,626.55  (-0.04%)
+  Bank Nifty            :  57,930.05  (-0.23%)
+  India VIX             :      12.47  (+2.53%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24604.39  [ESTIMATED]
+  Change vs prev : -0.09%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 -0.18% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,709.96  (-0.18%)
+  Nasdaq (US)           :  26,348.35  (-0.06%)
+  US VIX                :      15.15  (-4.17%)
+  Crude Oil (WTI)       :      78.57  (+1.66%)
+  Gold                  :   4,321.90  (+1.88%)
+  Silver                :      62.49  (+1.72%)
+  USD/INR               :      95.26  (+0.19%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX 12.47 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, Metals, Banking, Infra
+  Avoid      : Aviation, Consumer
+
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+
+=================================================================
