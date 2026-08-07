@@ -1,0 +1,176 @@
+=================================================================
+  BEAR SCANNER — Friday, August 07 2026 05:56 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 24582.75  |  Gap: -0.4%  |  VWAP: nan
+  ORB: 24535.05 — 24620.0
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 2 SHORT NOW | 2 WATCH SHORT | 1 WAIT | 10 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  NAUKRI
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1231.8
+  Gap from prev  : -0.5%  (prev Rs 1240.0 | opened Rs 1233.5)
+  Opening Range  : Rs 1232.4 — Rs 1240.3  (0.64% wide)
+  VWAP           : Rs 1234.01  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 63.0
+  ATR (daily)    : Rs 35.42
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1232.35  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1179.22  (-4.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1143.8  (-7.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1240.35  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:6.63 (T1)  |  1:11.06 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 20 shares
+    Capital needed : Rs 24,647  (margin)
+    Max loss       : Rs 160  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [50% probability]
+  MARICO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 855.9
+  Gap from prev  : +0.4%  (prev Rs 860.0 | opened Rs 863.35)
+  Opening Range  : Rs 858.35 — Rs 863.4  (0.58% wide)
+  VWAP           : Rs 859.38  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 49.8
+  ATR (daily)    : Rs 18.47
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 858.3  (break BELOW ORB low)
+    Target 1 (50%) : Rs 830.59  (-3.2%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 812.12  (-5.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 863.45  (+0.6%)  [above ORB high]
+    Risk/Reward    : 1:5.38 (T1)  |  1:8.97 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 29 shares
+    Capital needed : Rs 24,891  (margin)
+    Max loss       : Rs 149  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  CHOLAFIN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1900.6
+  Gap from prev  : -1.2%  (prev Rs 1940.0 | opened Rs 1917.4)
+  Opening Range  : Rs 1898.3 — Rs 1917.4  (1.0% wide)
+  VWAP           : Rs 1907.46  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 64.4
+  ATR (daily)    : Rs 54.36
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1898.25  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1816.71  (-4.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1762.35  (-7.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1917.45  (+1.0%)  [above ORB high]
+    Risk/Reward    : 1:4.26 (T1)  |  1:7.09 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 13 shares
+    Capital needed : Rs 24,677  (margin)
+    Max loss       : Rs 250  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1898.300048828125) — set alert
+
+  WATCH SHORT — near breakdown  [50% probability]
+  SHRIRAMFIN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1120.8
+  Gap from prev  : -1.2%  (prev Rs 1141.0 | opened Rs 1126.9)
+  Opening Range  : Rs 1115.3 — Rs 1127.0  (1.04% wide)
+  VWAP           : Rs 1122.05  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 67.3
+  ATR (daily)    : Rs 29.4
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1115.25  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1071.15  (-4.0%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1041.75  (-6.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1127.05  (+1.1%)  [above ORB high]
+    Risk/Reward    : 1:3.73 (T1)  |  1:6.22 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 22 shares
+    Capital needed : Rs 24,536  (margin)
+    Max loss       : Rs 260  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1115.300048828125) — set alert
+
+=================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  TECHM  [40%]  |  Rs 1646.6  |  ORB: 1643.7—1678.6  |  VWAP: 1665.91
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  BHEL  [50%]  |  Rs 414.9
+    [-] Stock holding above ORB low — no breakdown yet
+  EICHERMOT  [50%]  |  Rs 8006.0
+    [-] Stock holding above ORB low — no breakdown yet
+  GODREJCP  [50%]  |  Rs 1079.0
+    [-] Above VWAP — no institutional selling confirmed
+  BAJAJ-AUTO  [40%]  |  Rs 11708.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NYKAA  [30%]  |  Rs 333.55
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PAYTM  [30%]  |  Rs 1452.2
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [30%]  |  Rs 3039.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BRITANNIA  [30%]  |  Rs 5591.0
+    [-] Stock holding above ORB low — no breakdown yet
+  NESTLEIND  [30%]  |  Rs 1548.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  M&M  [20%]  |  Rs 3460.2
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
