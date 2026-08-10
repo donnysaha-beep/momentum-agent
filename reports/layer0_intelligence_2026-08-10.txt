@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, August 10 2026
+  Layer 0 | Generated: 04:01 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,544.20  (-0.11%)
+  Bank Nifty            :  57,671.40  (-0.13%)
+  India VIX             :      12.78  (+5.08%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24620.29  [ESTIMATED]
+  Change vs prev : +0.31%
+  Bias           : BULLISH
+  Based on       : S&P 500 +0.62% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,757.64  (+0.62%)
+  Nasdaq (US)           :  26,690.62  (+1.30%)
+  US VIX                :      14.90  (-1.65%)
+  Crude Oil (WTI)       :      78.18  (+1.15%)
+  Gold                  :   4,340.70  (+2.33%)
+  Silver                :      63.33  (+3.08%)
+  USD/INR               :      95.23  (-0.09%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.3% (bullish)
+  * India VIX 12.78 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Metals, IT, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
