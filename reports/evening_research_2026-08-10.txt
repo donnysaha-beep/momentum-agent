@@ -10,14 +10,14 @@ Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict
 AUBANK         Rs  1068.0   +0.1%   -0.3%    -1.9%   57.1  1.2x   WATCH NOW
 IIFL           Rs   625.9   +2.3%  +13.2%   +11.7%   72.0  2.3x   WATCH
 TECHM          Rs  1640.0   +0.3%  +12.7%   +11.2%   67.3  1.0x   WATCH
-FEDERALBNK     Rs   358.4   +0.6%   +8.6%    +7.1%   60.4  0.8x   WATCH
-MANAPPURAM     Rs   369.3   +0.7%   +8.2%    +6.6%   65.0  1.5x   WATCH
-NAUKRI         Rs  1282.0   +4.6%   +6.8%    +5.2%   68.3  1.8x   WATCH
+MANAPPURAM     Rs   369.3   +0.7%  +11.1%    +9.5%   66.5  1.6x   WATCH
+FEDERALBNK     Rs   358.4   +0.6%   +9.3%    +7.8%   60.8  1.0x   WATCH
+NAUKRI         Rs  1282.0   +4.6%   +7.0%    +5.4%   69.9  1.8x   WATCH
+PIDILITIND     Rs  1685.0   +1.5%   +6.7%    +5.2%   66.3  2.3x   WATCH
 CHOLAFIN       Rs  1920.0   +2.9%   +6.2%    +4.7%   62.1  1.9x   WATCH
-PIDILITIND     Rs  1685.0   +1.5%   +6.2%    +4.6%   65.1  2.2x   WATCH
 IDFCFIRSTB     Rs    85.1   +0.6%   +5.6%    +4.0%   64.0  1.3x   WATCH
 JSWSTEEL       Rs  1302.0   +0.2%   +4.5%    +3.0%   60.0  1.3x   WATCH
-NYKAA          Rs   323.7   -2.5%   -1.9%    -3.5%   49.5 -0.7x   WATCH
+NYKAA          Rs   323.7   -2.5%   -0.1%    -1.7%   50.2 -0.6x   WATCH
 DIVISLAB       Rs  8300.0   +0.3%  +21.9%   +20.4%   73.9  3.2x   AVOID
 PAYTM          Rs  1584.1   +9.9%  +18.1%   +16.5%   83.0  4.2x   AVOID
 TITAN          Rs  5090.0   +3.0%  +11.0%    +9.5%   75.0  3.0x   AVOID
@@ -27,7 +27,7 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
   FULL DETAIL
 =================================================================
 
-  AUBANK — AUBANK
+  AUBANK — AU Small Finance Bank Limited
   Financial Services | Rs799.6B | P/E: 28.27641
   Price: Rs1068.0  |  52w range: Rs693.63 — Rs1087.6
 
@@ -129,6 +129,41 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
 
 -----------------------------------------------------------------
 
+  MANAPPURAM — Manappuram Finance Limited
+  Financial Services | Rs346.9B | P/E: 31.164555
+  Price: Rs369.3  |  52w range: Rs250.7 — Rs370.15
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.7%  vs Nifty +0.1%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +1.2%  vs Nifty -0.8%
+    1M:  +11.1%  vs Nifty +1.6%  -> RS: +9.5% (OUTPERFORMING)
+    3M:  +17.1%  vs Nifty +1.1%  -> RS: +16.0% (OUTPERFORMING)
+    6M:  +24.8%
+
+  TREND HEALTH:
+    RSI: 66.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.93%
+    ATR extension from SMA20: 1.65x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.53x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs353.04 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.2% of 52w high (breakout zone)
+    [~] Extended 1.65x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
+    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
+    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
+    * India's Manappuram Finance quarterly profit drops amid microfinance slowdown
+    * Exclusive-Bain's Manappuram deal delayed by Indian regulatory concerns, sources say
+
+-----------------------------------------------------------------
+
   FEDERALBNK — The Federal Bank Limited
   Financial Services | Rs884.4B | P/E: 19.163101
   Price: Rs358.35  |  52w range: Rs189.9 — Rs371.7
@@ -136,19 +171,19 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  +0.6%  vs Nifty +0.1%  -> RS: +0.5% (OUTPERFORMING)
     1W:  -3.6%  vs Nifty -0.8%
-    1M:  +8.6%  vs Nifty +1.6%  -> RS: +7.1% (OUTPERFORMING)
-    3M:  +22.5%  vs Nifty +1.1%  -> RS: +21.5% (OUTPERFORMING)
-    6M:  +24.5%
+    1M:  +9.3%  vs Nifty +1.6%  -> RS: +7.8% (OUTPERFORMING)
+    3M:  +20.6%  vs Nifty +1.1%  -> RS: +19.5% (OUTPERFORMING)
+    6M:  +24.6%
 
   TREND HEALTH:
-    RSI: 60.4  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.05%
-    ATR extension from SMA20: 0.84x  (HEALTHY)
+    RSI: 60.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.1%
+    ATR extension from SMA20: 0.99x  (HEALTHY)
     Volatility trend: EXPANDING
     Volume today: 0.39x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs347.35 (-3.1%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs347.05 (-3.2%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -162,40 +197,6 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
 
 -----------------------------------------------------------------
 
-  MANAPPURAM — Manappuram Finance Limited
-  Financial Services | Rs346.9B | P/E: 31.164555
-  Price: Rs369.3  |  52w range: Rs250.7 — Rs371.85
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.7%  vs Nifty +0.1%  -> RS: +0.7% (OUTPERFORMING)
-    1W:  +1.2%  vs Nifty -0.8%
-    1M:  +8.2%  vs Nifty +1.6%  -> RS: +6.6% (OUTPERFORMING)
-    3M:  +20.9%  vs Nifty +1.1%  -> RS: +19.8% (OUTPERFORMING)
-    6M:  +30.2%
-
-  TREND HEALTH:
-    RSI: 65.0  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.94%
-    ATR extension from SMA20: 1.46x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.51x 20-day avg
-    RS 55-day slope: POSITIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs353.04 (-4.4%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] Within 0.7% of 52w high (breakout zone)
-
-  RECENT NEWS:
-    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
-    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
-    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
-    * India's Manappuram Finance quarterly profit drops amid microfinance slowdown
-    * Exclusive-Bain's Manappuram deal delayed by Indian regulatory concerns, sources say
-
------------------------------------------------------------------
-
   NAUKRI — Info Edge (India) Limited
   Communication Services | Rs830.4B | P/E: 57.488792
   Price: Rs1282.0  |  52w range: Rs923.1 — Rs1407.76
@@ -203,28 +204,63 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  +4.6%  vs Nifty +0.1%  -> RS: +4.6% (OUTPERFORMING)
     1W:  +1.0%  vs Nifty -0.8%
-    1M:  +6.8%  vs Nifty +1.6%  -> RS: +5.2% (OUTPERFORMING)
-    3M:  +33.8%  vs Nifty +1.1%  -> RS: +32.7% (OUTPERFORMING)
-    6M:  +3.1%
+    1M:  +7.0%  vs Nifty +1.6%  -> RS: +5.4% (OUTPERFORMING)
+    3M:  +31.4%  vs Nifty +1.1%  -> RS: +30.4% (OUTPERFORMING)
+    6M:  +1.6%
 
   TREND HEALTH:
-    RSI: 68.3  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.93%
-    ATR extension from SMA20: 1.75x  (EXTENDED)
+    RSI: 69.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.89%
+    ATR extension from SMA20: 1.82x  (EXTENDED)
     Volatility trend: EXPANDING
-    Volume today: 3.05x 20-day avg
-    RS 55-day slope: POSITIVE
+    Volume today: 3.08x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1225.72 (-4.4%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1226.42 (-4.3%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
-    [+] Heavy volume today (3.05x avg) = conviction
-    [~] Extended 1.75x from SMA20 — wait for pullback
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.08x avg) = conviction
+    [~] Extended 1.82x from SMA20 — wait for pullback
 
   RECENT NEWS:
     * Info Edge (India) Ltd (BOM:532777) Q4 2026 Earnings Call Highlights: Strong Revenue Growth and ...
     * Info Edge (India) Ltd (BOM:532777) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.7T | P/E: 65.057915
+  Price: Rs1685.0  |  52w range: Rs1264.49 — Rs1686.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +0.1%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +2.6%  vs Nifty -0.8%
+    1M:  +6.7%  vs Nifty +1.6%  -> RS: +5.2% (OUTPERFORMING)
+    3M:  +15.0%  vs Nifty +1.1%  -> RS: +13.9% (OUTPERFORMING)
+    6M:  +18.7%
+
+  TREND HEALTH:
+    RSI: 66.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.04%
+    ATR extension from SMA20: 2.34x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1633.37 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.1% of 52w high (breakout zone)
+    [~] Extended 2.34x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
 
 -----------------------------------------------------------------
 
@@ -261,42 +297,8 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
 
 -----------------------------------------------------------------
 
-  PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.7T | P/E: 65.057915
-  Price: Rs1685.0  |  52w range: Rs1264.49 — Rs1686.0
-
-  PERFORMANCE vs NIFTY:
-    1D:  +1.5%  vs Nifty +0.1%  -> RS: +1.5% (OUTPERFORMING)
-    1W:  +2.6%  vs Nifty -0.8%
-    1M:  +6.2%  vs Nifty +1.6%  -> RS: +4.6% (OUTPERFORMING)
-    3M:  +18.1%  vs Nifty +1.1%  -> RS: +17.0% (OUTPERFORMING)
-    6M:  +18.6%
-
-  TREND HEALTH:
-    RSI: 65.1  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.09%
-    ATR extension from SMA20: 2.23x  (STRETCHED)
-    Volatility trend: EXPANDING
-    Volume today: 0.67x 20-day avg
-    RS 55-day slope: POSITIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1632.25 (-3.1%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] Within 0.1% of 52w high (breakout zone)
-    [~] Extended 2.23x from SMA20 — wait for pullback
-
-  RECENT NEWS:
-    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
-    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
-    * Lower input costs drive profit rise at India's Pidilite Industries
-    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
-
------------------------------------------------------------------
-
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs733.7B | P/E: 32.857143
+  Financial Services | Rs733.3B | P/E: 32.857143
   Price: Rs85.1  |  52w range: Rs58.68 — Rs85.82
 
   PERFORMANCE vs NIFTY:
@@ -329,7 +331,7 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
 
 -----------------------------------------------------------------
 
-  JSWSTEEL — JSWSTEEL
+  JSWSTEEL — JSW Steel Limited
   Basic Materials | Rs3.2T | P/E: 12.845304
   Price: Rs1302.0  |  52w range: Rs1020.74 — Rs1330.0
 
@@ -363,25 +365,25 @@ SHRIRAMFIN     Rs  1137.8   +2.0%   +9.0%    +7.4%   66.2  2.6x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs927.4B | P/E: 359.6667
+  Consumer Cyclical | Rs927.0B | P/E: 359.6667
   Price: Rs323.7  |  52w range: Rs203.54 — Rs344.9
 
   PERFORMANCE vs NIFTY:
     1D:  -2.5%  vs Nifty +0.1%  -> RS: -2.5% (UNDERPERFORMING)
     1W:  -6.2%  vs Nifty -0.8%
-    1M:  -1.9%  vs Nifty +1.6%  -> RS: -3.5% (UNDERPERFORMING)
-    3M:  +19.8%  vs Nifty +1.1%  -> RS: +18.7% (OUTPERFORMING)
-    6M:  +36.3%
+    1M:  -0.1%  vs Nifty +1.6%  -> RS: -1.7% (UNDERPERFORMING)
+    3M:  +18.7%  vs Nifty +1.1%  -> RS: +17.6% (OUTPERFORMING)
+    6M:  +36.1%
 
   TREND HEALTH:
-    RSI: 49.5  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.62%
-    ATR extension from SMA20: -0.67x  (HEALTHY)
+    RSI: 50.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.63%
+    ATR extension from SMA20: -0.64x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.1x 20-day avg
+    Volume today: 1.09x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs310.97 (-3.9%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs310.95 (-3.9%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
