@@ -3822,5 +3822,144 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-10",
+    "trades": [
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 1305.05,
+        "target1": 1343.92,
+        "target2": 1369.83,
+        "stop": 1295.65,
+        "verdict": "WATCH",
+        "eod_open": 1300.9000244140625,
+        "eod_high": 1312.0,
+        "eod_low": 1295.699951171875,
+        "eod_close": 1302.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1486.45,
+        "target1": 1561.8,
+        "target2": 1612.04,
+        "stop": 1446.85,
+        "verdict": "WATCH",
+        "eod_open": 1446.9000244140625,
+        "eod_high": 1594.199951171875,
+        "eod_low": 1446.9000244140625,
+        "eod_close": 1584.0999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Would have worked \u2014 reached Target 1 (Rs 1561.8)"
+      },
+      {
+        "ticker": "CHOLAFIN",
+        "entry": 1880.05,
+        "target1": 1964.85,
+        "target2": 2021.38,
+        "stop": 1865.05,
+        "verdict": "WATCH",
+        "eod_open": 1872.0999755859375,
+        "eod_high": 1920.0,
+        "eod_low": 1865.0999755859375,
+        "eod_close": 1920.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PIDILITIND",
+        "entry": 1664.75,
+        "target1": 1717.19,
+        "target2": 1752.15,
+        "stop": 1653.15,
+        "verdict": "WATCH",
+        "eod_open": 1658.0999755859375,
+        "eod_high": 1685.4000244140625,
+        "eod_low": 1653.199951171875,
+        "eod_close": 1685.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SHRIRAMFIN",
+        "entry": 1119.55,
+        "target1": 1164.17,
+        "target2": 1193.92,
+        "stop": 1107.45,
+        "verdict": "WATCH",
+        "eod_open": 1114.699951171875,
+        "eod_high": 1138.5,
+        "eod_low": 1107.5,
+        "eod_close": 1135.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "MANAPPURAM",
+        "entry": 369.35,
+        "target1": 385.84,
+        "target2": 396.83,
+        "stop": 365.35,
+        "verdict": "WATCH",
+        "eod_open": 366.70001220703125,
+        "eod_high": 371.6000061035156,
+        "eod_low": 363.8999938964844,
+        "eod_close": 369.29998779296875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NAUKRI",
+        "entry": 1270.25,
+        "target1": 1325.81,
+        "target2": 1362.85,
+        "stop": 1237.45,
+        "verdict": "WATCH",
+        "eod_open": 1239.699951171875,
+        "eod_high": 1298.0999755859375,
+        "eod_low": 1237.5,
+        "eod_close": 1282.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 85.16,
+        "target1": 87.73,
+        "target2": 89.44,
+        "stop": 84.48,
+        "verdict": "WATCH",
+        "eod_open": 84.5999984741211,
+        "eod_high": 85.16999816894531,
+        "eod_low": 84.5,
+        "eod_close": 85.0999984741211,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 332.35,
+        "target1": 344.59,
+        "target2": 352.75,
+        "stop": 329.65,
+        "verdict": "TRADE NOW",
+        "eod_open": 332.0,
+        "eod_high": 332.29998779296875,
+        "eod_low": 323.1499938964844,
+        "eod_close": 323.70001220703125,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Entry never triggered \u2014 stock went down, skip was correct"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 8,
+      "false_negatives": 0
+    }
   }
 ]

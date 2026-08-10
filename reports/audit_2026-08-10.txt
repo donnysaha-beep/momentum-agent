@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, August 10 2026
+  Layer 3 | 01:15 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 1
+  Missed Trades   : 8
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     JSWSTEEL     | Verdict: WATCH
+               Entry: Rs 1305.05 | Stop: Rs 1295.65 | T1: Rs 1343.92
+               EOD: O:1300.9000244140625 H:1312.0 L:1295.699951171875 C:1302.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1486.45 | Stop: Rs 1446.85 | T1: Rs 1561.8
+               EOD: O:1446.9000244140625 H:1594.199951171875 L:1446.9000244140625 C:1584.0999755859375
+               Would have worked — reached Target 1 (Rs 1561.8)
+
+  [MISSED]     CHOLAFIN     | Verdict: WATCH
+               Entry: Rs 1880.05 | Stop: Rs 1865.05 | T1: Rs 1964.85
+               EOD: O:1872.0999755859375 H:1920.0 L:1865.0999755859375 C:1920.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PIDILITIND   | Verdict: WATCH
+               Entry: Rs 1664.75 | Stop: Rs 1653.15 | T1: Rs 1717.19
+               EOD: O:1658.0999755859375 H:1685.4000244140625 L:1653.199951171875 C:1685.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1119.55 | Stop: Rs 1107.45 | T1: Rs 1164.17
+               EOD: O:1114.699951171875 H:1138.5 L:1107.5 C:1135.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MANAPPURAM   | Verdict: WATCH
+               Entry: Rs 369.35 | Stop: Rs 365.35 | T1: Rs 385.84
+               EOD: O:366.70001220703125 H:371.6000061035156 L:363.8999938964844 C:369.29998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NAUKRI       | Verdict: WATCH
+               Entry: Rs 1270.25 | Stop: Rs 1237.45 | T1: Rs 1325.81
+               EOD: O:1239.699951171875 H:1298.0999755859375 L:1237.5 C:1282.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 85.16 | Stop: Rs 84.48 | T1: Rs 87.73
+               EOD: O:84.5999984741211 H:85.16999816894531 L:84.5 C:85.0999984741211
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 332.35 | Stop: Rs 329.65 | T1: Rs 344.59
+               EOD: O:332.0 H:332.29998779296875 L:323.1499938964844 C:323.70001220703125
+               Entry never triggered — stock went down, skip was correct
+
+=================================================================
+  RUNNING PERFORMANCE (41 days tracked)
+=================================================================
+  Total Trades    : 85
+  Win Rate        : 3.5%
+  Good Wins       : 3
+  Good Losses     : 30
+  False Positives : 52
+  Valid Skips     : 11
+  Missed Trades   : 149
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
