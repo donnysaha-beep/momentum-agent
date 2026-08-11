@@ -7,21 +7,21 @@ MARKET REGIME: NEUTRAL
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-ABB            Rs  7611.5   -0.5%  +13.1%   +12.1%   63.5  0.9x   WATCH NOW
+ABB            Rs  7611.5   -0.5%  +12.7%   +11.6%   63.1  1.0x   WATCH NOW
 ADANIENT       Rs  2995.5   -0.5%   -5.7%    -6.8%   43.2 -1.1x   WATCH NOW
-BAJAJ-AUTO     Rs 11717.0   +0.3%  +12.9%   +11.8%   68.0  2.1x   WATCH
+BAJAJ-AUTO     Rs 11717.0   +0.3%  +15.4%   +14.3%   68.3  2.4x   WATCH
 IIFL           Rs   619.2   -1.1%  +11.2%   +10.1%   67.9  1.7x   WATCH
 EICHERMOT      Rs  8000.0   +0.3%  +10.8%    +9.7%   65.5  1.7x   WATCH
 TECHM          Rs  1643.0   +0.2%   +9.2%    +8.1%   67.8  1.0x   WATCH
-MANAPPURAM     Rs   360.0   -2.5%   +8.5%    +7.4%   56.6  0.4x   WATCH
 CHOLAFIN       Rs  1914.4   -0.3%   +5.8%    +4.7%   61.4  1.7x   WATCH
+MANAPPURAM     Rs   360.0   -2.5%   +5.5%    +4.4%   57.7  0.6x   WATCH
 IDFCFIRSTB     Rs    84.3   -1.0%   +4.9%    +3.8%   59.1  0.7x   WATCH
 NESTLEIND      Rs  1493.2   -2.3%   +4.6%    +3.6%   53.0  0.2x   WATCH
-NYKAA          Rs   325.0   +0.4%   -1.0%    -2.1%   50.8 -0.5x   WATCH
+NYKAA          Rs   325.0   +0.4%   -1.5%    -2.6%   51.4 -0.5x   WATCH
 JSWSTEEL       Rs  1283.4   -1.4%   +3.7%    +2.6%   53.7  0.5x   WAIT
 DIVISLAB       Rs  8578.5   +3.4%  +24.1%   +23.1%   78.2  4.1x   AVOID
 PAYTM          Rs  1593.7   +0.6%  +14.9%   +13.9%   83.5  4.1x   AVOID
-NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
+NAUKRI         Rs  1360.0   +6.1%  +13.3%   +12.2%   77.2  3.2x   AVOID
 
 =================================================================
   FULL DETAIL
@@ -34,19 +34,19 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  -0.5%  vs Nifty -0.5%  -> RS: -0.0%
     1W:  +0.0%  vs Nifty -0.6%
-    1M:  +13.1%  vs Nifty +1.1%  -> RS: +12.1% (OUTPERFORMING)
-    3M:  +21.7%  vs Nifty +1.2%  -> RS: +20.5% (OUTPERFORMING)
-    6M:  +41.4%
+    1M:  +12.7%  vs Nifty +1.1%  -> RS: +11.6% (OUTPERFORMING)
+    3M:  +20.6%  vs Nifty +1.2%  -> RS: +19.4% (OUTPERFORMING)
+    6M:  +38.6%
 
   TREND HEALTH:
-    RSI: 63.5  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.71%
-    ATR extension from SMA20: 0.93x  (HEALTHY)
+    RSI: 63.1  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.67%
+    ATR extension from SMA20: 1.04x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 0.3x 20-day avg
+    Volume today: 0.31x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs7301.98 (-4.1%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7306.27 (-4.0%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -95,30 +95,30 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.2T | P/E: 27.7957
+  Consumer Cyclical | Rs3.2T | P/E: 27.873064
   Price: Rs11717.0  |  52w range: Rs8082.75 — Rs11856.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.3%  vs Nifty -0.5%  -> RS: +0.8% (OUTPERFORMING)
     1W:  +1.0%  vs Nifty -0.6%
-    1M:  +12.9%  vs Nifty +1.1%  -> RS: +11.8% (OUTPERFORMING)
-    3M:  +14.3%  vs Nifty +1.2%  -> RS: +13.1% (OUTPERFORMING)
-    6M:  +25.1%
+    1M:  +15.4%  vs Nifty +1.1%  -> RS: +14.3% (OUTPERFORMING)
+    3M:  +12.1%  vs Nifty +1.2%  -> RS: +10.9% (OUTPERFORMING)
+    6M:  +23.8%
 
   TREND HEALTH:
-    RSI: 68.0  |  Days above SMA50 (last 20): 20/20
+    RSI: 68.3  |  Days above SMA50 (last 20): 19/20
     Daily volatility (ATR%): 2.06%
-    ATR extension from SMA20: 2.1x  (STRETCHED)
+    ATR extension from SMA20: 2.38x  (STRETCHED)
     Volatility trend: EXPANDING
-    Volume today: 0.61x 20-day avg
+    Volume today: 0.57x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs11355.62 (-3.1%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11355.43 (-3.1%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] Within 1.2% of 52w high (breakout zone)
-    [~] Extended 2.1x from SMA20 — wait for pullback
+    [~] Extended 2.38x from SMA20 — wait for pullback
 
   RECENT NEWS:
     * Indian EV startup River raises $120M Series C to scale production, launch more models
@@ -130,7 +130,7 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 -----------------------------------------------------------------
 
   IIFL — IIFL Finance Limited
-  Financial Services | Rs263.4B | P/E: 12.335657
+  Financial Services | Rs263.4B | P/E: 12.619727
   Price: Rs619.25  |  52w range: Rs416.27 — Rs660.26
 
   PERFORMANCE vs NIFTY:
@@ -233,42 +233,8 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 
 -----------------------------------------------------------------
 
-  MANAPPURAM — Manappuram Finance Limited
-  Financial Services | Rs338.2B | P/E: 30.176025
-  Price: Rs360.0  |  52w range: Rs250.7 — Rs371.85
-
-  PERFORMANCE vs NIFTY:
-    1D:  -2.5%  vs Nifty -0.5%  -> RS: -2.1% (UNDERPERFORMING)
-    1W:  +0.9%  vs Nifty -0.6%
-    1M:  +8.5%  vs Nifty +1.1%  -> RS: +7.4% (OUTPERFORMING)
-    3M:  +22.8%  vs Nifty +1.2%  -> RS: +21.6% (OUTPERFORMING)
-    6M:  +29.3%
-
-  TREND HEALTH:
-    RSI: 56.6  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.11%
-    ATR extension from SMA20: 0.44x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 1.05x 20-day avg
-    RS 55-day slope: POSITIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs343.18 (-4.7%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [~] Underperforming Nifty today — wait for RS to recover
-
-  RECENT NEWS:
-    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
-    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
-    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
-    * India's Manappuram Finance quarterly profit drops amid microfinance slowdown
-    * Exclusive-Bain's Manappuram deal delayed by Indian regulatory concerns, sources say
-
------------------------------------------------------------------
-
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 27.466286
+  Financial Services | Rs1.6T | P/E: 28.327908
   Price: Rs1914.4  |  52w range: Rs1354.17 — Rs1940.0
 
   PERFORMANCE vs NIFTY:
@@ -300,8 +266,43 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 
 -----------------------------------------------------------------
 
+  MANAPPURAM — Manappuram Finance Limited
+  Financial Services | Rs338.2B | P/E: 30.176025
+  Price: Rs360.0  |  52w range: Rs250.7 — Rs370.15
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.5%  vs Nifty -0.5%  -> RS: -2.1% (UNDERPERFORMING)
+    1W:  +0.9%  vs Nifty -0.6%
+    1M:  +5.5%  vs Nifty +1.1%  -> RS: +4.4% (OUTPERFORMING)
+    3M:  +17.9%  vs Nifty +1.2%  -> RS: +16.6% (OUTPERFORMING)
+    6M:  +26.9%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.11%
+    ATR extension from SMA20: 0.64x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs343.19 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.7% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * India's Manappuram Finance beats profit view on strong loan growth, microfinance recovery
+    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
+    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
+    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
+    * India's Manappuram Finance quarterly profit drops amid microfinance slowdown
+
+-----------------------------------------------------------------
+
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs726.5B | P/E: 32.411537
+  Financial Services | Rs726.1B | P/E: 32.53668
   Price: Rs84.27  |  52w range: Rs58.68 — Rs85.82
 
   PERFORMANCE vs NIFTY:
@@ -370,25 +371,25 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs931.2B | P/E: 373.5632
+  Consumer Cyclical | Rs931.2B | P/E: 357.14285
   Price: Rs325.0  |  52w range: Rs203.54 — Rs344.9
 
   PERFORMANCE vs NIFTY:
     1D:  +0.4%  vs Nifty -0.5%  -> RS: +0.9% (OUTPERFORMING)
     1W:  -5.1%  vs Nifty -0.6%
-    1M:  -1.0%  vs Nifty +1.1%  -> RS: -2.1% (UNDERPERFORMING)
-    3M:  +24.7%  vs Nifty +1.2%  -> RS: +23.5% (OUTPERFORMING)
+    1M:  -1.5%  vs Nifty +1.1%  -> RS: -2.6% (UNDERPERFORMING)
+    3M:  +20.3%  vs Nifty +1.2%  -> RS: +19.0% (OUTPERFORMING)
     6M:  +36.8%
 
   TREND HEALTH:
-    RSI: 50.8  |  Days above SMA50 (last 20): 20/20
+    RSI: 51.4  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 2.55%
-    ATR extension from SMA20: -0.54x  (HEALTHY)
+    ATR extension from SMA20: -0.48x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.16x 20-day avg
+    Volume today: 1.17x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs312.59 (-3.8%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs312.57 (-3.8%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -402,8 +403,8 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 
 -----------------------------------------------------------------
 
-  JSWSTEEL — JSWSTEEL
-  Basic Materials | Rs3.1T | P/E: 12.636866
+  JSWSTEEL — JSW Steel Limited
+  Basic Materials | Rs3.1T | P/E: 12.669299
   Price: Rs1283.4  |  52w range: Rs1020.74 — Rs1330.0
 
   PERFORMANCE vs NIFTY:
@@ -510,32 +511,32 @@ NAUKRI         Rs  1360.0   +6.1%  +14.5%   +13.5%   75.7  3.2x   AVOID
 -----------------------------------------------------------------
 
   NAUKRI — Info Edge (India) Limited
-  Communication Services | Rs880.9B | P/E: 58.29404
+  Communication Services | Rs880.9B | P/E: 55.26209
   Price: Rs1360.0  |  52w range: Rs923.1 — Rs1407.76
 
   PERFORMANCE vs NIFTY:
     1D:  +6.1%  vs Nifty -0.5%  -> RS: +6.5% (OUTPERFORMING)
     1W:  +7.9%  vs Nifty -0.6%
-    1M:  +14.5%  vs Nifty +1.1%  -> RS: +13.5% (OUTPERFORMING)
-    3M:  +46.5%  vs Nifty +1.2%  -> RS: +45.3% (OUTPERFORMING)
-    6M:  +10.5%
+    1M:  +13.3%  vs Nifty +1.1%  -> RS: +12.2% (OUTPERFORMING)
+    3M:  +41.9%  vs Nifty +1.2%  -> RS: +40.7% (OUTPERFORMING)
+    6M:  +9.4%
 
   TREND HEALTH:
-    RSI: 75.7  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.13%
-    ATR extension from SMA20: 3.16x  (STRETCHED)
+    RSI: 77.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.1%
+    ATR extension from SMA20: 3.24x  (STRETCHED)
     Volatility trend: EXPANDING
-    Volume today: 4.21x 20-day avg
+    Volume today: 4.33x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1296.06 (-4.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1296.72 (-4.7%)
 
   VERDICT: AVOID
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
-    [+] Heavy volume today (4.21x avg) = conviction
-    [~] Extended 3.16x from SMA20 — wait for pullback
-    [-] Severely extended (3.16x ATR from SMA20)
+    [+] Heavy volume today (4.33x avg) = conviction
+    [~] Extended 3.24x from SMA20 — wait for pullback
+    [-] Severely extended (3.24x ATR from SMA20)
 
   RECENT NEWS:
     * Info Edge (India) Ltd (BOM:532777) (Q1 2027) Earnings Call Highlights: AI-Driven Growth and ...
