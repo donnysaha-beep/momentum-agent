@@ -1,0 +1,59 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, August 11 2026
+  Layer 3 | 01:56 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 3
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 8321.05 | Stop: Rs 8286.45 | T1: Rs 8602.33
+               EOD: O:8300.0 H:8578.5 L:8286.5 C:8578.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NAUKRI       | Verdict: WATCH
+               Entry: Rs 1325.85 | Stop: Rs 1294.35 | T1: Rs 1389.71
+               EOD: O:1294.4000244140625 H:1391.0 L:1294.4000244140625 C:1360.0
+               Would have worked — reached Target 1 (Rs 1389.71)
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1605.75 | Stop: Rs 1576.95 | T1: Rs 1688.07
+               EOD: O:1591.9000244140625 H:1639.0 L:1577.0 C:1593.699951171875
+               Entry triggered but no target set — monitor
+
+  [FP]         CHOLAFIN     | Verdict: TRADE NOW
+               Entry: Rs 1903.25 | Stop: Rs 1893.95 | T1: Rs 1988.36
+               EOD: O:1903.199951171875 H:1925.4000244140625 L:1894.0 C:1914.4000244140625
+               Triggered but no target/stop hit — closed at Rs 1914.4000244140625 (+0.6%)
+
+=================================================================
+  RUNNING PERFORMANCE (42 days tracked)
+=================================================================
+  Total Trades    : 86
+  Win Rate        : 3.5%
+  Good Wins       : 3
+  Good Losses     : 30
+  False Positives : 53
+  Valid Skips     : 11
+  Missed Trades   : 152
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
