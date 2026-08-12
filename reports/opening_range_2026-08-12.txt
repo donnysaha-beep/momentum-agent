@@ -1,0 +1,98 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, August 12 2026 05:47 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24302.6  |  Gap: +0.0%  |  VWAP: nan
+  ORB: 24390.9 — 24472.45
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 1 WATCH | 0 WAIT | 14 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  IDFCFIRSTB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 84.7
+  Gap from prev  : -0.5%  (prev Rs 84.27 | opened Rs 83.85)
+  Opening Range  : Rs 83.85 — Rs 84.65  (0.95% wide)
+  VWAP           : Rs 84.48  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 1.64
+
+  TRADE PLAN:
+    Entry trigger  : Rs 84.7  (break above ORB high)
+    Target 1 (50%) : Rs 87.16  (+2.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 88.81  (+4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 83.8  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.74 (T1)  |  1:4.58 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 295 shares
+    Capital needed : Rs 24,986
+    Max loss       : Rs 266  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  AUBANK  [70%]  |  Rs 1076.1
+    [-] Nifty broke its own ORB low — avoid all longs
+  BAJAJFINSV  [60%]  |  Rs 2020.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  SBIN  [50%]  |  Rs 1078.7
+    [-] Nifty broke its own ORB low — avoid all longs
+  SIEMENS  [40%]  |  Rs 4011.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  TECHM  [40%]  |  Rs 1632.1
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  FEDERALBNK  [40%]  |  Rs 356.15
+    [-] Nifty broke its own ORB low — avoid all longs
+  BHEL  [40%]  |  Rs 405.6
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  BAJAJ-AUTO  [40%]  |  Rs 11737.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  SHRIRAMFIN  [40%]  |  Rs 1122.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ABB  [30%]  |  Rs 7646.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  RBLBANK  [30%]  |  Rs 387.15
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  GRASIM  [30%]  |  Rs 3365.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  IIFL  [30%]  |  Rs 617.3
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ICICIBANK  [30%]  |  Rs 1424.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
