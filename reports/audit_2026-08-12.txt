@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, August 12 2026
+  Layer 3 | 01:56 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         IDFCFIRSTB   | Verdict: TRADE NOW
+               Entry: Rs 84.7 | Stop: Rs 83.8 | T1: Rs 87.16
+               EOD: O:83.8499984741211 H:85.80000305175781 L:83.8499984741211 C:85.80000305175781
+               Triggered but no target/stop hit — closed at Rs 85.80000305175781 (+1.3%)
+
+=================================================================
+  RUNNING PERFORMANCE (43 days tracked)
+=================================================================
+  Total Trades    : 87
+  Win Rate        : 3.4%
+  Good Wins       : 3
+  Good Losses     : 30
+  False Positives : 54
+  Valid Skips     : 11
+  Missed Trades   : 152
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
