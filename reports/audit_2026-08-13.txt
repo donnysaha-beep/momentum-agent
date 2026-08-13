@@ -1,0 +1,59 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, August 13 2026
+  Layer 3 | 02:21 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 3
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     IIFL         | Verdict: WATCH
+               Entry: Rs 632.55 | Stop: Rs 621.85 | T1: Rs 659.3
+               EOD: O:625.7999877929688 H:637.9000244140625 L:621.9000244140625 C:636.0999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SBIN         | Verdict: WATCH
+               Entry: Rs 1082.85 | Stop: Rs 1074.75 | T1: Rs 1115.38
+               EOD: O:1082.800048828125 H:1086.5999755859375 L:1074.800048828125 C:1083.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     EICHERMOT    | Verdict: WATCH
+               Entry: Rs 8054.55 | Stop: Rs 8031.45 | T1: Rs 8263.29
+               EOD: O:8049.5 H:8100.0 L:8016.0 C:8100.0
+               Entry triggered but no target set — monitor
+
+  [FP]         IDFCFIRSTB   | Verdict: TRADE NOW
+               Entry: Rs 85.97 | Stop: Rs 85.22 | T1: Rs 88.47
+               EOD: O:85.73999786376953 H:86.62999725341797 L:85.2699966430664 C:86.55000305175781
+               Triggered but no target/stop hit — closed at Rs 86.55000305175781 (+0.7%)
+
+=================================================================
+  RUNNING PERFORMANCE (44 days tracked)
+=================================================================
+  Total Trades    : 88
+  Win Rate        : 3.4%
+  Good Wins       : 3
+  Good Losses     : 30
+  False Positives : 55
+  Valid Skips     : 11
+  Missed Trades   : 155
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
