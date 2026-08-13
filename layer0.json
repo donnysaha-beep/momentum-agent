@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "regime": "NEUTRAL",
   "confidence": 40,
   "trend_type": "CHOPPY",
@@ -11,12 +11,12 @@
   ],
   "avoid_sectors": [],
   "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": -0.16,
+  "gift_estimated_chg": 0.13,
   "india_vix": 11.72,
-  "india_vix_chg": -1.18,
+  "india_vix_chg": 0.28,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": -0.32,
-  "crude_chg": 1.27,
-  "gold_chg": 1.8
+  "sp500_chg": 0.26,
+  "crude_chg": -0.71,
+  "gold_chg": 1.04
 }
