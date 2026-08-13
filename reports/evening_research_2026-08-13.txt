@@ -7,46 +7,46 @@ MARKET REGIME: NEUTRAL
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-ABB            Rs  7710.0   +0.0%   +8.3%    +7.0%   66.6  1.3x   WATCH NOW
-RBLBANK        Rs   387.2   -0.7%   +3.9%    +2.6%   60.3  1.4x   WATCH NOW
+ABB            Rs  7710.0   +0.0%  +13.2%   +11.9%   66.1  1.2x   WATCH NOW
+RBLBANK        Rs   387.2   -0.7%   +2.5%    +1.1%   60.7  1.5x   WATCH NOW
 IIFL           Rs   636.0   +1.6%  +17.0%   +15.7%   72.3  2.3x   WATCH
-BAJAJ-AUTO     Rs 11661.0   -0.3%  +13.0%   +11.6%   65.8  1.4x   WATCH
+BAJAJ-AUTO     Rs 11661.0   -0.3%  +14.7%   +13.4%   66.2  1.6x   WATCH
 M&M            Rs  3428.2   +0.7%  +11.2%    +9.9%   60.1  1.3x   WATCH
 EICHERMOT      Rs  8100.0   +0.6%  +10.5%    +9.2%   68.9  2.0x   WATCH
 SHRIRAMFIN     Rs  1132.3   +1.4%   +9.5%    +8.2%   63.2  2.0x   WATCH
-IDFCFIRSTB     Rs    86.5   +0.9%   +9.5%    +8.2%   66.6  1.7x   WATCH
-TECHM          Rs  1639.0   +0.9%   +8.9%    +7.6%   64.7  0.7x   WATCH
-CHOLAFIN       Rs  1927.9   +0.5%   +8.8%    +7.5%   62.5  1.8x   WATCH
-BRITANNIA      Rs  5615.0   -0.5%   +7.4%    +6.1%   64.9  1.6x   WATCH
+TECHM          Rs  1639.0   +0.9%   +9.4%    +8.0%   64.5  0.6x   WATCH
+IDFCFIRSTB     Rs    86.5   +0.9%   +9.2%    +7.9%   66.8  1.6x   WATCH
+BRITANNIA      Rs  5615.0   -0.5%   +8.0%    +6.7%   65.2  1.7x   WATCH
+CHOLAFIN       Rs  1927.9   +0.5%   +6.9%    +5.6%   62.6  1.8x   WATCH
 BAJFINANCE     Rs  1090.8   -0.3%   +6.8%    +5.5%   54.7  0.2x   WATCH
 NESTLEIND      Rs  1506.9   -0.0%   +5.8%    +4.5%   56.1  0.4x   WATCH
 SBIN           Rs  1083.0   +0.1%   +5.1%    +3.8%   62.2  1.7x   WATCH
-NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
+NYKAA          Rs   331.1   +0.9%   +2.1%    +0.8%   56.9  0.2x   WATCH
 
 =================================================================
   FULL DETAIL
 =================================================================
 
   ABB — ABB India Limited
-  Industrials | Rs1.6T | P/E: 102.03812
+  Industrials | Rs1.6T | P/E: 103.088646
   Price: Rs7710.0  |  52w range: Rs4618.03 — Rs7710.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.0%  vs Nifty -0.2%  -> RS: N/A
     1W:  +0.8%  vs Nifty -1.0%
-    1M:  +8.3%  vs Nifty +1.3%  -> RS: +7.0% (OUTPERFORMING)
-    3M:  +21.3%  vs Nifty +4.3%  -> RS: +17.0% (OUTPERFORMING)
-    6M:  +36.1%
+    1M:  +13.2%  vs Nifty +1.3%  -> RS: +11.9% (OUTPERFORMING)
+    3M:  +23.7%  vs Nifty +4.3%  -> RS: +19.4% (OUTPERFORMING)
+    6M:  +38.2%
 
   TREND HEALTH:
-    RSI: 66.6  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.55%
-    ATR extension from SMA20: 1.29x  (HEALTHY)
+    RSI: 66.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.51%
+    ATR extension from SMA20: 1.21x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 0.38x 20-day avg
+    Volume today: 0.29x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs7415.54 (-3.8%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7419.24 (-3.8%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -66,19 +66,19 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
   PERFORMANCE vs NIFTY:
     1D:  -0.7%  vs Nifty -0.2%  -> RS: -0.5%
     1W:  -1.2%  vs Nifty -1.0%
-    1M:  +3.9%  vs Nifty +1.3%  -> RS: +2.6% (OUTPERFORMING)
-    3M:  +14.8%  vs Nifty +4.3%  -> RS: +10.5% (OUTPERFORMING)
-    6M:  +26.6%
+    1M:  +2.5%  vs Nifty +1.3%  -> RS: +1.1% (OUTPERFORMING)
+    3M:  +18.9%  vs Nifty +4.3%  -> RS: +14.5% (OUTPERFORMING)
+    6M:  +27.1%
 
   TREND HEALTH:
-    RSI: 60.3  |  Days above SMA50 (last 20): 17/20
-    Daily volatility (ATR%): 2.15%
-    ATR extension from SMA20: 1.42x  (HEALTHY)
+    RSI: 60.7  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.16%
+    ATR extension from SMA20: 1.49x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.25x 20-day avg
+    Volume today: 0.2x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs374.73 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs374.71 (-3.2%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -96,7 +96,7 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
 -----------------------------------------------------------------
 
   IIFL — IIFL Finance Limited
-  Financial Services | Rs270.5B | P/E: 12.949501
+  Financial Services | Rs270.5B | P/E: 12.962699
   Price: Rs635.95  |  52w range: Rs416.27 — Rs660.26
 
   PERFORMANCE vs NIFTY:
@@ -137,23 +137,24 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
   PERFORMANCE vs NIFTY:
     1D:  -0.3%  vs Nifty -0.2%  -> RS: -0.2%
     1W:  +0.3%  vs Nifty -1.0%
-    1M:  +13.0%  vs Nifty +1.3%  -> RS: +11.6% (OUTPERFORMING)
-    3M:  +13.2%  vs Nifty +4.3%  -> RS: +8.8% (OUTPERFORMING)
-    6M:  +22.7%
+    1M:  +14.7%  vs Nifty +1.3%  -> RS: +13.4% (OUTPERFORMING)
+    3M:  +15.2%  vs Nifty +4.3%  -> RS: +10.9% (OUTPERFORMING)
+    6M:  +23.2%
 
   TREND HEALTH:
-    RSI: 65.8  |  Days above SMA50 (last 20): 20/20
+    RSI: 66.2  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 1.95%
-    ATR extension from SMA20: 1.39x  (HEALTHY)
+    ATR extension from SMA20: 1.65x  (EXTENDED)
     Volatility trend: EXPANDING
-    Volume today: 0.33x 20-day avg
+    Volume today: 0.32x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs11320.05 (-2.9%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11319.89 (-2.9%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] Within 1.6% of 52w high (breakout zone)
+    [~] Extended 1.65x from SMA20 — wait for pullback
 
   RECENT NEWS:
     * Indian EV startup River raises $120M Series C to scale production, launch more models
@@ -165,7 +166,7 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs4.1T | P/E: 21.204924
+  Consumer Cyclical | Rs4.1T | P/E: 20.854067
   Price: Rs3428.2  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
@@ -269,61 +270,26 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
 
 -----------------------------------------------------------------
 
-  IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs746.2B | P/E: 32.908745
-  Price: Rs86.55  |  52w range: Rs58.68 — Rs86.55
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.9%  vs Nifty -0.2%  -> RS: +1.0% (OUTPERFORMING)
-    1W:  +1.7%  vs Nifty -1.0%
-    1M:  +9.5%  vs Nifty +1.3%  -> RS: +8.2% (OUTPERFORMING)
-    3M:  +27.1%  vs Nifty +4.3%  -> RS: +22.7% (OUTPERFORMING)
-    6M:  +2.3%
-
-  TREND HEALTH:
-    RSI: 66.6  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 1.95%
-    ATR extension from SMA20: 1.68x  (EXTENDED)
-    Volatility trend: EXPANDING
-    Volume today: 0.62x 20-day avg
-    RS 55-day slope: POSITIVE
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs84.02 (-2.9%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] Within 0.0% of 52w high (breakout zone)
-    [~] Extended 1.68x from SMA20 — wait for pullback
-
-  RECENT NEWS:
-    * Indian shares rise as oil prices drop; earnings season adds to optimism
-    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
-    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
-    * India's IDFC First Bank pays 6.45 billion rupees to settle claims tied to suspected fraud
-    * Indian state chief minister says IDFC First Bank delayed acting on suspected fraud
-
------------------------------------------------------------------
-
   TECHM — Tech Mahindra Limited
-  Technology | Rs1.5T | P/E: 28.653845
+  Technology | Rs1.5T | P/E: 28.331894
   Price: Rs1639.0  |  52w range: Rs1297.97 — Rs1723.61
 
   PERFORMANCE vs NIFTY:
     1D:  +0.9%  vs Nifty -0.2%  -> RS: +1.0% (OUTPERFORMING)
     1W:  +0.4%  vs Nifty -1.0%
-    1M:  +8.9%  vs Nifty +1.3%  -> RS: +7.6% (OUTPERFORMING)
-    3M:  +20.7%  vs Nifty +4.3%  -> RS: +16.4% (OUTPERFORMING)
-    6M:  -2.5%
+    1M:  +9.4%  vs Nifty +1.3%  -> RS: +8.0% (OUTPERFORMING)
+    3M:  +25.2%  vs Nifty +4.3%  -> RS: +20.8% (OUTPERFORMING)
+    6M:  +2.2%
 
   TREND HEALTH:
-    RSI: 64.7  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.45%
-    ATR extension from SMA20: 0.71x  (HEALTHY)
+    RSI: 64.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.39%
+    ATR extension from SMA20: 0.56x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 1.03x 20-day avg
+    Volume today: 1.05x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1578.85 (-3.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1580.22 (-3.6%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -338,64 +304,66 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
 
 -----------------------------------------------------------------
 
-  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 28.52767
-  Price: Rs1927.9  |  52w range: Rs1354.7 — Rs1940.0
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs745.8B | P/E: 33.416992
+  Price: Rs86.55  |  52w range: Rs58.68 — Rs86.55
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.5%  vs Nifty -0.2%  -> RS: +0.7% (OUTPERFORMING)
-    1W:  -0.6%  vs Nifty -1.0%
-    1M:  +8.8%  vs Nifty +1.3%  -> RS: +7.5% (OUTPERFORMING)
-    3M:  +22.4%  vs Nifty +4.3%  -> RS: +18.1% (OUTPERFORMING)
-    6M:  +13.9%
+    1D:  +0.9%  vs Nifty -0.2%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +1.7%  vs Nifty -1.0%
+    1M:  +9.2%  vs Nifty +1.3%  -> RS: +7.9% (OUTPERFORMING)
+    3M:  +26.6%  vs Nifty +4.3%  -> RS: +22.3% (OUTPERFORMING)
+    6M:  +1.9%
 
   TREND HEALTH:
-    RSI: 62.5  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.77%
-    ATR extension from SMA20: 1.82x  (EXTENDED)
+    RSI: 66.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.94%
+    ATR extension from SMA20: 1.65x  (EXTENDED)
     Volatility trend: EXPANDING
-    Volume today: 0.53x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1847.85 (-4.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs84.03 (-2.9%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Within 0.6% of 52w high (breakout zone)
-    [~] Extended 1.82x from SMA20 — wait for pullback
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.65x from SMA20 — wait for pullback
 
   RECENT NEWS:
-    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q1 2027 Earnings Call Highlights: ...
-    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
+    * Indian shares rise as oil prices drop; earnings season adds to optimism
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+    * India's IDFC First Bank pays 6.45 billion rupees to settle claims tied to suspected fraud
+    * Indian state chief minister says IDFC First Bank delayed acting on suspected fraud
 
 -----------------------------------------------------------------
 
   BRITANNIA — Britannia Industries Limited
-  Consumer Defensive | Rs1.4T | P/E: 51.971493
+  Consumer Defensive | Rs1.4T | P/E: 52.072704
   Price: Rs5615.0  |  52w range: Rs4981.04 — Rs6197.29
 
   PERFORMANCE vs NIFTY:
     1D:  -0.5%  vs Nifty -0.2%  -> RS: -0.4%
     1W:  +3.9%  vs Nifty -1.0%
-    1M:  +7.4%  vs Nifty +1.3%  -> RS: +6.1% (OUTPERFORMING)
-    3M:  +6.2%  vs Nifty +4.3%  -> RS: +1.9% (OUTPERFORMING)
-    6M:  -2.9%
+    1M:  +8.0%  vs Nifty +1.3%  -> RS: +6.7% (OUTPERFORMING)
+    3M:  +7.0%  vs Nifty +4.3%  -> RS: +2.6% (OUTPERFORMING)
+    6M:  -3.0%
 
   TREND HEALTH:
-    RSI: 64.9  |  Days above SMA50 (last 20): 20/20
+    RSI: 65.2  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 1.92%
-    ATR extension from SMA20: 1.58x  (EXTENDED)
+    ATR extension from SMA20: 1.67x  (EXTENDED)
     Volatility trend: EXPANDING
-    Volume today: 0.66x 20-day avg
+    Volume today: 0.68x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs5453.25 (-2.9%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs5453.18 (-2.9%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
-    [~] Extended 1.58x from SMA20 — wait for pullback
+    [~] Extended 1.67x from SMA20 — wait for pullback
 
   RECENT NEWS:
     * Britannia Industries Ltd (BOM:500825) (Q1 2027) Earnings Call Highlights: Robust 9. ...
@@ -403,6 +371,39 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
     * India's Britannia misses quarterly profit view as Middle East war pushes costs higher
     * India's Swiggy names Nandita Sinha as CEO of quick commerce arm Instamart
     * India Inc hikes prices, shrinks packs as Iran war squeezes margins
+
+-----------------------------------------------------------------
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.6T | P/E: 28.481312
+  Price: Rs1927.9  |  52w range: Rs1354.17 — Rs1940.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty -0.2%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  -0.6%  vs Nifty -1.0%
+    1M:  +6.9%  vs Nifty +1.3%  -> RS: +5.6% (OUTPERFORMING)
+    3M:  +23.1%  vs Nifty +4.3%  -> RS: +18.7% (OUTPERFORMING)
+    6M:  +11.0%
+
+  TREND HEALTH:
+    RSI: 62.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.75%
+    ATR extension from SMA20: 1.84x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.53x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1848.45 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.6% of 52w high (breakout zone)
+    [~] Extended 1.84x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q1 2027 Earnings Call Highlights: ...
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
 
 -----------------------------------------------------------------
 
@@ -440,7 +441,7 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs2.9T | P/E: 75.761696
+  Consumer Defensive | Rs2.9T | P/E: 76.33739
   Price: Rs1506.9  |  52w range: Rs1078.37 — Rs1540.0
 
   PERFORMANCE vs NIFTY:
@@ -515,19 +516,19 @@ NYKAA          Rs   331.1   +0.9%   +0.8%    -0.5%   57.1  0.2x   WATCH
   PERFORMANCE vs NIFTY:
     1D:  +0.9%  vs Nifty -0.2%  -> RS: +1.1% (OUTPERFORMING)
     1W:  -0.2%  vs Nifty -1.0%
-    1M:  +0.8%  vs Nifty +1.3%  -> RS: -0.5%
-    3M:  +27.1%  vs Nifty +4.3%  -> RS: +22.7% (OUTPERFORMING)
-    6M:  +39.4%
+    1M:  +2.1%  vs Nifty +1.3%  -> RS: +0.8% (OUTPERFORMING)
+    3M:  +24.6%  vs Nifty +4.3%  -> RS: +20.2% (OUTPERFORMING)
+    6M:  +34.9%
 
   TREND HEALTH:
-    RSI: 57.1  |  Days above SMA50 (last 20): 20/20
+    RSI: 56.9  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 2.49%
-    ATR extension from SMA20: 0.19x  (HEALTHY)
+    ATR extension from SMA20: 0.23x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.08x 20-day avg
+    Volume today: 1.07x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs318.78 (-3.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs318.8 (-3.7%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
