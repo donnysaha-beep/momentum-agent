@@ -3,39 +3,71 @@
 =================================================================
 
 MARKET REGIME: BULL
-  Nifty 50: Rs24366.0  1D: -0.1%  1W: -0.8%  1M: +1.2%  3M: +4.1%
+  Nifty 50: Rs24366.0  1D: -0.1%  1W: -0.8%  1M: +0.6%  3M: +0.8%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-IDFCFIRSTB     Rs    85.7   -1.0%   +8.4%    +7.2%   61.8  1.0x   WATCH NOW
-ABB            Rs  7649.0   -0.8%   +0.9%    -0.3%   62.8  0.9x   WATCH NOW
-ICICIBANK      Rs  1417.0   +0.7%   +0.9%    -0.3%   50.5 -0.7x   WATCH NOW
-BHEL           Rs   421.7   +0.4%   -2.8%    -4.0%   58.9  0.8x   WATCH NOW
-BAJAJ-AUTO     Rs 11700.0   +0.3%  +13.2%   +12.0%   66.6  1.3x   WATCH
-SHRIRAMFIN     Rs  1122.0   -0.9%   +9.5%    +8.3%   60.4  1.5x   WATCH
-PIDILITIND     Rs  1693.0   -0.2%   +9.3%    +8.1%   64.9  1.8x   WATCH
-TITAN          Rs  5056.2   -0.1%   +9.3%    +8.1%   68.5  1.8x   WATCH
-BAJAJFINSV     Rs  2008.3   -0.6%   +8.6%    +7.4%   57.9  0.8x   WATCH
-SIEMENS        Rs  3940.0   -1.2%   +8.2%    +7.0%   62.4  1.1x   WATCH
-NESTLEIND      Rs  1499.1   -0.5%   +5.3%    +4.1%   53.8  0.1x   WATCH
-BAJFINANCE     Rs  1087.0   -0.3%   +4.8%    +3.5%   53.8 -0.0x   WATCH
-NYKAA          Rs   331.0   -0.1%   +1.9%    +0.7%   56.3  0.1x   WATCH
-CIPLA          Rs  1450.0   -0.6%   +1.4%    +0.2%   50.7  0.0x   WATCH
-HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
+ABB            Rs  7649.0   -0.8%  +12.3%   +11.7%   62.5  0.8x   WATCH NOW
+IDFCFIRSTB     Rs    85.7   -1.0%   +8.4%    +7.8%   61.8  1.0x   WATCH NOW
+BHEL           Rs   421.7   +0.4%   +1.2%    +0.6%   59.1  0.8x   WATCH NOW
+ICICIBANK      Rs  1417.0   +0.7%   +0.9%    +0.3%   50.5 -0.7x   WATCH NOW
+BAJAJ-AUTO     Rs 11700.0   +0.3%  +13.2%   +12.6%   66.6  1.3x   WATCH
+SHRIRAMFIN     Rs  1122.0   -0.9%   +9.5%    +8.9%   60.4  1.5x   WATCH
+TITAN          Rs  5056.2   -0.1%   +9.3%    +8.7%   68.5  1.8x   WATCH
+BAJAJFINSV     Rs  2008.3   -0.8%   +9.2%    +8.6%   57.5  0.7x   WATCH
+PIDILITIND     Rs  1693.0   -0.2%   +8.8%    +8.2%   65.6  2.0x   WATCH
+SIEMENS        Rs  3940.0   -1.2%   +8.2%    +7.6%   62.4  1.1x   WATCH
+NESTLEIND      Rs  1499.1   -0.5%   +5.3%    +4.7%   53.8  0.1x   WATCH
+BAJFINANCE     Rs  1087.0   -0.3%   +4.8%    +4.1%   53.8 -0.0x   WATCH
+NYKAA          Rs   331.0   -0.1%   +1.9%    +1.2%   56.3  0.1x   WATCH
+CIPLA          Rs  1450.0   -0.6%   +1.4%    +0.8%   50.7  0.0x   WATCH
+HAL            Rs  5029.9   +1.9%  +14.0%   +13.4%   75.0  2.8x   AVOID
 
 =================================================================
   FULL DETAIL
 =================================================================
 
+  ABB — ABB India Limited
+  Industrials | Rs1.6T | P/E: 102.27303
+  Price: Rs7649.0  |  52w range: Rs4618.03 — Rs7710.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.8%  vs Nifty -0.1%  -> RS: -0.7% (UNDERPERFORMING)
+    1W:  +0.6%  vs Nifty -0.8%
+    1M:  +12.3%  vs Nifty +0.6%  -> RS: +11.7% (OUTPERFORMING)
+    3M:  +22.7%  vs Nifty +0.8%  -> RS: +21.9% (OUTPERFORMING)
+    6M:  +37.1%
+
+  TREND HEALTH:
+    RSI: 62.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.54%
+    ATR extension from SMA20: 0.84x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.36x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7357.12 (-3.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * ABB India Ltd (BOM:500002) Q3 2025 Earnings Call Highlights: Strong Revenue Growth Amid Market ...
+    * Engineering firm ABB India's profit falls as orders dip
+
+-----------------------------------------------------------------
+
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs738.8B | P/E: 32.83142
+  Financial Services | Rs738.8B | P/E: 33.084946
   Price: Rs85.69  |  52w range: Rs58.68 — Rs86.55
 
   PERFORMANCE vs NIFTY:
     1D:  -1.0%  vs Nifty -0.1%  -> RS: -0.9% (UNDERPERFORMING)
     1W:  +1.3%  vs Nifty -0.8%
-    1M:  +8.4%  vs Nifty +1.2%  -> RS: +7.2% (OUTPERFORMING)
-    3M:  +27.0%  vs Nifty +4.1%  -> RS: +23.0% (OUTPERFORMING)
+    1M:  +8.4%  vs Nifty +0.6%  -> RS: +7.8% (OUTPERFORMING)
+    3M:  +27.0%  vs Nifty +0.8%  -> RS: +26.2% (OUTPERFORMING)
     6M:  +0.5%
 
   TREND HEALTH:
@@ -62,74 +94,6 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 
 -----------------------------------------------------------------
 
-  ABB — ABB India Limited
-  Industrials | Rs1.6T | P/E: 102.27303
-  Price: Rs7649.0  |  52w range: Rs4618.02 — Rs7710.0
-
-  PERFORMANCE vs NIFTY:
-    1D:  -0.8%  vs Nifty -0.1%  -> RS: -0.7% (UNDERPERFORMING)
-    1W:  +0.6%  vs Nifty -0.8%
-    1M:  +0.9%  vs Nifty +1.2%  -> RS: -0.3%
-    3M:  +21.3%  vs Nifty +4.1%  -> RS: +17.2% (OUTPERFORMING)
-    6M:  +34.7%
-
-  TREND HEALTH:
-    RSI: 62.8  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.56%
-    ATR extension from SMA20: 0.93x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.49x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs7355.65 (-3.8%)
-
-  VERDICT: WATCH NOW
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Within 0.8% of 52w high (breakout zone)
-
-  RECENT NEWS:
-    * ABB India Ltd (BOM:500002) Q3 2025 Earnings Call Highlights: Strong Revenue Growth Amid Market ...
-    * Engineering firm ABB India's profit falls as orders dip
-
------------------------------------------------------------------
-
-  ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs10.2T | P/E: 18.6521
-  Price: Rs1417.0  |  52w range: Rs1195.82 — Rs1460.0
-
-  PERFORMANCE vs NIFTY:
-    1D:  +0.7%  vs Nifty -0.1%  -> RS: +0.8% (OUTPERFORMING)
-    1W:  -0.3%  vs Nifty -0.8%
-    1M:  +0.9%  vs Nifty +1.2%  -> RS: -0.3%
-    3M:  +14.7%  vs Nifty +4.1%  -> RS: +10.6% (OUTPERFORMING)
-    6M:  +1.5%
-
-  TREND HEALTH:
-    RSI: 50.5  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 1.69%
-    ATR extension from SMA20: -0.67x  (HEALTHY)
-    Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.49x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1381.18 (-2.5%)
-
-  VERDICT: WATCH NOW
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 2.9% of 52w high (breakout zone)
-
-  RECENT NEWS:
-    * HSBC Q2 Pre-Tax Earnings Improve Y/Y on Higher Revenues, Lower Costs
-    * State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows
-    * Asian Equities Traded in the US as American Depositary Receipts Surge in Thursday Trading
-    * UBS Group Q2 Earnings & Revenues Increase Y/Y Despite Higher Expenses
-    * Barclays Q2 Earnings & Revenues Improve Y/Y, Cost Woes Linger
-
------------------------------------------------------------------
-
   BHEL — Bharat Heavy Electricals Limited
   Industrials | Rs1.5T | P/E: 60.502155
   Price: Rs421.7  |  52w range: Rs207.34 — Rs434.0
@@ -137,22 +101,21 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  +0.4%  vs Nifty -0.1%  -> RS: +0.5% (OUTPERFORMING)
     1W:  +4.1%  vs Nifty -0.8%
-    1M:  -2.8%  vs Nifty +1.2%  -> RS: -4.0% (UNDERPERFORMING)
-    3M:  +6.2%  vs Nifty +4.1%  -> RS: +2.1% (OUTPERFORMING)
-    6M:  +57.3%
+    1M:  +1.2%  vs Nifty +0.6%  -> RS: +0.6% (OUTPERFORMING)
+    3M:  +2.4%  vs Nifty +0.8%  -> RS: +1.6% (OUTPERFORMING)
+    6M:  +55.1%
 
   TREND HEALTH:
-    RSI: 58.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.86%
-    ATR extension from SMA20: 0.83x  (HEALTHY)
+    RSI: 59.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.89%
+    ATR extension from SMA20: 0.8x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 1.34x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    Volume today: 1.1x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs403.6 (-4.3%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs403.4 (-4.3%)
 
   VERDICT: WATCH NOW
-    [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
     [+] Within 2.8% of 52w high (breakout zone)
@@ -166,15 +129,50 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 
 -----------------------------------------------------------------
 
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs10.2T | P/E: 18.6521
+  Price: Rs1417.0  |  52w range: Rs1195.82 — Rs1460.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.7%  vs Nifty -0.1%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -0.3%  vs Nifty -0.8%
+    1M:  +0.9%  vs Nifty +0.6%  -> RS: +0.3%
+    3M:  +14.7%  vs Nifty +0.8%  -> RS: +13.9% (OUTPERFORMING)
+    6M:  +1.5%
+
+  TREND HEALTH:
+    RSI: 50.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.69%
+    ATR extension from SMA20: -0.67x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.49x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1381.18 (-2.5%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.9% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * HSBC Q2 Pre-Tax Earnings Improve Y/Y on Higher Revenues, Lower Costs
+    * State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Thursday Trading
+    * UBS Group Q2 Earnings & Revenues Increase Y/Y Despite Higher Expenses
+    * Barclays Q2 Earnings & Revenues Improve Y/Y, Cost Woes Linger
+
+-----------------------------------------------------------------
+
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.2T | P/E: 27.793615
+  Consumer Cyclical | Rs3.2T | P/E: 27.948307
   Price: Rs11700.0  |  52w range: Rs8099.51 — Rs11856.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.3%  vs Nifty -0.1%  -> RS: +0.5%
     1W:  +0.3%  vs Nifty -0.8%
-    1M:  +13.2%  vs Nifty +1.2%  -> RS: +12.0% (OUTPERFORMING)
-    3M:  +14.3%  vs Nifty +4.1%  -> RS: +10.3% (OUTPERFORMING)
+    1M:  +13.2%  vs Nifty +0.6%  -> RS: +12.6% (OUTPERFORMING)
+    3M:  +14.3%  vs Nifty +0.8%  -> RS: +13.5% (OUTPERFORMING)
     6M:  +23.0%
 
   TREND HEALTH:
@@ -201,14 +199,14 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.6T | P/E: 19.543634
+  Financial Services | Rs2.6T | P/E: 19.81632
   Price: Rs1122.0  |  52w range: Rs564.99 — Rs1141.0
 
   PERFORMANCE vs NIFTY:
     1D:  -0.9%  vs Nifty -0.1%  -> RS: -0.8% (UNDERPERFORMING)
     1W:  +0.6%  vs Nifty -0.8%
-    1M:  +9.5%  vs Nifty +1.2%  -> RS: +8.3% (OUTPERFORMING)
-    3M:  +20.3%  vs Nifty +4.1%  -> RS: +16.2% (OUTPERFORMING)
+    1M:  +9.5%  vs Nifty +0.6%  -> RS: +8.9% (OUTPERFORMING)
+    3M:  +20.3%  vs Nifty +0.8%  -> RS: +19.5% (OUTPERFORMING)
     6M:  +13.7%
 
   TREND HEALTH:
@@ -236,41 +234,6 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 
 -----------------------------------------------------------------
 
-  PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.7T | P/E: 65.240845
-  Price: Rs1693.0  |  52w range: Rs1264.49 — Rs1701.5
-
-  PERFORMANCE vs NIFTY:
-    1D:  -0.2%  vs Nifty -0.1%  -> RS: -0.1%
-    1W:  +2.0%  vs Nifty -0.8%
-    1M:  +9.3%  vs Nifty +1.2%  -> RS: +8.1% (OUTPERFORMING)
-    3M:  +16.2%  vs Nifty +4.1%  -> RS: +12.1% (OUTPERFORMING)
-    6M:  +16.0%
-
-  TREND HEALTH:
-    RSI: 64.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 1.88%
-    ATR extension from SMA20: 1.81x  (EXTENDED)
-    Volatility trend: EXPANDING
-    Volume today: 0.52x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1645.21 (-2.8%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-    [+] Within 0.5% of 52w high (breakout zone)
-    [~] Extended 1.81x from SMA20 — wait for pullback
-
-  RECENT NEWS:
-    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
-    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
-    * Lower input costs drive profit rise at India's Pidilite Industries
-    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
-
------------------------------------------------------------------
-
   TITAN — Titan Company Limited
   Consumer Cyclical | Rs4.5T | P/E: 78.62231
   Price: Rs5056.2  |  52w range: Rs3316.42 — Rs5128.0
@@ -278,8 +241,8 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  -0.1%  vs Nifty -0.1%  -> RS: -0.0%
     1W:  +2.3%  vs Nifty -0.8%
-    1M:  +9.3%  vs Nifty +1.2%  -> RS: +8.1% (OUTPERFORMING)
-    3M:  +21.7%  vs Nifty +4.1%  -> RS: +17.6% (OUTPERFORMING)
+    1M:  +9.3%  vs Nifty +0.6%  -> RS: +8.7% (OUTPERFORMING)
+    3M:  +21.7%  vs Nifty +0.8%  -> RS: +20.9% (OUTPERFORMING)
     6M:  +23.8%
 
   TREND HEALTH:
@@ -288,13 +251,12 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
     ATR extension from SMA20: 1.76x  (EXTENDED)
     Volatility trend: EXPANDING
     Volume today: 0.61x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    RS 55-day slope: POSITIVE
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs4914.46 (-2.8%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
     [+] Within 1.4% of 52w high (breakout zone)
     [~] Extended 1.76x from SMA20 — wait for pullback
 
@@ -312,21 +274,21 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   Price: Rs2008.3  |  52w range: Rs1630.41 — Rs2174.74
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.6%  vs Nifty -0.1%  -> RS: -0.5%
-    1W:  -3.7%  vs Nifty -0.8%
-    1M:  +8.6%  vs Nifty +1.2%  -> RS: +7.4% (OUTPERFORMING)
-    3M:  +15.5%  vs Nifty +4.1%  -> RS: +11.4% (OUTPERFORMING)
-    6M:  -0.5%
+    1D:  -0.8%  vs Nifty -0.1%  -> RS: -0.7% (UNDERPERFORMING)
+    1W:  -0.0%  vs Nifty -0.8%
+    1M:  +9.2%  vs Nifty +0.6%  -> RS: +8.6% (OUTPERFORMING)
+    3M:  +16.3%  vs Nifty +0.8%  -> RS: +15.5% (OUTPERFORMING)
+    6M:  +0.5%
 
   TREND HEALTH:
-    RSI: 57.9  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.22%
-    ATR extension from SMA20: 0.83x  (HEALTHY)
+    RSI: 57.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.17%
+    ATR extension from SMA20: 0.65x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 0.64x 20-day avg
+    Volume today: 0.63x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1941.56 (-3.3%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1943.0 (-3.3%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -340,15 +302,50 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 
 -----------------------------------------------------------------
 
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.7T | P/E: 65.240845
+  Price: Rs1693.0  |  52w range: Rs1273.6 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.1%  -> RS: -0.1%
+    1W:  +2.0%  vs Nifty -0.8%
+    1M:  +8.8%  vs Nifty +0.6%  -> RS: +8.2% (OUTPERFORMING)
+    3M:  +17.1%  vs Nifty +0.8%  -> RS: +16.3% (OUTPERFORMING)
+    6M:  +18.6%
+
+  TREND HEALTH:
+    RSI: 65.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.83%
+    ATR extension from SMA20: 1.96x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.53x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1646.46 (-2.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.5% of 52w high (breakout zone)
+    [~] Extended 1.96x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
+
+-----------------------------------------------------------------
+
   SIEMENS — Siemens Limited
-  Industrials | Rs1.4T | P/E: 83.08731
+  Industrials | Rs1.4T | P/E: 83.034775
   Price: Rs3940.0  |  52w range: Rs2834.67 — Rs4019.0
 
   PERFORMANCE vs NIFTY:
     1D:  -1.2%  vs Nifty -0.1%  -> RS: -1.1% (UNDERPERFORMING)
     1W:  +-0.0%  vs Nifty -0.8%
-    1M:  +8.2%  vs Nifty +1.2%  -> RS: +7.0% (OUTPERFORMING)
-    3M:  +10.3%  vs Nifty +4.1%  -> RS: +6.3% (OUTPERFORMING)
+    1M:  +8.2%  vs Nifty +0.6%  -> RS: +7.6% (OUTPERFORMING)
+    3M:  +10.3%  vs Nifty +0.8%  -> RS: +9.6% (OUTPERFORMING)
     6M:  +20.0%
 
   TREND HEALTH:
@@ -379,8 +376,8 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  -0.5%  vs Nifty -0.1%  -> RS: -0.4%
     1W:  -2.7%  vs Nifty -0.8%
-    1M:  +5.3%  vs Nifty +1.2%  -> RS: +4.1% (OUTPERFORMING)
-    3M:  +5.3%  vs Nifty +4.1%  -> RS: +1.2% (OUTPERFORMING)
+    1M:  +5.3%  vs Nifty +0.6%  -> RS: +4.7% (OUTPERFORMING)
+    3M:  +5.3%  vs Nifty +0.8%  -> RS: +4.5% (OUTPERFORMING)
     6M:  +16.2%
 
   TREND HEALTH:
@@ -413,8 +410,8 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  -0.3%  vs Nifty -0.1%  -> RS: -0.2%
     1W:  +0.8%  vs Nifty -0.8%
-    1M:  +4.8%  vs Nifty +1.2%  -> RS: +3.5% (OUTPERFORMING)
-    3M:  +20.1%  vs Nifty +4.1%  -> RS: +16.1% (OUTPERFORMING)
+    1M:  +4.8%  vs Nifty +0.6%  -> RS: +4.1% (OUTPERFORMING)
+    3M:  +20.1%  vs Nifty +0.8%  -> RS: +19.3% (OUTPERFORMING)
     6M:  +13.4%
 
   TREND HEALTH:
@@ -446,8 +443,8 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
   PERFORMANCE vs NIFTY:
     1D:  -0.1%  vs Nifty -0.1%  -> RS: +0.1%
     1W:  -0.3%  vs Nifty -0.8%
-    1M:  +1.9%  vs Nifty +1.2%  -> RS: +0.7% (OUTPERFORMING)
-    3M:  +21.5%  vs Nifty +4.1%  -> RS: +17.4% (OUTPERFORMING)
+    1M:  +1.9%  vs Nifty +0.6%  -> RS: +1.2% (OUTPERFORMING)
+    3M:  +21.5%  vs Nifty +0.8%  -> RS: +20.7% (OUTPERFORMING)
     6M:  +28.1%
 
   TREND HEALTH:
@@ -473,14 +470,14 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 -----------------------------------------------------------------
 
   CIPLA — Cipla Limited
-  Healthcare | Rs1.2T | P/E: 34.772182
+  Healthcare | Rs1.2T | P/E: 34.755512
   Price: Rs1450.0  |  52w range: Rs1181.32 — Rs1648.14
 
   PERFORMANCE vs NIFTY:
     1D:  -0.6%  vs Nifty -0.1%  -> RS: -0.5%
     1W:  -0.9%  vs Nifty -0.8%
-    1M:  +1.4%  vs Nifty +1.2%  -> RS: +0.2%
-    3M:  +2.2%  vs Nifty +4.1%  -> RS: -1.9% (UNDERPERFORMING)
+    1M:  +1.4%  vs Nifty +0.6%  -> RS: +0.8% (OUTPERFORMING)
+    3M:  +2.2%  vs Nifty +0.8%  -> RS: +1.4% (OUTPERFORMING)
     6M:  +9.8%
 
   TREND HEALTH:
@@ -507,32 +504,32 @@ HAL            Rs  5029.9   +1.9%  +13.7%   +12.4%   75.0  2.8x   AVOID
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.4T | P/E: 36.456474
+  Industrials | Rs3.4T | P/E: 36.069557
   Price: Rs5029.9  |  52w range: Rs3480.15 — Rs5029.9
 
   PERFORMANCE vs NIFTY:
     1D:  +1.9%  vs Nifty -0.1%  -> RS: +2.0% (OUTPERFORMING)
     1W:  +2.6%  vs Nifty -0.8%
-    1M:  +13.7%  vs Nifty +1.2%  -> RS: +12.4% (OUTPERFORMING)
-    3M:  +14.9%  vs Nifty +4.1%  -> RS: +10.8% (OUTPERFORMING)
-    6M:  +25.9%
+    1M:  +14.0%  vs Nifty +0.6%  -> RS: +13.4% (OUTPERFORMING)
+    3M:  +9.4%  vs Nifty +0.8%  -> RS: +8.6% (OUTPERFORMING)
+    6M:  +20.5%
 
   TREND HEALTH:
     RSI: 75.0  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.22%
-    ATR extension from SMA20: 2.83x  (STRETCHED)
+    Daily volatility (ATR%): 2.23%
+    ATR extension from SMA20: 2.81x  (STRETCHED)
     Volatility trend: EXPANDING
-    Volume today: 1.46x 20-day avg
+    Volume today: 1.43x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs4862.42 (-3.3%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4861.4 (-3.3%)
 
   VERDICT: AVOID
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Within 0.0% of 52w high (breakout zone)
-    [~] Extended 2.83x from SMA20 — wait for pullback
-    [-] Severely extended (2.83x ATR from SMA20)
+    [~] Extended 2.81x from SMA20 — wait for pullback
+    [-] Severely extended (2.81x ATR from SMA20)
 
   RECENT NEWS:
     * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
