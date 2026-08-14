@@ -1,10 +1,10 @@
 =================================================================
-  BEAR SCANNER — Friday, August 14 2026 05:14 AM IST
+  BEAR SCANNER — Friday, August 14 2026 05:58 AM IST
   Short-side signals for NSE India
 =================================================================
 
 NIFTY AT 10:00am: NEUTRAL
-  Price: 24320.95  |  Gap: -0.1%  |  VWAP: nan
+  Price: 24318.8  |  Gap: -0.1%  |  VWAP: nan
   ORB: 24304.6 — 24363.75
 
 REGIME: BULL  |  SHORT SIZE: NO SHORTS (Bull market)
