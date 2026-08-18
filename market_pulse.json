@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-18T07:12:27.501274",
+  "timestamp": "2026-08-18T07:13:31.364948",
   "date": "2026-08-18",
   "status": "DANGER",
   "action": "STOP_NEW_ENTRIES \u2014 tighten stops on open positions",
-  "nifty_price": 24201.6,
+  "nifty_price": 24201.3,
   "nifty_vs_vwap": "BELOW",
   "nifty_vs_orb_low": "BELOW",
   "vix_level": 11.65,
@@ -13,5 +13,5 @@
   ],
   "nifty_vwap": NaN,
   "nifty_orb_low": 24214.6,
-  "vix_chg": 2.85
+  "vix_chg": 2.89
 }
