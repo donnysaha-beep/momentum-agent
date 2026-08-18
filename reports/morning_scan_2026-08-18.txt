@@ -1,0 +1,173 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, August 18 2026 03:15 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs24366.0  | Today: -0.1%  | 1W: -0.8%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 11.31  (-1.0%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
+  Lagging : Electricals (-0.8%) | NewEconomy (+nan%) | PSU (-0.1%)
+
+Found 50 momentum stocks → 11 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    BHEL         Rs   435.9   +3.4%   66.0   1.8x   +0.0%   +0.5%  1.9x    8/10   A+
+2    HAL          Rs  5059.0   +0.6%   76.1   1.5x   +0.0%   +2.0%  2.8x    6/10   A
+3    ICICIBANK    Rs  1415.3   -0.1%   49.6   0.5x   -3.1%   +0.8% -0.7x    6/10   A
+4    FEDERALBNK   Rs   354.1   +0.8%   56.6   0.7x   -4.4%   +0.1% -0.1x    6/10   A
+5    M&M          Rs  3390.4   -1.1%   56.2   0.7x   -9.9%   +0.1%  0.5x    6/10   A
+6    PIDILITIND   Rs  1669.0   -1.4%   58.3   0.5x   -1.9%   -0.1%  0.9x    6/10   A
+7    GRASIM       Rs  3250.5   +0.1%   55.1   1.8x   -3.8%   -0.1%  0.7x    6/10   A
+8    RBLBANK      Rs   381.5   -0.9%   55.2   0.3x   -2.4%   -0.2%  0.7x    6/10   A
+9    ABB          Rs  7660.0   +0.1%   62.9   0.3x   -0.6%   -0.7%  0.9x    6/10   A
+10   IDFCFIRSTB   Rs    85.0   -0.8%   58.4   0.3x   -1.7%   -0.9%  0.5x    6/10   A
+11   SIEMENS      Rs  3943.0   +0.1%   62.7   0.5x   -1.9%   -1.1%  1.1x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  BHEL (Infra) — Rs435.95 | Grade A+ | 8/10
+  52w: Rs207.34 — Rs435.95 | ATR: 2.8%/day | Ext: 1.91x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (1.9x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs5059.0 | Grade A | 6/10
+  52w: Rs3480.15 — Rs5059.0 | ATR: 2.22%/day | Ext: 2.82x
+    [-] RSI > 75 (overbought)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.0%)
+    [-] Not ATR-extended (2.8x ATR from SMA20)
+    [-] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ICICIBANK (Banking) — Rs1415.3 | Grade A | 6/10
+  52w: Rs1195.82 — Rs1460.0 | ATR: 1.63%/day | Ext: -0.69x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.8%)
+    [+] Not ATR-extended (-0.7x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  FEDERALBNK (Banking) — Rs354.1 | Grade A | 6/10
+  52w: Rs189.25 — Rs370.43 | ATR: 1.91%/day | Ext: -0.15x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (-0.1x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  M&M (Auto) — Rs3390.4 | Grade A | 6/10
+  52w: Rs2900.64 — Rs3762.88 | ATR: 2.13%/day | Ext: 0.54x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Auto)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  PIDILITIND (Consumer) — Rs1669.0 | Grade A | 6/10
+  52w: Rs1264.49 — Rs1701.5 | ATR: 1.91%/day | Ext: 0.88x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.1%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  GRASIM (Cement) — Rs3250.5 | Grade A | 6/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.4%/day | Ext: 0.71x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.1%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  RBLBANK (Banking) — Rs381.5 | Grade A | 6/10
+  52w: Rs249.3 — Rs390.99 | ATR: 2.08%/day | Ext: 0.73x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.2%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ABB (Infra) — Rs7660.0 | Grade A | 6/10
+  52w: Rs4618.03 — Rs7710.0 | ATR: 2.47%/day | Ext: 0.9x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.7%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs85.05 | Grade A | 6/10
+  52w: Rs58.68 — Rs86.55 | ATR: 1.88%/day | Ext: 0.51x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.9%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
