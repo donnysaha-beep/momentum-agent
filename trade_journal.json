@@ -4208,5 +4208,74 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-18",
+    "trades": [
+      {
+        "ticker": "GRASIM",
+        "entry": 3275.85,
+        "target1": 3391.42,
+        "target2": 3468.47,
+        "stop": 3256.85,
+        "verdict": "WATCH",
+        "eod_open": 3256.89990234375,
+        "eod_high": 3296.39990234375,
+        "eod_low": 3256.10009765625,
+        "eod_close": 3278.699951171875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 5110.05,
+        "target1": 5275.91,
+        "target2": 5386.48,
+        "stop": 5043.25,
+        "verdict": "WATCH",
+        "eod_open": 5060.5,
+        "eod_high": 5119.7998046875,
+        "eod_low": 5043.2998046875,
+        "eod_close": 5099.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "M&M",
+        "entry": 3423.05,
+        "target1": 3526.75,
+        "target2": 3595.88,
+        "stop": 3403.15,
+        "verdict": "WATCH",
+        "eod_open": 3403.199951171875,
+        "eod_high": 3433.89990234375,
+        "eod_low": 3402.199951171875,
+        "eod_close": 3421.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PIDILITIND",
+        "entry": 1668.85,
+        "target1": 1715.05,
+        "target2": 1745.85,
+        "stop": 1658.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 1666.0999755859375,
+        "eod_high": 1674.0,
+        "eod_low": 1658.0,
+        "eod_close": 1674.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1658.75) \u2014 -0.61% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 3,
+      "false_negatives": 0
+    }
   }
 ]
