@@ -1,0 +1,129 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — August 19, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs24078.3  1D: -0.3%  1W: -1.5%  1M: -0.5%  3M: +1.8%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TITAN          Rs  5063.0   +0.3%   +8.0%    +8.4%   67.7  1.3x   WATCH NOW
+EICHERMOT      Rs  7961.5   -0.7%   +4.6%    +5.1%   58.7  0.4x   WATCH NOW
+GRASIM         Rs  3270.0   -0.3%   +4.3%    +4.8%   56.3  0.8x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TITAN — Titan Company Limited
+  Consumer Cyclical | Rs4.5T | P/E: 78.35035
+  Price: Rs5063.0  |  52w range: Rs3316.42 — Rs5128.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -0.3%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  -0.7%  vs Nifty -1.5%
+    1M:  +8.0%  vs Nifty -0.5%  -> RS: +8.4% (OUTPERFORMING)
+    3M:  +23.7%  vs Nifty +1.8%  -> RS: +21.9% (OUTPERFORMING)
+    6M:  +19.0%
+
+  TREND HEALTH:
+    RSI: 67.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.7%
+    ATR extension from SMA20: 1.34x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.42x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4933.54 (-2.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.3% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Titan Co Ltd (BOM:500114) (Q1 FY27) Earnings Call Highlights: Strong Growth Amidst Customs Duty ...
+    * India Jewelry Stocks Lose 12% as Modi Targets $72 Billion In Gold Imports
+    * India's Titan hits record high on strong fourth-quarter sales
+    * Titan Co Ltd (BOM:500114) Q3 2026 Earnings Call Highlights: Strategic Acquisitions and Market ...
+    * Indian jewellers' stocks shine on strong festive-quarter sales; Titan hits record high
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.2T | P/E: 37.89747
+  Price: Rs7961.5  |  52w range: Rs5863.1 — Rs8105.12
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty -0.3%  -> RS: -0.4%
+    1W:  -1.1%  vs Nifty -1.5%
+    1M:  +4.6%  vs Nifty -0.5%  -> RS: +5.1% (OUTPERFORMING)
+    3M:  +17.4%  vs Nifty +1.8%  -> RS: +15.6% (OUTPERFORMING)
+    6M:  +10.3%
+
+  TREND HEALTH:
+    RSI: 58.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.7%
+    ATR extension from SMA20: 0.39x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.66x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7758.31 (-2.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q1 2027 Earnings Call Highlights: Record Revenue and Strategic ...
+    * India's Eicher Motors beats first-quarter profit forecast, sees steady demand 
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.2T | P/E: 38.657055
+  Price: Rs3270.0  |  52w range: Rs2523.24 — Rs3380.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.3%  vs Nifty -0.3%  -> RS: +0.1%
+    1W:  -1.1%  vs Nifty -1.5%
+    1M:  +4.3%  vs Nifty -0.5%  -> RS: +4.8% (OUTPERFORMING)
+    3M:  +11.8%  vs Nifty +1.8%  -> RS: +9.9% (OUTPERFORMING)
+    6M:  +12.1%
+
+  TREND HEALTH:
+    RSI: 56.3  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.28%
+    ATR extension from SMA20: 0.81x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.16x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3158.16 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Grasim Industries Ltd (BOM:500300) (Q1 2027) Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries swings to first-quarter profit as core business improves
+    * India's Berger Paints posts quarterly profit jump on strong demand
+    * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
+    * India's Aditya Birla Renewables to buy Sprng Energy from Shell
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
