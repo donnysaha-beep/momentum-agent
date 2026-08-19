@@ -1,0 +1,67 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, August 19 2026 04:53 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24067.65  |  Gap: +0.0%  |  VWAP: nan
+  ORB: 24071.9 — 24166.95
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 1 TRADE NOW | 0 WATCH | 0 WAIT | 2 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  TITAN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 5069.0
+  Gap from prev  : +0.1%  (prev Rs 5048.6 | opened Rs 5055.4)
+  Opening Range  : Rs 5040.0 — Rs 5058.5  (0.37% wide)
+  VWAP           : Rs 5058.5  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 83.76
+
+  TRADE PLAN:
+    Entry trigger  : Rs 5058.55  (break above ORB high)
+    Target 1 (50%) : Rs 5184.19  (+2.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 5267.95  (+4.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 5039.95  (-0.4%)  [below ORB low]
+    Risk/Reward    : 1:6.7 (T1)  |  1:11.19 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 2 shares
+    Capital needed : Rs 10,117
+    Max loss       : Rs 37  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  EICHERMOT  [60%]  |  Rs 8033.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  GRASIM  [30%]  |  Rs 3252.8
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
