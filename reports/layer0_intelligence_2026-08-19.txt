@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, August 19 2026
+  Layer 0 | Generated: 03:02 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 0/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,154.90  (-0.55%)
+  Bank Nifty            :  57,497.80  (+0.01%)
+  India VIX             :      11.33  (+0.18%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24072.77  [ESTIMATED]
+  Change vs prev : -0.34%
+  Bias           : BEARISH
+  Based on       : S&P 500 -0.69% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,691.76  (-0.69%)
+  Nasdaq (US)           :  26,289.71  (-1.33%)
+  US VIX                :      15.84  (+4.28%)
+  Crude Oil (WTI)       :      84.83  (+0.39%)
+  Gold                  :   4,408.80  (-0.20%)
+  Silver                :      63.10  (-4.57%)
+  USD/INR               :      95.67  (-0.03%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.3% (bearish)
+  * India VIX 11.33 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Pharma
+  Avoid      : IT, Banking, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
