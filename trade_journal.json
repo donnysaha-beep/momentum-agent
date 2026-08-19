@@ -4291,7 +4291,7 @@
         "eod_open": 5055.39990234375,
         "eod_high": 5074.5,
         "eod_low": 5038.2998046875,
-        "eod_close": 5068.0,
+        "eod_close": 5063.0,
         "outcome": "GOOD_LOSS",
         "outcome_detail": "Hit stop loss (Rs 5039.95) \u2014 -0.37% (clean stop, system worked)"
       }
