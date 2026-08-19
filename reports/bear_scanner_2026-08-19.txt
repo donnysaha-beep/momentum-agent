@@ -1,10 +1,10 @@
 =================================================================
-  BEAR SCANNER — Wednesday, August 19 2026 04:51 AM IST
+  BEAR SCANNER — Wednesday, August 19 2026 05:03 AM IST
   Short-side signals for NSE India
 =================================================================
 
 NIFTY AT 10:00am: BEARISH
-  Price: 24066.1  |  Gap: +0.0%  |  VWAP: nan
+  Price: 24061.9  |  Gap: +0.0%  |  VWAP: nan
   ORB: 24071.9 — 24166.95
   *** Nifty broke ORB low — bearish breadth confirmed ***
 
@@ -18,20 +18,20 @@ SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 2 SKIP
   SHORT NOW  [70% probability]
   GRASIM
   ─────────────────────────────────────────────
-  Current Price  : Rs 3254.0
+  Current Price  : Rs 3244.5
   Gap from prev  : -0.1%  (prev Rs 3278.7 | opened Rs 3276.1)
   Opening Range  : Rs 3257.5 — Rs 3276.1  (0.57% wide)
-  VWAP           : Rs 3262.8  (BELOW, sloping DOWN)
+  VWAP           : Rs 3259.81  (BELOW, sloping DOWN)
   Volume         : WEAK
-  RSI (daily)    : 54.3
-  ATR (daily)    : Rs 73.58
+  RSI (daily)    : 52.8
+  ATR (daily)    : Rs 74.29
 
   SHORT TRADE PLAN:
     Entry trigger  : Rs 3257.45  (break BELOW ORB low)
-    Target 1 (50%) : Rs 3147.08  (-3.4%)  [1.5x ATR] — cover half here
-    Target 2 (50%) : Rs 3073.5  (-5.7%)  [2.5x ATR] — trail stop for rest
+    Target 1 (50%) : Rs 3146.01  (-3.4%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 3071.72  (-5.7%)  [2.5x ATR] — trail stop for rest
     Stop Loss      : Rs 3276.15  (+0.6%)  [above ORB high]
-    Risk/Reward    : 1:5.95 (T1)  |  1:9.91 (T2)
+    Risk/Reward    : 1:6.0 (T1)  |  1:10.0 (T2)
 
   POSITION SIZE (CAUTION regime):
     Qty            : 19 shares
@@ -45,10 +45,10 @@ SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 2 SKIP
 =================================================================
   SKIP — No Valid Short Setup
 =================================================================
-  TITAN  [40%]  |  Rs 5068.0
+  TITAN  [40%]  |  Rs 5066.5
     [-] Stock holding above ORB low — no breakdown yet
     [-] Above VWAP — no institutional selling confirmed
-  EICHERMOT  [30%]  |  Rs 8031.0
+  EICHERMOT  [30%]  |  Rs 8026.0
     [-] Above VWAP — no institutional selling confirmed
 
 =================================================================
