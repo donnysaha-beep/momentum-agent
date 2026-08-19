@@ -1,11 +1,11 @@
 =================================================================
-  MOMENTUM SCANNER v2 (NSE) — Wednesday, August 19 2026 02:17 AM
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, August 19 2026 03:23 AM
 =================================================================
 
 MARKET REGIME: CAUTION [REDUCE SIZE]
-  Nifty 50:  Rs24287.65  | Today: -0.3%  | 1W: -1.2%
-  EMA20: BELOW  | EMA50: ABOVE
-  India VIX: 11.33  (+0.2%)
+  Nifty 50:  Rs24154.9  | Today: -0.6%  | 1W: -1.3%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 11.39  (+0.5%)
 
   Trade only A+ grade setups. Reduce position size by 50%.
 
@@ -13,11 +13,13 @@ SECTOR PERFORMANCE (today avg):
   Leading : Energy (+nan%) | IT (-1.4%) | Banking (+nan%)
   Lagging : NewEconomy (-1.0%) | Electricals (-1.1%) | PSU (-1.2%)
 
-Found 48 momentum stocks → 1 pass regime filter.
+Found 47 momentum stocks → 3 pass regime filter.
 
 #    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
 --------------------------------------------------------------------------------
-1    GRASIM       Rs  3278.7   +0.9%   57.1   1.8x   -3.0%   +0.4%  1.0x    8/10   A+
+1    GRASIM       Rs  3278.7   +0.9%   57.2   1.8x   -3.0%   +1.4%  1.0x    8/10   A+
+2    EICHERMOT    Rs  8018.5   -0.4%   62.9   0.5x   -1.1%   +0.2%  0.9x    8/10   A+
+3    TITAN        Rs  5048.6   -0.4%   66.8   0.4x   -1.5%   +0.1%  1.3x    8/10   A+
 
 COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
          52wH% = distance from 52w high | RS = relative to Nifty today |
@@ -28,16 +30,42 @@ COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
 =================================================================
 
   GRASIM (Cement) — Rs3278.7 | Grade A+ | 8/10
-  52w: Rs2523.24 — Rs3380.5 | ATR: 2.34%/day | Ext: 1.0x
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.32%/day | Ext: 0.98x
     [+] RSI 55-75 (ideal zone)
     [+] MA Stack (price>20>50>200)
     [-] MACD Bullish
     [+] Volume > 1.5x avg
     [+] Near 52w High (<5%)
     [+] RS vs Nifty (55d slope +ve)
-    [+] Outperforming Nifty today (+0.4%)
+    [+] Outperforming Nifty today (+1.4%)
     [+] Not ATR-extended (1.0x ATR from SMA20)
     [-] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  EICHERMOT (Auto) — Rs8018.5 | Grade A+ | 8/10
+  52w: Rs5850.73 — Rs8105.12 | ATR: 1.71%/day | Ext: 0.95x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [-] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TITAN (Consumer) — Rs5048.6 | Grade A+ | 8/10
+  52w: Rs3316.42 — Rs5128.0 | ATR: 1.78%/day | Ext: 1.32x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [-] In leading sector (Consumer)
     [+] RS Accelerating (last 10d > prior 10d)
 
 =================================================================
