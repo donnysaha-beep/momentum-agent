@@ -1,0 +1,48 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, August 19 2026 02:17 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24287.65  | Today: -0.3%  | 1W: -1.2%
+  EMA20: BELOW  | EMA50: ABOVE
+  India VIX: 11.33  (+0.2%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (-1.4%) | Banking (+nan%)
+  Lagging : NewEconomy (-1.0%) | Electricals (-1.1%) | PSU (-1.2%)
+
+Found 48 momentum stocks → 1 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    GRASIM       Rs  3278.7   +0.9%   57.1   1.8x   -3.0%   +0.4%  1.0x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  GRASIM (Cement) — Rs3278.7 | Grade A+ | 8/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.34%/day | Ext: 1.0x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [-] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
