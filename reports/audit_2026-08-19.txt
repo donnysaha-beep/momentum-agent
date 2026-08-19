@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, August 19 2026
+  Layer 3 | 01:01 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [LOSS]       TITAN        | Verdict: TRADE NOW
+               Entry: Rs 5058.55 | Stop: Rs 5039.95 | T1: Rs 5184.19
+               EOD: O:5055.39990234375 H:5074.5 L:5038.2998046875 C:5068.0
+               Hit stop loss (Rs 5039.95) — -0.37% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (48 days tracked)
+=================================================================
+  Total Trades    : 93
+  Win Rate        : 3.2%
+  Good Wins       : 3
+  Good Losses     : 32
+  False Positives : 58
+  Valid Skips     : 11
+  Missed Trades   : 159
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

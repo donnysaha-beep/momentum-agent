@@ -4277,5 +4277,32 @@
       "missed_trades": 3,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-19",
+    "trades": [
+      {
+        "ticker": "TITAN",
+        "entry": 5058.55,
+        "target1": 5184.19,
+        "target2": 5267.95,
+        "stop": 5039.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 5055.39990234375,
+        "eod_high": 5074.5,
+        "eod_low": 5038.2998046875,
+        "eod_close": 5068.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 5039.95) \u2014 -0.37% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 0,
+      "false_negatives": 0
+    }
   }
 ]
