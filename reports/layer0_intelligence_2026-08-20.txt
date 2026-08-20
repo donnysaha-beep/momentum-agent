@@ -1,6 +1,6 @@
 =================================================================
   MARKET INTELLIGENCE REPORT — Thursday, August 20 2026
-  Layer 0 | Generated: 02:15 AM IST
+  Layer 0 | Generated: 03:02 AM IST
 =================================================================
 
 MARKET REGIME    : NEUTRAL
@@ -27,9 +27,9 @@ GLOBAL MACRO (overnight impact):
   S&P 500 (US)          :   7,707.98  (+0.21%)
   Nasdaq (US)           :  26,331.09  (+0.16%)
   US VIX                :      14.89  (-6.00%)
-  Crude Oil (WTI)       :      84.77  (-0.20%)
-  Gold                  :   4,556.50  (+4.36%)
-  Silver                :      67.27  (+5.21%)
+  Crude Oil (WTI)       :      84.64  (-0.35%)
+  Gold                  :   4,548.70  (+4.18%)
+  Silver                :      67.14  (+5.00%)
   USD/INR               :      95.74  (-0.08%)
 
 REGIME FACTORS:
