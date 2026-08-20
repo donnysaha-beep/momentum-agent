@@ -1,0 +1,176 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Thursday, August 20 2026 03:23 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs24078.3  | Today: -0.3%  | 1W: -1.5%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 11.32  (-0.6%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (-1.0%) | IT (+nan%) | Banking (-0.2%)
+  Lagging : Electricals (+nan%) | NewEconomy (+nan%) | PSU (-1.0%)
+
+Found 42 momentum stocks → 14 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    IDFCFIRSTB   Rs    85.5   +0.9%   59.7   0.4x   -1.2%   +1.2%  0.6x    8/10   A+
+2    TITAN        Rs  5068.0   +0.4%   68.0   0.4x   -1.2%   +0.7%  1.4x    8/10   A+
+3    FEDERALBNK   Rs   358.8   +0.3%   60.5   0.5x   -3.1%   +0.6%  0.5x    8/10   A+
+4    IIFL         Rs   630.9   +1.4%   66.5   0.8x   -4.5%   +1.7%  1.3x    7/10   A
+5    AUBANK       Rs  1075.0   -0.1%   55.8   0.6x   -2.1%   +0.2%  0.7x    7/10   A
+6    SHRIRAMFIN   Rs  1106.0   -0.2%   56.0   0.4x   -3.1%   +0.1%  0.7x    7/10   A
+7    PAYTM        Rs  1583.5   +2.4%   68.7   1.2x   -4.0%   +2.7%  2.5x    6/10   A
+8    POLICYBZR    Rs  1782.1   +2.0%   69.2   1.8x   -9.0%   +2.3%  2.8x    6/10   A
+9    SUNPHARMA    Rs  1900.0   +1.3%   42.2   0.7x   -5.1%   +1.6% -1.4x    6/10   A
+10   CHOLAFIN     Rs  1873.5   +0.3%   54.5   0.4x   -3.4%   +0.6%  0.5x    6/10   A
+11   BAJAJFINSV   Rs  2012.0   +0.0%   57.9   0.6x   -7.5%   +0.4%  0.3x    6/10   A
+12   EICHERMOT    Rs     nan   +nan%   62.9   0.7x   +nan%   +0.2%  0.0x    6/10   A
+13   M&M          Rs  3415.0   -0.2%   57.8   0.6x   -9.2%   +0.1%  0.6x    6/10   A
+14   SIEMENS      Rs  3898.9   -1.5%   57.0   0.4x   -3.0%   -1.1%  0.5x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  IDFCFIRSTB (Banking) — Rs85.49 | Grade A+ | 8/10
+  52w: Rs58.68 — Rs86.55 | ATR: 1.75%/day | Ext: 0.56x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.2%)
+    [+] Not ATR-extended (0.6x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TITAN (Consumer) — Rs5068.0 | Grade A+ | 8/10
+  52w: Rs3316.42 — Rs5128.0 | ATR: 1.7%/day | Ext: 1.4x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.7%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  FEDERALBNK (Banking) — Rs358.8 | Grade A+ | 8/10
+  52w: Rs189.25 — Rs370.43 | ATR: 1.83%/day | Ext: 0.47x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IIFL (Finance) — Rs630.85 | Grade A | 7/10
+  52w: Rs416.27 — Rs660.26 | ATR: 2.74%/day | Ext: 1.29x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.7%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  AUBANK (Banking) — Rs1075.0 | Grade A | 7/10
+  52w: Rs693.63 — Rs1098.0 | ATR: 2.26%/day | Ext: 0.71x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SHRIRAMFIN (Finance) — Rs1106.0 | Grade A | 7/10
+  52w: Rs564.99 — Rs1141.0 | ATR: 2.4%/day | Ext: 0.68x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  PAYTM (NewEconomy) — Rs1583.5 | Grade A | 6/10
+  52w: Rs959.0 — Rs1649.5 | ATR: 3.29%/day | Ext: 2.55x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.7%)
+    [-] Not ATR-extended (2.5x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  POLICYBZR (NewEconomy) — Rs1782.1 | Grade A | 6/10
+  52w: Rs1426.9 — Rs1957.3 | ATR: 2.78%/day | Ext: 2.8x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.3%)
+    [-] Not ATR-extended (2.8x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SUNPHARMA (Pharma) — Rs1900.0 | Grade A | 6/10
+  52w: Rs1549.15 — Rs2001.1 | ATR: 1.71%/day | Ext: -1.45x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.6%)
+    [+] Not ATR-extended (-1.4x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  CHOLAFIN (Finance) — Rs1873.5 | Grade A | 6/10
+  52w: Rs1354.17 — Rs1940.0 | ATR: 2.47%/day | Ext: 0.45x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
