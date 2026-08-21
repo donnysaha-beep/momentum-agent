@@ -1,0 +1,62 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, August 21 2026 02:22 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24231.85  | Today: +0.6%  | 1W: -0.7%
+  EMA20: BELOW  | EMA50: ABOVE
+  India VIX: 10.76  (-5.0%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
+  Lagging : Electricals (+nan%) | NewEconomy (+0.7%) | PSU (+0.5%)
+
+Found 49 momentum stocks → 2 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    AUBANK       Rs  1088.0   +1.2%   59.3   2.1x   -0.9%   +0.6%  1.0x    8/10   A+
+2    NYKAA        Rs   330.4   +0.9%   55.0   1.0x   -4.2%   +0.3%  0.1x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  AUBANK (Banking) — Rs1088.0 | Grade A+ | 8/10
+  52w: Rs693.63 — Rs1098.0 | ATR: 2.19%/day | Ext: 1.04x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs330.35 | Grade A+ | 8/10
+  52w: Rs224.94 — Rs344.9 | ATR: 2.36%/day | Ext: 0.07x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
