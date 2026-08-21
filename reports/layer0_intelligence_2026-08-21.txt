@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, August 21 2026
+  Layer 0 | Generated: 03:08 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 0/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,231.85  (+0.64%)
+  Bank Nifty            :  57,495.90  (+0.45%)
+  India VIX             :      10.76  (-4.95%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24127.65  [ESTIMATED]
+  Change vs prev : -0.43%
+  Bias           : BEARISH
+  Based on       : S&P 500 -0.87% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,641.16  (-0.87%)
+  Nasdaq (US)           :  26,067.17  (-1.00%)
+  US VIX                :      16.01  (+7.52%)
+  Crude Oil (WTI)       :      86.51  (+0.79%)
+  Gold                  :   4,592.90  (+2.31%)
+  Silver                :      68.82  (+4.69%)
+  USD/INR               :      95.69  (+0.20%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.4% (bearish)
+  * India VIX 10.76 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Metals, Pharma
+  Avoid      : IT, Banking, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
