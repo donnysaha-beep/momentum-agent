@@ -1,0 +1,56 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — August 22, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs24252.0  1D: +0.1%  1W: -0.5%  1M: +1.6%  3M: +2.5%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+NYKAA          Rs   334.0   +1.1%   +2.8%    +1.2%   57.8  0.4x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs956.9B | P/E: 371.1111
+  Price: Rs334.0  |  52w range: Rs224.94 — Rs344.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty +0.1%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +0.9%  vs Nifty -0.5%
+    1M:  +2.8%  vs Nifty +1.6%  -> RS: +1.2% (OUTPERFORMING)
+    3M:  +20.5%  vs Nifty +2.5%  -> RS: +18.0% (OUTPERFORMING)
+    6M:  +19.2%
+
+  TREND HEALTH:
+    RSI: 57.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.32%
+    ATR extension from SMA20: 0.41x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.94x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs322.38 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * India's Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * India's Nykaa posts profit surge on strong demand for beauty products
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
