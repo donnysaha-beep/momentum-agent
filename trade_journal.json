@@ -4471,5 +4471,116 @@
       "missed_trades": 8,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-24",
+    "trades": [
+      {
+        "ticker": "MANAPPURAM",
+        "entry": 362.35,
+        "target1": 378.52,
+        "target2": 389.3,
+        "stop": 358.7,
+        "verdict": "TRADE NOW",
+        "eod_open": 358.95001220703125,
+        "eod_high": 369.8999938964844,
+        "eod_low": 358.75,
+        "eod_close": 365.04998779296875,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 365.04998779296875 (+0.8%)"
+      },
+      {
+        "ticker": "SIEMENS",
+        "entry": 3998.85,
+        "target1": 4157.92,
+        "target2": 4263.96,
+        "stop": 3908.15,
+        "verdict": "WATCH",
+        "eod_open": 3908.199951171875,
+        "eod_high": 4117.0,
+        "eod_low": 3908.199951171875,
+        "eod_close": 4114.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HINDALCO",
+        "entry": 1057.15,
+        "target1": 1092.58,
+        "target2": 1116.21,
+        "stop": 1045.15,
+        "verdict": "WATCH",
+        "eod_open": 1047.6500244140625,
+        "eod_high": 1058.5,
+        "eod_low": 1043.4000244140625,
+        "eod_close": 1058.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 360.3,
+        "target1": 370.0,
+        "target2": 376.47,
+        "stop": 358.75,
+        "verdict": "WATCH",
+        "eod_open": 360.0,
+        "eod_high": 361.20001220703125,
+        "eod_low": 355.29998779296875,
+        "eod_close": 357.75,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 696.85,
+        "target1": 726.51,
+        "target2": 746.29,
+        "stop": 681.85,
+        "verdict": "WATCH",
+        "eod_open": 684.5999755859375,
+        "eod_high": 705.0,
+        "eod_low": 681.9000244140625,
+        "eod_close": 696.4000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 332.55,
+        "target1": 343.64,
+        "target2": 351.03,
+        "stop": 330.45,
+        "verdict": "WATCH",
+        "eod_open": 332.0,
+        "eod_high": 333.1000061035156,
+        "eod_low": 328.95001220703125,
+        "eod_close": 330.29998779296875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TITAN",
+        "entry": 5089.85,
+        "target1": 5204.96,
+        "target2": 5281.69,
+        "stop": 5049.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 5084.7001953125,
+        "eod_high": 5089.7998046875,
+        "eod_low": 5050.0,
+        "eod_close": 5079.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 6,
+      "false_negatives": 0
+    }
   }
 ]

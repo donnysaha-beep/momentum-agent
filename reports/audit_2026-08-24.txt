@@ -1,0 +1,74 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, August 24 2026
+  Layer 3 | 01:37 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         MANAPPURAM   | Verdict: TRADE NOW
+               Entry: Rs 362.35 | Stop: Rs 358.7 | T1: Rs 378.52
+               EOD: O:358.95001220703125 H:369.8999938964844 L:358.75 C:365.04998779296875
+               Triggered but no target/stop hit — closed at Rs 365.04998779296875 (+0.8%)
+
+  [MISSED]     SIEMENS      | Verdict: WATCH
+               Entry: Rs 3998.85 | Stop: Rs 3908.15 | T1: Rs 4157.92
+               EOD: O:3908.199951171875 H:4117.0 L:3908.199951171875 C:4114.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HINDALCO     | Verdict: WATCH
+               Entry: Rs 1057.15 | Stop: Rs 1045.15 | T1: Rs 1092.58
+               EOD: O:1047.6500244140625 H:1058.5 L:1043.4000244140625 C:1058.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     FEDERALBNK   | Verdict: WATCH
+               Entry: Rs 360.3 | Stop: Rs 358.75 | T1: Rs 370.0
+               EOD: O:360.0 H:361.20001220703125 L:355.29998779296875 C:357.75
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IIFL         | Verdict: WATCH
+               Entry: Rs 696.85 | Stop: Rs 681.85 | T1: Rs 726.51
+               EOD: O:684.5999755859375 H:705.0 L:681.9000244140625 C:696.4000244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 332.55 | Stop: Rs 330.45 | T1: Rs 343.64
+               EOD: O:332.0 H:333.1000061035156 L:328.95001220703125 C:330.29998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TITAN        | Verdict: TRADE NOW
+               Entry: Rs 5089.85 | Stop: Rs 5049.95 | T1: Rs 5204.96
+               EOD: O:5084.7001953125 H:5089.7998046875 L:5050.0 C:5079.0
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (50 days tracked)
+=================================================================
+  Total Trades    : 95
+  Win Rate        : 3.2%
+  Good Wins       : 3
+  Good Losses     : 33
+  False Positives : 59
+  Valid Skips     : 13
+  Missed Trades   : 173
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
