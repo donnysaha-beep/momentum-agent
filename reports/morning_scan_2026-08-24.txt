@@ -1,0 +1,118 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Monday, August 24 2026 02:21 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24252.0  | Today: +0.1%  | 1W: -0.5%
+  EMA20: BELOW  | EMA50: ABOVE
+  India VIX: 11.2  (+4.1%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Finance (+1.9%) | NewEconomy (+1.2%) | Metals (+0.7%)
+  Lagging : IT (-0.5%) | Auto (-0.7%) | FMCG (-0.8%)
+
+Found 63 momentum stocks → 6 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    FEDERALBNK   Rs   361.0   +1.6%   60.8   1.0x   -2.5%   +1.5%  0.7x    9/10   A+
+2    NYKAA        Rs   334.0   +1.1%   57.8   0.9x   -3.2%   +1.0%  0.4x    9/10   A+
+3    IDFCFIRSTB   Rs    86.8   +1.1%   64.4   0.6x   +0.0%   +1.0%  1.0x    9/10   A+
+4    MANAPPURAM   Rs   357.5   +2.4%   55.9   1.3x   -3.6%   +2.3% -0.0x    8/10   A+
+5    AUBANK       Rs  1108.2   +1.9%   64.0   1.2x   +0.0%   +1.8%  1.7x    8/10   A+
+6    SHRIRAMFIN   Rs  1130.0   +0.2%   61.0   0.5x   -1.0%   +0.1%  1.2x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  FEDERALBNK (Banking) — Rs361.0 | Grade A+ | 9/10
+  52w: Rs189.25 — Rs370.43 | ATR: 1.82%/day | Ext: 0.69x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.5%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs334.0 | Grade A+ | 9/10
+  52w: Rs224.94 — Rs344.9 | ATR: 2.32%/day | Ext: 0.41x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs86.75 | Grade A+ | 9/10
+  52w: Rs58.68 — Rs86.75 | ATR: 1.66%/day | Ext: 1.03x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MANAPPURAM (Finance) — Rs357.5 | Grade A+ | 8/10
+  52w: Rs249.98 — Rs370.78 | ATR: 3.0%/day | Ext: -0.01x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.3%)
+    [+] Not ATR-extended (-0.0x ATR from SMA20)
+    [+] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  AUBANK (Banking) — Rs1108.2 | Grade A+ | 8/10
+  52w: Rs693.63 — Rs1108.2 | ATR: 2.15%/day | Ext: 1.66x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SHRIRAMFIN (Finance) — Rs1130.0 | Grade A+ | 8/10
+  52w: Rs564.99 — Rs1141.0 | ATR: 2.28%/day | Ext: 1.19x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [+] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
