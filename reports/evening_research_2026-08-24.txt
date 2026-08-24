@@ -63,7 +63,7 @@ IIFL           Rs   696.4   +2.4%  +25.1%   +23.2%   80.4  3.6x   AVOID
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs740.5B | P/E: 33.162163
+  Financial Services | Rs740.1B | P/E: 33.162163
   Price: Rs85.89  |  52w range: Rs58.68 — Rs86.75
 
   PERFORMANCE vs NIFTY:
@@ -303,7 +303,7 @@ IIFL           Rs   696.4   +2.4%  +25.1%   +23.2%   80.4  3.6x   AVOID
 
 -----------------------------------------------------------------
 
-  AUBANK — AUBANK
+  AUBANK — AU Small Finance Bank Limited
   Financial Services | Rs834.4B | P/E: 29.478697
   Price: Rs1114.0  |  52w range: Rs693.63 — Rs1114.0
 
@@ -400,11 +400,11 @@ IIFL           Rs   696.4   +2.4%  +25.1%   +23.2%   80.4  3.6x   AVOID
     [+] Within 2.7% of 52w high (breakout zone)
 
   RECENT NEWS:
+    * Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
     * Grasim Industries Ltd (BOM:500300) (Q1 2027) Earnings Call Highlights: Record Revenue and ...
     * India's Grasim Industries swings to first-quarter profit as core business improves
     * India's Berger Paints posts quarterly profit jump on strong demand
     * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
-    * India's Aditya Birla Renewables to buy Sprng Energy from Shell
 
 -----------------------------------------------------------------
 
