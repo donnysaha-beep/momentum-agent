@@ -1,0 +1,76 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, August 25 2026 02:17 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs24219.05  | Today: -0.1%  | 1W: -0.3%
+  EMA20: BELOW  | EMA50: ABOVE
+  India VIX: 11.53  (+3.0%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
+  Lagging : Electricals (+nan%) | NewEconomy (+nan%) | PSU (-0.3%)
+
+Found 47 momentum stocks → 3 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    JSWSTEEL     Rs  1327.0   +2.6%   64.0   2.2x   -0.2%   +2.7%  1.6x    8/10   A+
+2    MANAPPURAM   Rs   365.1   +2.1%   60.5   1.3x   -1.5%   +2.2%  0.7x    8/10   A+
+3    BAJAJ-AUTO   Rs 11800.0   +0.8%   65.5   0.9x   -0.5%   +1.0%  0.8x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  JSWSTEEL (Metals) — Rs1327.0 | Grade A+ | 8/10
+  52w: Rs1020.74 — Rs1330.0 | ATR: 1.93%/day | Ext: 1.55x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.7%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MANAPPURAM (Finance) — Rs365.05 | Grade A+ | 8/10
+  52w: Rs249.98 — Rs370.78 | ATR: 2.97%/day | Ext: 0.65x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.2%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BAJAJ-AUTO (Auto) — Rs11800.0 | Grade A+ | 8/10
+  52w: Rs8506.78 — Rs11856.0 | ATR: 1.68%/day | Ext: 0.79x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [-] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
