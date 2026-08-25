@@ -1,25 +1,36 @@
 =================================================================
-  MOMENTUM SCANNER v2 (NSE) — Tuesday, August 25 2026 02:17 AM
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, August 25 2026 03:24 AM
 =================================================================
 
-MARKET REGIME: CAUTION [REDUCE SIZE]
+MARKET REGIME: NEUTRAL [SELECTIVE]
   Nifty 50:  Rs24219.05  | Today: -0.1%  | 1W: -0.3%
   EMA20: BELOW  | EMA50: ABOVE
   India VIX: 11.53  (+3.0%)
-
-  Trade only A+ grade setups. Reduce position size by 50%.
 
 SECTOR PERFORMANCE (today avg):
   Leading : Energy (+nan%) | IT (+nan%) | Banking (+nan%)
   Lagging : Electricals (+nan%) | NewEconomy (+nan%) | PSU (-0.3%)
 
-Found 47 momentum stocks → 3 pass regime filter.
+Found 47 momentum stocks → 16 pass regime filter.
 
 #    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
 --------------------------------------------------------------------------------
 1    JSWSTEEL     Rs  1327.0   +2.6%   64.0   2.2x   -0.2%   +2.7%  1.6x    8/10   A+
 2    MANAPPURAM   Rs   365.1   +2.1%   60.5   1.3x   -1.5%   +2.2%  0.7x    8/10   A+
 3    BAJAJ-AUTO   Rs 11800.0   +0.8%   65.5   0.9x   -0.5%   +1.0%  0.8x    8/10   A+
+4    SIEMENS      Rs  4114.0   +5.0%   70.1   2.9x   +0.0%   +5.1%  2.0x    7/10   A
+5    AUBANK       Rs  1114.0   +0.5%   65.2   1.0x   +0.0%   +0.7%  1.8x    7/10   A
+6    IDFCFIRSTB   Rs    85.9   -1.0%   59.2   0.8x   -1.0%   -0.9%  0.4x    7/10   A
+7    SAIL         Rs   179.7   +3.6%   61.2   2.5x  -12.8%   +3.7%  1.3x    6/10   A
+8    IIFL         Rs   696.4   +2.4%   80.4   1.6x   +0.0%   +2.6%  3.6x    6/10   A
+9    HINDALCO     Rs  1058.5   +2.4%   60.8   0.8x   -7.5%   +2.5%  1.4x    6/10   A
+10   FEDERALBNK   Rs     nan   +nan%   60.8   1.1x   +nan%   +1.5%  0.0x    6/10   A
+11   PIDILITIND   Rs  1660.0   +0.7%   54.8   0.5x   -2.4%   +0.8%  0.0x    6/10   A
+12   APOLLOHOSP   Rs  8702.0   +0.1%   45.7   0.7x   -3.7%   +0.2% -0.8x    6/10   A
+13   M&M          Rs  3414.1   +0.1%   57.3   0.5x   -9.3%   +0.2%  0.1x    6/10   A
+14   SHRIRAMFIN   Rs  1119.0   -1.0%   57.5   0.7x   -1.9%   -0.8%  0.6x    6/10   A
+15   RBLBANK      Rs   388.0   -1.1%   58.1   0.8x   -1.1%   -1.0%  0.6x    6/10   A
+16   HAL          Rs  4906.0   -1.9%   57.7   0.6x   -3.8%   -1.7%  0.5x    6/10   A
 
 COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
          52wH% = distance from 52w high | RS = relative to Nifty today |
@@ -66,6 +77,97 @@ COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
     [+] Outperforming Nifty today (+1.0%)
     [+] Not ATR-extended (0.8x ATR from SMA20)
     [-] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SIEMENS (Infra) — Rs4114.0 | Grade A | 7/10
+  52w: Rs2834.67 — Rs4114.0 | ATR: 2.55%/day | Ext: 2.0x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.1%)
+    [-] Not ATR-extended (2.0x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  AUBANK (Banking) — Rs1114.0 | Grade A | 7/10
+  52w: Rs693.63 — Rs1114.0 | ATR: 2.08%/day | Ext: 1.83x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.7%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs85.89 | Grade A | 7/10
+  52w: Rs58.68 — Rs86.75 | ATR: 1.68%/day | Ext: 0.38x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.9%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SAIL (Metals) — Rs179.65 | Grade A | 6/10
+  52w: Rs117.19 — Rs206.06 | ATR: 3.19%/day | Ext: 1.3x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.7%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IIFL (Finance) — Rs696.4 | Grade A | 6/10
+  52w: Rs416.27 — Rs696.4 | ATR: 2.9%/day | Ext: 3.58x
+    [-] RSI > 75 (overbought)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.6%)
+    [-] Not ATR-extended (3.6x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HINDALCO (Metals) — Rs1058.5 | Grade A | 6/10
+  52w: Rs697.76 — Rs1143.73 | ATR: 2.28%/day | Ext: 1.4x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.5%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  FEDERALBNK (Banking) — Rsnan | Grade A | 6/10
+  52w: Rs189.25 — Rs370.43 | ATR: nan%/day | Ext: 0x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.5%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Banking)
     [+] RS Accelerating (last 10d > prior 10d)
 
 =================================================================
