@@ -1,0 +1,568 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — August 25, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs24334.55  1D: +0.5%  1W: +0.7%  1M: +1.4%  3M: +2.6%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+SHRIRAMFIN     Rs  1138.5   +1.7%   +9.7%    +8.2%   61.7  1.2x   WATCH NOW
+BAJAJ-AUTO     Rs 11927.0   +1.1%   +6.7%    +5.2%   68.5  1.3x   WATCH NOW
+JSWSTEEL       Rs  1320.3   -0.5%   +6.1%    +4.7%   61.5  1.2x   WATCH NOW
+MANAPPURAM     Rs   367.4   +0.7%   +2.4%    +1.0%   61.8  0.9x   WATCH NOW
+APOLLOHOSP     Rs  8889.0   +2.1%   +0.6%    -0.8%   54.6  0.3x   WATCH NOW
+IIFL           Rs   666.2   -4.3%  +16.2%   +14.8%   66.0  1.7x   WATCH
+SAIL           Rs   184.6   +2.8%  +13.5%   +12.1%   66.0  2.0x   WATCH
+HINDALCO       Rs  1051.0   -0.7%  +11.2%    +9.8%   58.4  0.9x   WATCH
+SIEMENS        Rs  4090.5   -0.6%  +10.6%    +9.2%   67.6  1.6x   WATCH
+AUBANK         Rs  1128.6   +1.3%   +7.4%    +6.0%   68.2  2.2x   WATCH
+M&M            Rs  3443.0   +0.8%   +6.3%    +4.9%   60.0  0.5x   WATCH
+RBLBANK        Rs   384.0   -1.0%   +6.1%    +4.7%   53.6 -0.1x   WATCH
+PIDILITIND     Rs  1651.1   -0.5%   +2.5%    +1.1%   52.5 -0.3x   WATCH
+IDFCFIRSTB     Rs    85.0   -1.0%   +0.4%    -1.0%   54.4 -0.2x   WATCH
+FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  SHRIRAMFIN — Shriram Finance Limited
+  Financial Services | Rs2.7T | P/E: 20.107737
+  Price: Rs1138.5  |  52w range: Rs564.99 — Rs1141.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.7%  vs Nifty +0.5%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  +2.7%  vs Nifty +0.7%
+    1M:  +9.7%  vs Nifty +1.4%  -> RS: +8.2% (OUTPERFORMING)
+    3M:  +20.2%  vs Nifty +2.6%  -> RS: +17.7% (OUTPERFORMING)
+    6M:  +5.5%
+
+  TREND HEALTH:
+    RSI: 61.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.26%
+    ATR extension from SMA20: 1.17x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.57x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1099.89 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.2% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * Shriram Finance Ltd (BOM:511218) Q1 2027 Earnings Call Highlights: Robust Profit Growth and ...
+    * India's Shriram Finance expects lower borrowing costs after profit surge
+    * Mitsubishi UFJ Financial Group Q4 Earnings Call Highlights
+    * Shriram Finance Ltd (BOM:511218) Q4 2026 Earnings Call Highlights: Robust Profit Growth and ...
+
+-----------------------------------------------------------------
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs3.3T | P/E: 28.392212
+  Price: Rs11927.0  |  52w range: Rs8506.78 — Rs11927.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty +0.5%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  +2.8%  vs Nifty +0.7%
+    1M:  +6.7%  vs Nifty +1.4%  -> RS: +5.2% (OUTPERFORMING)
+    3M:  +14.2%  vs Nifty +2.6%  -> RS: +11.6% (OUTPERFORMING)
+    6M:  +24.7%
+
+  TREND HEALTH:
+    RSI: 68.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.67%
+    ATR extension from SMA20: 1.29x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.65x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11629.05 (-2.5%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Bain Capital-backed Dhoot Transmission bets on India EV shift to drive growth
+    * Indian EV startup River raises $120M Series C to scale production, launch more models
+    * Bajaj Auto Ltd (BOM:532977) Q1 2027 Earnings Call Highlights: Record Growth and Strategic Expansions
+    * India's Bajaj Auto deepens EV push with motorcycle plans, Chetak expansion
+    * India's Hero MotoCorp to invest about $104 million in Ather Energy
+
+-----------------------------------------------------------------
+
+  JSWSTEEL — JSWSTEEL
+  Basic Materials | Rs3.2T | P/E: 12.707411
+  Price: Rs1320.3  |  52w range: Rs1020.74 — Rs1330.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.5%  vs Nifty +0.5%  -> RS: -1.0% (UNDERPERFORMING)
+    1W:  +4.2%  vs Nifty +0.7%
+    1M:  +6.1%  vs Nifty +1.4%  -> RS: +4.7% (OUTPERFORMING)
+    3M:  +2.6%  vs Nifty +2.6%  -> RS: +0.1%
+    6M:  +6.4%
+
+  TREND HEALTH:
+    RSI: 61.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.9%
+    ATR extension from SMA20: 1.17x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.73x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1282.73 (-2.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * JSW Steel Ltd (BOM:500228) Q1 2027 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's JSW Steel beats profit view on higher prices
+    * JSW Steel Ltd (BOM:500228) Q4 2026 Earnings Call Highlights: Strong Financial Performance Amid ...
+    * India's JSW Steel posts two-fold quarterly profit rise on price recovery
+    * POSCO Deepens India Push With JSW in Landmark Steel Plant Deal
+
+-----------------------------------------------------------------
+
+  MANAPPURAM — Manappuram Finance Limited
+  Financial Services | Rs345.2B | P/E: 21.976677
+  Price: Rs367.45  |  52w range: Rs249.98 — Rs370.78
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.7%  vs Nifty +0.5%  -> RS: +0.2%
+    1W:  +6.0%  vs Nifty +0.7%
+    1M:  +2.4%  vs Nifty +1.4%  -> RS: +1.0% (OUTPERFORMING)
+    3M:  +11.6%  vs Nifty +2.6%  -> RS: +9.0% (OUTPERFORMING)
+    6M:  +21.5%
+
+  TREND HEALTH:
+    RSI: 61.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.86%
+    ATR extension from SMA20: 0.87x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.6x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs351.66 (-4.3%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.9% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Manappuram Finance Ltd (BOM:531213) (Q1 2027) Earnings Call Highlights: Gold Loan Surge Drives ...
+    * India's Manappuram Finance beats profit view on strong loan growth, microfinance recovery
+    * Indian gold-loan financier Muthoot Finance's profit doubles on strong loan growth
+    * Indian lender Manappuram gets RBI nod for Bain Capital to take joint control
+    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 61.168453
+  Price: Rs8889.0  |  52w range: Rs6776.6 — Rs9039.48
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty +0.5%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +0.8%  vs Nifty +0.7%
+    1M:  +0.6%  vs Nifty +1.4%  -> RS: -0.8% (UNDERPERFORMING)
+    3M:  +7.8%  vs Nifty +2.6%  -> RS: +5.2% (OUTPERFORMING)
+    6M:  +16.8%
+
+  TREND HEALTH:
+    RSI: 54.6  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 1.87%
+    ATR extension from SMA20: 0.34x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8639.19 (-2.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * 3 Moves to Protect You From a 60/40 Nightmare
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) (Q1 2027) Earnings Call Highlights: Revenue Surges ...
+    * India's Apollo Hospitals beats quarterly profit on demand for complex care
+    * India's Manipal Health jumps 10.5% in market debut, valued at $9 billion
+    * India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution
+
+-----------------------------------------------------------------
+
+  IIFL — IIFL Finance Limited
+  Financial Services | Rs283.3B | P/E: 13.250796
+  Price: Rs666.25  |  52w range: Rs416.27 — Rs696.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  -4.3%  vs Nifty +0.5%  -> RS: -4.8% (UNDERPERFORMING)
+    1W:  +7.0%  vs Nifty +0.7%
+    1M:  +16.2%  vs Nifty +1.4%  -> RS: +14.8% (OUTPERFORMING)
+    3M:  +40.3%  vs Nifty +2.6%  -> RS: +37.7% (OUTPERFORMING)
+    6M:  +30.4%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.38%
+    ATR extension from SMA20: 1.68x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.23x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs632.5 (-5.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (3.23x avg) = conviction
+    [~] Extended 1.68x from SMA20 — wait for pullback
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * IIFL Finance Ltd (BOM:532636) Q1 2027 Earnings Call Highlights: Strong Profitability Amidst ...
+    * India's IIFL Finance revives dollar-bond plan, to meet investors, sources say
+    * India's IIFL Finance set to launch its largest public bond sale, sources say
+    * IIFL Finance Ltd (BOM:532636) Q3 2026 Earnings Call Highlights: Robust Growth in Gold Loans and ...
+    * Knight FinTech raises $23.6m in Accel-led Series A round
+
+-----------------------------------------------------------------
+
+  SAIL — Steel Authority of India Limited
+  Basic Materials | Rs762.5B | P/E: 17.203169
+  Price: Rs184.59  |  52w range: Rs117.19 — Rs206.06
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.8%  vs Nifty +0.5%  -> RS: +2.3% (OUTPERFORMING)
+    1W:  +8.4%  vs Nifty +0.7%
+    1M:  +13.5%  vs Nifty +1.4%  -> RS: +12.1% (OUTPERFORMING)
+    3M:  -9.4%  vs Nifty +2.6%  -> RS: -12.0% (UNDERPERFORMING)
+    6M:  +15.7%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 3.16%
+    ATR extension from SMA20: 1.96x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 3.17x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs175.84 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.17x avg) = conviction
+    [~] Extended 1.96x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Steel Authority Of India Ltd (BOM:500113) (Q1 2027) Earnings Call Highlights: EBITDA Surges ...
+    * Indian steelmaker SAIL's quarterly profit rises as domestic prices improve
+    * India explores Russian coking coal assets, more nickel supplies, sources say
+    * Why The Story Around Steel Authority of India (NSEI:SAIL) Is Shifting After New Fair Value Update
+    * Steel Authority Of India Ltd (BOM:500113) Q4 2026 Earnings Call Highlights: Strong Profit ...
+
+-----------------------------------------------------------------
+
+  HINDALCO — Hindalco Industries Limited
+  Basic Materials | Rs2.3T | P/E: 13.926726
+  Price: Rs1051.05  |  52w range: Rs697.76 — Rs1143.73
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty +0.5%  -> RS: -1.2% (UNDERPERFORMING)
+    1W:  +0.9%  vs Nifty +0.7%
+    1M:  +11.2%  vs Nifty +1.4%  -> RS: +9.8% (OUTPERFORMING)
+    3M:  -4.3%  vs Nifty +2.6%  -> RS: -6.9% (UNDERPERFORMING)
+    6M:  +16.4%
+
+  TREND HEALTH:
+    RSI: 58.4  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.26%
+    ATR extension from SMA20: 0.87x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.71x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1015.49 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Hindustan Copper plans supply of Chilean copper to Hindalco and Adani
+    * India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say
+    * Hindalco Industries Ltd (FRA:HID) (Q1 2027) Earnings Call Highlights: Record EBITDA and ...
+    * India's Hindalco posts profit surge as metal prices strengthen
+    * Enervoxa eyes rare earth processing project in India
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.5T | P/E: 82.171555
+  Price: Rs4090.5  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty +0.5%  -> RS: -1.1% (UNDERPERFORMING)
+    1W:  +3.4%  vs Nifty +0.7%
+    1M:  +10.6%  vs Nifty +1.4%  -> RS: +9.2% (OUTPERFORMING)
+    3M:  +11.8%  vs Nifty +2.6%  -> RS: +9.2% (OUTPERFORMING)
+    6M:  +27.8%
+
+  TREND HEALTH:
+    RSI: 67.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.53%
+    ATR extension from SMA20: 1.59x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.35x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3935.0 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.6% of 52w high (breakout zone)
+    [~] Extended 1.59x from SMA20 — wait for pullback
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Siemens Ltd (BOM:500550) Q4 2026 Earnings Call Highlights: Strong Order Growth Amid ...
+
+-----------------------------------------------------------------
+
+  AUBANK — AU Small Finance Bank Limited
+  Financial Services | Rs845.3B | P/E: 29.888771
+  Price: Rs1128.6  |  52w range: Rs693.63 — Rs1128.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.5%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +4.9%  vs Nifty +0.7%
+    1M:  +7.4%  vs Nifty +1.4%  -> RS: +6.0% (OUTPERFORMING)
+    3M:  +11.7%  vs Nifty +2.6%  -> RS: +9.1% (OUTPERFORMING)
+    6M:  +11.8%
+
+  TREND HEALTH:
+    RSI: 68.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.15%
+    ATR extension from SMA20: 2.18x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.17x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1092.2 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.17x avg) = conviction
+    [~] Extended 2.18x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Indian shares snap losing run on oil slide, earnings optimism
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q1 2027 Earnings Call Highlights: Strong Profit and Loan ...
+    * Some lenders hike rates on FX deposits for non-resident Indians
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q4 2026 Earnings Call Highlights: Robust Profit Growth ...
+    * AU Small Finance Bank Ltd (NSE:AUBANK) Q3 2026 Earnings Call Highlights: Robust Growth in ...
+
+-----------------------------------------------------------------
+
+  M&M — Mahindra & Mahindra Limited
+  Consumer Cyclical | Rs4.1T | P/E: 20.92246
+  Price: Rs3443.0  |  52w range: Rs2900.64 — Rs3762.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.8%  vs Nifty +0.5%  -> RS: +0.4%
+    1W:  +0.6%  vs Nifty +0.7%
+    1M:  +6.3%  vs Nifty +1.4%  -> RS: +4.9% (OUTPERFORMING)
+    3M:  +12.0%  vs Nifty +2.6%  -> RS: +9.4% (OUTPERFORMING)
+    6M:  -0.9%
+
+  TREND HEALTH:
+    RSI: 60.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.84%
+    ATR extension from SMA20: 0.45x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.47x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3347.86 (-2.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * ServiceNow (NOW) Expands Multiyear AI Partnership For Enterprise Deployments
+    * Tech Mahindra, ServiceNow expand partnership to advance enterprise AI
+    * Volkswagen open to ceding majority control of India unit – report
+    * Divgi TorqTransfer Systems Ltd (BOM:543812) (Q1 2027) Earnings Call Highlights: Navigating ...
+    * Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs595.2B | P/E: 31.709332
+  Price: Rs384.0  |  52w range: Rs249.3 — Rs392.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.5%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  +0.3%  vs Nifty +0.7%
+    1M:  +6.1%  vs Nifty +1.4%  -> RS: +4.7% (OUTPERFORMING)
+    3M:  +11.8%  vs Nifty +2.6%  -> RS: +9.2% (OUTPERFORMING)
+    6M:  +22.5%
+
+  TREND HEALTH:
+    RSI: 53.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.08%
+    ATR extension from SMA20: -0.07x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.47x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs372.02 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.2% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * RBL Bank Ltd (BOM:540065) Q1 2027 Earnings Call Highlights: Strong Advances Growth and ...
+    * India's RBL Bank posts higher profit on strong loan growth
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.7T | P/E: 63.357635
+  Price: Rs1651.1  |  52w range: Rs1264.49 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.5%  vs Nifty +0.5%  -> RS: -1.0% (UNDERPERFORMING)
+    1W:  -1.4%  vs Nifty +0.7%
+    1M:  +2.5%  vs Nifty +1.4%  -> RS: +1.1% (OUTPERFORMING)
+    3M:  +12.5%  vs Nifty +2.6%  -> RS: +9.9% (OUTPERFORMING)
+    6M:  +11.8%
+
+  TREND HEALTH:
+    RSI: 52.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.72%
+    ATR extension from SMA20: -0.35x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.44x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1608.55 (-2.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 3.0% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
+
+-----------------------------------------------------------------
+
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs732.8B | P/E: 33.073933
+  Price: Rs85.0  |  52w range: Rs58.68 — Rs86.75
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.5%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  +0.3%  vs Nifty +0.7%
+    1M:  +0.4%  vs Nifty +1.4%  -> RS: -1.0% (UNDERPERFORMING)
+    3M:  +21.4%  vs Nifty +2.6%  -> RS: +18.8% (OUTPERFORMING)
+    6M:  +2.8%
+
+  TREND HEALTH:
+    RSI: 54.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.68%
+    ATR extension from SMA20: -0.22x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.96x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs82.86 (-2.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.0% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Indian shares snap losing run on oil slide, earnings optimism
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+    * India's IDFC First Bank pays 6.45 billion rupees to settle claims tied to suspected fraud
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs856.8B | P/E: 18.415606
+  Price: Rs346.95  |  52w range: Rs189.25 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  -3.9%  vs Nifty +0.5%  -> RS: -4.4% (UNDERPERFORMING)
+    1W:  -2.0%  vs Nifty +0.7%
+    1M:  -1.7%  vs Nifty +1.4%  -> RS: -3.1% (UNDERPERFORMING)
+    3M:  +20.4%  vs Nifty +2.6%  -> RS: +17.8% (OUTPERFORMING)
+    6M:  +20.8%
+
+  TREND HEALTH:
+    RSI: 46.8  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.15%
+    ATR extension from SMA20: -1.22x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.38x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs335.77 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (3.38x avg) = conviction
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * India's Federal Bank latest lender to tap dollar debt market via GIFT City, bankers say
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Modest Fair Value Lift On Refined Analyst Assumptions
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
