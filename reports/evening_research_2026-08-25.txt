@@ -99,7 +99,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   JSWSTEEL — JSWSTEEL
-  Basic Materials | Rs3.2T | P/E: 12.707411
+  Basic Materials | Rs3.2T | P/E: 13.023279
   Price: Rs1320.3  |  52w range: Rs1020.74 — Rs1330.0
 
   PERFORMANCE vs NIFTY:
@@ -204,7 +204,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   IIFL — IIFL Finance Limited
-  Financial Services | Rs283.3B | P/E: 13.250796
+  Financial Services | Rs283.3B | P/E: 13.569247
   Price: Rs666.25  |  52w range: Rs416.27 — Rs696.4
 
   PERFORMANCE vs NIFTY:
@@ -242,7 +242,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   SAIL — Steel Authority of India Limited
-  Basic Materials | Rs762.5B | P/E: 17.203169
+  Basic Materials | Rs762.5B | P/E: 17.834782
   Price: Rs184.59  |  52w range: Rs117.19 — Rs206.06
 
   PERFORMANCE vs NIFTY:
@@ -277,7 +277,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   HINDALCO — Hindalco Industries Limited
-  Basic Materials | Rs2.3T | P/E: 13.926726
+  Basic Materials | Rs2.3T | P/E: 14.267002
   Price: Rs1051.05  |  52w range: Rs697.76 — Rs1143.73
 
   PERFORMANCE vs NIFTY:
@@ -311,7 +311,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   SIEMENS — Siemens Limited
-  Industrials | Rs1.5T | P/E: 82.171555
+  Industrials | Rs1.5T | P/E: 86.46163
   Price: Rs4090.5  |  52w range: Rs2834.67 — Rs4114.0
 
   PERFORMANCE vs NIFTY:
@@ -451,7 +451,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.7T | P/E: 63.357635
+  Basic Materials | Rs1.7T | P/E: 63.749035
   Price: Rs1651.1  |  52w range: Rs1264.49 — Rs1701.5
 
   PERFORMANCE vs NIFTY:
@@ -486,7 +486,7 @@ FEDERALBNK     Rs   346.9   -3.9%   -1.7%    -3.1%   46.8 -1.2x   WATCH
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs732.8B | P/E: 33.073933
+  Financial Services | Rs732.8B | P/E: 32.818535
   Price: Rs85.0  |  52w range: Rs58.68 — Rs86.75
 
   PERFORMANCE vs NIFTY:
