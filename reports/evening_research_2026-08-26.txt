@@ -28,7 +28,7 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
 =================================================================
 
   AUBANK — AU Small Finance Bank Limited
-  Financial Services | Rs834.0B | P/E: 29.103504
+  Financial Services | Rs834.0B | P/E: 29.535809
   Price: Rs1113.5  |  52w range: Rs693.63 — Rs1128.6
 
   PERFORMANCE vs NIFTY:
@@ -96,7 +96,7 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
 -----------------------------------------------------------------
 
   MANAPPURAM — Manappuram Finance Limited
-  Financial Services | Rs343.2B | P/E: 22.199272
+  Financial Services | Rs343.2B | P/E: 22.348623
   Price: Rs365.4  |  52w range: Rs249.98 — Rs370.78
 
   PERFORMANCE vs NIFTY:
@@ -158,16 +158,16 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
     [+] Within 2.1% of 52w high (breakout zone)
 
   RECENT NEWS:
+    * Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million
     * Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading
     * Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading
     * Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading
     * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
-    * India's ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say
 
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 59.053555
+  Healthcare | Rs1.3T | P/E: 60.50452
   Price: Rs8766.5  |  52w range: Rs6776.6 — Rs9039.48
 
   PERFORMANCE vs NIFTY:
@@ -273,7 +273,7 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
 -----------------------------------------------------------------
 
   SHRIRAMFIN — Shriram Finance Limited
-  Financial Services | Rs2.6T | P/E: 19.397675
+  Financial Services | Rs2.6T | P/E: 19.750795
   Price: Rs1117.5  |  52w range: Rs564.99 — Rs1141.0
 
   PERFORMANCE vs NIFTY:
@@ -377,7 +377,7 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
 -----------------------------------------------------------------
 
   ADANIENT — Adani Enterprises Limited
-  Energy | Rs4.4T | P/E: 52.118572
+  Energy | Rs4.4T | P/E: 54.084114
   Price: Rs3112.0  |  52w range: Rs1758.01 — Rs3212.1
 
   PERFORMANCE vs NIFTY:
@@ -518,7 +518,7 @@ SAIL           Rs   194.9   +5.6%  +17.5%   +16.6%   73.4  3.2x   AVOID
 -----------------------------------------------------------------
 
   SAIL — Steel Authority of India Limited
-  Basic Materials | Rs805.0B | P/E: 18.3349
+  Basic Materials | Rs805.0B | P/E: 18.812742
   Price: Rs194.9  |  52w range: Rs117.19 — Rs206.06
 
   PERFORMANCE vs NIFTY:
