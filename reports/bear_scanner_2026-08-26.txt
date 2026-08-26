@@ -1,26 +1,55 @@
 =================================================================
-  BEAR SCANNER — Wednesday, August 26 2026 05:04 AM IST
+  BEAR SCANNER — Wednesday, August 26 2026 05:06 AM IST
   Short-side signals for NSE India
 =================================================================
 
 NIFTY AT 10:00am: NEUTRAL
-  Price: 24316.6  |  Gap: +0.0%  |  VWAP: nan
+  Price: 24320.75  |  Gap: +0.0%  |  VWAP: nan
   ORB: 24309.95 — 24362.9
 
 REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
 
-SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
+SUMMARY: 4 SHORT NOW | 1 WATCH SHORT | 1 WAIT | 9 SKIP
 
 =================================================================
   *** SHORT NOW ***
 =================================================================
   SHORT NOW  [70% probability]
+  ABB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 7595.0
+  Gap from prev  : +0.6%  (prev Rs 7627.0 | opened Rs 7674.5)
+  Opening Range  : Rs 7609.0 — Rs 7694.0  (1.1% wide)
+  VWAP           : Rs 7665.96  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 53.9
+  ATR (daily)    : Rs 181.14
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 7608.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 7337.24  (-3.6%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 7156.1  (-6.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 7694.05  (+1.1%)  [above ORB high]
+    Risk/Reward    : 1:3.19 (T1)  |  1:5.31 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 3 shares
+    Capital needed : Rs 22,827  (margin)
+    Max loss       : Rs 255  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [+] Volume expanding — conviction confirmed
+    [+] Making lower lows — bearish continuation
+    [+] VWAP sloping downward
+
+  SHORT NOW  [70% probability]
   IIFL
   ─────────────────────────────────────────────
-  Current Price  : Rs 660.65
+  Current Price  : Rs 660.5
   Gap from prev  : -0.4%  (prev Rs 666.25 | opened Rs 663.3)
   Opening Range  : Rs 663.3 — Rs 671.5  (1.22% wide)
-  VWAP           : Rs 664.69  (BELOW, sloping DOWN)
+  VWAP           : Rs 664.68  (BELOW, sloping DOWN)
   Volume         : WEAK
   RSI (daily)    : 63.5
   ATR (daily)    : Rs 22.29
@@ -44,12 +73,12 @@ SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
   SHORT NOW  [60% probability]
   TITAN
   ─────────────────────────────────────────────
-  Current Price  : Rs 5092.5
+  Current Price  : Rs 5096.3
   Gap from prev  : +0.3%  (prev Rs 5124.8 | opened Rs 5139.2)
   Opening Range  : Rs 5110.0 — Rs 5142.8  (0.64% wide)
-  VWAP           : Rs 5115.35  (BELOW, sloping DOWN)
+  VWAP           : Rs 5115.23  (BELOW, sloping DOWN)
   Volume         : EXPANDING
-  RSI (daily)    : 66.0
+  RSI (daily)    : 66.6
   ATR (daily)    : Rs 76.1
 
   SHORT TRADE PLAN:
@@ -72,12 +101,12 @@ SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
   SHORT NOW  [50% probability]
   SAIL
   ─────────────────────────────────────────────
-  Current Price  : Rs 182.65
+  Current Price  : Rs 182.56
   Gap from prev  : +0.7%  (prev Rs 184.59 | opened Rs 185.92)
   Opening Range  : Rs 183.1 — Rs 186.67  (1.91% wide)
   VWAP           : Rs 183.62  (BELOW, sloping DOWN)
   Volume         : WEAK
-  RSI (daily)    : 65.7
+  RSI (daily)    : 65.5
   ATR (daily)    : Rs 5.65
 
   SHORT TRADE PLAN:
@@ -99,42 +128,15 @@ SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
 =================================================================
   WATCH SHORT — Set Price Alert at Entry Trigger
 =================================================================
-  WATCH SHORT — near breakdown  [60% probability]
-  ABB
-  ─────────────────────────────────────────────
-  Current Price  : Rs 7611.0
-  Gap from prev  : +0.6%  (prev Rs 7627.0 | opened Rs 7674.5)
-  Opening Range  : Rs 7609.0 — Rs 7694.0  (1.1% wide)
-  VWAP           : Rs 7666.28  (BELOW, sloping DOWN)
-  Volume         : EXPANDING
-  RSI (daily)    : 55.0
-  ATR (daily)    : Rs 179.96
-
-  SHORT TRADE PLAN:
-    Entry trigger  : Rs 7608.95  (break BELOW ORB low)
-    Target 1 (50%) : Rs 7339.01  (-3.5%)  [1.5x ATR] — cover half here
-    Target 2 (50%) : Rs 7159.05  (-5.9%)  [2.5x ATR] — trail stop for rest
-    Stop Loss      : Rs 7694.05  (+1.1%)  [above ORB high]
-    Risk/Reward    : 1:3.17 (T1)  |  1:5.28 (T2)
-
-  POSITION SIZE (NEUTRAL regime):
-    Qty            : 3 shares
-    Capital needed : Rs 22,827  (margin)
-    Max loss       : Rs 255  (if stop hit)
-
-  WHY THIS SHORT:
-    [+] Below VWAP — distribution confirmed
-    [~] Within 0.5% of ORB low (Rs 7609.0) — set alert
-
   WATCH SHORT — near breakdown  [50% probability]
   M&M
   ─────────────────────────────────────────────
-  Current Price  : Rs 3429.5
+  Current Price  : Rs 3430.4
   Gap from prev  : -0.2%  (prev Rs 3443.0 | opened Rs 3436.0)
   Opening Range  : Rs 3425.9 — Rs 3447.9  (0.64% wide)
-  VWAP           : Rs 3434.69  (BELOW, sloping DOWN)
+  VWAP           : Rs 3434.66  (BELOW, sloping DOWN)
   Volume         : WEAK
-  RSI (daily)    : 59.3
+  RSI (daily)    : 59.4
   ATR (daily)    : Rs 61.1
 
   SHORT TRADE PLAN:
@@ -154,21 +156,26 @@ SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
     [~] Within 0.5% of ORB low (Rs 3425.89990234375) — set alert
 
 =================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  BHEL  [40%]  |  Rs 417.6  |  ORB: 415.6—420.45  |  VWAP: 418.7
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
   SKIP — No Valid Short Setup
 =================================================================
-  MANAPPURAM  [50%]  |  Rs 368.75
+  MANAPPURAM  [50%]  |  Rs 368.6
     [-] Stock holding above ORB low — no breakdown yet
-  ADANIENT  [50%]  |  Rs 3133.0
+  ADANIENT  [50%]  |  Rs 3132.3
     [-] Stock holding above ORB low — no breakdown yet
-  BAJAJ-AUTO  [40%]  |  Rs 11886.0
+  BAJAJ-AUTO  [40%]  |  Rs 11889.0
+    [-] Stock holding above ORB low — no breakdown yet
     [-] Above VWAP — no institutional selling confirmed
-  APOLLOHOSP  [40%]  |  Rs 8799.0
+  SUNPHARMA  [40%]  |  Rs 1915.8
+    [-] Stock holding above ORB low — no breakdown yet
+  APOLLOHOSP  [30%]  |  Rs 8798.5
     [-] Above VWAP — no institutional selling confirmed
-  BHEL  [40%]  |  Rs 417.95
-    [-] Stock holding above ORB low — no breakdown yet
-  SUNPHARMA  [40%]  |  Rs 1915.9
-    [-] Stock holding above ORB low — no breakdown yet
-  DIVISLAB  [30%]  |  Rs 8901.5
+  DIVISLAB  [30%]  |  Rs 8903.0
     [-] Stock holding above ORB low — no breakdown yet
     [-] Above VWAP — no institutional selling confirmed
   ICICIBANK  [30%]  |  Rs 1438.1
@@ -176,7 +183,7 @@ SUMMARY: 3 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 10 SKIP
   SHRIRAMFIN  [20%]  |  Rs 1132.0
     [-] Stock holding above ORB low — no breakdown yet
     [-] Above VWAP — no institutional selling confirmed
-  AUBANK  [20%]  |  Rs 1126.4
+  AUBANK  [20%]  |  Rs 1125.9
     [-] Above VWAP — no institutional selling confirmed
 
 =================================================================
