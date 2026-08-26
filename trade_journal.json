@@ -4582,5 +4582,32 @@
       "missed_trades": 6,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-26",
+    "trades": [
+      {
+        "ticker": "DIVISLAB",
+        "entry": 8860.05,
+        "target1": 9113.8,
+        "target2": 9282.96,
+        "stop": 8701.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 8739.5,
+        "eod_high": 9034.5,
+        "eod_low": 8701.5,
+        "eod_close": 9025.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 9025.0 (+1.9%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 0,
+      "false_negatives": 0
+    }
   }
 ]
