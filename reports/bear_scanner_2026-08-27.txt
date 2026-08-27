@@ -1,0 +1,95 @@
+=================================================================
+  BEAR SCANNER — Thursday, August 27 2026 03:25 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: BEARISH
+  Price: 24090.85  |  Gap: +0.3%  |  VWAP: nan
+  ORB: 24188.8 — 24296.9
+  *** Nifty broke ORB low — bearish breadth confirmed ***
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 14 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  BAJFINANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1083.0
+  Gap from prev  : +1.3%  (prev Rs 1085.0 | opened Rs 1098.8)
+  Opening Range  : Rs 1094.0 — Rs 1106.1  (1.09% wide)
+  VWAP           : Rs 1089.7  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 48.8
+  ATR (daily)    : Rs 23.11
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1093.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1059.29  (-3.2%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1036.17  (-5.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1106.15  (+1.1%)  [above ORB high]
+    Risk/Reward    : 1:2.83 (T1)  |  1:4.71 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 22 shares
+    Capital needed : Rs 24,067  (margin)
+    Max loss       : Rs 268  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  NAUKRI  [60%]  |  Rs 1330.0
+    [-] Stock holding above ORB low — no breakdown yet
+  ICICIBANK  [50%]  |  Rs 1443.0
+    [-] Stock holding above ORB low — no breakdown yet
+  BAJAJFINSV  [50%]  |  Rs 2011.0
+    [-] Above VWAP — no institutional selling confirmed
+  JSWSTEEL  [50%]  |  Rs 1337.5
+    [-] Above VWAP — no institutional selling confirmed
+  EICHERMOT  [50%]  |  Rs 8100.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  KOTAKBANK  [50%]  |  Rs 424.35
+    [-] Stock holding above ORB low — no breakdown yet
+  BHEL  [40%]  |  Rs 433.95
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SIEMENS  [40%]  |  Rs 4095.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [40%]  |  Rs 4899.0
+    [-] Above VWAP — no institutional selling confirmed
+  SUNPHARMA  [40%]  |  Rs 1913.3
+    [-] Above VWAP — no institutional selling confirmed
+  APOLLOHOSP  [40%]  |  Rs 8800.0
+    [-] Above VWAP — no institutional selling confirmed
+  TITAN  [30%]  |  Rs 5139.3
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BAJAJ-AUTO  [30%]  |  Rs 11720.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ADANIENT  [30%]  |  Rs 3159.3
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
