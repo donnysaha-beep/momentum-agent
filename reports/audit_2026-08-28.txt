@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, August 28 2026
+  Layer 3 | 10:54 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 8
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 9138.05 | Stop: Rs 9084.95 | T1: Rs 9409.53
+               EOD: O:9085.0 H:9270.0 L:9085.0 C:9239.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SAIL         | Verdict: WATCH
+               Entry: Rs 197.39 | Stop: Rs 193.25 | T1: Rs 207.44
+               EOD: O:193.3000030517578 H:200.7899932861328 L:193.3000030517578 C:200.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NATIONALUM   | Verdict: WATCH
+               Entry: Rs 393.7 | Stop: Rs 391.05 | T1: Rs 410.79
+               EOD: O:391.1000061035156 H:394.95001220703125 L:390.3500061035156 C:394.95001220703125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     WIPRO        | Verdict: WATCH
+               Entry: Rs 180.25 | Stop: Rs 178.32 | T1: Rs 185.32
+               EOD: O:178.3699951171875 H:181.77000427246094 L:178.3699951171875 C:180.9499969482422
+               Entry triggered but no target set — monitor
+
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3264.75 | Stop: Rs 3245.35 | T1: Rs 3367.71
+               EOD: O:3264.699951171875 H:3292.5 L:3229.0 C:3290.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TITAN        | Verdict: WATCH
+               Entry: Rs 5164.05 | Stop: Rs 5138.35 | T1: Rs 5278.62
+               EOD: O:5154.2998046875 H:5169.89990234375 L:5136.0 C:5169.2001953125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TCS          | Verdict: WATCH
+               Entry: Rs 2329.05 | Stop: Rs 2272.05 | T1: Rs 2416.88
+               EOD: O:2272.10009765625 H:2348.300048828125 L:2272.10009765625 C:2342.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TECHM        | Verdict: WATCH
+               Entry: Rs 1637.95 | Stop: Rs 1600.95 | T1: Rs 1692.77
+               EOD: O:1601.0 H:1642.0 L:1601.0 C:1640.9000244140625
+               Entry triggered but no target set — monitor
+
+  [FP]         IIFL         | Verdict: TRADE NOW
+               Entry: Rs 649.85 | Stop: Rs 634.05 | T1: Rs 687.21
+               EOD: O:634.0999755859375 H:666.75 L:634.0999755859375 C:659.25
+               Triggered but no target/stop hit — closed at Rs 659.25 (+1.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (53 days tracked)
+=================================================================
+  Total Trades    : 99
+  Win Rate        : 3.0%
+  Good Wins       : 3
+  Good Losses     : 34
+  False Positives : 62
+  Valid Skips     : 13
+  Missed Trades   : 183
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

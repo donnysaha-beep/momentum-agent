@@ -4678,5 +4678,144 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-08-28",
+    "trades": [
+      {
+        "ticker": "DIVISLAB",
+        "entry": 9138.05,
+        "target1": 9409.53,
+        "target2": 9590.52,
+        "stop": 9084.95,
+        "verdict": "WATCH",
+        "eod_open": 9085.0,
+        "eod_high": 9270.0,
+        "eod_low": 9085.0,
+        "eod_close": 9239.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SAIL",
+        "entry": 197.39,
+        "target1": 207.44,
+        "target2": 214.14,
+        "stop": 193.25,
+        "verdict": "WATCH",
+        "eod_open": 193.3000030517578,
+        "eod_high": 200.7899932861328,
+        "eod_low": 193.3000030517578,
+        "eod_close": 200.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NATIONALUM",
+        "entry": 393.7,
+        "target1": 410.79,
+        "target2": 422.18,
+        "stop": 391.05,
+        "verdict": "WATCH",
+        "eod_open": 391.1000061035156,
+        "eod_high": 394.95001220703125,
+        "eod_low": 390.3500061035156,
+        "eod_close": 394.95001220703125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "WIPRO",
+        "entry": 180.25,
+        "target1": 185.32,
+        "target2": 188.71,
+        "stop": 178.32,
+        "verdict": "WATCH",
+        "eod_open": 178.3699951171875,
+        "eod_high": 181.77000427246094,
+        "eod_low": 178.3699951171875,
+        "eod_close": 180.9499969482422,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "GRASIM",
+        "entry": 3264.75,
+        "target1": 3367.71,
+        "target2": 3436.35,
+        "stop": 3245.35,
+        "verdict": "WATCH",
+        "eod_open": 3264.699951171875,
+        "eod_high": 3292.5,
+        "eod_low": 3229.0,
+        "eod_close": 3290.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TITAN",
+        "entry": 5164.05,
+        "target1": 5278.62,
+        "target2": 5355.0,
+        "stop": 5138.35,
+        "verdict": "WATCH",
+        "eod_open": 5154.2998046875,
+        "eod_high": 5169.89990234375,
+        "eod_low": 5136.0,
+        "eod_close": 5169.2001953125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TCS",
+        "entry": 2329.05,
+        "target1": 2416.88,
+        "target2": 2475.43,
+        "stop": 2272.05,
+        "verdict": "WATCH",
+        "eod_open": 2272.10009765625,
+        "eod_high": 2348.300048828125,
+        "eod_low": 2272.10009765625,
+        "eod_close": 2342.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TECHM",
+        "entry": 1637.95,
+        "target1": 1692.77,
+        "target2": 1729.32,
+        "stop": 1600.95,
+        "verdict": "WATCH",
+        "eod_open": 1601.0,
+        "eod_high": 1642.0,
+        "eod_low": 1601.0,
+        "eod_close": 1640.9000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 649.85,
+        "target1": 687.21,
+        "target2": 712.11,
+        "stop": 634.05,
+        "verdict": "TRADE NOW",
+        "eod_open": 634.0999755859375,
+        "eod_high": 666.75,
+        "eod_low": 634.0999755859375,
+        "eod_close": 659.25,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 659.25 (+1.4%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 8,
+      "false_negatives": 0
+    }
   }
 ]
