@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, August 31 2026
+  Layer 3 | 07:24 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 2
+  Good Losses     : 0
+  False Positives : 4
+  Valid Skips     : 1
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         GRASIM       | Verdict: TRADE NOW
+               Entry: Rs 3284.85 | Stop: Rs 3251.45 | T1: Rs 3393.78
+               EOD: O:3284.800048828125 H:3371.0 L:3251.5 C:3371.0
+               Triggered but no target/stop hit — closed at Rs 3371.0 (+2.6%)
+
+  [WIN]        SUNPHARMA    | Verdict: TRADE NOW
+               Entry: Rs 1922.15 | Stop: Rs 1907.55 | T1: Rs 1974.48
+               EOD: O:1911.5999755859375 H:1984.800048828125 L:1905.300048828125 C:1984.800048828125
+               Hit Target 1 (Rs 1974.48) before stop — +2.72% (partial)
+
+  [FP]         NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 338.4 | Stop: Rs 333.5 | T1: Rs 350.24
+               EOD: O:333.95001220703125 H:349.54998779296875 L:333.54998779296875 C:349.54998779296875
+               Triggered but no target/stop hit — closed at Rs 349.54998779296875 (+3.3%)
+
+  [FP]         POLICYBZR    | Verdict: TRADE NOW
+               Entry: Rs 1819.95 | Stop: Rs 1796.75 | T1: Rs 1891.28
+               EOD: O:1809.800048828125 H:1875.0 L:1796.800048828125 C:1875.0
+               Triggered but no target/stop hit — closed at Rs 1875.0 (+3.0%)
+
+  [WIN]        IDFCFIRSTB   | Verdict: TRADE NOW
+               Entry: Rs 83.31 | Stop: Rs 82.61 | T1: Rs 85.79
+               EOD: O:83.01000213623047 H:85.97000122070312 L:82.5199966430664 C:85.97000122070312
+               Hit Target 1 (Rs 85.79) before stop — +2.98% (partial)
+
+  [MISSED]     FEDERALBNK   | Verdict: WATCH
+               Entry: Rs 343.25 | Stop: Rs 341.75 | T1: Rs 354.18
+               EOD: O:342.75 H:356.70001220703125 L:341.6000061035156 C:356.70001220703125
+               Would have worked — reached Target 1 (Rs 354.18)
+
+  [SKIP OK]    ICICIBANK    | Verdict: WATCH
+               Entry: Rs 12039.05 | Stop: Rs 11903.95 | T1: Rs 12364.41
+               EOD: O:1425.0999755859375 H:1454.0 L:1419.0 C:1454.0
+               Correctly watched — no valid entry formed
+
+  [FP]         PAYTM        | Verdict: TRADE NOW
+               Entry: Rs 1653.85 | Stop: Rs 1630.95 | T1: Rs 1736.91
+               EOD: O:1631.0 H:1717.0999755859375 L:1631.0 C:1717.0999755859375
+               Triggered but no target/stop hit — closed at Rs 1717.0999755859375 (+3.8%)
+
+=================================================================
+  RUNNING PERFORMANCE (54 days tracked)
+=================================================================
+  Total Trades    : 105
+  Win Rate        : 4.8%
+  Good Wins       : 5
+  Good Losses     : 34
+  False Positives : 66
+  Valid Skips     : 14
+  Missed Trades   : 184
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
