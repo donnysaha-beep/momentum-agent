@@ -1,0 +1,179 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, September 01 2026 07:55 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs24054.8  | Today: -0.1%  | 1W: -0.7%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 10.78  (-3.6%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : IT (+1.1%) | Auto (+0.1%) | FMCG (+0.1%)
+  Lagging : NewEconomy (-1.7%) | Consumer (-1.9%) | Finance (-2.2%)
+
+Found 72 momentum stocks → 17 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    BAJAJ-AUTO   Rs 12352.0   +3.7%   72.9   1.5x   +0.0%   +5.5%  2.6x    9/10   A+
+2    SIEMENS      Rs  4065.6   +0.9%   61.3   0.3x   -1.2%   +1.0%  0.7x    9/10   A+
+3    TECHM        Rs  1641.3   +0.8%   60.5   0.6x   -4.8%   +0.9%  0.7x    9/10   A+
+4    NAUKRI       Rs  1364.3   +3.9%   61.8   0.6x   -3.1%   +4.0%  1.0x    8/10   A+
+5    GRASIM       Rs  3302.8   +0.4%   57.5   0.3x   -2.3%   +1.5%  0.4x    8/10   A+
+6    JSWSTEEL     Rs  1319.2   +0.9%   56.9   0.2x   -1.6%   +1.0%  0.7x    8/10   A+
+7    HCLTECH      Rs  1365.2   +4.0%   61.6   1.3x  -18.7%   +4.2%  1.0x    7/10   A
+8    ITC          Rs   267.1   +4.5%   42.3   1.6x  -33.6%   +4.7% -1.3x    6/10   A
+9    MARICO       Rs   837.1   +2.1%   45.5   1.4x   -5.4%   +2.2% -0.7x    6/10   A
+10   HEROMOTOCO   Rs  5563.5   +2.1%   52.1   1.3x   -9.4%   +2.2% -1.1x    6/10   A
+11   INFY         Rs  1151.0   +1.5%   54.4   0.6x  -30.4%   +1.6%  0.1x    6/10   A
+12   HAL          Rs  4805.1   +0.1%   48.4   0.1x   -5.8%   +0.2% -1.2x    6/10   A
+13   SAIL         Rs   194.0   -0.5%   65.8   0.8x   -5.9%   -0.4%  2.2x    6/10   A
+14   JINDALSTEL   Rs  1162.3   -2.6%   60.0   0.4x   -9.7%   -2.5%  1.2x    6/10   A
+15   NYKAA        Rs   340.4   -2.6%   57.3   0.7x   -2.6%   -2.5%  1.0x    6/10   A
+16   NESTLEIND    Rs  1448.5   -3.2%   44.2   0.9x   -5.9%   -3.1% -1.1x    6/10   A
+17   PAYTM        Rs  1643.8   -4.3%   59.9   0.3x   -4.3%   -4.2%  0.7x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  BAJAJ-AUTO (Auto) — Rs12352.0 | Grade A+ | 9/10
+  52w: Rs8506.78 — Rs12352.0 | ATR: 1.85%/day | Ext: 2.64x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.5%)
+    [-] Not ATR-extended (2.6x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SIEMENS (Infra) — Rs4065.6 | Grade A+ | 9/10
+  52w: Rs2834.67 — Rs4114.0 | ATR: 2.42%/day | Ext: 0.73x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1641.3 | Grade A+ | 9/10
+  52w: Rs1297.97 — Rs1723.61 | ATR: 2.24%/day | Ext: 0.69x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NAUKRI (IT) — Rs1364.3 | Grade A+ | 8/10
+  52w: Rs923.1 — Rs1407.76 | ATR: 2.73%/day | Ext: 0.96x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.0%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [+] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  GRASIM (Cement) — Rs3302.8 | Grade A+ | 8/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.03%/day | Ext: 0.39x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.5%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (Cement)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  JSWSTEEL (Metals) — Rs1319.2 | Grade A+ | 8/10
+  52w: Rs1029.59 — Rs1341.0 | ATR: 1.9%/day | Ext: 0.67x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HCLTECH (IT) — Rs1365.2 | Grade A | 7/10
+  52w: Rs1023.75 — Rs1679.96 | ATR: 2.39%/day | Ext: 1.02x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.2%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ITC (FMCG) — Rs267.1 | Grade A | 6/10
+  52w: Rs255.5 — Rs401.99 | ATR: 1.95%/day | Ext: -1.26x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.7%)
+    [+] Not ATR-extended (-1.3x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MARICO (FMCG) — Rs837.15 | Grade A | 6/10
+  52w: Rs694.23 — Rs885.35 | ATR: 1.86%/day | Ext: -0.74x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.2%)
+    [+] Not ATR-extended (-0.7x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  HEROMOTOCO (Auto) — Rs5563.5 | Grade A | 6/10
+  52w: Rs4706.27 — Rs6138.79 | ATR: 2.22%/day | Ext: -1.1x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.2%)
+    [+] Not ATR-extended (-1.1x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
