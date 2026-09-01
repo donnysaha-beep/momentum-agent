@@ -121,11 +121,11 @@ BAJAJ-AUTO     Rs 12361.0   +1.9%   +4.3%    +5.6%   73.2  2.7x   AVOID
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+    * Rezolve AI Stock Drops After Net Loss Widens – CEO Says Google Is ‘Just The Beginning’ With More Deals In Pipeline
+    * Rezolve AI H1 Earnings Call Highlights
     * Rezolve AI Expands Enterprise Footprint Through Tech Mahindra Alliance
     * Why Rezolve AI Stock Skyrocketed This Week
-    * Uniphore and Tech Mahindra launch Agentic AI Factory partnership
-    * ServiceNow (NOW) In Focus Following Tech Mahindra AI Deal As Fair Value Debate Builds
-    * Can NOW's Tech Mahindra Deal Boost Its AI Edge Over CRM & MSFT?
 
 -----------------------------------------------------------------
 
@@ -405,7 +405,7 @@ BAJAJ-AUTO     Rs 12361.0   +1.9%   +4.3%    +5.6%   73.2  2.7x   AVOID
 -----------------------------------------------------------------
 
   GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.2T | P/E: 39.39213
+  Basic Materials | Rs2.2T | P/E: 39.37336
   Price: Rs3305.0  |  52w range: Rs2523.24 — Rs3380.5
 
   PERFORMANCE vs NIFTY:
@@ -507,7 +507,7 @@ BAJAJ-AUTO     Rs 12361.0   +1.9%   +4.3%    +5.6%   73.2  2.7x   AVOID
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.4T | P/E: 29.40155
+  Consumer Cyclical | Rs3.4T | P/E: 29.367323
   Price: Rs12361.0  |  52w range: Rs8506.78 — Rs12361.0
 
   PERFORMANCE vs NIFTY:
