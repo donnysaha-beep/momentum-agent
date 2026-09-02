@@ -1,0 +1,161 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 02, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs23914.45  1D: -0.6%  1W: -1.2%  1M: -2.9%  3M: +1.8%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+RBLBANK        Rs   389.4   +2.3%   +2.6%    +5.4%   58.5  0.4x   WATCH NOW
+PAYTM          Rs  1619.0   -0.9%  +15.6%   +18.5%   57.0  0.1x   WATCH
+SAIL           Rs   196.5   +1.8%  +13.2%   +16.1%   67.0  2.3x   WATCH
+NAUKRI         Rs  1343.7   -0.9%   +6.6%    +9.5%   58.1  0.3x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs603.9B | P/E: 32.181816
+  Price: Rs389.4  |  52w range: Rs263.72 — Rs392.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty -0.6%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  +1.8%  vs Nifty -1.2%
+    1M:  +2.6%  vs Nifty -2.9%  -> RS: +5.4% (OUTPERFORMING)
+    3M:  +12.1%  vs Nifty +1.8%  -> RS: +10.3% (OUTPERFORMING)
+    6M:  +19.8%
+
+  TREND HEALTH:
+    RSI: 58.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.06%
+    ATR extension from SMA20: 0.41x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.19x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs377.36 (-3.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.8% of 52w high (breakout zone)
+    [+] Heavy volume today (2.19x avg) = conviction
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * RBL Bank Ltd (BOM:540065) Q1 2027 Earnings Call Highlights: Strong Advances Growth and ...
+    * India's RBL Bank posts higher profit on strong loan growth
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.0T | P/E: 159.82231
+  Price: Rs1619.0  |  52w range: Rs959.0 — Rs1718.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -0.6%  -> RS: -0.3%
+    1W:  -5.7%  vs Nifty -1.2%
+    1M:  +15.6%  vs Nifty -2.9%  -> RS: +18.5% (OUTPERFORMING)
+    3M:  +52.4%  vs Nifty +1.8%  -> RS: +50.5% (OUTPERFORMING)
+    6M:  +43.1%
+
+  TREND HEALTH:
+    RSI: 57.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.49%
+    ATR extension from SMA20: 0.14x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1534.3 (-5.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Founder Led Stocks Worth Watching As Capital Spending Picks Up
+    * 3 Founder Led Indian Stocks With Long Term Skin In The Game
+    * Resilient Asset Management to offload 4.98% stake in Paytm
+    * Paytm founder's Resilient Asset Management to sell up to 4.98% stake in fintech firm
+    * India's Paytm management gets notice over timing of 2023 disclosure curbing small loans
+
+-----------------------------------------------------------------
+
+  SAIL — Steel Authority of India Limited
+  Basic Materials | Rs811.6B | P/E: 19.003868
+  Price: Rs196.5  |  52w range: Rs121.57 — Rs206.06
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.8%  vs Nifty -0.6%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  +0.8%  vs Nifty -1.2%
+    1M:  +13.2%  vs Nifty -2.9%  -> RS: +16.1% (OUTPERFORMING)
+    3M:  -3.6%  vs Nifty +1.8%  -> RS: -5.5% (UNDERPERFORMING)
+    6M:  +22.7%
+
+  TREND HEALTH:
+    RSI: 67.0  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.55%
+    ATR extension from SMA20: 2.28x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.74x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs186.04 (-5.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 2.28x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Steel Authority Of India Ltd (BOM:500113) (Q1 2027) Earnings Call Highlights: EBITDA Surges ...
+    * Indian steelmaker SAIL's quarterly profit rises as domestic prices improve
+    * India explores Russian coking coal assets, more nickel supplies, sources say
+    * Why The Story Around Steel Authority of India (NSEI:SAIL) Is Shifting After New Fair Value Update
+    * Steel Authority Of India Ltd (BOM:500113) Q4 2026 Earnings Call Highlights: Strong Profit ...
+
+-----------------------------------------------------------------
+
+  NAUKRI — Info Edge (India) Limited
+  Communication Services | Rs870.4B | P/E: 54.444893
+  Price: Rs1343.7  |  52w range: Rs923.1 — Rs1407.76
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -0.6%  -> RS: -0.3%
+    1W:  +1.5%  vs Nifty -1.2%
+    1M:  +6.6%  vs Nifty -2.9%  -> RS: +9.5% (OUTPERFORMING)
+    3M:  +34.0%  vs Nifty +1.8%  -> RS: +32.1% (OUTPERFORMING)
+    6M:  +32.4%
+
+  TREND HEALTH:
+    RSI: 58.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.79%
+    ATR extension from SMA20: 0.28x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.73x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1287.47 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Info Edge (India) Ltd (BOM:532777) (Q1 2027) Earnings Call Highlights: AI-Driven Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q4 2026 Earnings Call Highlights: Strong Revenue Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
