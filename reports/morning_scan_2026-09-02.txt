@@ -1,0 +1,90 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, September 02 2026 07:12 AM
+=================================================================
+
+MARKET REGIME: CAUTION [REDUCE SIZE]
+  Nifty 50:  Rs23856.05  | Today: -0.8%  | 1W: -2.0%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 11.73  (+2.1%)
+
+  Trade only A+ grade setups. Reduce position size by 50%.
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+1.0%) | NewEconomy (-0.3%) | Banking (-0.3%)
+  Lagging : Electricals (-2.4%) | Cement (-2.7%) | Auto (-3.8%)
+
+Found 71 momentum stocks → 4 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    RBLBANK      Rs   389.8   +2.4%   58.8   1.3x   -0.7%   +3.3%  0.5x    9/10   A+
+2    NAUKRI       Rs  1339.2   +2.0%   58.3   0.5x   -4.9%   +2.9%  0.3x    8/10   A+
+3    SAIL         Rs   192.9   -0.1%   64.4   0.3x   -6.4%   +0.8%  1.9x    8/10   A+
+4    PAYTM        Rs  1622.9   -0.7%   57.4   0.5x   -5.5%   +0.2%  0.2x    8/10   A+
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  RBLBANK (Banking) — Rs389.8 | Grade A+ | 9/10
+  52w: Rs263.72 — Rs392.5 | ATR: 2.03%/day | Ext: 0.47x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.3%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NAUKRI (IT) — Rs1339.2 | Grade A+ | 8/10
+  52w: Rs923.1 — Rs1407.76 | ATR: 2.67%/day | Ext: 0.33x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.9%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [+] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  SAIL (Metals) — Rs192.89 | Grade A+ | 8/10
+  52w: Rs121.57 — Rs206.06 | ATR: 3.49%/day | Ext: 1.85x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.8%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PAYTM (NewEconomy) — Rs1622.9 | Grade A+ | 8/10
+  52w: Rs959.0 — Rs1718.0 | ATR: 3.48%/day | Ext: 0.2x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
