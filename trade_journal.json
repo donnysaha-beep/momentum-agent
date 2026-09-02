@@ -4997,5 +4997,60 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-02",
+    "trades": [
+      {
+        "ticker": "RBLBANK",
+        "entry": 377.95,
+        "target1": 389.62,
+        "target2": 397.4,
+        "stop": 375.15,
+        "verdict": "WATCH",
+        "eod_open": 377.54998779296875,
+        "eod_high": 392.1000061035156,
+        "eod_low": 375.20001220703125,
+        "eod_close": 389.3999938964844,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Would have worked \u2014 reached Target 1 (Rs 389.62)"
+      },
+      {
+        "ticker": "NAUKRI",
+        "entry": 1341.65,
+        "target1": 1398.43,
+        "target2": 1436.28,
+        "stop": 1326.65,
+        "verdict": "WATCH",
+        "eod_open": 1341.5999755859375,
+        "eod_high": 1349.9000244140625,
+        "eod_low": 1315.0,
+        "eod_close": 1343.699951171875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SAIL",
+        "entry": 192.51,
+        "target1": 203.09,
+        "target2": 210.14,
+        "stop": 190.22,
+        "verdict": "TRADE NOW",
+        "eod_open": 192.14999389648438,
+        "eod_high": 198.1300048828125,
+        "eod_low": 190.27000427246094,
+        "eod_close": 196.5,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 196.5 (+2.1%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
