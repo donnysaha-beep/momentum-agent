@@ -5052,5 +5052,46 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-03",
+    "trades": [
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 85.89,
+        "target1": 88.54,
+        "target2": 90.3,
+        "stop": 84.99,
+        "verdict": "WATCH",
+        "eod_open": 85.04000091552734,
+        "eod_high": 88.0999984741211,
+        "eod_low": 85.04000091552734,
+        "eod_close": 87.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "RBLBANK",
+        "entry": 402.6,
+        "target1": 415.75,
+        "target2": 424.52,
+        "stop": 397.0,
+        "verdict": "TRADE NOW",
+        "eod_open": 397.1499938964844,
+        "eod_high": 410.6499938964844,
+        "eod_low": 397.04998779296875,
+        "eod_close": 408.1000061035156,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 408.1000061035156 (+1.4%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]

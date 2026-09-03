@@ -1,0 +1,49 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, September 03 2026
+  Layer 3 | 04:56 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 85.89 | Stop: Rs 84.99 | T1: Rs 88.54
+               EOD: O:85.04000091552734 H:88.0999984741211 L:85.04000091552734 C:87.5
+               Entry triggered but no target set — monitor
+
+  [FP]         RBLBANK      | Verdict: TRADE NOW
+               Entry: Rs 402.6 | Stop: Rs 397.0 | T1: Rs 415.75
+               EOD: O:397.1499938964844 H:410.6499938964844 L:397.04998779296875 C:408.1000061035156
+               Triggered but no target/stop hit — closed at Rs 408.1000061035156 (+1.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (57 days tracked)
+=================================================================
+  Total Trades    : 108
+  Win Rate        : 4.6%
+  Good Wins       : 5
+  Good Losses     : 34
+  False Positives : 69
+  Valid Skips     : 14
+  Missed Trades   : 189
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
