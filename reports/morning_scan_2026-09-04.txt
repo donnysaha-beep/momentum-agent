@@ -1,0 +1,187 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, September 04 2026 07:20 AM
+=================================================================
+
+MARKET REGIME: BULL  [GO]
+  Nifty 50:  Rs23936.95  | Today: +0.1%  | 1W: -0.6%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 10.78  (-7.0%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Defence (+1.3%) | PSU (+0.7%) | NewEconomy (+0.7%)
+  Lagging : Auto (-0.4%) | Pharma (-0.6%) | Electricals (-1.6%)
+
+Found 66 momentum stocks → 42 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    GRASIM       Rs  3308.4   +0.4%   55.5   0.4x   -2.1%   +0.3%  0.1x    9/10   A+
+2    RBLBANK      Rs   415.1   +1.7%   73.5   1.6x   +0.0%   +6.5%  3.0x    8/10   A+
+3    PAYTM        Rs  1669.4   +2.0%   61.5   0.8x   -2.8%   +3.0%  0.7x    8/10   A+
+4    IDFCFIRSTB   Rs    86.7   -0.9%   58.1   0.8x   -0.9%   +1.8%  0.8x    8/10   A+
+5    BHEL         Rs   432.4   +0.1%   57.4   0.5x   -2.3%   +1.1%  0.8x    8/10   A+
+6    ICICIBANK    Rs  1431.1   +0.1%   52.5   0.4x   -2.0%   +0.2%  0.3x    8/10   A+
+7    IIFL         Rs   654.0   +1.7%   57.9   0.4x   -6.1%   +3.2%  0.5x    7/10   A
+8    HAL          Rs  4904.0   +2.9%   56.8   1.1x   -3.8%   +2.5% -0.2x    7/10   A
+9    NYKAA        Rs   334.4   +0.1%   52.1   0.2x   -4.3%   -1.0%  0.2x    7/10   A
+10   BAJAJ-AUTO   Rs 11927.0   +0.1%   57.4   0.3x   -3.5%   -1.8%  0.5x    7/10   A
+11   KOTAKBANK    Rs   425.1   +0.9%   69.0   0.4x   -4.3%   +0.3%  2.7x    6/10   A
+12   SBIN         Rs  1022.7   -0.1%   41.1   0.3x  -15.2%   +0.1% -1.6x    6/10   A
+13   POLICYBZR    Rs  1852.3   +0.0%   66.0   0.1x   -5.4%   -0.1%  1.6x    6/10   A
+14   PIDILITIND   Rs  1633.3   -0.3%   47.6   0.3x   -4.0%   -0.3% -1.0x    6/10   A
+15   ABB          Rs  7404.5   -0.6%   47.2   0.5x   -4.0%   -0.7% -0.8x    6/10   A
+16   SAIL         Rs   195.3   -0.8%   64.9   0.3x   -5.2%   -0.7%  1.9x    6/10   A
+17   SIEMENS      Rs  3987.6   -0.8%   54.5   0.1x   -3.1%   -0.9% -0.1x    6/10   A
+18   GMRAIRPORT   Rs    97.7   +0.9%   40.3   0.4x  -15.0%   +3.9% -0.9x    5/10   B
+19   IRB          Rs    19.7   +0.1%   55.1   0.4x  -13.3%   +2.6%  1.1x    5/10   B
+20   ADANIENT     Rs  2942.6   +1.4%   44.1   0.4x   -8.4%   +1.7% -0.7x    5/10   B
+21   AXISBANK     Rs  1273.5   +1.6%   54.7   0.3x   -9.2%   +1.5%  1.2x    5/10   B
+22   SJVN         Rs    64.9   +1.5%   35.5   0.5x  -29.9%   +1.4% -1.0x    5/10   B
+23   RELIANCE     Rs  1328.5   +2.0%   56.8   0.8x  -16.2%   +1.1%  0.8x    5/10   B
+24   IRCTC        Rs   476.3   +0.4%   36.2   0.5x  -34.5%   +0.7% -1.9x    5/10   B
+25   CHOLAFIN     Rs  1835.7   -0.7%   47.7   0.4x   -5.4%   +0.4% -0.8x    5/10   B
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  GRASIM (Cement) — Rs3308.4 | Grade A+ | 9/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.19%/day | Ext: 0.15x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [+] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  RBLBANK (Banking) — Rs415.05 | Grade A+ | 8/10
+  52w: Rs263.72 — Rs415.05 | ATR: 2.18%/day | Ext: 2.96x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+6.5%)
+    [-] Not ATR-extended (3.0x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PAYTM (NewEconomy) — Rs1669.4 | Grade A+ | 8/10
+  52w: Rs959.0 — Rs1718.0 | ATR: 3.34%/day | Ext: 0.66x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.0%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs86.7 | Grade A+ | 8/10
+  52w: Rs58.68 — Rs87.5 | ATR: 1.94%/day | Ext: 0.78x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  BHEL (Infra) — Rs432.45 | Grade A+ | 8/10
+  52w: Rs210.41 — Rs442.65 | ATR: 2.75%/day | Ext: 0.83x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.1%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ICICIBANK (Banking) — Rs1431.1 | Grade A+ | 8/10
+  52w: Rs1195.82 — Rs1460.0 | ATR: 1.53%/day | Ext: 0.3x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IIFL (Finance) — Rs654.05 | Grade A | 7/10
+  52w: Rs416.27 — Rs696.4 | ATR: 3.64%/day | Ext: 0.45x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.2%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4904.0 | Grade A | 7/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.03%/day | Ext: -0.18x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.5%)
+    [+] Not ATR-extended (-0.2x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs334.4 | Grade A | 7/10
+  52w: Rs230.62 — Rs349.55 | ATR: 2.34%/day | Ext: 0.24x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.0%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BAJAJ-AUTO (Auto) — Rs11927.0 | Grade A | 7/10
+  52w: Rs8506.78 — Rs12361.0 | ATR: 1.93%/day | Ext: 0.46x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.8%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
