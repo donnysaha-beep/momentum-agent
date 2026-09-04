@@ -5093,5 +5093,102 @@
       "missed_trades": 1,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-04",
+    "trades": [
+      {
+        "ticker": "RBLBANK",
+        "entry": 411.65,
+        "target1": 425.08,
+        "target2": 434.04,
+        "stop": 406.8,
+        "verdict": "WATCH",
+        "eod_open": 409.0,
+        "eod_high": 417.0,
+        "eod_low": 406.8500061035156,
+        "eod_close": 414.3500061035156,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 646.45,
+        "target1": 682.55,
+        "target2": 706.62,
+        "stop": 640.7,
+        "verdict": "WATCH",
+        "eod_open": 646.0,
+        "eod_high": 662.9000244140625,
+        "eod_low": 640.75,
+        "eod_close": 650.5499877929688,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 424.3,
+        "target1": 434.69,
+        "target2": 441.62,
+        "stop": 422.0,
+        "verdict": "WATCH",
+        "eod_open": 423.1499938964844,
+        "eod_high": 425.8999938964844,
+        "eod_low": 422.04998779296875,
+        "eod_close": 424.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4906.05,
+        "target1": 5058.14,
+        "target2": 5159.53,
+        "stop": 4820.35,
+        "verdict": "WATCH",
+        "eod_open": 4844.89990234375,
+        "eod_high": 4936.0,
+        "eod_low": 4820.39990234375,
+        "eod_close": 4856.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 7462.05,
+        "target1": 7739.14,
+        "target2": 7923.86,
+        "stop": 7399.45,
+        "verdict": "WATCH",
+        "eod_open": 7462.0,
+        "eod_high": 7462.0,
+        "eod_low": 7378.0,
+        "eod_close": 7410.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "PIDILITIND",
+        "entry": 1638.35,
+        "target1": 1683.99,
+        "target2": 1714.41,
+        "stop": 1629.15,
+        "verdict": "TRADE NOW",
+        "eod_open": 1635.699951171875,
+        "eod_high": 1638.300048828125,
+        "eod_low": 1625.0,
+        "eod_close": 1629.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 5,
+      "false_negatives": 0
+    }
   }
 ]

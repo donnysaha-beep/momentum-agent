@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, September 04 2026
+  Layer 3 | 01:58 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 1
+  Missed Trades   : 5
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     RBLBANK      | Verdict: WATCH
+               Entry: Rs 411.65 | Stop: Rs 406.8 | T1: Rs 425.08
+               EOD: O:409.0 H:417.0 L:406.8500061035156 C:414.3500061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IIFL         | Verdict: WATCH
+               Entry: Rs 646.45 | Stop: Rs 640.7 | T1: Rs 682.55
+               EOD: O:646.0 H:662.9000244140625 L:640.75 C:650.5499877929688
+               Entry triggered but no target set — monitor
+
+  [MISSED]     KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 424.3 | Stop: Rs 422.0 | T1: Rs 434.69
+               EOD: O:423.1499938964844 H:425.8999938964844 L:422.04998779296875 C:424.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4906.05 | Stop: Rs 4820.35 | T1: Rs 5058.14
+               EOD: O:4844.89990234375 H:4936.0 L:4820.39990234375 C:4856.0
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    ABB          | Verdict: WATCH
+               Entry: Rs 7462.05 | Stop: Rs 7399.45 | T1: Rs 7739.14
+               EOD: O:7462.0 H:7462.0 L:7378.0 C:7410.0
+               Correctly watched — no valid entry formed
+
+  [MISSED]     PIDILITIND   | Verdict: TRADE NOW
+               Entry: Rs 1638.35 | Stop: Rs 1629.15 | T1: Rs 1683.99
+               EOD: O:1635.699951171875 H:1638.300048828125 L:1625.0 C:1629.5
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (58 days tracked)
+=================================================================
+  Total Trades    : 108
+  Win Rate        : 4.6%
+  Good Wins       : 5
+  Good Losses     : 34
+  False Positives : 69
+  Valid Skips     : 15
+  Missed Trades   : 194
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
