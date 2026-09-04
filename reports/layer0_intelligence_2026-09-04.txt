@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, September 04 2026
+  Layer 0 | Generated: 07:07 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : TREND_DAY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,937.45  (+0.27%)
+  Bank Nifty            :  57,547.25  (+0.29%)
+  India VIX             :      10.86  (-4.25%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24064.32  [ESTIMATED]
+  Change vs prev : +0.53%
+  Bias           : BULLISH
+  Based on       : S&P 500 +1.06% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,747.71  (+1.06%)
+  Nasdaq (US)           :  26,584.06  (+1.40%)
+  US VIX                :      14.32  (-5.79%)
+  Crude Oil (WTI)       :      91.50  (+0.22%)
+  Gold                  :   4,506.60  (+0.33%)
+  Silver                :      67.06  (+0.12%)
+  USD/INR               :      94.48  (-0.01%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.5% (bullish)
+  * India VIX 10.86 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : IT, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
