@@ -1,0 +1,182 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Monday, September 07 2026 07:27 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23740.7  | Today: -0.7%  | 1W: -1.4%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 11.3  (+5.8%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Defence (+0.3%) | Pharma (+0.2%) | Auto (+0.1%)
+  Lagging : Consumer (-1.5%) | Metals (-1.9%) | IT (-2.2%)
+
+Found 66 momentum stocks → 20 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    DIVISLAB     Rs  9214.0   +1.2%   67.6   0.6x   -2.7%   +1.9%  1.9x    9/10   A+
+2    IDFCFIRSTB   Rs    86.2   -0.6%   56.0   0.3x   -1.5%   +0.1%  0.5x    9/10   A+
+3    ICICIBANK    Rs  1426.9   +0.3%   51.2   0.7x   -2.3%   +0.9%  0.1x    8/10   A+
+4    IIFL         Rs   653.5   +0.3%   57.8   0.6x   -6.2%   +1.0%  0.4x    7/10   A
+5    RBLBANK      Rs   415.5   +0.3%   73.7   0.7x   +0.0%   +0.9%  2.8x    7/10   A
+6    GRASIM       Rs  3307.0   -0.5%   54.9   0.3x   -2.2%   +0.2%  0.2x    7/10   A
+7    PAYTM        Rs  1651.5   -0.5%   59.5   0.3x   -3.9%   +0.2%  0.3x    7/10   A
+8    SUNPHARMA    Rs  1887.0   -0.6%   42.4   0.6x   -5.7%   +0.0% -0.9x    7/10   A
+9    APOLLOHOSP   Rs  8739.0   +1.0%   48.2   0.4x   -3.3%   +1.7% -0.1x    6/10   A
+10   EICHERMOT    Rs  7677.0   +0.6%   38.7   0.3x   -5.3%   +1.3% -2.0x    6/10   A
+11   NYKAA        Rs   333.9   +0.4%   51.8   0.7x   -4.5%   +1.1%  0.1x    6/10   A
+12   HAL          Rs  4874.2   +0.4%   54.8   0.4x   -4.4%   +1.0% -0.4x    6/10   A
+13   ABB          Rs  7390.0   -0.3%   46.4   0.4x   -4.2%   +0.4% -0.8x    6/10   A
+14   CHOLAFIN     Rs  1832.7   -0.3%   47.1   0.5x   -5.5%   +0.3% -0.8x    6/10   A
+15   BAJFINANCE   Rs  1056.7   -0.4%   44.7   0.4x   -8.8%   +0.3% -1.0x    6/10   A
+16   KOTAKBANK    Rs   422.2   -0.5%   65.6   0.2x   -5.0%   +0.1%  2.2x    6/10   A
+17   AUBANK       Rs  1058.6   -0.6%   44.4   0.4x   -6.2%   +0.1% -1.2x    6/10   A
+18   FEDERALBNK   Rs   340.8   -0.6%   42.7   0.6x   -8.0%   +0.0% -1.4x    6/10   A
+19   BAJAJ-AUTO   Rs 11793.0   -1.1%   53.2   0.3x   -4.6%   -0.4% -0.1x    6/10   A
+20   APLAPOLLO    Rs  2208.3   -1.9%   62.4   0.7x   -3.2%   -1.2%  1.1x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  DIVISLAB (Pharma) — Rs9214.0 | Grade A+ | 9/10
+  52w: Rs5666.13 — Rs9467.0 | ATR: 2.07%/day | Ext: 1.92x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.9%)
+    [+] Not ATR-extended (1.9x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs86.23 | Grade A+ | 9/10
+  52w: Rs58.68 — Rs87.5 | ATR: 1.9%/day | Ext: 0.48x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ICICIBANK (Banking) — Rs1426.9 | Grade A+ | 8/10
+  52w: Rs1195.82 — Rs1460.0 | ATR: 1.49%/day | Ext: 0.14x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IIFL (Finance) — Rs653.45 | Grade A | 7/10
+  52w: Rs416.27 — Rs696.4 | ATR: 3.73%/day | Ext: 0.37x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [-] In leading sector (Finance)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  RBLBANK (Banking) — Rs415.5 | Grade A | 7/10
+  52w: Rs263.72 — Rs415.5 | ATR: 2.21%/day | Ext: 2.84x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [-] Not ATR-extended (2.8x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  GRASIM (Cement) — Rs3307.0 | Grade A | 7/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.06%/day | Ext: 0.19x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [-] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PAYTM (NewEconomy) — Rs1651.5 | Grade A | 7/10
+  52w: Rs959.0 — Rs1718.0 | ATR: 3.22%/day | Ext: 0.3x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.2%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  SUNPHARMA (Pharma) — Rs1887.0 | Grade A | 7/10
+  52w: Rs1566.69 — Rs2001.1 | ATR: 1.78%/day | Ext: -0.87x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.0%)
+    [+] Not ATR-extended (-0.9x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  APOLLOHOSP (Pharma) — Rs8739.0 | Grade A | 6/10
+  52w: Rs6776.6 — Rs9039.48 | ATR: 1.66%/day | Ext: -0.11x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.7%)
+    [+] Not ATR-extended (-0.1x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  EICHERMOT (Auto) — Rs7677.0 | Grade A | 6/10
+  52w: Rs6517.75 — Rs8105.12 | ATR: 1.88%/day | Ext: -1.98x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.3%)
+    [+] Not ATR-extended (-2.0x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
