@@ -168,7 +168,7 @@ RBLBANK        Rs   415.0   +0.2%   +6.7%   +10.0%   73.5  2.8x   AVOID
 
   ABB — ABB India Limited
   Industrials | Rs1.6T | P/E: 99.33191
-  Price: Rs7434.0  |  52w range: Rs4618.03 — Rs7710.0
+  Price: Rs7434.0  |  52w range: Rs4618.02 — Rs7710.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.3%  vs Nifty -0.5%  -> RS: +0.8% (OUTPERFORMING)
@@ -460,11 +460,11 @@ RBLBANK        Rs   415.0   +0.2%   +6.7%   +10.0%   73.5  2.8x   AVOID
     [+] RS accelerating (momentum building)
 
   RECENT NEWS:
+    * Here's How Trump's Drug Deals Are Likely to Impact Healthcare ETFs
     * Trump Expands Drug Pricing Deals With 9 Pharma Companies, Bringing Total to 26 — RFK Jr. Details 'Very, Very Emotional' Conversations With President
     * Trump's MFN Push Goes Beyond Big Pharma, Adds 9 Mid-Sized Drugmakers
     * Mid-cap biotechs join Trump’s latest round of drug pricing deals
     * Trump lines up MFN deals with nine mid-size pharmas on drug pricing push
-    * $19.6B Infusion In US Plants With Lower Drug Prices: White House’s Deal With Mid-size Drugmakers
 
 -----------------------------------------------------------------
 
