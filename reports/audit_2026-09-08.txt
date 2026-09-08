@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, September 08 2026
+  Layer 3 | 05:05 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 1
+  Missed Trades   : 7
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 335.7 | Stop: Rs 333.7 | T1: Rs 347.86
+               EOD: O:333.75 H:341.54998779296875 L:333.75 C:341.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4997.05 | Stop: Rs 4914.65 | T1: Rs 5162.71
+               EOD: O:4923.0 H:5071.89990234375 L:4914.7001953125 C:5031.10009765625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APOLLOHOSP   | Verdict: WATCH
+               Entry: Rs 8820.55 | Stop: Rs 8762.95 | T1: Rs 9054.03
+               EOD: O:8772.5 H:8850.0 L:8745.5 C:8837.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1658.55 | Stop: Rs 1640.25 | T1: Rs 1742.43
+               EOD: O:1658.0 H:1676.5 L:1637.0999755859375 C:1670.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     POLICYBZR    | Verdict: WATCH
+               Entry: Rs 1814.55 | Stop: Rs 1781.55 | T1: Rs 1888.83
+               EOD: O:1786.699951171875 H:1827.800048828125 L:1781.5999755859375 C:1826.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 9364.55 | Stop: Rs 9254.95 | T1: Rs 9682.78
+               EOD: O:9364.5 H:9588.0 L:9255.0 C:9575.0
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    MARICO       | Verdict: WATCH
+               Entry: Rs 11790.05 | Stop: Rs 11734.95 | T1: Rs 12126.08
+               EOD: O:806.0499877929688 H:825.4500122070312 L:801.3499755859375 C:823.9000244140625
+               Correctly watched — no valid entry formed
+
+  [MISSED]     EICHERMOT    | Verdict: WATCH
+               Entry: Rs 7713.05 | Stop: Rs 7675.95 | T1: Rs 7930.38
+               EOD: O:7700.0 H:7747.5 L:7655.0 C:7747.5
+               Entry triggered but no target set — monitor
+
+  [FP]         RBLBANK      | Verdict: TRADE NOW
+               Entry: Rs 416.9 | Stop: Rs 413.95 | T1: Rs 429.97
+               EOD: O:414.0 H:419.1000061035156 L:414.0 C:418.5
+               Triggered but no target/stop hit — closed at Rs 418.5 (+0.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (60 days tracked)
+=================================================================
+  Total Trades    : 112
+  Win Rate        : 4.5%
+  Good Wins       : 5
+  Good Losses     : 35
+  False Positives : 72
+  Valid Skips     : 16
+  Missed Trades   : 202
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
