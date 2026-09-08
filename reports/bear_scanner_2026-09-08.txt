@@ -1,0 +1,152 @@
+=================================================================
+  BEAR SCANNER — Tuesday, September 08 2026 09:00 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: BEARISH
+  Price: 23654.2  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 23669.7 — 23755.6
+  *** Nifty broke ORB low — bearish breadth confirmed ***
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 12 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  PIDILITIND
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1569.7
+  Gap from prev  : +0.3%  (prev Rs 1575.0 | opened Rs 1579.7)
+  Opening Range  : Rs 1578.1 — Rs 1590.7  (0.79% wide)
+  VWAP           : Rs 1577.6  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 33.5
+  ATR (daily)    : Rs 31.43
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1578.05  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1530.9  (-3.0%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1499.47  (-5.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1590.75  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:3.74 (T1)  |  1:6.23 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 15 shares
+    Capital needed : Rs 23,671  (margin)
+    Max loss       : Rs 190  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [70% probability]
+  SUNPHARMA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1882.9
+  Gap from prev  : -0.2%  (prev Rs 1895.0 | opened Rs 1891.0)
+  Opening Range  : Rs 1878.1 — Rs 1891.0  (0.68% wide)
+  VWAP           : Rs 1887.97  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 38.5
+  ATR (daily)    : Rs 33.41
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1878.05  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1827.93  (-2.7%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1794.52  (-4.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1891.05  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:3.87 (T1)  |  1:6.45 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 13 shares
+    Capital needed : Rs 24,415  (margin)
+    Max loss       : Rs 169  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1878.0999755859375) — set alert
+
+  WATCH SHORT — near breakdown  [60% probability]
+  NESTLEIND
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1402.4
+  Gap from prev  : -0.1%  (prev Rs 1398.0 | opened Rs 1396.0)
+  Opening Range  : Rs 1396.0 — Rs 1407.0  (0.78% wide)
+  VWAP           : Rs 1406.54  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 32.7
+  ATR (daily)    : Rs 31.07
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1395.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1349.35  (-3.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1318.28  (-5.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1407.05  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:4.17 (T1)  |  1:6.95 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 17 shares
+    Capital needed : Rs 23,731  (margin)
+    Max loss       : Rs 189  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1396.0) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  IDFCFIRSTB  [60%]  |  Rs 86.64
+    [-] Stock holding above ORB low — no breakdown yet
+  BAJAJ-AUTO  [50%]  |  Rs 11829.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BEL  [50%]  |  Rs 411.95
+    [-] Stock holding above ORB low — no breakdown yet
+  NYKAA  [40%]  |  Rs 340.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PAYTM  [40%]  |  Rs 1671.3
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  POLICYBZR  [40%]  |  Rs 1821.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  APOLLOHOSP  [40%]  |  Rs 8826.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  RBLBANK  [40%]  |  Rs 418.35
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [30%]  |  Rs 5062.1
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  DIVISLAB  [30%]  |  Rs 9533.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  MARICO  [30%]  |  Rs 821.4
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  EICHERMOT  [30%]  |  Rs 7726.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
