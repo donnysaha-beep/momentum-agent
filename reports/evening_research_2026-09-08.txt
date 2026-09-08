@@ -63,7 +63,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.4T | P/E: 36.098877
+  Industrials | Rs3.4T | P/E: 36.106647
   Price: Rs5031.1  |  52w range: Rs3480.15 — Rs5099.0
 
   PERFORMANCE vs NIFTY:
@@ -99,7 +99,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.3T | P/E: 28.52067
+  Consumer Cyclical | Rs3.3T | P/E: 28.280329
   Price: Rs11880.0  |  52w range: Rs8506.78 — Rs12361.0
 
   PERFORMANCE vs NIFTY:
@@ -134,7 +134,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs745.8B | P/E: 33.527134
+  Financial Services | Rs745.8B | P/E: 33.397686
   Price: Rs86.5  |  52w range: Rs58.68 — Rs87.5
 
   PERFORMANCE vs NIFTY:
@@ -170,7 +170,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 56.781532
+  Consumer Defensive | Rs1.1T | P/E: 56.470184
   Price: Rs823.9  |  52w range: Rs694.23 — Rs885.35
 
   PERFORMANCE vs NIFTY:
@@ -205,7 +205,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.6T | P/E: 63.61821
+  Basic Materials | Rs1.6T | P/E: 61.292805
   Price: Rs1593.0  |  52w range: Rs1264.49 — Rs1701.5
 
   PERFORMANCE vs NIFTY:
@@ -239,7 +239,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.1T | P/E: 165.01976
+  Technology | Rs1.1T | P/E: 167.33467
   Price: Rs1670.0  |  52w range: Rs959.0 — Rs1718.0
 
   PERFORMANCE vs NIFTY:
@@ -273,7 +273,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   POLICYBZR — PB Fintech Limited
-  Financial Services | Rs843.7B | P/E: 112.99505
+  Financial Services | Rs843.7B | P/E: 113.205215
   Price: Rs1826.0  |  52w range: Rs1426.9 — Rs1957.3
 
   PERFORMANCE vs NIFTY:
@@ -306,7 +306,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   BEL — Bharat Electronics Limited
-  Industrials | Rs3.0T | P/E: 49.108852
+  Industrials | Rs3.0T | P/E: 48.875
   Price: Rs410.55  |  52w range: Rs369.82 — Rs467.81
 
   PERFORMANCE vs NIFTY:
@@ -340,7 +340,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 60.814064
+  Healthcare | Rs1.3T | P/E: 60.772247
   Price: Rs8837.5  |  52w range: Rs6776.6 — Rs9039.48
 
   PERFORMANCE vs NIFTY:
@@ -374,7 +374,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   SUNPHARMA — Sun Pharmaceutical Industries Limited
-  Healthcare | Rs4.5T | P/E: 37.55277
+  Healthcare | Rs4.5T | P/E: 37.41123
   Price: Rs1885.9  |  52w range: Rs1566.69 — Rs2001.1
 
   PERFORMANCE vs NIFTY:
@@ -408,7 +408,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   EICHERMOT — Eicher Motors Limited
-  Consumer Cyclical | Rs2.1T | P/E: 36.920986
+  Consumer Cyclical | Rs2.1T | P/E: 36.856
   Price: Rs7747.5  |  52w range: Rs6517.75 — Rs8105.12
 
   PERFORMANCE vs NIFTY:
@@ -442,7 +442,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs2.7T | P/E: 71.56362
+  Consumer Defensive | Rs2.7T | P/E: 71.055305
   Price: Rs1400.5  |  52w range: Rs1140.83 — Rs1540.0
 
   PERFORMANCE vs NIFTY:
@@ -476,7 +476,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   DIVISLAB — Divi's Laboratories Limited
-  Healthcare | Rs2.5T | P/E: 84.95254
+  Healthcare | Rs2.5T | P/E: 87.10881
   Price: Rs9575.0  |  52w range: Rs5666.13 — Rs9575.0
 
   PERFORMANCE vs NIFTY:
@@ -513,7 +513,7 @@ RBLBANK        Rs   418.5   +1.0%   +7.6%   +11.5%   74.9  3.3x   AVOID
 -----------------------------------------------------------------
 
   RBLBANK — RBL Bank Limited
-  Financial Services | Rs649.1B | P/E: 34.586777
+  Financial Services | Rs649.1B | P/E: 34.529705
   Price: Rs418.5  |  52w range: Rs263.72 — Rs418.5
 
   PERFORMANCE vs NIFTY:
