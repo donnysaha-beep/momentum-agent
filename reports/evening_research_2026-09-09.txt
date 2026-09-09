@@ -64,7 +64,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs982.8B | P/E: 381.1111
+  Consumer Cyclical | Rs982.8B | P/E: 385.39325
   Price: Rs343.0  |  52w range: Rs230.62 — Rs349.55
 
   PERFORMANCE vs NIFTY:
@@ -100,7 +100,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   JSWSTEEL — JSW Steel Limited
-  Basic Materials | Rs3.2T | P/E: 12.979293
+  Basic Materials | Rs3.2T | P/E: 12.929333
   Price: Rs1310.0  |  52w range: Rs1073.14 — Rs1341.0
 
   PERFORMANCE vs NIFTY:
@@ -206,7 +206,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 61.66277
+  Healthcare | Rs1.3T | P/E: 61.866978
   Price: Rs8967.0  |  52w range: Rs6776.6 — Rs9039.48
 
   PERFORMANCE vs NIFTY:
@@ -277,7 +277,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   LT — Larsen & Toubro Limited
-  Industrials | Rs5.4T | P/E: 33.02408
+  Industrials | Rs5.4T | P/E: 32.59056
   Price: Rs3922.6  |  52w range: Rs3310.07 — Rs4375.36
 
   PERFORMANCE vs NIFTY:
@@ -312,8 +312,8 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   ABB — ABB India Limited
-  Industrials | Rs1.6T | P/E: 100.19629
-  Price: Rs7401.5  |  52w range: Rs4618.02 — Rs7710.0
+  Industrials | Rs1.6T | P/E: 99.20252
+  Price: Rs7401.5  |  52w range: Rs4618.03 — Rs7710.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.2%  vs Nifty -0.9%  -> RS: +1.1% (OUTPERFORMING)
@@ -380,7 +380,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   POLICYBZR — PB Fintech Limited
-  Financial Services | Rs831.7B | P/E: 109.55569
+  Financial Services | Rs831.7B | P/E: 112.00996
   Price: Rs1800.0  |  52w range: Rs1426.9 — Rs1957.3
 
   PERFORMANCE vs NIFTY:
@@ -413,7 +413,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   APLAPOLLO — APL Apollo Tubes Limited
-  Basic Materials | Rs602.0B | P/E: 48.939053
+  Basic Materials | Rs602.0B | P/E: 48.872856
   Price: Rs2168.0  |  52w range: Rs1653.73 — Rs2272.05
 
   PERFORMANCE vs NIFTY:
@@ -443,7 +443,7 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
 -----------------------------------------------------------------
 
   SAIL — Steel Authority of India Limited
-  Basic Materials | Rs769.9B | P/E: 18.185366
+  Basic Materials | Rs769.9B | P/E: 18.00966
   Price: Rs186.4  |  52w range: Rs125.91 — Rs206.06
 
   PERFORMANCE vs NIFTY:
@@ -500,16 +500,16 @@ HINDALCO       Rs  1026.9   +1.8%   -2.6%    +1.7%   52.3 -0.3x   WATCH
     [+] Heavy volume today (2.54x avg) = conviction
 
   RECENT NEWS:
+    * Adani Airport Holdings Raises Rs98.25bn From Global Funds
     * India's Adani Energy plans another share sale by early next fiscal, sources say
     * Adani Enterprises Ltd (BOM:512599) Q1 2027 Earnings Call Highlights: Strategic Growth Amidst ...
     * India's Adani Enterprises posts quarterly loss on US settlement charge
     * India's Adani Enterprises says not evaluating proposal to enter airline business
-    * Billionaire Adani weighs airline launch in Indian duopoly market, sources say
 
 -----------------------------------------------------------------
 
   HINDALCO — Hindalco Industries Limited
-  Basic Materials | Rs2.3T | P/E: 13.884533
+  Basic Materials | Rs2.3T | P/E: 13.92218
   Price: Rs1026.9  |  52w range: Rs737.2 — Rs1143.73
 
   PERFORMANCE vs NIFTY:
