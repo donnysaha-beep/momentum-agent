@@ -1,0 +1,552 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 10, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23477.8  1D: +0.2%  1W: -1.7%  1M: -3.9%  3M: +1.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+NYKAA          Rs   341.9   -0.3%   +5.2%    +9.1%   57.4  0.9x   WATCH NOW
+IDFCFIRSTB     Rs    86.8   +1.0%   +1.2%    +5.1%   58.0  0.8x   WATCH NOW
+GRASIM         Rs  3319.0   +0.6%   -0.1%    +3.8%   56.2  0.4x   WATCH NOW
+LT             Rs  3955.0   +0.8%   -1.6%    +2.3%   43.9 -1.3x   WATCH NOW
+CHOLAFIN       Rs  1859.0   +1.6%   -2.9%    +1.0%   52.5 -0.1x   WATCH NOW
+BAJFINANCE     Rs  1043.5   +0.4%   -4.6%    -0.7%   41.0 -1.4x   WATCH NOW
+APLAPOLLO      Rs  2194.8   +1.2%  +10.3%   +14.2%   60.5  0.6x   WATCH
+PAYTM          Rs  1739.0   -0.7%   +9.1%   +13.0%   66.2  1.6x   WATCH
+BHEL           Rs   429.5   -1.0%   +2.3%    +6.2%   54.5  0.4x   WATCH
+HAL            Rs  4950.0   -1.0%   +1.0%    +5.0%   57.3  0.2x   WATCH
+SIEMENS        Rs  3954.4   +0.1%   -1.6%    +2.3%   50.9 -0.4x   WATCH
+FEDERALBNK     Rs   346.0   +0.3%   -2.7%    +1.2%   47.6 -0.6x   WATCH
+SHRIRAMFIN     Rs  1038.0   +0.9%   -7.1%    -3.2%   40.0 -1.8x   WATCH
+HEROMOTOCO     Rs  5280.0   +1.2%  -10.4%    -6.5%   41.6 -2.0x   WATCH
+BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs979.8B | P/E: 384.2135
+  Price: Rs341.95  |  52w range: Rs230.62 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.3%  vs Nifty +0.2%  -> RS: -0.5% (UNDERPERFORMING)
+    1W:  +1.4%  vs Nifty -1.7%
+    1M:  +5.2%  vs Nifty -3.9%  -> RS: +9.1% (OUTPERFORMING)
+    3M:  +30.3%  vs Nifty +1.1%  -> RS: +29.2% (OUTPERFORMING)
+    6M:  +33.7%
+
+  TREND HEALTH:
+    RSI: 57.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 0.93x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.72x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs330.58 (-3.3%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.2% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * India's Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * India's Nykaa posts profit surge on strong demand for beauty products
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs748.7B | P/E: 33.528957
+  Price: Rs86.84  |  52w range: Rs58.68 — Rs87.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.0%  vs Nifty +0.2%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -0.8%  vs Nifty -1.7%
+    1M:  +1.2%  vs Nifty -3.9%  -> RS: +5.1% (OUTPERFORMING)
+    3M:  +19.4%  vs Nifty +1.1%  -> RS: +18.3% (OUTPERFORMING)
+    6M:  +23.7%
+
+  TREND HEALTH:
+    RSI: 58.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.79%
+    ATR extension from SMA20: 0.8x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs84.5 (-2.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Indian shares snap losing run on oil slide, earnings optimism
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.3T | P/E: 39.67248
+  Price: Rs3319.0  |  52w range: Rs2523.24 — Rs3380.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty +0.2%  -> RS: +0.4%
+    1W:  +0.7%  vs Nifty -1.7%
+    1M:  -0.1%  vs Nifty -3.9%  -> RS: +3.8% (OUTPERFORMING)
+    3M:  +8.4%  vs Nifty +1.1%  -> RS: +7.3% (OUTPERFORMING)
+    6M:  +24.1%
+
+  TREND HEALTH:
+    RSI: 56.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.97%
+    ATR extension from SMA20: 0.39x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3220.84 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
+    * Grasim Industries Ltd (BOM:500300) (Q1 2027) Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries swings to first-quarter profit as core business improves
+    * India's Berger Paints posts quarterly profit jump on strong demand
+    * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.4T | P/E: 33.057507
+  Price: Rs3955.0  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.8%  vs Nifty +0.2%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  -0.5%  vs Nifty -1.7%
+    1M:  -1.6%  vs Nifty -3.9%  -> RS: +2.3% (OUTPERFORMING)
+    3M:  +2.4%  vs Nifty +1.1%  -> RS: +1.3% (OUTPERFORMING)
+    6M:  -1.1%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 1.42%
+    ATR extension from SMA20: -1.26x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.06x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3870.74 (-2.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * L&T and MHI to build 50km people mover system at Al Maktoum Airport
+    * What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?
+    * L&T’s Vyoma.AI to construct NVIDIA B300 AI Factory in India
+    * Sector Update: Tech Stocks Gain Thursday Afternoon
+    * India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion
+
+-----------------------------------------------------------------
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.6T | P/E: 27.394636
+  Price: Rs1859.0  |  52w range: Rs1354.17 — Rs1940.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +0.2%  -> RS: +1.4% (OUTPERFORMING)
+    1W:  +1.8%  vs Nifty -1.7%
+    1M:  -2.9%  vs Nifty -3.9%  -> RS: +1.0% (OUTPERFORMING)
+    3M:  +26.3%  vs Nifty +1.1%  -> RS: +25.2% (OUTPERFORMING)
+    6M:  +12.5%
+
+  TREND HEALTH:
+    RSI: 52.5  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.37%
+    ATR extension from SMA20: -0.05x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.74x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1792.82 (-3.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.74x avg) = conviction
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q1 2027 Earnings Call Highlights: ...
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
+
+-----------------------------------------------------------------
+
+  BAJFINANCE — Bajaj Finance Limited
+  Financial Services | Rs6.5T | P/E: 32.078083
+  Price: Rs1043.5  |  52w range: Rs796.65 — Rs1158.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty +0.2%  -> RS: +0.2%
+    1W:  -0.5%  vs Nifty -1.7%
+    1M:  -4.6%  vs Nifty -3.9%  -> RS: -0.7% (UNDERPERFORMING)
+    3M:  +20.6%  vs Nifty +1.1%  -> RS: +19.5% (OUTPERFORMING)
+    6M:  +9.1%
+
+  TREND HEALTH:
+    RSI: 41.0  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 1.92%
+    ATR extension from SMA20: -1.39x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.83x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1013.42 (-2.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp
+    * Indian shares open lower weighed down by financials, higher oil
+    * Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...
+    * Indian shares notch monthly gains as AI unwind, upbeat earnings draw foreign inflows
+    * India's Bajaj Finance hits record high on strong loan growth, asset quality
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs609.4B | P/E: 49.62243
+  Price: Rs2194.8  |  52w range: Rs1653.73 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.2%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +2.0%  vs Nifty -1.7%
+    1M:  +10.3%  vs Nifty -3.9%  -> RS: +14.2% (OUTPERFORMING)
+    3M:  +24.9%  vs Nifty +1.1%  -> RS: +23.8% (OUTPERFORMING)
+    6M:  +1.9%
+
+  TREND HEALTH:
+    RSI: 60.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.45%
+    ATR extension from SMA20: 0.58x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.45x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2114.17 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * APL Apollo Tubes Ltd (BOM:533758) (Q1 2027) Earnings Call Highlights: Resilient Margins Amid ...
+    * APL Apollo Tubes Ltd (BOM:533758) Q3 2026 Earnings Call Highlights: Strong Growth and Strategic ...
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 165.46146
+  Price: Rs1739.0  |  52w range: Rs959.0 — Rs1751.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty +0.2%  -> RS: -0.9% (UNDERPERFORMING)
+    1W:  +7.4%  vs Nifty -1.7%
+    1M:  +9.1%  vs Nifty -3.9%  -> RS: +13.0% (OUTPERFORMING)
+    3M:  +63.1%  vs Nifty +1.1%  -> RS: +62.0% (OUTPERFORMING)
+    6M:  +66.3%
+
+  TREND HEALTH:
+    RSI: 66.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.2%
+    ATR extension from SMA20: 1.59x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.38x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1655.45 (-4.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.7% of 52w high (breakout zone)
+    [~] Extended 1.59x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Paytm Bets on Workplace AI Agents in Pivot Beyond Payments
+    * Founder Led Stocks Worth Watching As Capital Spending Picks Up
+    * 3 Founder Led Indian Stocks With Long Term Skin In The Game
+    * Resilient Asset Management to offload 4.98% stake in Paytm
+    * Paytm founder's Resilient Asset Management to sell up to 4.98% stake in fintech firm
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 61.53295
+  Price: Rs429.5  |  52w range: Rs219.32 — Rs442.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.2%  -> RS: -1.2% (UNDERPERFORMING)
+    1W:  -0.5%  vs Nifty -1.7%
+    1M:  +2.3%  vs Nifty -3.9%  -> RS: +6.2% (OUTPERFORMING)
+    3M:  +16.2%  vs Nifty +1.1%  -> RS: +15.1% (OUTPERFORMING)
+    6M:  +67.5%
+
+  TREND HEALTH:
+    RSI: 54.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.74%
+    ATR extension from SMA20: 0.37x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.56x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs411.88 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 3.0% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * thyssenkrupp nucera AG & Co (THYKF) (Q3 2026) Earnings Call Highlights: Strategic Pivot to ...
+    * India relaxes rules for some state-run firms to procure critical equipment from China
+    * GE Power India Ltd (BOM:532309) Q3 2026 Earnings Call Highlights: Strong Profit Growth Amid ...
+    * Synergy Green Industries Ltd (BOM:541929) Q3 2026 Earnings Call Highlights: Expansion Plans and ...
+    * Adani secures Japanese funding for India’s green energy corridor
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 35.73749
+  Price: Rs4950.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.2%  -> RS: -1.2% (UNDERPERFORMING)
+    1W:  +3.6%  vs Nifty -1.7%
+    1M:  +1.0%  vs Nifty -3.9%  -> RS: +5.0% (OUTPERFORMING)
+    3M:  +17.6%  vs Nifty +1.1%  -> RS: +16.4% (OUTPERFORMING)
+    6M:  +27.9%
+
+  TREND HEALTH:
+    RSI: 57.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 0.2x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.72x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4785.11 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.9% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+    * India's Hindustan Aeronautics posts strong quarterly results on project execution, deliveries
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.4T | P/E: 83.390976
+  Price: Rs3954.4  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +0.2%  -> RS: -0.1%
+    1W:  -1.9%  vs Nifty -1.7%
+    1M:  -1.6%  vs Nifty -3.9%  -> RS: +2.3% (OUTPERFORMING)
+    3M:  +12.8%  vs Nifty +1.1%  -> RS: +11.7% (OUTPERFORMING)
+    6M:  +23.6%
+
+  TREND HEALTH:
+    RSI: 50.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.35%
+    ATR extension from SMA20: -0.4x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.66x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3815.09 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Siemens Ltd (BOM:500550) Q4 2026 Earnings Call Highlights: Strong Order Growth Amid ...
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs854.6B | P/E: 18.473038
+  Price: Rs346.0  |  52w range: Rs189.43 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty +0.2%  -> RS: +0.1%
+    1W:  +0.4%  vs Nifty -1.7%
+    1M:  -2.7%  vs Nifty -3.9%  -> RS: +1.2% (OUTPERFORMING)
+    3M:  +12.1%  vs Nifty +1.1%  -> RS: +10.9% (OUTPERFORMING)
+    6M:  +19.8%
+
+  TREND HEALTH:
+    RSI: 47.6  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 1.93%
+    ATR extension from SMA20: -0.61x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.06x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs335.96 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * India's Federal Bank latest lender to tap dollar debt market via GIFT City, bankers say
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+
+-----------------------------------------------------------------
+
+  SHRIRAMFIN — Shriram Finance Limited
+  Financial Services | Rs2.4T | P/E: 18.339224
+  Price: Rs1038.0  |  52w range: Rs597.76 — Rs1141.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty +0.2%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  -0.6%  vs Nifty -1.7%
+    1M:  -7.1%  vs Nifty -3.9%  -> RS: -3.2% (UNDERPERFORMING)
+    3M:  +17.8%  vs Nifty +1.1%  -> RS: +16.7% (OUTPERFORMING)
+    6M:  +0.4%
+
+  TREND HEALTH:
+    RSI: 40.0  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.61%
+    ATR extension from SMA20: -1.76x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.79x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs997.37 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * Shriram Finance Ltd (BOM:511218) Q1 2027 Earnings Call Highlights: Robust Profit Growth and ...
+    * India's Shriram Finance expects lower borrowing costs after profit surge
+    * Mitsubishi UFJ Financial Group Q4 Earnings Call Highlights
+    * Shriram Finance Ltd (BOM:511218) Q4 2026 Earnings Call Highlights: Robust Profit Growth and ...
+
+-----------------------------------------------------------------
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.1T | P/E: 19.840673
+  Price: Rs5280.0  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.2%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  -0.5%  vs Nifty -1.7%
+    1M:  -10.4%  vs Nifty -3.9%  -> RS: -6.5% (UNDERPERFORMING)
+    3M:  +10.8%  vs Nifty +1.1%  -> RS: +9.7% (OUTPERFORMING)
+    6M:  -4.1%
+
+  TREND HEALTH:
+    RSI: 41.6  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.31%
+    ATR extension from SMA20: -2.03x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs5097.37 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Ather Energy’s 130% Stock Surge Leaves Tesla and BYD Behind in 2026
+    * India's Hero MotoCorp to invest additional $184 million in Ather Energy
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * India's Hero MotoCorp gains after quarterly profit rise
+    * Castrol India's quarterly profit jumps on strong retail, industrial demand
+
+-----------------------------------------------------------------
+
+  BRITANNIA — Britannia Industries Limited
+  Consumer Defensive | Rs1.2T | P/E: 46.43983
+  Price: Rs5009.0  |  52w range: Rs4981.04 — Rs6197.29
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.6%  vs Nifty +0.2%  -> RS: -1.8% (UNDERPERFORMING)
+    1W:  -2.4%  vs Nifty -1.7%
+    1M:  -11.3%  vs Nifty -3.9%  -> RS: -7.3% (UNDERPERFORMING)
+    3M:  -0.4%  vs Nifty +1.1%  -> RS: -1.5% (UNDERPERFORMING)
+    6M:  -14.6%
+
+  TREND HEALTH:
+    RSI: 30.6  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): 2.01%
+    ATR extension from SMA20: -2.69x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.95x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4858.23 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Labour’s asylum crackdown hits Britain’s ‘worst hotel chain’
+    * Britannia Industries Ltd (BOM:500825) (Q1 2027) Earnings Call Highlights: Robust 9. ...
+    * India's Britannia rises as upbeat demand outlook, profit growth cheer investors
+    * India's Britannia misses quarterly profit view as Middle East war pushes costs higher
+    * India's Swiggy names Nandita Sinha as CEO of quick commerce arm Instamart
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
