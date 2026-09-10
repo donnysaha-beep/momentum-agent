@@ -100,7 +100,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.3T | P/E: 39.67248
+  Basic Materials | Rs2.3T | P/E: 39.596756
   Price: Rs3319.0  |  52w range: Rs2523.24 — Rs3380.5
 
   PERFORMANCE vs NIFTY:
@@ -136,7 +136,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   LT — Larsen & Toubro Limited
-  Industrials | Rs5.4T | P/E: 33.057507
+  Industrials | Rs5.4T | P/E: 32.843384
   Price: Rs3955.0  |  52w range: Rs3310.07 — Rs4375.36
 
   PERFORMANCE vs NIFTY:
@@ -171,7 +171,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   CHOLAFIN — Cholamandalam Investment and Finance Company Limited
-  Financial Services | Rs1.6T | P/E: 27.394636
+  Financial Services | Rs1.6T | P/E: 27.471554
   Price: Rs1859.0  |  52w range: Rs1354.17 — Rs1940.0
 
   PERFORMANCE vs NIFTY:
@@ -269,7 +269,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.1T | P/E: 165.46146
+  Technology | Rs1.1T | P/E: 174.2485
   Price: Rs1739.0  |  52w range: Rs959.0 — Rs1751.5
 
   PERFORMANCE vs NIFTY:
@@ -341,7 +341,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.3T | P/E: 35.73749
+  Industrials | Rs3.3T | P/E: 35.481327
   Price: Rs4950.0  |  52w range: Rs3480.15 — Rs5099.0
 
   PERFORMANCE vs NIFTY:
@@ -377,7 +377,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   SIEMENS — Siemens Limited
-  Industrials | Rs1.4T | P/E: 83.390976
+  Industrials | Rs1.4T | P/E: 83.44376
   Price: Rs3954.4  |  52w range: Rs2834.67 — Rs4114.0
 
   PERFORMANCE vs NIFTY:
@@ -407,7 +407,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   FEDERALBNK — The Federal Bank Limited
-  Financial Services | Rs854.6B | P/E: 18.473038
+  Financial Services | Rs854.6B | P/E: 18.502672
   Price: Rs346.0  |  52w range: Rs189.43 — Rs370.43
 
   PERFORMANCE vs NIFTY:
@@ -474,7 +474,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   HEROMOTOCO — Hero MotoCorp Limited
-  Consumer Cyclical | Rs1.1T | P/E: 19.840673
+  Consumer Cyclical | Rs1.1T | P/E: 19.421762
   Price: Rs5280.0  |  52w range: Rs4706.27 — Rs6138.79
 
   PERFORMANCE vs NIFTY:
@@ -508,7 +508,7 @@ BRITANNIA      Rs  5009.0   -1.6%  -11.3%    -7.3%   30.6 -2.7x   WATCH
 -----------------------------------------------------------------
 
   BRITANNIA — Britannia Industries Limited
-  Consumer Defensive | Rs1.2T | P/E: 46.43983
+  Consumer Defensive | Rs1.2T | P/E: 46.41831
   Price: Rs5009.0  |  52w range: Rs4981.04 — Rs6197.29
 
   PERFORMANCE vs NIFTY:
