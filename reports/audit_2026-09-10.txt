@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, September 10 2026
+  Layer 3 | 04:54 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 1
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3300.05 | Stop: Rs 3282.45 | T1: Rs 3410.14
+               EOD: O:3289.0 H:3323.199951171875 L:3282.5 C:3319.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     CHOLAFIN     | Verdict: WATCH
+               Entry: Rs 1824.45 | Stop: Rs 1804.35 | T1: Rs 1890.24
+               EOD: O:1824.4000244140625 H:1868.0 L:1804.4000244140625 C:1859.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1030.15 | Stop: Rs 1020.85 | T1: Rs 1071.26
+               EOD: O:1026.4000244140625 H:1039.0 L:1020.9000244140625 C:1038.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HEROMOTOCO   | Verdict: WATCH
+               Entry: Rs 5253.55 | Stop: Rs 5216.45 | T1: Rs 5439.63
+               EOD: O:5230.0 H:5280.0 L:5171.5 C:5280.0
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    FEDERALBNK   | Verdict: WATCH
+               Entry: Rs 346.8 | Stop: Rs 343.95 | T1: Rs 357.05
+               EOD: O:345.1000061035156 H:346.75 L:343.8999938964844 C:346.0
+               Correctly watched — no valid entry formed
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 343.55 | Stop: Rs 339.1 | T1: Rs 355.56
+               EOD: O:343.5 H:345.3999938964844 L:339.1499938964844 C:341.95001220703125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APLAPOLLO    | Verdict: WATCH
+               Entry: Rs 2177.55 | Stop: Rs 2159.35 | T1: Rs 2266.3
+               EOD: O:2177.5 H:2194.800048828125 L:2159.39990234375 C:2194.800048828125
+               Entry triggered but no target set — monitor
+
+  [LOSS]       LT           | Verdict: TRADE NOW
+               Entry: Rs 3948.05 | Stop: Rs 3917.35 | T1: Rs 4030.05
+               EOD: O:3948.0 H:3965.300048828125 L:3910.0 C:3955.0
+               Hit stop loss (Rs 3917.35) — -0.78% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (62 days tracked)
+=================================================================
+  Total Trades    : 114
+  Win Rate        : 4.4%
+  Good Wins       : 5
+  Good Losses     : 36
+  False Positives : 73
+  Valid Skips     : 17
+  Missed Trades   : 218
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

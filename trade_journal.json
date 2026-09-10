@@ -5565,5 +5565,130 @@
       "missed_trades": 10,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-10",
+    "trades": [
+      {
+        "ticker": "GRASIM",
+        "entry": 3300.05,
+        "target1": 3410.14,
+        "target2": 3483.54,
+        "stop": 3282.45,
+        "verdict": "WATCH",
+        "eod_open": 3289.0,
+        "eod_high": 3323.199951171875,
+        "eod_low": 3282.5,
+        "eod_close": 3319.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "CHOLAFIN",
+        "entry": 1824.45,
+        "target1": 1890.24,
+        "target2": 1934.1,
+        "stop": 1804.35,
+        "verdict": "WATCH",
+        "eod_open": 1824.4000244140625,
+        "eod_high": 1868.0,
+        "eod_low": 1804.4000244140625,
+        "eod_close": 1859.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SHRIRAMFIN",
+        "entry": 1030.15,
+        "target1": 1071.26,
+        "target2": 1098.67,
+        "stop": 1020.85,
+        "verdict": "WATCH",
+        "eod_open": 1026.4000244140625,
+        "eod_high": 1039.0,
+        "eod_low": 1020.9000244140625,
+        "eod_close": 1038.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HEROMOTOCO",
+        "entry": 5253.55,
+        "target1": 5439.63,
+        "target2": 5563.68,
+        "stop": 5216.45,
+        "verdict": "WATCH",
+        "eod_open": 5230.0,
+        "eod_high": 5280.0,
+        "eod_low": 5171.5,
+        "eod_close": 5280.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 346.8,
+        "target1": 357.05,
+        "target2": 363.88,
+        "stop": 343.95,
+        "verdict": "WATCH",
+        "eod_open": 345.1000061035156,
+        "eod_high": 346.75,
+        "eod_low": 343.8999938964844,
+        "eod_close": 346.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 343.55,
+        "target1": 355.56,
+        "target2": 363.56,
+        "stop": 339.1,
+        "verdict": "WATCH",
+        "eod_open": 343.5,
+        "eod_high": 345.3999938964844,
+        "eod_low": 339.1499938964844,
+        "eod_close": 341.95001220703125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APLAPOLLO",
+        "entry": 2177.55,
+        "target1": 2266.3,
+        "target2": 2325.46,
+        "stop": 2159.35,
+        "verdict": "WATCH",
+        "eod_open": 2177.5,
+        "eod_high": 2194.800048828125,
+        "eod_low": 2159.39990234375,
+        "eod_close": 2194.800048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "LT",
+        "entry": 3948.05,
+        "target1": 4030.05,
+        "target2": 4084.72,
+        "stop": 3917.35,
+        "verdict": "TRADE NOW",
+        "eod_open": 3948.0,
+        "eod_high": 3965.300048828125,
+        "eod_low": 3910.0,
+        "eod_close": 3955.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 3917.35) \u2014 -0.78% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 1,
+      "missed_trades": 6,
+      "false_negatives": 0
+    }
   }
 ]
