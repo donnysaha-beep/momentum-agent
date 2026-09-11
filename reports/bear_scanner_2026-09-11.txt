@@ -1,0 +1,121 @@
+=================================================================
+  BEAR SCANNER — Friday, September 11 2026 09:03 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23425.25  |  Gap: -0.9%  |  VWAP: nan
+  ORB: 23232.25 — 23270.9
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 12 SKIP
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [60% probability]
+  FEDERALBNK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 343.25
+  Gap from prev  : -0.5%  (prev Rs 346.0 | opened Rs 344.45)
+  Opening Range  : Rs 341.6 — Rs 344.45  (0.83% wide)
+  VWAP           : Rs 343.59  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 40.1
+  ATR (daily)    : Rs 6.7
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 341.55  (break BELOW ORB low)
+    Target 1 (50%) : Rs 331.5  (-2.9%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 324.8  (-4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 344.5  (+0.9%)  [above ORB high]
+    Risk/Reward    : 1:3.42 (T1)  |  1:5.7 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 73 shares
+    Capital needed : Rs 24,933  (margin)
+    Max loss       : Rs 215  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 341.6000061035156) — set alert
+
+  WATCH SHORT — near breakdown  [60% probability]
+  DIVISLAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 9322.0
+  Gap from prev  : -0.7%  (prev Rs 9438.5 | opened Rs 9373.5)
+  Opening Range  : Rs 9321.5 — Rs 9400.0  (0.84% wide)
+  VWAP           : Rs 9362.14  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 60.8
+  ATR (daily)    : Rs 206.23
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 9321.45  (break BELOW ORB low)
+    Target 1 (50%) : Rs 9012.11  (-3.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 8805.88  (-5.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 9400.05  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:3.95 (T1)  |  1:6.58 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 2 shares
+    Capital needed : Rs 18,643  (margin)
+    Max loss       : Rs 157  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 9321.5) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  POLICYBZR  [60%]  |  Rs 1791.3
+    [-] Stock holding above ORB low — no breakdown yet
+  NESTLEIND  [50%]  |  Rs 1381.9
+    [-] Stock holding above ORB low — no breakdown yet
+  BRITANNIA  [40%]  |  Rs 5010.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  IDFCFIRSTB  [30%]  |  Rs 86.22
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PAYTM  [30%]  |  Rs 1816.6
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NYKAA  [30%]  |  Rs 344.1
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  RBLBANK  [30%]  |  Rs 412.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BHEL  [30%]  |  Rs 431.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  KOTAKBANK  [30%]  |  Rs 417.15
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  APOLLOHOSP  [30%]  |  Rs 8913.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BANDHANBNK  [30%]  |  Rs 178.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  ICICIBANK  [30%]  |  Rs 1386.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
