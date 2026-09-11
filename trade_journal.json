@@ -5690,5 +5690,158 @@
       "missed_trades": 6,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-11",
+    "trades": [
+      {
+        "ticker": "PAYTM",
+        "entry": 1771.05,
+        "target1": 1861.24,
+        "target2": 1921.37,
+        "stop": 1726.95,
+        "verdict": "WATCH",
+        "eod_open": 1741.300048828125,
+        "eod_high": 1828.5999755859375,
+        "eod_low": 1727.0,
+        "eod_close": 1807.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 412.6,
+        "target1": 422.81,
+        "target2": 429.62,
+        "stop": 409.2,
+        "verdict": "WATCH",
+        "eod_open": 412.54998779296875,
+        "eod_high": 420.0,
+        "eod_low": 409.25,
+        "eod_close": 419.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 86.15,
+        "target1": 88.36,
+        "target2": 89.84,
+        "stop": 85.44,
+        "verdict": "WATCH",
+        "eod_open": 86.0,
+        "eod_high": 86.69000244140625,
+        "eod_low": 85.48999786376953,
+        "eod_close": 86.20999908447266,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 341.95,
+        "target1": 353.48,
+        "target2": 361.17,
+        "stop": 339.0,
+        "verdict": "WATCH",
+        "eod_open": 341.8999938964844,
+        "eod_high": 344.5,
+        "eod_low": 339.04998779296875,
+        "eod_close": 344.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "RBLBANK",
+        "entry": 409.35,
+        "target1": 421.54,
+        "target2": 429.67,
+        "stop": 406.35,
+        "verdict": "WATCH",
+        "eod_open": 408.8999938964844,
+        "eod_high": 415.8999938964844,
+        "eod_low": 406.1499938964844,
+        "eod_close": 412.54998779296875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BHEL",
+        "entry": 426.2,
+        "target1": 443.55,
+        "target2": 455.12,
+        "stop": 419.25,
+        "verdict": "WATCH",
+        "eod_open": 426.1499938964844,
+        "eod_high": 432.95001220703125,
+        "eod_low": 418.25,
+        "eod_close": 431.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8877.55,
+        "target1": 9122.86,
+        "target2": 9286.4,
+        "stop": 8805.95,
+        "verdict": "WATCH",
+        "eod_open": 8811.0,
+        "eod_high": 8949.0,
+        "eod_low": 8806.0,
+        "eod_close": 8836.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BANDHANBNK",
+        "entry": 173.04,
+        "target1": 180.24,
+        "target2": 185.04,
+        "stop": 170.85,
+        "verdict": "WATCH",
+        "eod_open": 171.75,
+        "eod_high": 178.4600067138672,
+        "eod_low": 170.89999389648438,
+        "eod_close": 176.52000427246094,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1374.55,
+        "target1": 1406.64,
+        "target2": 1428.04,
+        "stop": 1367.85,
+        "verdict": "WATCH",
+        "eod_open": 1372.699951171875,
+        "eod_high": 1388.9000244140625,
+        "eod_low": 1367.9000244140625,
+        "eod_close": 1379.300048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BRITANNIA",
+        "entry": 4994.05,
+        "target1": 5144.44,
+        "target2": 5244.71,
+        "stop": 4955.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 4994.0,
+        "eod_high": 5012.5,
+        "eod_low": 4945.0,
+        "eod_close": 4962.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 4955.95) \u2014 -0.76% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 9,
+      "false_negatives": 0
+    }
   }
 ]

@@ -1,0 +1,89 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, September 11 2026
+  Layer 3 | 04:55 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 9
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1771.05 | Stop: Rs 1726.95 | T1: Rs 1861.24
+               EOD: O:1741.300048828125 H:1828.5999755859375 L:1727.0 C:1807.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 412.6 | Stop: Rs 409.2 | T1: Rs 422.81
+               EOD: O:412.54998779296875 H:420.0 L:409.25 C:419.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 86.15 | Stop: Rs 85.44 | T1: Rs 88.36
+               EOD: O:86.0 H:86.69000244140625 L:85.48999786376953 C:86.20999908447266
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 341.95 | Stop: Rs 339.0 | T1: Rs 353.48
+               EOD: O:341.8999938964844 H:344.5 L:339.04998779296875 C:344.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     RBLBANK      | Verdict: WATCH
+               Entry: Rs 409.35 | Stop: Rs 406.35 | T1: Rs 421.54
+               EOD: O:408.8999938964844 H:415.8999938964844 L:406.1499938964844 C:412.54998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BHEL         | Verdict: WATCH
+               Entry: Rs 426.2 | Stop: Rs 419.25 | T1: Rs 443.55
+               EOD: O:426.1499938964844 H:432.95001220703125 L:418.25 C:431.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APOLLOHOSP   | Verdict: WATCH
+               Entry: Rs 8877.55 | Stop: Rs 8805.95 | T1: Rs 9122.86
+               EOD: O:8811.0 H:8949.0 L:8806.0 C:8836.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BANDHANBNK   | Verdict: WATCH
+               Entry: Rs 173.04 | Stop: Rs 170.85 | T1: Rs 180.24
+               EOD: O:171.75 H:178.4600067138672 L:170.89999389648438 C:176.52000427246094
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ICICIBANK    | Verdict: WATCH
+               Entry: Rs 1374.55 | Stop: Rs 1367.85 | T1: Rs 1406.64
+               EOD: O:1372.699951171875 H:1388.9000244140625 L:1367.9000244140625 C:1379.300048828125
+               Entry triggered but no target set — monitor
+
+  [LOSS]       BRITANNIA    | Verdict: TRADE NOW
+               Entry: Rs 4994.05 | Stop: Rs 4955.95 | T1: Rs 5144.44
+               EOD: O:4994.0 H:5012.5 L:4945.0 C:4962.0
+               Hit stop loss (Rs 4955.95) — -0.76% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (63 days tracked)
+=================================================================
+  Total Trades    : 115
+  Win Rate        : 4.3%
+  Good Wins       : 5
+  Good Losses     : 37
+  False Positives : 73
+  Valid Skips     : 17
+  Missed Trades   : 227
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
