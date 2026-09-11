@@ -7,51 +7,51 @@ MARKET REGIME: NEUTRAL
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-NYKAA          Rs   343.9   +0.6%   +4.8%    +8.9%   58.8  1.1x   WATCH NOW
-APOLLOHOSP     Rs  8870.0   -0.3%   +3.3%    +7.4%   53.1  0.5x   WATCH NOW
+NYKAA          Rs   344.5   +0.8%   +5.0%    +9.1%   59.3  1.2x   WATCH NOW
+APOLLOHOSP     Rs  8836.0   -0.7%   +2.9%    +7.0%   51.5  0.2x   WATCH NOW
 BHEL           Rs   431.0   +0.3%   +2.6%    +6.7%   55.3  0.5x   WATCH NOW
-IDFCFIRSTB     Rs    86.2   -0.7%   -0.3%    +3.7%   54.9  0.4x   WATCH NOW
-BRITANNIA      Rs  4982.0   -0.5%  -11.3%    -7.2%   29.3 -2.7x   WATCH NOW
+IDFCFIRSTB     Rs    86.2   -0.7%   -0.4%    +3.7%   54.7  0.4x   WATCH NOW
+BRITANNIA      Rs  4962.0   -0.9%  -11.6%    -7.5%   28.5 -2.9x   WATCH NOW
 PAYTM          Rs  1807.5   +3.9%  +12.3%   +16.4%   70.8  2.5x   WATCH
-DIVISLAB       Rs  9344.0   -1.0%   +9.9%   +14.0%   64.5  1.6x   WATCH
-KOTAKBANK      Rs   417.7   +0.3%   +6.5%   +10.5%   58.8  0.8x   WATCH
-RBLBANK        Rs   413.1   +0.6%   +6.2%   +10.3%   67.4  2.2x   WATCH
-POLICYBZR      Rs  1800.0   +0.0%   +3.5%    +7.6%   55.1 -0.1x   WATCH
+DIVISLAB       Rs  9322.0   -1.2%   +9.7%   +13.8%   63.7  1.4x   WATCH
+KOTAKBANK      Rs   419.0   +0.6%   +6.8%   +10.9%   59.9  1.0x   WATCH
+RBLBANK        Rs   412.6   +0.4%   +6.1%   +10.2%   67.1  2.2x   WATCH
+POLICYBZR      Rs  1797.3   -0.1%   +3.4%    +7.4%   54.6 -0.2x   WATCH
 BANDHANBNK     Rs   176.5   +1.4%   +1.2%    +5.3%   57.3  1.3x   WATCH
+FEDERALBNK     Rs   344.5   -0.4%   -1.9%    +2.2%   46.2 -0.8x   WATCH
 ICICIBANK      Rs  1379.3   -0.4%   -1.9%    +2.1%   37.7 -1.8x   WATCH
-FEDERALBNK     Rs   342.9   -0.9%   -2.4%    +1.7%   44.7 -1.0x   WATCH
-NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
+NESTLEIND      Rs  1383.3   -0.2%   -8.2%    -4.1%   33.0 -1.9x   WATCH
 
 =================================================================
   FULL DETAIL
 =================================================================
 
   NYKAA — FSN E-Commerce Ventures Limited
-  Consumer Cyclical | Rs985.4B | P/E: 386.40448
-  Price: Rs343.9  |  52w range: Rs230.62 — Rs349.55
+  Consumer Cyclical | Rs987.1B | P/E: 387.07864
+  Price: Rs344.5  |  52w range: Rs230.62 — Rs349.55
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.6%  vs Nifty -0.3%  -> RS: +0.9% (OUTPERFORMING)
-    1W:  +2.9%  vs Nifty -2.1%
-    1M:  +4.8%  vs Nifty -4.1%  -> RS: +8.9% (OUTPERFORMING)
-    3M:  +32.1%  vs Nifty +1.0%  -> RS: +31.1% (OUTPERFORMING)
-    6M:  +31.9%
+    1D:  +0.8%  vs Nifty -0.3%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  +3.1%  vs Nifty -2.1%
+    1M:  +5.0%  vs Nifty -4.1%  -> RS: +9.1% (OUTPERFORMING)
+    3M:  +32.4%  vs Nifty +1.0%  -> RS: +31.4% (OUTPERFORMING)
+    6M:  +32.1%
 
   TREND HEALTH:
-    RSI: 58.8  |  Days above SMA50 (last 20): 20/20
+    RSI: 59.3  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 2.16%
-    ATR extension from SMA20: 1.13x  (HEALTHY)
+    ATR extension from SMA20: 1.21x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.9x 20-day avg
+    Volume today: 0.95x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs332.75 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs333.35 (-3.2%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 1.6% of 52w high (breakout zone)
+    [+] Within 1.4% of 52w high (breakout zone)
 
   RECENT NEWS:
     * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
@@ -63,31 +63,31 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 61.058716
-  Price: Rs8870.0  |  52w range: Rs6776.6 — Rs9039.48
+  Healthcare | Rs1.3T | P/E: 60.908524
+  Price: Rs8836.0  |  52w range: Rs6776.6 — Rs9039.48
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.3%  vs Nifty -0.3%  -> RS: +0.0%
-    1W:  +2.0%  vs Nifty -2.1%
-    1M:  +3.3%  vs Nifty -4.1%  -> RS: +7.4% (OUTPERFORMING)
-    3M:  +4.6%  vs Nifty +1.0%  -> RS: +3.5% (OUTPERFORMING)
-    6M:  +14.2%
+    1D:  -0.7%  vs Nifty -0.3%  -> RS: -0.4%
+    1W:  +1.7%  vs Nifty -2.1%
+    1M:  +2.9%  vs Nifty -4.1%  -> RS: +7.0% (OUTPERFORMING)
+    3M:  +4.2%  vs Nifty +1.0%  -> RS: +3.1% (OUTPERFORMING)
+    6M:  +13.8%
 
   TREND HEALTH:
-    RSI: 53.1  |  Days above SMA50 (last 20): 12/20
-    Daily volatility (ATR%): 1.7%
-    ATR extension from SMA20: 0.46x  (HEALTHY)
+    RSI: 51.5  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 1.71%
+    ATR extension from SMA20: 0.24x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.6x 20-day avg
+    Volume today: 0.62x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs8643.77 (-2.6%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8609.77 (-2.6%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 1.9% of 52w high (breakout zone)
+    [+] Within 2.3% of 52w high (breakout zone)
 
   RECENT NEWS:
     * Trump Wants Lower Rates. That Won’t Stop a Fed Rate Hike.
@@ -99,7 +99,7 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   BHEL — Bharat Heavy Electricals Limited
-  Industrials | Rs1.5T | P/E: 62.373375
+  Industrials | Rs1.5T | P/E: 61.57143
   Price: Rs431.0  |  52w range: Rs227.98 — Rs442.65
 
   PERFORMANCE vs NIFTY:
@@ -134,31 +134,31 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   IDFCFIRSTB — IDFC First Bank Limited
-  Financial Services | Rs743.6B | P/E: 33.04598
-  Price: Rs86.25  |  52w range: Rs58.68 — Rs87.5
+  Financial Services | Rs743.3B | P/E: 33.285713
+  Price: Rs86.21  |  52w range: Rs58.68 — Rs87.5
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.7%  vs Nifty -0.3%  -> RS: -0.3%
-    1W:  -0.5%  vs Nifty -2.1%
-    1M:  -0.3%  vs Nifty -4.1%  -> RS: +3.7% (OUTPERFORMING)
-    3M:  +13.1%  vs Nifty +1.0%  -> RS: +12.1% (OUTPERFORMING)
+    1D:  -0.7%  vs Nifty -0.3%  -> RS: -0.4%
+    1W:  -0.6%  vs Nifty -2.1%
+    1M:  -0.4%  vs Nifty -4.1%  -> RS: +3.7% (OUTPERFORMING)
+    3M:  +13.0%  vs Nifty +1.0%  -> RS: +12.0% (OUTPERFORMING)
     6M:  +23.6%
 
   TREND HEALTH:
-    RSI: 54.9  |  Days above SMA50 (last 20): 20/20
+    RSI: 54.7  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 1.8%
-    ATR extension from SMA20: 0.41x  (HEALTHY)
+    ATR extension from SMA20: 0.39x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.93x 20-day avg
+    Volume today: 0.95x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs83.93 (-2.7%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs83.89 (-2.7%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 1.4% of 52w high (breakout zone)
+    [+] Within 1.5% of 52w high (breakout zone)
 
   RECENT NEWS:
     * Indian bank stocks show widest exchange price gap in decades
@@ -170,25 +170,25 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   BRITANNIA — Britannia Industries Limited
-  Consumer Defensive | Rs1.2T | P/E: 46.915905
-  Price: Rs4982.0  |  52w range: Rs4981.04 — Rs6197.29
+  Consumer Defensive | Rs1.2T | P/E: 45.863758
+  Price: Rs4962.0  |  52w range: Rs4962.0 — Rs6197.29
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.5%  vs Nifty -0.3%  -> RS: -0.2%
-    1W:  -2.3%  vs Nifty -2.1%
-    1M:  -11.3%  vs Nifty -4.1%  -> RS: -7.2% (UNDERPERFORMING)
-    3M:  -1.9%  vs Nifty +1.0%  -> RS: -3.0% (UNDERPERFORMING)
-    6M:  -15.3%
+    1D:  -0.9%  vs Nifty -0.3%  -> RS: -0.6% (UNDERPERFORMING)
+    1W:  -2.7%  vs Nifty -2.1%
+    1M:  -11.6%  vs Nifty -4.1%  -> RS: -7.5% (UNDERPERFORMING)
+    3M:  -2.3%  vs Nifty +1.0%  -> RS: -3.4% (UNDERPERFORMING)
+    6M:  -15.7%
 
   TREND HEALTH:
-    RSI: 29.3  |  Days above SMA50 (last 20): 6/20
-    Daily volatility (ATR%): 1.97%
-    ATR extension from SMA20: -2.73x  (HEALTHY)
+    RSI: 28.5  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 1.98%
+    ATR extension from SMA20: -2.92x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.67x 20-day avg
+    Volume today: 0.71x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs4834.77 (-3.0%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4814.77 (-3.0%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -205,7 +205,7 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.2T | P/E: 183.35016
+  Technology | Rs1.2T | P/E: 179.13776
   Price: Rs1807.5  |  52w range: Rs959.0 — Rs1807.5
 
   PERFORMANCE vs NIFTY:
@@ -242,30 +242,29 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   DIVISLAB — Divi's Laboratories Limited
-  Healthcare | Rs2.5T | P/E: 84.89915
-  Price: Rs9344.0  |  52w range: Rs5666.13 — Rs9575.0
+  Healthcare | Rs2.5T | P/E: 84.41547
+  Price: Rs9322.0  |  52w range: Rs5666.13 — Rs9575.0
 
   PERFORMANCE vs NIFTY:
-    1D:  -1.0%  vs Nifty -0.3%  -> RS: -0.7% (UNDERPERFORMING)
-    1W:  +2.7%  vs Nifty -2.1%
-    1M:  +9.9%  vs Nifty -4.1%  -> RS: +14.0% (OUTPERFORMING)
-    3M:  +41.4%  vs Nifty +1.0%  -> RS: +40.3% (OUTPERFORMING)
-    6M:  +47.4%
+    1D:  -1.2%  vs Nifty -0.3%  -> RS: -0.9% (UNDERPERFORMING)
+    1W:  +2.4%  vs Nifty -2.1%
+    1M:  +9.7%  vs Nifty -4.1%  -> RS: +13.8% (OUTPERFORMING)
+    3M:  +41.0%  vs Nifty +1.0%  -> RS: +40.0% (OUTPERFORMING)
+    6M:  +47.1%
 
   TREND HEALTH:
-    RSI: 64.5  |  Days above SMA50 (last 20): 20/20
+    RSI: 63.7  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 2.13%
-    ATR extension from SMA20: 1.55x  (EXTENDED)
+    ATR extension from SMA20: 1.44x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.13x 20-day avg
+    Volume today: 1.16x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs9045.74 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9023.74 (-3.2%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
-    [+] Within 2.4% of 52w high (breakout zone)
-    [~] Extended 1.55x from SMA20 — wait for pullback
+    [+] Within 2.6% of 52w high (breakout zone)
 
   RECENT NEWS:
     * Divi's Laboratories Ltd (BOM:532488) (Q1 FY27) Earnings Call Highlights: Record Profit Surge ...
@@ -277,65 +276,65 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   KOTAKBANK — Kotak Mahindra Bank Limited
-  Financial Services | Rs4.2T | P/E: 20.33593
-  Price: Rs417.7  |  52w range: Rs352.79 — Rs444.35
+  Financial Services | Rs4.2T | P/E: 20.529152
+  Price: Rs419.0  |  52w range: Rs352.79 — Rs444.35
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.3%  vs Nifty -0.3%  -> RS: +0.6% (OUTPERFORMING)
-    1W:  -1.6%  vs Nifty -2.1%
-    1M:  +6.5%  vs Nifty -4.1%  -> RS: +10.5% (OUTPERFORMING)
-    3M:  +3.8%  vs Nifty +1.0%  -> RS: +2.7% (OUTPERFORMING)
-    6M:  +4.7%
+    1D:  +0.6%  vs Nifty -0.3%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  -1.3%  vs Nifty -2.1%
+    1M:  +6.8%  vs Nifty -4.1%  -> RS: +10.9% (OUTPERFORMING)
+    3M:  +4.1%  vs Nifty +1.0%  -> RS: +3.0% (OUTPERFORMING)
+    6M:  +5.0%
 
   TREND HEALTH:
-    RSI: 58.8  |  Days above SMA50 (last 20): 18/20
-    Daily volatility (ATR%): 1.67%
-    ATR extension from SMA20: 0.81x  (HEALTHY)
+    RSI: 59.9  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 1.66%
+    ATR extension from SMA20: 0.98x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.17x 20-day avg
+    Volume today: 1.24x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs407.25 (-2.5%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs408.55 (-2.5%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
 
   RECENT NEWS:
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
     * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
     * Ravi Malani to head portfolio management services at Sanctum Wealth
     * India's Kotak Investment Banking appoints co-CEOs
     * Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say
-    * Kotak Mahindra Bank Ltd (BOM:500247) Q1 2027 Earnings Call Highlights: Strong Profit Growth ...
 
 -----------------------------------------------------------------
 
   RBLBANK — RBL Bank Limited
-  Financial Services | Rs640.7B | P/E: 34.56904
-  Price: Rs413.1  |  52w range: Rs263.72 — Rs418.5
+  Financial Services | Rs639.5B | P/E: 34.038776
+  Price: Rs412.55  |  52w range: Rs263.72 — Rs418.5
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.6%  vs Nifty -0.3%  -> RS: +0.9% (OUTPERFORMING)
-    1W:  +1.2%  vs Nifty -2.1%
-    1M:  +6.2%  vs Nifty -4.1%  -> RS: +10.3% (OUTPERFORMING)
-    3M:  +15.3%  vs Nifty +1.0%  -> RS: +14.3% (OUTPERFORMING)
-    6M:  +33.6%
+    1D:  +0.4%  vs Nifty -0.3%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +1.1%  vs Nifty -2.1%
+    1M:  +6.1%  vs Nifty -4.1%  -> RS: +10.2% (OUTPERFORMING)
+    3M:  +15.2%  vs Nifty +1.0%  -> RS: +14.2% (OUTPERFORMING)
+    6M:  +33.4%
 
   TREND HEALTH:
-    RSI: 67.4  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 2.11%
-    ATR extension from SMA20: 2.25x  (STRETCHED)
+    RSI: 67.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.12%
+    ATR extension from SMA20: 2.19x  (STRETCHED)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.94x 20-day avg
+    Volume today: 0.95x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs400.0 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs399.45 (-3.2%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
-    [+] Within 1.3% of 52w high (breakout zone)
-    [~] Extended 2.25x from SMA20 — wait for pullback
+    [+] Within 1.4% of 52w high (breakout zone)
+    [~] Extended 2.19x from SMA20 — wait for pullback
 
   RECENT NEWS:
     * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
@@ -347,25 +346,25 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   POLICYBZR — PB Fintech Limited
-  Financial Services | Rs831.8B | P/E: 111.11111
-  Price: Rs1800.0  |  52w range: Rs1426.9 — Rs1957.3
+  Financial Services | Rs830.5B | P/E: 110.94444
+  Price: Rs1797.3  |  52w range: Rs1426.9 — Rs1957.3
 
   PERFORMANCE vs NIFTY:
-    1D:  +0.0%  vs Nifty -0.3%  -> RS: N/A
-    1W:  -3.7%  vs Nifty -2.1%
-    1M:  +3.5%  vs Nifty -4.1%  -> RS: +7.6% (OUTPERFORMING)
-    3M:  +19.7%  vs Nifty +1.0%  -> RS: +18.6% (OUTPERFORMING)
-    6M:  +22.2%
+    1D:  -0.1%  vs Nifty -0.3%  -> RS: +0.2%
+    1W:  -3.9%  vs Nifty -2.1%
+    1M:  +3.4%  vs Nifty -4.1%  -> RS: +7.4% (OUTPERFORMING)
+    3M:  +19.5%  vs Nifty +1.0%  -> RS: +18.5% (OUTPERFORMING)
+    6M:  +22.0%
 
   TREND HEALTH:
-    RSI: 55.1  |  Days above SMA50 (last 20): 20/20
+    RSI: 54.6  |  Days above SMA50 (last 20): 20/20
     Daily volatility (ATR%): 2.65%
-    ATR extension from SMA20: -0.14x  (HEALTHY)
+    ATR extension from SMA20: -0.19x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 0.52x 20-day avg
+    Volume today: 0.53x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1728.48 (-4.0%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1725.78 (-4.0%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -380,7 +379,7 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 -----------------------------------------------------------------
 
   BANDHANBNK — Bandhan Bank Limited
-  Financial Services | Rs284.4B | P/E: 20.742655
+  Financial Services | Rs284.4B | P/E: 21.039331
   Price: Rs176.52  |  52w range: Rs134.31 — Rs214.88
 
   PERFORMANCE vs NIFTY:
@@ -415,8 +414,42 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
 
 -----------------------------------------------------------------
 
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs850.9B | P/E: 18.442184
+  Price: Rs344.5  |  52w range: Rs189.43 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.3%  -> RS: -0.1%
+    1W:  +0.4%  vs Nifty -2.1%
+    1M:  -1.9%  vs Nifty -4.1%  -> RS: +2.2% (OUTPERFORMING)
+    3M:  +9.5%  vs Nifty +1.0%  -> RS: +8.5% (OUTPERFORMING)
+    6M:  +20.7%
+
+  TREND HEALTH:
+    RSI: 46.2  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 1.9%
+    ATR extension from SMA20: -0.8x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs334.66 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * India's Federal Bank latest lender to tap dollar debt market via GIFT City, bankers say
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+
+-----------------------------------------------------------------
+
   ICICIBANK — ICICI Bank Limited
-  Financial Services | Rs9.9T | P/E: 17.885115
+  Financial Services | Rs9.9T | P/E: 17.822718
   Price: Rs1379.3  |  52w range: Rs1195.82 — Rs1460.0
 
   PERFORMANCE vs NIFTY:
@@ -441,68 +474,34 @@ NESTLEIND      Rs  1380.7   -0.4%   -8.4%    -4.3%   32.5 -2.0x   WATCH
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
+    * India and Russia Are Finding Another Way Around the Dollar
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
     * Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading
     * Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading
     * Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading
-    * Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million
-    * Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading
-
------------------------------------------------------------------
-
-  FEDERALBNK — The Federal Bank Limited
-  Financial Services | Rs847.1B | P/E: 18.290667
-  Price: Rs342.95  |  52w range: Rs189.43 — Rs370.43
-
-  PERFORMANCE vs NIFTY:
-    1D:  -0.9%  vs Nifty -0.3%  -> RS: -0.5% (UNDERPERFORMING)
-    1W:  -0.0%  vs Nifty -2.1%
-    1M:  -2.4%  vs Nifty -4.1%  -> RS: +1.7% (OUTPERFORMING)
-    3M:  +9.0%  vs Nifty +1.0%  -> RS: +8.0% (OUTPERFORMING)
-    6M:  +20.1%
-
-  TREND HEALTH:
-    RSI: 44.7  |  Days above SMA50 (last 20): 13/20
-    Daily volatility (ATR%): 1.91%
-    ATR extension from SMA20: -1.02x  (HEALTHY)
-    Volatility trend: EXPANDING
-    Volume today: 0.56x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs333.11 (-2.9%)
-
-  VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
-
-  RECENT NEWS:
-    * Blackstone explores stake in India’s IIFL Finance – report
-    * Indian bank stocks show widest exchange price gap in decades
-    * India's Federal Bank latest lender to tap dollar debt market via GIFT City, bankers say
-    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
-    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
 
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs2.7T | P/E: 70.15752
-  Price: Rs1380.7  |  52w range: Rs1140.83 — Rs1540.0
+  Consumer Defensive | Rs2.7T | P/E: 69.793144
+  Price: Rs1383.3  |  52w range: Rs1140.83 — Rs1540.0
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.4%  vs Nifty -0.3%  -> RS: -0.1%
-    1W:  -2.1%  vs Nifty -2.1%
-    1M:  -8.4%  vs Nifty -4.1%  -> RS: -4.3% (UNDERPERFORMING)
-    3M:  +0.8%  vs Nifty +1.0%  -> RS: -0.2%
-    6M:  +10.8%
+    1D:  -0.2%  vs Nifty -0.3%  -> RS: +0.1%
+    1W:  -1.9%  vs Nifty -2.1%
+    1M:  -8.2%  vs Nifty -4.1%  -> RS: -4.1% (UNDERPERFORMING)
+    3M:  +1.0%  vs Nifty +1.0%  -> RS: +0.0%
+    6M:  +11.0%
 
   TREND HEALTH:
-    RSI: 32.5  |  Days above SMA50 (last 20): 8/20
+    RSI: 33.0  |  Days above SMA50 (last 20): 8/20
     Daily volatility (ATR%): 2.13%
-    ATR extension from SMA20: -1.99x  (HEALTHY)
+    ATR extension from SMA20: -1.9x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.85x 20-day avg
+    Volume today: 0.91x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1336.59 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1339.19 (-3.2%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
