@@ -136,7 +136,7 @@ MARICO         Rs   802.1   -0.1%   -6.2%    -2.1%   34.4 -2.0x   WATCH
 
   ABB — ABB India Limited
   Industrials | Rs1.5T | P/E: 97.09023
-  Price: Rs7274.0  |  52w range: Rs4618.02 — Rs7710.0
+  Price: Rs7274.0  |  52w range: Rs4618.03 — Rs7710.0
 
   PERFORMANCE vs NIFTY:
     1D:  -0.8%  vs Nifty -0.3%  -> RS: -0.4%
@@ -271,7 +271,7 @@ MARICO         Rs   802.1   -0.1%   -6.2%    -2.1%   34.4 -2.0x   WATCH
 -----------------------------------------------------------------
 
   RBLBANK — RBL Bank Limited
-  Financial Services | Rs639.5B | P/E: 34.010715
+  Financial Services | Rs639.8B | P/E: 34.010715
   Price: Rs412.55  |  52w range: Rs263.72 — Rs418.5
 
   PERFORMANCE vs NIFTY:
