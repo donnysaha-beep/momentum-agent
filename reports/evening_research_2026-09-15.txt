@@ -1,0 +1,371 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 15, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23118.6  1D: -1.2%  1W: -2.8%  1M: -5.1%  3M: -2.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+RBLBANK        Rs   403.6   -2.2%   +4.5%    +9.6%   58.0  1.0x   WATCH NOW
+IDFCFIRSTB     Rs    84.8   -1.6%   -1.0%    +4.1%   48.3 -0.5x   WATCH NOW
+TCS            Rs  2251.0   +2.3%   -4.7%    +0.5%   45.4 -0.6x   WATCH NOW
+DIVISLAB       Rs  9198.0   -1.3%   +8.5%   +13.6%   59.3  0.6x   WATCH
+PAYTM          Rs  1730.0   -4.3%   +4.9%   +10.0%   60.7  1.1x   WATCH
+TECHM          Rs  1575.9   +2.3%   -3.5%    +1.6%   49.2 -0.2x   WATCH
+NAUKRI         Rs  1261.5   +0.9%   -6.1%    -0.9%   43.0 -1.6x   WATCH
+HCLTECH        Rs  1253.7   +4.0%   -7.8%    -2.7%   44.3 -1.0x   WATCH
+MARICO         Rs   791.2   -1.4%   -8.5%    -3.4%   31.1 -2.5x   WATCH
+HEROMOTOCO     Rs  5166.0   -1.1%  -10.8%    -5.7%   36.7 -2.5x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs626.0B | P/E: 33.272877
+  Price: Rs403.6  |  52w range: Rs263.72 — Rs418.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.2%  vs Nifty -1.2%  -> RS: -1.0% (UNDERPERFORMING)
+    1W:  -2.6%  vs Nifty -2.8%
+    1M:  +4.5%  vs Nifty -5.1%  -> RS: +9.6% (OUTPERFORMING)
+    3M:  +10.6%  vs Nifty -2.1%  -> RS: +12.7% (OUTPERFORMING)
+    6M:  +33.2%
+
+  TREND HEALTH:
+    RSI: 58.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 1.03x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.37x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs390.13 (-3.3%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * RBL Bank Ltd (BOM:540065) Q1 2027 Earnings Call Highlights: Strong Advances Growth and ...
+    * India's RBL Bank posts higher profit on strong loan growth
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+
+-----------------------------------------------------------------
+
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs731.2B | P/E: 32.741314
+  Price: Rs84.8  |  52w range: Rs58.68 — Rs87.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.6%  vs Nifty -1.2%  -> RS: -0.5%
+    1W:  -1.9%  vs Nifty -2.8%
+    1M:  -1.0%  vs Nifty -5.1%  -> RS: +4.1% (OUTPERFORMING)
+    3M:  +8.6%  vs Nifty -2.1%  -> RS: +10.7% (OUTPERFORMING)
+    6M:  +27.4%
+
+  TREND HEALTH:
+    RSI: 48.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.85%
+    ATR extension from SMA20: -0.51x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.62x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs82.44 (-2.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Indian shares snap losing run on oil slide, earnings optimism
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | N/A | P/E: 16.364958
+  Price: Rs2251.0  |  52w range: Rs1971.79 — Rs3204.28
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty -1.2%  -> RS: +3.5% (OUTPERFORMING)
+    1W:  -0.8%  vs Nifty -2.8%
+    1M:  -4.7%  vs Nifty -5.1%  -> RS: +0.5%
+    3M:  +4.7%  vs Nifty -2.1%  -> RS: +6.8% (OUTPERFORMING)
+    6M:  -9.2%
+
+  TREND HEALTH:
+    RSI: 45.4  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.69%
+    ATR extension from SMA20: -0.59x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.07x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2160.01 (-4.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.07x avg) = conviction
+
+  RECENT NEWS:
+    * Trump administration proposes axing grace period for H-1B visa holders after job loss
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.4T | P/E: 83.61818
+  Price: Rs9198.0  |  52w range: Rs5666.13 — Rs9575.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.3%  vs Nifty -1.2%  -> RS: -0.1%
+    1W:  -1.3%  vs Nifty -2.8%
+    1M:  +8.5%  vs Nifty -5.1%  -> RS: +13.6% (OUTPERFORMING)
+    3M:  +39.8%  vs Nifty -2.1%  -> RS: +41.9% (OUTPERFORMING)
+    6M:  +45.9%
+
+  TREND HEALTH:
+    RSI: 59.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 0.62x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.84x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8891.16 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Divi's Laboratories Ltd (BOM:532488) (Q1 FY27) Earnings Call Highlights: Record Profit Surge ...
+    * Divi's Laboratories Ltd (BOM:532488) Q4 2026 Earnings Call Highlights: Strong Financial ...
+    * Divi's Laboratories Ltd (BOM:532488) Q3 2026 Earnings Call Highlights: Strong Export ...
+    * Indian contract drug maker Divi's misses profit view on high material costs, one-off labour charge
+    * Divi's Laboratories Ltd (BOM:532488) Q2 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 170.94862
+  Price: Rs1730.0  |  52w range: Rs959.0 — Rs1807.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -4.3%  vs Nifty -1.2%  -> RS: -3.1% (UNDERPERFORMING)
+    1W:  +4.2%  vs Nifty -2.8%
+    1M:  +4.9%  vs Nifty -5.1%  -> RS: +10.0% (OUTPERFORMING)
+    3M:  +61.1%  vs Nifty -2.1%  -> RS: +63.2% (OUTPERFORMING)
+    6M:  +66.6%
+
+  TREND HEALTH:
+    RSI: 60.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.54%
+    ATR extension from SMA20: 1.06x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.76x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1638.02 (-5.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Paytm Bets on Workplace AI Agents in Pivot Beyond Payments
+    * Founder Led Stocks Worth Watching As Capital Spending Picks Up
+    * 3 Founder Led Indian Stocks With Long Term Skin In The Game
+    * Resilient Asset Management to offload 4.98% stake in Paytm
+    * Paytm founder's Resilient Asset Management to sell up to 4.98% stake in fintech firm
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 27.269424
+  Price: Rs1575.9  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty -1.2%  -> RS: +3.5% (OUTPERFORMING)
+    1W:  +0.8%  vs Nifty -2.8%
+    1M:  -3.5%  vs Nifty -5.1%  -> RS: +1.6% (OUTPERFORMING)
+    3M:  +13.4%  vs Nifty -2.1%  -> RS: +15.6% (OUTPERFORMING)
+    6M:  +21.0%
+
+  TREND HEALTH:
+    RSI: 49.2  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.72%
+    ATR extension from SMA20: -0.21x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.36x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1511.58 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+    * Rezolve AI Stock Drops After Net Loss Widens – CEO Says Google Is ‘Just The Beginning’ With More Deals In Pipeline
+
+-----------------------------------------------------------------
+
+  NAUKRI — Info Edge (India) Limited
+  Communication Services | Rs817.1B | P/E: 51.197243
+  Price: Rs1261.5  |  52w range: Rs923.1 — Rs1407.76
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty -1.2%  -> RS: +2.0% (OUTPERFORMING)
+    1W:  -3.1%  vs Nifty -2.8%
+    1M:  -6.1%  vs Nifty -5.1%  -> RS: -0.9% (UNDERPERFORMING)
+    3M:  +28.8%  vs Nifty -2.1%  -> RS: +30.9% (OUTPERFORMING)
+    6M:  +29.2%
+
+  TREND HEALTH:
+    RSI: 43.0  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.99%
+    ATR extension from SMA20: -1.62x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.43x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1204.9 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Info Edge (India) Ltd (BOM:532777) (Q1 2027) Earnings Call Highlights: AI-Driven Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q4 2026 Earnings Call Highlights: Strong Revenue Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  HCLTECH — HCL Technologies Limited
+  Technology | Rs3.4T | P/E: 19.500698
+  Price: Rs1253.7  |  52w range: Rs1023.75 — Rs1679.96
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.0%  vs Nifty -1.2%  -> RS: +5.1% (OUTPERFORMING)
+    1W:  -2.3%  vs Nifty -2.8%
+    1M:  -7.8%  vs Nifty -5.1%  -> RS: -2.7% (UNDERPERFORMING)
+    3M:  +13.2%  vs Nifty -2.1%  -> RS: +15.3% (OUTPERFORMING)
+    6M:  -5.0%
+
+  TREND HEALTH:
+    RSI: 44.3  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.0%
+    ATR extension from SMA20: -1.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.96x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1197.37 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Trump administration proposes axing grace period for H-1B visa holders after job loss
+    * AI reshapes India's IT services sector contracts as clients demand more for less
+    * India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub
+    * India's Odisha state approves corporate investments worth $475 million
+    * India's Wipro lags peers after earnings miss, weak forecast
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.0T | P/E: 54.4938
+  Price: Rs791.25  |  52w range: Rs694.23 — Rs885.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.4%  vs Nifty -1.2%  -> RS: -0.2%
+    1W:  -2.9%  vs Nifty -2.8%
+    1M:  -8.5%  vs Nifty -5.1%  -> RS: -3.4% (UNDERPERFORMING)
+    3M:  -3.0%  vs Nifty -2.1%  -> RS: -0.8% (UNDERPERFORMING)
+    6M:  +1.2%
+
+  TREND HEALTH:
+    RSI: 31.1  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 2.0%
+    ATR extension from SMA20: -2.47x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs767.57 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Marico expects annual revenue above view on premium push; margin pressure to weigh
+    * India's Marico to buy 60% stake in protein brand Cosmix
+    * Marico snaps up India snacks firm Zea Maize
+    * Marico Ltd (BOM:531642) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst Pricing Challenges
+    * Indian consumer firm Marico beats profit estimates as tax cuts boost demand
+
+-----------------------------------------------------------------
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.0T | P/E: 18.989853
+  Price: Rs5166.0  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty -1.2%  -> RS: +0.1%
+    1W:  -2.0%  vs Nifty -2.8%
+    1M:  -10.8%  vs Nifty -5.1%  -> RS: -5.7% (UNDERPERFORMING)
+    3M:  +4.3%  vs Nifty -2.1%  -> RS: +6.5% (OUTPERFORMING)
+    6M:  -4.3%
+
+  TREND HEALTH:
+    RSI: 36.7  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.38%
+    ATR extension from SMA20: -2.47x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.21x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4981.87 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Ather Energy’s 130% Stock Surge Leaves Tesla and BYD Behind in 2026
+    * India's Hero MotoCorp to invest additional $184 million in Ather Energy
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * India's Hero MotoCorp gains after quarterly profit rise
+    * Castrol India's quarterly profit jumps on strong retail, industrial demand
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
