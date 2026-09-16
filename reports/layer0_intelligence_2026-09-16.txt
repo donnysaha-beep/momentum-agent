@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, September 16 2026
+  Layer 0 | Generated: 07:30 AM IST
+=================================================================
+
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : CHOPPY
+SIZE MULTIPLIER  : 0.75x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,245.00  (+0.55%)
+  Bank Nifty            :  56,226.35  (+0.77%)
+  India VIX             :      13.14  (-2.18%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23191.54  [ESTIMATED]
+  Change vs prev : -0.23%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 -0.45% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,585.73  (-0.45%)
+  Nasdaq (US)           :  25,981.57  (-0.78%)
+  US VIX                :      16.90  (-1.74%)
+  Crude Oil (WTI)       :     104.25  (-1.49%)
+  Gold                  :   4,373.40  (+0.94%)
+  Silver                :      65.25  (+3.19%)
+  USD/INR               :      95.94  (+0.11%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX 13.14 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Metals, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+
+=================================================================
