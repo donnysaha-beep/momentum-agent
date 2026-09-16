@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, September 16 2026
+  Layer 3 | 05:29 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 0
+  Valid Skips     : 2
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 414.25 | Stop: Rs 410.95 | T1: Rs 424.29
+               EOD: O:412.54998779296875 H:416.95001220703125 L:409.3999938964844 C:415.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MARICO       | Verdict: WATCH
+               Entry: Rs 807.35 | Stop: Rs 794.7 | T1: Rs 831.34
+               EOD: O:794.75 H:819.9000244140625 L:794.75 C:810.1500244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HINDALCO     | Verdict: WATCH
+               Entry: Rs 969.75 | Stop: Rs 958.95 | T1: Rs 1004.6
+               EOD: O:959.0 H:978.5 L:959.0 C:972.7000122070312
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NATIONALUM   | Verdict: WATCH
+               Entry: Rs 356.05 | Stop: Rs 352.15 | T1: Rs 373.2
+               EOD: O:352.8500061035156 H:357.75 L:350.1000061035156 C:356.0
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    JSWSTEEL     | Verdict: WATCH
+               Entry: Rs 11550.05 | Stop: Rs 11426.95 | T1: Rs 11847.19
+               EOD: O:1234.699951171875 H:1249.199951171875 L:1227.4000244140625 C:1248.9000244140625
+               Correctly watched — no valid entry formed
+
+  [SKIP OK]    NESTLEIND    | Verdict: WATCH
+               Entry: Rs 1395.55 | Stop: Rs 1370.15 | T1: Rs 1436.54
+               EOD: O:1370.199951171875 H:1395.5 L:1370.199951171875 C:1384.5
+               Correctly watched — no valid entry formed
+
+  [MISSED]     JUBLFOOD     | Verdict: WATCH
+               Entry: Rs 468.45 | Stop: Rs 464.35 | T1: Rs 487.55
+               EOD: O:465.95001220703125 H:471.95001220703125 L:461.8999938964844 C:471.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PIDILITIND   | Verdict: WATCH
+               Entry: Rs 1545.25 | Stop: Rs 1527.95 | T1: Rs 1589.17
+               EOD: O:1528.0 H:1546.9000244140625 L:1526.300048828125 C:1543.800048828125
+               Entry triggered but no target set — monitor
+
+  [LOSS]       TITAN        | Verdict: TRADE NOW
+               Entry: Rs 4894.05 | Stop: Rs 4858.45 | T1: Rs 5012.0
+               EOD: O:4890.5 H:4921.0 L:4845.0 C:4908.5
+               Hit stop loss (Rs 4858.45) — -0.73% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (64 days tracked)
+=================================================================
+  Total Trades    : 116
+  Win Rate        : 4.3%
+  Good Wins       : 5
+  Good Losses     : 38
+  False Positives : 73
+  Valid Skips     : 19
+  Missed Trades   : 233
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

@@ -5843,5 +5843,144 @@
       "missed_trades": 9,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-16",
+    "trades": [
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 414.25,
+        "target1": 424.29,
+        "target2": 430.98,
+        "stop": 410.95,
+        "verdict": "WATCH",
+        "eod_open": 412.54998779296875,
+        "eod_high": 416.95001220703125,
+        "eod_low": 409.3999938964844,
+        "eod_close": 415.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "MARICO",
+        "entry": 807.35,
+        "target1": 831.34,
+        "target2": 847.33,
+        "stop": 794.7,
+        "verdict": "WATCH",
+        "eod_open": 794.75,
+        "eod_high": 819.9000244140625,
+        "eod_low": 794.75,
+        "eod_close": 810.1500244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HINDALCO",
+        "entry": 969.75,
+        "target1": 1004.6,
+        "target2": 1027.83,
+        "stop": 958.95,
+        "verdict": "WATCH",
+        "eod_open": 959.0,
+        "eod_high": 978.5,
+        "eod_low": 959.0,
+        "eod_close": 972.7000122070312,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NATIONALUM",
+        "entry": 356.05,
+        "target1": 373.2,
+        "target2": 384.64,
+        "stop": 352.15,
+        "verdict": "WATCH",
+        "eod_open": 352.8500061035156,
+        "eod_high": 357.75,
+        "eod_low": 350.1000061035156,
+        "eod_close": 356.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 11550.05,
+        "target1": 11847.19,
+        "target2": 12045.28,
+        "stop": 11426.95,
+        "verdict": "WATCH",
+        "eod_open": 1234.699951171875,
+        "eod_high": 1249.199951171875,
+        "eod_low": 1227.4000244140625,
+        "eod_close": 1248.9000244140625,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "NESTLEIND",
+        "entry": 1395.55,
+        "target1": 1436.54,
+        "target2": 1463.87,
+        "stop": 1370.15,
+        "verdict": "WATCH",
+        "eod_open": 1370.199951171875,
+        "eod_high": 1395.5,
+        "eod_low": 1370.199951171875,
+        "eod_close": 1384.5,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "JUBLFOOD",
+        "entry": 468.45,
+        "target1": 487.55,
+        "target2": 500.28,
+        "stop": 464.35,
+        "verdict": "WATCH",
+        "eod_open": 465.95001220703125,
+        "eod_high": 471.95001220703125,
+        "eod_low": 461.8999938964844,
+        "eod_close": 471.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PIDILITIND",
+        "entry": 1545.25,
+        "target1": 1589.17,
+        "target2": 1618.46,
+        "stop": 1527.95,
+        "verdict": "WATCH",
+        "eod_open": 1528.0,
+        "eod_high": 1546.9000244140625,
+        "eod_low": 1526.300048828125,
+        "eod_close": 1543.800048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TITAN",
+        "entry": 4894.05,
+        "target1": 5012.0,
+        "target2": 5090.64,
+        "stop": 4858.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 4890.5,
+        "eod_high": 4921.0,
+        "eod_low": 4845.0,
+        "eod_close": 4908.5,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 4858.45) \u2014 -0.73% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 2,
+      "missed_trades": 6,
+      "false_negatives": 0
+    }
   }
 ]
