@@ -1,0 +1,552 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 16, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23217.6  1D: +0.4%  1W: -1.8%  1M: -4.4%  3M: -2.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HINDALCO       Rs   972.7   +1.5%   -7.3%    -2.9%   39.3 -2.0x   WATCH NOW
+JUBLFOOD       Rs   471.0   +1.1%   -7.9%    -3.5%   44.7 -1.4x   WATCH NOW
+NATIONALUM     Rs   356.0   +1.6%   -8.0%    -3.6%   40.6 -1.9x   WATCH NOW
+HEROMOTOCO     Rs  5235.0   +1.3%   -8.9%    -4.5%   41.5 -1.6x   WATCH NOW
+M&M            Rs  3070.0   +1.3%  -10.3%    -5.9%   31.4 -2.6x   WATCH NOW
+PAYTM          Rs  1790.0   +3.5%  +13.3%   +17.7%   64.5  1.6x   WATCH
+KOTAKBANK      Rs   415.0   +1.3%   +7.1%   +11.5%   54.2 -0.1x   WATCH
+BAJAJ-AUTO     Rs 11593.0   +1.5%   -0.1%    +4.3%   47.2 -1.1x   WATCH
+JSWSTEEL       Rs  1248.9   +1.6%   -1.5%    +2.9%   39.8 -2.1x   WATCH
+GRASIM         Rs  3187.0   +0.5%   -1.9%    +2.5%   40.8 -1.6x   WATCH
+TITAN          Rs  4908.5   +1.1%   -2.8%    +1.6%   42.1 -1.7x   WATCH
+TECHM          Rs  1558.0   -1.1%   -3.2%    +1.2%   45.9 -0.6x   WATCH
+NESTLEIND      Rs  1384.5   +1.6%   -5.3%    -0.9%   37.6 -1.5x   WATCH
+MARICO         Rs   810.1   +2.4%   -6.4%    -1.9%   41.7 -1.1x   WATCH
+PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HINDALCO — Hindalco Industries Limited
+  Basic Materials | Rs2.2T | P/E: 13.509723
+  Price: Rs972.7  |  52w range: Rs737.2 — Rs1143.73
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +0.4%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  -5.3%  vs Nifty -1.8%
+    1M:  -7.3%  vs Nifty -4.4%  -> RS: -2.9% (UNDERPERFORMING)
+    3M:  -0.5%  vs Nifty -2.7%  -> RS: +2.2% (OUTPERFORMING)
+    6M:  +2.2%
+
+  TREND HEALTH:
+    RSI: 39.3  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.29%
+    ATR extension from SMA20: -1.97x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.17x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs939.3 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Hindustan Copper plans supply of Chilean copper to Hindalco and Adani
+    * India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say
+    * Hindalco Industries Ltd (FRA:HID) (Q1 2027) Earnings Call Highlights: Record EBITDA and ...
+    * India's Hindalco posts profit surge as metal prices strengthen
+    * Enervoxa eyes rare earth processing project in India
+
+-----------------------------------------------------------------
+
+  JUBLFOOD — Jubilant FoodWorks Limited
+  Consumer Cyclical | N/A | P/E: 82.7768
+  Price: Rs471.0  |  52w range: Rs411.98 — Rs631.16
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty +0.4%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  -2.0%  vs Nifty -1.8%
+    1M:  -7.9%  vs Nifty -4.4%  -> RS: -3.5% (UNDERPERFORMING)
+    3M:  +11.6%  vs Nifty -2.7%  -> RS: +14.2% (OUTPERFORMING)
+    6M:  -2.1%
+
+  TREND HEALTH:
+    RSI: 44.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.64%
+    ATR extension from SMA20: -1.43x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.43x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs452.38 (-4.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Jubilant Foodworks Ltd (BOM:533155) (Q1 2027) Earnings Call Highlights: Popeyes Surges 45% LFL, ...
+    * India's Jubilant FoodWorks profit rises as Domino's sales growth picks up
+    * Jubilant Foodworks Ltd (BOM:533155) Q4 2026 Earnings Call Highlights: Strategic Expansion Amid ...
+    * India's Jubilant FoodWorks posts higher profit on Domino's pizza demand, store expansion
+    * Dunkin’ re-enters major market after nearly a decade
+
+-----------------------------------------------------------------
+
+  NATIONALUM — National Aluminium Company Limited
+  Basic Materials | Rs653.8B | P/E: 9.681806
+  Price: Rs356.0  |  52w range: Rs193.69 — Rs438.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +0.4%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  -5.7%  vs Nifty -1.8%
+    1M:  -8.0%  vs Nifty -4.4%  -> RS: -3.6% (UNDERPERFORMING)
+    3M:  -3.5%  vs Nifty -2.7%  -> RS: -0.9% (UNDERPERFORMING)
+    6M:  -9.8%
+
+  TREND HEALTH:
+    RSI: 40.6  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 3.13%
+    ATR extension from SMA20: -1.93x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.75x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs339.27 (-4.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * National Aluminium Co Ltd (BOM:532234) (Q1 2027) Earnings Call Highlights: Record Production ...
+    * NLCIL and NALCO partner on 1.08GW thermal plant in Odisha
+    * Four Indian stocks added, four excluded from key global index in MSCI's May rejig
+    * National Aluminium Co Ltd (BOM:532234) Q4 2026 Earnings Call Highlights: Record Growth Amidst ...
+    * India's NALCO posts quarterly profit drop on alumina softness
+
+-----------------------------------------------------------------
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.0T | P/E: 19.228651
+  Price: Rs5235.0  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.4%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  +0.3%  vs Nifty -1.8%
+    1M:  -8.9%  vs Nifty -4.4%  -> RS: -4.5% (UNDERPERFORMING)
+    3M:  +5.9%  vs Nifty -2.7%  -> RS: +8.6% (OUTPERFORMING)
+    6M:  -4.7%
+
+  TREND HEALTH:
+    RSI: 41.5  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.24%
+    ATR extension from SMA20: -1.57x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.98x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs5059.13 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Ather Energy’s 130% Stock Surge Leaves Tesla and BYD Behind in 2026
+    * India's Hero MotoCorp to invest additional $184 million in Ather Energy
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * India's Hero MotoCorp gains after quarterly profit rise
+    * Castrol India's quarterly profit jumps on strong retail, industrial demand
+
+-----------------------------------------------------------------
+
+  M&M — Mahindra & Mahindra Limited
+  Consumer Cyclical | Rs3.7T | P/E: 19.156372
+  Price: Rs3070.0  |  52w range: Rs2900.64 — Rs3762.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.4%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  -2.5%  vs Nifty -1.8%
+    1M:  -10.3%  vs Nifty -4.4%  -> RS: -5.9% (UNDERPERFORMING)
+    3M:  -1.0%  vs Nifty -2.7%  -> RS: +1.7% (OUTPERFORMING)
+    6M:  -2.1%
+
+  TREND HEALTH:
+    RSI: 31.4  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 2.05%
+    ATR extension from SMA20: -2.64x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.41x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2975.68 (-3.1%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Mars zeroes in on gut health with startup partnerships
+    * Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...
+    * ServiceNow (NOW) Expands Multiyear AI Partnership For Enterprise Deployments
+    * Tech Mahindra, ServiceNow expand partnership to advance enterprise AI
+    * Volkswagen open to ceding majority control of India unit – report
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 184.72653
+  Price: Rs1790.0  |  52w range: Rs959.0 — Rs1807.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.5%  vs Nifty +0.4%  -> RS: +3.0% (OUTPERFORMING)
+    1W:  +2.2%  vs Nifty -1.8%
+    1M:  +13.3%  vs Nifty -4.4%  -> RS: +17.7% (OUTPERFORMING)
+    3M:  +61.5%  vs Nifty -2.7%  -> RS: +64.2% (OUTPERFORMING)
+    6M:  +72.0%
+
+  TREND HEALTH:
+    RSI: 64.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.48%
+    ATR extension from SMA20: 1.63x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 3.28x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1696.67 (-5.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.28x avg) = conviction
+    [~] Extended 1.63x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Paytm Bets on Workplace AI Agents in Pivot Beyond Payments
+    * Founder Led Stocks Worth Watching As Capital Spending Picks Up
+    * 3 Founder Led Indian Stocks With Long Term Skin In The Game
+    * Resilient Asset Management to offload 4.98% stake in Paytm
+    * Paytm founder's Resilient Asset Management to sell up to 4.98% stake in fintech firm
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.1T | P/E: 20.791584
+  Price: Rs415.0  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.4%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +0.2%  vs Nifty -1.8%
+    1M:  +7.1%  vs Nifty -4.4%  -> RS: +11.5% (OUTPERFORMING)
+    3M:  +2.8%  vs Nifty -2.7%  -> RS: +5.4% (OUTPERFORMING)
+    6M:  +8.5%
+
+  TREND HEALTH:
+    RSI: 54.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.65%
+    ATR extension from SMA20: -0.12x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.86x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs404.74 (-2.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+    * India's Kotak Investment Banking appoints co-CEOs
+    * Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say
+
+-----------------------------------------------------------------
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs3.2T | P/E: 28.18898
+  Price: Rs11593.0  |  52w range: Rs8506.78 — Rs12361.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +0.4%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  -1.7%  vs Nifty -1.8%
+    1M:  -0.1%  vs Nifty -4.4%  -> RS: +4.3% (OUTPERFORMING)
+    3M:  +15.4%  vs Nifty -2.7%  -> RS: +18.1% (OUTPERFORMING)
+    6M:  +26.0%
+
+  TREND HEALTH:
+    RSI: 47.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.79%
+    ATR extension from SMA20: -1.15x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.41x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11281.49 (-2.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Bain Capital-backed Dhoot Transmission bets on India EV shift to drive growth
+    * Indian EV startup River raises $120M Series C to scale production, launch more models
+    * Bajaj Auto Ltd (BOM:532977) Q1 2027 Earnings Call Highlights: Record Growth and Strategic Expansions
+    * India's Bajaj Auto deepens EV push with motorcycle plans, Chetak expansion
+    * India's Hero MotoCorp to invest about $104 million in Ather Energy
+
+-----------------------------------------------------------------
+
+  JSWSTEEL — JSW Steel Limited
+  Basic Materials | Rs3.0T | P/E: 12.68434
+  Price: Rs1248.9  |  52w range: Rs1073.14 — Rs1341.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +0.4%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  -4.7%  vs Nifty -1.8%
+    1M:  -1.5%  vs Nifty -4.4%  -> RS: +2.9% (OUTPERFORMING)
+    3M:  -2.4%  vs Nifty -2.7%  -> RS: +0.2%
+    6M:  +6.6%
+
+  TREND HEALTH:
+    RSI: 39.8  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 1.99%
+    ATR extension from SMA20: -2.13x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1211.63 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * JSW Steel Ltd (BOM:500228) Q1 2027 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's JSW Steel beats profit view on higher prices
+    * JSW Steel Ltd (BOM:500228) Q4 2026 Earnings Call Highlights: Strong Financial Performance Amid ...
+    * India's JSW Steel posts two-fold quarterly profit rise on price recovery
+    * POSCO Deepens India Push With JSW in Landmark Steel Plant Deal
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.2T | P/E: 39.413803
+  Price: Rs3187.0  |  52w range: Rs2523.24 — Rs3380.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty +0.4%  -> RS: +0.1%
+    1W:  -3.4%  vs Nifty -1.8%
+    1M:  -1.9%  vs Nifty -4.4%  -> RS: +2.5% (OUTPERFORMING)
+    3M:  +1.8%  vs Nifty -2.7%  -> RS: +4.5% (OUTPERFORMING)
+    6M:  +16.5%
+
+  TREND HEALTH:
+    RSI: 40.8  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 1.95%
+    ATR extension from SMA20: -1.62x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.81x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3093.96 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
+    * Grasim Industries Ltd (BOM:500300) (Q1 2027) Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries swings to first-quarter profit as core business improves
+    * India's Berger Paints posts quarterly profit jump on strong demand
+    * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
+
+-----------------------------------------------------------------
+
+  TITAN — Titan Company Limited
+  Consumer Cyclical | Rs4.4T | P/E: 75.43415
+  Price: Rs4908.5  |  52w range: Rs3316.42 — Rs5169.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty +0.4%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  -1.9%  vs Nifty -1.8%
+    1M:  -2.8%  vs Nifty -4.4%  -> RS: +1.6% (OUTPERFORMING)
+    3M:  +12.4%  vs Nifty -2.7%  -> RS: +15.1% (OUTPERFORMING)
+    6M:  +18.9%
+
+  TREND HEALTH:
+    RSI: 42.1  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 1.56%
+    ATR extension from SMA20: -1.74x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.8x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4793.97 (-2.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Titan Co Ltd (BOM:500114) (Q1 FY27) Earnings Call Highlights: Strong Growth Amidst Customs Duty ...
+    * India Jewelry Stocks Lose 12% as Modi Targets $72 Billion In Gold Imports
+    * India's Titan hits record high on strong fourth-quarter sales
+    * Titan Co Ltd (BOM:500114) Q3 2026 Earnings Call Highlights: Strategic Acquisitions and Market ...
+    * Indian jewellers' stocks shine on strong festive-quarter sales; Titan hits record high
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 26.95968
+  Price: Rs1558.0  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty +0.4%  -> RS: -1.6% (UNDERPERFORMING)
+    1W:  -0.1%  vs Nifty -1.8%
+    1M:  -3.2%  vs Nifty -4.4%  -> RS: +1.2% (OUTPERFORMING)
+    3M:  +10.5%  vs Nifty -2.7%  -> RS: +13.2% (OUTPERFORMING)
+    6M:  +19.6%
+
+  TREND HEALTH:
+    RSI: 45.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.74%
+    ATR extension from SMA20: -0.59x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.79x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1493.86 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+    * Rezolve AI Stock Drops After Net Loss Widens – CEO Says Google Is ‘Just The Beginning’ With More Deals In Pipeline
+
+-----------------------------------------------------------------
+
+  NESTLEIND — Nestlé India Limited
+  Consumer Defensive | Rs2.7T | P/E: 71.0729
+  Price: Rs1384.5  |  52w range: Rs1140.83 — Rs1540.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +0.4%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  -0.6%  vs Nifty -1.8%
+    1M:  -5.3%  vs Nifty -4.4%  -> RS: -0.9% (UNDERPERFORMING)
+    3M:  -1.1%  vs Nifty -2.7%  -> RS: +1.5% (OUTPERFORMING)
+    6M:  +12.8%
+
+  TREND HEALTH:
+    RSI: 37.6  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): 2.04%
+    ATR extension from SMA20: -1.47x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.31x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1342.15 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Marico beats quarterly profit view as Parachute oil maker sees strong demand
+    * India's Tata Consumer warns of more price hikes if costs stay volatile
+    * Nestle India jumps after strong demand lifts first-quarter profit
+    * India's FMCG sector faces margin squeeze as costs spike amid strong demand, price hikes
+    * Nestle India profit jumps 26% on strong demand, shares rise
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.1T | P/E: 55.795456
+  Price: Rs810.15  |  52w range: Rs694.23 — Rs885.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.4%  vs Nifty +0.4%  -> RS: +2.0% (OUTPERFORMING)
+    1W:  -1.7%  vs Nifty -1.8%
+    1M:  -6.4%  vs Nifty -4.4%  -> RS: -1.9% (UNDERPERFORMING)
+    3M:  +0.5%  vs Nifty -2.7%  -> RS: +3.2% (OUTPERFORMING)
+    6M:  +4.6%
+
+  TREND HEALTH:
+    RSI: 41.7  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): 2.06%
+    ATR extension from SMA20: -1.08x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.84x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs785.09 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * India's Marico expects annual revenue above view on premium push; margin pressure to weigh
+    * India's Marico to buy 60% stake in protein brand Cosmix
+    * Marico snaps up India snacks firm Zea Maize
+    * Marico Ltd (BOM:531642) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst Pricing Challenges
+    * Indian consumer firm Marico beats profit estimates as tax cuts boost demand
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.6T | P/E: 61.140594
+  Price: Rs1543.8  |  52w range: Rs1264.49 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +0.4%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  -1.8%  vs Nifty -1.8%
+    1M:  -7.8%  vs Nifty -4.4%  -> RS: -3.4% (UNDERPERFORMING)
+    3M:  -1.5%  vs Nifty -2.7%  -> RS: +1.2% (OUTPERFORMING)
+    6M:  +10.8%
+
+  TREND HEALTH:
+    RSI: 36.8  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 1.95%
+    ATR extension from SMA20: -2.36x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1498.61 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
