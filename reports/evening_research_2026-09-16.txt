@@ -28,7 +28,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 =================================================================
 
   HINDALCO — Hindalco Industries Limited
-  Basic Materials | Rs2.2T | P/E: 13.509723
+  Basic Materials | Rs2.2T | P/E: 13.19452
   Price: Rs972.7  |  52w range: Rs737.2 — Rs1143.73
 
   PERFORMANCE vs NIFTY:
@@ -168,7 +168,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs3.7T | P/E: 19.156372
+  Consumer Cyclical | Rs3.7T | P/E: 18.696712
   Price: Rs3070.0  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
@@ -203,7 +203,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.1T | P/E: 184.72653
+  Technology | Rs1.1T | P/E: 178.46461
   Price: Rs1790.0  |  52w range: Rs959.0 — Rs1807.5
 
   PERFORMANCE vs NIFTY:
@@ -240,7 +240,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   KOTAKBANK — Kotak Mahindra Bank Limited
-  Financial Services | Rs4.1T | P/E: 20.791584
+  Financial Services | Rs4.1T | P/E: 20.33317
   Price: Rs415.0  |  52w range: Rs352.79 — Rs444.35
 
   PERFORMANCE vs NIFTY:
@@ -274,7 +274,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   BAJAJ-AUTO — Bajaj Auto Limited
-  Consumer Cyclical | Rs3.2T | P/E: 28.18898
+  Consumer Cyclical | Rs3.2T | P/E: 27.576118
   Price: Rs11593.0  |  52w range: Rs8506.78 — Rs12361.0
 
   PERFORMANCE vs NIFTY:
@@ -307,7 +307,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   JSWSTEEL — JSW Steel Limited
-  Basic Materials | Rs3.0T | P/E: 12.68434
+  Basic Materials | Rs3.0T | P/E: 12.329944
   Price: Rs1248.9  |  52w range: Rs1073.14 — Rs1341.0
 
   PERFORMANCE vs NIFTY:
@@ -341,7 +341,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   GRASIM — Grasim Industries Limited
-  Basic Materials | Rs2.2T | P/E: 39.413803
+  Basic Materials | Rs2.2T | P/E: 38.071915
   Price: Rs3187.0  |  52w range: Rs2523.24 — Rs3380.5
 
   PERFORMANCE vs NIFTY:
@@ -409,7 +409,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   TECHM — Tech Mahindra Limited
-  Technology | Rs1.4T | P/E: 26.95968
+  Technology | Rs1.4T | P/E: 26.936377
   Price: Rs1558.0  |  52w range: Rs1297.97 — Rs1723.61
 
   PERFORMANCE vs NIFTY:
@@ -443,7 +443,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   NESTLEIND — Nestlé India Limited
-  Consumer Defensive | Rs2.7T | P/E: 71.0729
+  Consumer Defensive | Rs2.7T | P/E: 70.101265
   Price: Rs1384.5  |  52w range: Rs1140.83 — Rs1540.0
 
   PERFORMANCE vs NIFTY:
@@ -477,7 +477,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 55.795456
+  Consumer Defensive | Rs1.1T | P/E: 55.64217
   Price: Rs810.15  |  52w range: Rs694.23 — Rs885.35
 
   PERFORMANCE vs NIFTY:
@@ -511,7 +511,7 @@ PIDILITIND     Rs  1543.8   +1.5%   -7.8%    -3.4%   36.8 -2.4x   WATCH
 -----------------------------------------------------------------
 
   PIDILITIND — Pidilite Industries Limited
-  Basic Materials | Rs1.6T | P/E: 61.140594
+  Basic Materials | Rs1.6T | P/E: 59.354095
   Price: Rs1543.8  |  52w range: Rs1264.49 — Rs1701.5
 
   PERFORMANCE vs NIFTY:
