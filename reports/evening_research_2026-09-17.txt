@@ -28,7 +28,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 =================================================================
 
   BHEL — Bharat Heavy Electricals Limited
-  Industrials | Rs1.5T | P/E: 61.844383
+  Industrials | Rs1.5T | P/E: 61.48997
   Price: Rs429.2  |  52w range: Rs230.2 — Rs442.65
 
   PERFORMANCE vs NIFTY:
@@ -99,7 +99,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   JUBLFOOD — Jubilant FoodWorks Limited
-  Consumer Cyclical | N/A | P/E: 83.51305
+  Consumer Cyclical | N/A | P/E: 84.99115
   Price: Rs480.2  |  52w range: Rs411.98 — Rs628.61
 
   PERFORMANCE vs NIFTY:
@@ -134,7 +134,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   LT — Larsen & Toubro Limited
-  Industrials | Rs5.3T | P/E: 32.188286
+  Industrials | Rs5.3T | P/E: 31.782934
   Price: Rs3836.2  |  52w range: Rs3310.07 — Rs4375.36
 
   PERFORMANCE vs NIFTY:
@@ -204,7 +204,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   HEROMOTOCO — Hero MotoCorp Limited
-  Consumer Cyclical | Rs1.1T | P/E: 19.559229
+  Consumer Cyclical | Rs1.1T | P/E: 19.561384
   Price: Rs5325.0  |  52w range: Rs4706.27 — Rs6138.79
 
   PERFORMANCE vs NIFTY:
@@ -309,7 +309,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.1T | P/E: 169.84586
+  Technology | Rs1.1T | P/E: 175.94809
   Price: Rs1763.0  |  52w range: Rs959.0 — Rs1807.5
 
   PERFORMANCE vs NIFTY:
@@ -379,7 +379,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   TATASTEEL — Tata Steel Limited
-  Basic Materials | Rs2.3T | P/E: 21.282953
+  Basic Materials | Rs2.3T | P/E: 21.186651
   Price: Rs187.29  |  52w range: Rs157.42 — Rs216.66
 
   PERFORMANCE vs NIFTY:
@@ -414,7 +414,7 @@ HAL            Rs  4788.0   +2.0%   -6.1%    -2.4%   46.9 -0.8x   WATCH
 -----------------------------------------------------------------
 
   APLAPOLLO — APL Apollo Tubes Limited
-  Basic Materials | Rs596.5B | P/E: 48.50982
+  Basic Materials | Rs596.5B | P/E: 48.487923
   Price: Rs2148.5  |  52w range: Rs1653.73 — Rs2272.05
 
   PERFORMANCE vs NIFTY:
