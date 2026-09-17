@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, September 17 2026
+  Layer 3 | 05:29 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 7
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     TATASTEEL    | Verdict: WATCH
+               Entry: Rs 184.6 | Stop: Rs 182.82 | T1: Rs 191.33
+               EOD: O:182.8699951171875 H:189.47999572753906 L:182.8699951171875 C:187.2899932861328
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HEROMOTOCO   | Verdict: WATCH
+               Entry: Rs 5304.05 | Stop: Rs 5243.45 | T1: Rs 5479.95
+               EOD: O:5249.0 H:5340.0 L:5243.5 C:5325.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 9224.05 | Stop: Rs 9141.95 | T1: Rs 9513.44
+               EOD: O:9158.0 H:9354.5 L:9142.0 C:9323.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BHEL         | Verdict: WATCH
+               Entry: Rs 419.75 | Stop: Rs 410.85 | T1: Rs 438.24
+               EOD: O:413.1499938964844 H:430.75 L:410.8999938964844 C:429.20001220703125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4742.05 | Stop: Rs 4689.95 | T1: Rs 4910.98
+               EOD: O:4711.0 H:4797.2998046875 L:4690.0 C:4788.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APLAPOLLO    | Verdict: WATCH
+               Entry: Rs 2134.95 | Stop: Rs 2121.95 | T1: Rs 2217.09
+               EOD: O:2122.39990234375 H:2170.0 L:2122.0 C:2148.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: WATCH
+               Entry: Rs 85.6 | Stop: Rs 84.76 | T1: Rs 87.7
+               EOD: O:85.0 H:86.48999786376953 L:84.5999984741211 C:86.33000183105469
+               Entry triggered but no target set — monitor
+
+  [FP]         ABB          | Verdict: TRADE NOW
+               Entry: Rs 7119.05 | Stop: Rs 6975.45 | T1: Rs 7349.99
+               EOD: O:6980.0 H:7168.0 L:6975.5 C:7130.5
+               Triggered but no target/stop hit — closed at Rs 7130.5 (+0.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (65 days tracked)
+=================================================================
+  Total Trades    : 117
+  Win Rate        : 4.3%
+  Good Wins       : 5
+  Good Losses     : 38
+  False Positives : 74
+  Valid Skips     : 19
+  Missed Trades   : 240
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
