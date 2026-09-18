@@ -1,0 +1,99 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, September 18 2026
+  Layer 3 | 04:57 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 11
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [WIN]        APLAPOLLO    | Verdict: TRADE NOW
+               Entry: Rs 2166.65 | Stop: Rs 2147.35 | T1: Rs 2251.82
+               EOD: O:2149.0 H:2270.10009765625 L:2146.300048828125 C:2270.10009765625
+               Hit Target 1 (Rs 2251.82) before stop — +3.93% (partial)
+
+  [MISSED]     JUBLFOOD     | Verdict: WATCH
+               Entry: Rs 490.45 | Stop: Rs 480.85 | T1: Rs 509.82
+               EOD: O:482.79998779296875 H:501.8500061035156 L:480.8999938964844 C:500.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIENT     | Verdict: WATCH
+               Entry: Rs 2957.15 | Stop: Rs 2927.65 | T1: Rs 3074.65
+               EOD: O:2936.5 H:3020.0 L:2927.699951171875 C:3020.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     RBLBANK      | Verdict: WATCH
+               Entry: Rs 408.45 | Stop: Rs 405.3 | T1: Rs 420.54
+               EOD: O:406.0 H:415.8999938964844 L:405.20001220703125 C:415.8999938964844
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4862.05 | Stop: Rs 4780.05 | T1: Rs 5030.56
+               EOD: O:4797.10009765625 H:4888.2998046875 L:4780.10009765625 C:4800.2998046875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     CHOLAFIN     | Verdict: WATCH
+               Entry: Rs 1794.55 | Stop: Rs 1766.15 | T1: Rs 1854.73
+               EOD: O:1767.0 H:1803.9000244140625 L:1766.199951171875 C:1800.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PIDILITIND   | Verdict: WATCH
+               Entry: Rs 1589.45 | Stop: Rs 1560.45 | T1: Rs 1634.31
+               EOD: O:1560.5 H:1598.0 L:1560.5 C:1572.0999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SHRIRAMFIN   | Verdict: WATCH
+               Entry: Rs 1010.85 | Stop: Rs 1001.05 | T1: Rs 1049.96
+               EOD: O:1003.5 H:1019.0 L:1001.0999755859375 C:1010.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1754.85 | Stop: Rs 1744.05 | T1: Rs 1808.08
+               EOD: O:1750.5999755859375 H:1824.0 L:1744.0999755859375 C:1824.0
+               Would have worked — reached Target 1 (Rs 1808.08)
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1795.45 | Stop: Rs 1765.15 | T1: Rs 1890.99
+               EOD: O:1795.4000244140625 H:1849.9000244140625 L:1765.199951171875 C:1849.9000244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APOLLOHOSP   | Verdict: WATCH
+               Entry: Rs 8859.05 | Stop: Rs 8815.95 | T1: Rs 9078.77
+               EOD: O:8821.5 H:8944.5 L:8800.5 C:8944.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     IDFCFIRSTB   | Verdict: TRADE NOW
+               Entry: Rs 87.13 | Stop: Rs 86.13 | T1: Rs 89.22
+               EOD: O:86.18000030517578 H:87.12000274658203 L:85.91999816894531 C:85.91999816894531
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (66 days tracked)
+=================================================================
+  Total Trades    : 118
+  Win Rate        : 5.1%
+  Good Wins       : 6
+  Good Losses     : 38
+  False Positives : 74
+  Valid Skips     : 19
+  Missed Trades   : 251
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
