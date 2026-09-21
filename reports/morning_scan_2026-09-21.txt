@@ -1,0 +1,176 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Monday, September 21 2026 08:05 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23436.8  | Today: +0.4%  | 1W: +0.2%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 11.26  (-1.2%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Defence (+1.3%) | Auto (+0.8%) | IT (+0.7%)
+  Lagging : Metals (-0.6%) | Infra (-0.9%) | PSU (-1.1%)
+
+Found 59 momentum stocks → 14 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    KOTAKBANK    Rs   418.1   +1.4%   56.4   0.4x   -5.9%   +1.0%  0.0x    7/10   A
+2    HAL          Rs  4863.0   +1.3%   52.0   0.8x   -4.6%   +0.9%  0.1x    7/10   A
+3    PIDILITIND   Rs  1579.8   +0.5%   45.7   0.2x   -7.2%   +0.1% -0.7x    7/10   A
+4    DIVISLAB     Rs  9395.5   +0.2%   63.6   0.5x   -1.9%   -0.2%  0.7x    7/10   A
+5    NAUKRI       Rs  1294.7   +3.5%   51.6   0.9x   -8.0%   +3.1% -0.4x    6/10   A
+6    HEROMOTOCO   Rs  5396.5   +2.1%   51.8   0.4x  -12.1%   +1.7%  0.3x    6/10   A
+7    TITAN        Rs  4850.0   +1.1%   40.1   0.7x   -6.2%   +0.7% -2.0x    6/10   A
+8    TECHM        Rs  1551.7   +0.9%   45.7   0.2x  -10.0%   +0.6% -0.6x    6/10   A
+9    M&M          Rs  3067.2   +0.5%   33.2   0.3x  -18.5%   +0.1% -1.9x    6/10   A
+10   BAJAJ-AUTO   Rs 11470.0   +0.5%   44.3   0.3x   -7.2%   +0.1% -1.7x    6/10   A
+11   EICHERMOT    Rs  7511.5   -0.1%   35.8   0.3x   -7.3%   -0.5% -1.8x    6/10   A
+12   APOLLOHOSP   Rs  8931.5   -0.1%   56.3   0.5x   -1.2%   -0.5%  0.8x    6/10   A
+13   PAYTM        Rs  1809.2   -2.2%   62.4   0.9x   -2.2%   -2.6%  1.4x    6/10   A
+14   APLAPOLLO    Rs  2193.0   -3.4%   55.8   0.6x   -3.5%   -3.8%  0.2x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  KOTAKBANK (Banking) — Rs418.1 | Grade A | 7/10
+  52w: Rs352.79 — Rs444.35 | ATR: 1.63%/day | Ext: 0.0x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4863.0 | Grade A | 7/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.22%/day | Ext: 0.11x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  PIDILITIND (Consumer) — Rs1579.8 | Grade A | 7/10
+  52w: Rs1264.49 — Rs1701.5 | ATR: 1.94%/day | Ext: -0.71x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (-0.7x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DIVISLAB (Pharma) — Rs9395.5 | Grade A | 7/10
+  52w: Rs5666.13 — Rs9575.0 | ATR: 1.99%/day | Ext: 0.73x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.2%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NAUKRI (IT) — Rs1294.7 | Grade A | 6/10
+  52w: Rs923.1 — Rs1407.76 | ATR: 2.86%/day | Ext: -0.36x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.1%)
+    [+] Not ATR-extended (-0.4x ATR from SMA20)
+    [+] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  HEROMOTOCO (Auto) — Rs5396.5 | Grade A | 6/10
+  52w: Rs4706.27 — Rs6138.79 | ATR: 2.12%/day | Ext: 0.3x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.7%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TITAN (Consumer) — Rs4850.0 | Grade A | 6/10
+  52w: Rs3316.42 — Rs5169.2 | ATR: 1.6%/day | Ext: -1.99x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.7%)
+    [+] Not ATR-extended (-2.0x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1551.7 | Grade A | 6/10
+  52w: Rs1297.97 — Rs1723.61 | ATR: 2.55%/day | Ext: -0.62x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (-0.6x ATR from SMA20)
+    [+] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  M&M (Auto) — Rs3067.2 | Grade A | 6/10
+  52w: Rs2900.64 — Rs3762.88 | ATR: 1.99%/day | Ext: -1.9x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (-1.9x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BAJAJ-AUTO (Auto) — Rs11470.0 | Grade A | 6/10
+  52w: Rs8506.78 — Rs12361.0 | ATR: 1.74%/day | Ext: -1.66x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.1%)
+    [+] Not ATR-extended (-1.7x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
