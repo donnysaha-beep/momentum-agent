@@ -1,0 +1,510 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 21, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23414.3  1D: +0.3%  1W: +0.1%  1M: -3.4%  3M: -3.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+APOLLOHOSP     Rs  8912.0   -0.4%   +2.5%    +5.9%   55.3  0.7x   WATCH NOW
+HEROMOTOCO     Rs  5419.0   +2.5%   -5.5%    -2.1%   52.9  0.5x   WATCH NOW
+EICHERMOT      Rs  7512.5   -0.1%   -6.2%    -2.8%   35.8 -1.8x   WATCH NOW
+M&M            Rs  3055.3   +0.1%  -10.5%    -7.1%   31.1 -2.1x   WATCH NOW
+PAYTM          Rs  1810.0   -2.2%  +10.9%   +14.3%   62.4  1.4x   WATCH
+DIVISLAB       Rs  9410.5   +0.4%   +9.5%   +12.8%   63.9  0.8x   WATCH
+KOTAKBANK      Rs   414.8   +0.6%   +3.0%    +6.3%   53.5 -0.5x   WATCH
+APLAPOLLO      Rs  2181.1   -3.9%   +2.4%    +5.7%   54.6 -0.0x   WATCH
+TECHM          Rs  1558.5   +1.4%   -1.6%    +1.8%   47.3 -0.4x   WATCH
+BAJAJ-AUTO     Rs 11460.0   +0.4%   -2.0%    +1.3%   43.9 -1.7x   WATCH
+HAL            Rs  4826.0   +0.5%   -3.5%    -0.1%   49.5 -0.2x   WATCH
+TITAN          Rs  4875.0   +1.6%   -4.2%    -0.8%   42.6 -1.6x   WATCH
+PIDILITIND     Rs  1573.2   +0.1%   -4.6%    -1.2%   44.2 -0.9x   WATCH
+NAUKRI         Rs  1296.4   +3.6%   -4.7%    -1.4%   52.2 -0.2x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 61.50449
+  Price: Rs8912.0  |  52w range: Rs6776.6 — Rs9039.48
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty +0.3%  -> RS: -0.7% (UNDERPERFORMING)
+    1W:  +0.9%  vs Nifty +0.1%
+    1M:  +2.5%  vs Nifty -3.4%  -> RS: +5.9% (OUTPERFORMING)
+    3M:  +5.3%  vs Nifty -3.1%  -> RS: +8.5% (OUTPERFORMING)
+    6M:  +19.1%
+
+  TREND HEALTH:
+    RSI: 55.3  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 1.61%
+    ATR extension from SMA20: 0.72x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.84x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8697.04 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.4% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Trump Wants Lower Rates. That Won’t Stop a Fed Rate Hike.
+    * Why the Weak Housing Market Is a Threat to the Broader Economy
+    * 3 Moves to Protect You From a 60/40 Nightmare
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) (Q1 2027) Earnings Call Highlights: Revenue Surges ...
+    * India's Apollo Hospitals beats quarterly profit on demand for complex care
+
+-----------------------------------------------------------------
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.1T | P/E: 19.908155
+  Price: Rs5419.0  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.5%  vs Nifty +0.3%  -> RS: +2.2% (OUTPERFORMING)
+    1W:  +3.8%  vs Nifty +0.1%
+    1M:  -5.5%  vs Nifty -3.4%  -> RS: -2.1% (UNDERPERFORMING)
+    3M:  +10.3%  vs Nifty -3.1%  -> RS: +13.4% (OUTPERFORMING)
+    6M:  +4.2%
+
+  TREND HEALTH:
+    RSI: 52.9  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 2.13%
+    ATR extension from SMA20: 0.49x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs5245.79 (-3.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Ather Energy’s 130% Stock Surge Leaves Tesla and BYD Behind in 2026
+    * India's Hero MotoCorp to invest additional $184 million in Ather Energy
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * India's Hero MotoCorp gains after quarterly profit rise
+    * Castrol India's quarterly profit jumps on strong retail, industrial demand
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.1T | P/E: 35.697315
+  Price: Rs7512.5  |  52w range: Rs6517.75 — Rs8105.12
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.1%  vs Nifty +0.3%  -> RS: -0.3%
+    1W:  -0.2%  vs Nifty +0.1%
+    1M:  -6.2%  vs Nifty -3.4%  -> RS: -2.8% (UNDERPERFORMING)
+    3M:  -0.6%  vs Nifty -3.1%  -> RS: +2.5% (OUTPERFORMING)
+    6M:  +11.2%
+
+  TREND HEALTH:
+    RSI: 35.8  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 1.59%
+    ATR extension from SMA20: -1.82x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7333.17 (-2.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q1 2027 Earnings Call Highlights: Record Revenue and Strategic ...
+    * India's Eicher Motors beats first-quarter profit forecast, sees steady demand 
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * India's Eicher Motors beats quarterly profit estimates on strong sales
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+
+-----------------------------------------------------------------
+
+  M&M — Mahindra & Mahindra Limited
+  Consumer Cyclical | Rs3.7T | P/E: 18.607187
+  Price: Rs3055.3  |  52w range: Rs2900.64 — Rs3762.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +0.3%  -> RS: -0.2%
+    1W:  -1.7%  vs Nifty +0.1%
+    1M:  -10.5%  vs Nifty -3.4%  -> RS: -7.1% (UNDERPERFORMING)
+    3M:  +0.8%  vs Nifty -3.1%  -> RS: +3.9% (OUTPERFORMING)
+    6M:  +1.7%
+
+  TREND HEALTH:
+    RSI: 31.1  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): 2.0%
+    ATR extension from SMA20: -2.08x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.59x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2963.87 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Mars zeroes in on gut health with startup partnerships
+    * Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...
+    * ServiceNow (NOW) Expands Multiyear AI Partnership For Enterprise Deployments
+    * Tech Mahindra, ServiceNow expand partnership to advance enterprise AI
+    * Volkswagen open to ceding majority control of India unit – report
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.2T | P/E: 181.18118
+  Price: Rs1810.0  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.2%  vs Nifty +0.3%  -> RS: -2.5% (UNDERPERFORMING)
+    1W:  +0.1%  vs Nifty +0.1%
+    1M:  +10.9%  vs Nifty -3.4%  -> RS: +14.3% (OUTPERFORMING)
+    3M:  +66.2%  vs Nifty -3.1%  -> RS: +69.3% (OUTPERFORMING)
+    6M:  +78.5%
+
+  TREND HEALTH:
+    RSI: 62.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.46%
+    ATR extension from SMA20: 1.43x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.11x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1716.0 (-5.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.2% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Paytm Bets on Workplace AI Agents in Pivot Beyond Payments
+    * Founder Led Stocks Worth Watching As Capital Spending Picks Up
+    * 3 Founder Led Indian Stocks With Long Term Skin In The Game
+    * Resilient Asset Management to offload 4.98% stake in Paytm
+    * Paytm founder's Resilient Asset Management to sell up to 4.98% stake in fintech firm
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.5T | P/E: 85.06282
+  Price: Rs9410.5  |  52w range: Rs5666.13 — Rs9575.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty +0.3%  -> RS: +0.1%
+    1W:  +0.9%  vs Nifty +0.1%
+    1M:  +9.5%  vs Nifty -3.4%  -> RS: +12.8% (OUTPERFORMING)
+    3M:  +39.2%  vs Nifty -3.1%  -> RS: +42.3% (OUTPERFORMING)
+    6M:  +55.6%
+
+  TREND HEALTH:
+    RSI: 63.9  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.98%
+    ATR extension from SMA20: 0.81x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.74x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9130.33 (-3.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.7% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Divi's Laboratories Ltd (BOM:532488) (Q1 FY27) Earnings Call Highlights: Record Profit Surge ...
+    * Divi's Laboratories Ltd (BOM:532488) Q4 2026 Earnings Call Highlights: Strong Financial ...
+    * Divi's Laboratories Ltd (BOM:532488) Q3 2026 Earnings Call Highlights: Strong Export ...
+    * Indian contract drug maker Divi's misses profit view on high material costs, one-off labour charge
+    * Divi's Laboratories Ltd (BOM:532488) Q2 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.1T | P/E: 20.313417
+  Price: Rs414.8  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty +0.3%  -> RS: +0.3%
+    1W:  -1.0%  vs Nifty +0.1%
+    1M:  +3.0%  vs Nifty -3.4%  -> RS: +6.3% (OUTPERFORMING)
+    3M:  +3.3%  vs Nifty -3.1%  -> RS: +6.4% (OUTPERFORMING)
+    6M:  +12.3%
+
+  TREND HEALTH:
+    RSI: 53.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.64%
+    ATR extension from SMA20: -0.46x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs404.58 (-2.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+    * India's Kotak Investment Banking appoints co-CEOs
+    * Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs605.6B | P/E: 49.268127
+  Price: Rs2181.1  |  52w range: Rs1653.73 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  -3.9%  vs Nifty +0.3%  -> RS: -4.2% (UNDERPERFORMING)
+    1W:  +1.3%  vs Nifty +0.1%
+    1M:  +2.4%  vs Nifty -3.4%  -> RS: +5.7% (OUTPERFORMING)
+    3M:  +18.0%  vs Nifty -3.1%  -> RS: +21.2% (OUTPERFORMING)
+    6M:  +15.6%
+
+  TREND HEALTH:
+    RSI: 54.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.86%
+    ATR extension from SMA20: -0.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.83x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2087.59 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * APL Apollo Tubes Ltd (BOM:533758) (Q1 2027) Earnings Call Highlights: Resilient Margins Amid ...
+    * APL Apollo Tubes Ltd (BOM:533758) Q3 2026 Earnings Call Highlights: Strong Growth and Strategic ...
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 26.968332
+  Price: Rs1558.5  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.4%  vs Nifty +0.3%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  +1.1%  vs Nifty +0.1%
+    1M:  -1.6%  vs Nifty -3.4%  -> RS: +1.8% (OUTPERFORMING)
+    3M:  +11.4%  vs Nifty -3.1%  -> RS: +14.5% (OUTPERFORMING)
+    6M:  +19.4%
+
+  TREND HEALTH:
+    RSI: 47.3  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): 2.52%
+    ATR extension from SMA20: -0.43x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.52x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1499.52 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+    * Rezolve AI Stock Drops After Net Loss Widens – CEO Says Google Is ‘Just The Beginning’ With More Deals In Pipeline
+
+-----------------------------------------------------------------
+
+  BAJAJ-AUTO — Bajaj Auto Limited
+  Consumer Cyclical | Rs3.1T | P/E: 27.283115
+  Price: Rs11460.0  |  52w range: Rs8506.78 — Rs12361.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty +0.3%  -> RS: +0.1%
+    1W:  -1.9%  vs Nifty +0.1%
+    1M:  -2.0%  vs Nifty -3.4%  -> RS: +1.3% (OUTPERFORMING)
+    3M:  +12.4%  vs Nifty -3.1%  -> RS: +15.6% (OUTPERFORMING)
+    6M:  +28.1%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 1.69%
+    ATR extension from SMA20: -1.69x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.44x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11169.91 (-2.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Bain Capital-backed Dhoot Transmission bets on India EV shift to drive growth
+    * Indian EV startup River raises $120M Series C to scale production, launch more models
+    * Bajaj Auto Ltd (BOM:532977) Q1 2027 Earnings Call Highlights: Record Growth and Strategic Expansions
+    * India's Bajaj Auto deepens EV push with motorcycle plans, Chetak expansion
+    * India's Hero MotoCorp to invest about $104 million in Ather Energy
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.2T | P/E: 34.66705
+  Price: Rs4826.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty +0.3%  -> RS: +0.2%
+    1W:  -1.6%  vs Nifty +0.1%
+    1M:  -3.5%  vs Nifty -3.4%  -> RS: -0.1%
+    3M:  +7.1%  vs Nifty -3.1%  -> RS: +10.2% (OUTPERFORMING)
+    6M:  +23.6%
+
+  TREND HEALTH:
+    RSI: 49.5  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.24%
+    ATR extension from SMA20: -0.22x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4663.95 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+    * India's Hindustan Aeronautics posts strong quarterly results on project execution, deliveries
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+
+-----------------------------------------------------------------
+
+  TITAN — Titan Company Limited
+  Consumer Cyclical | Rs4.3T | P/E: 75.25471
+  Price: Rs4875.0  |  52w range: Rs3316.42 — Rs5169.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty +0.3%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  -2.7%  vs Nifty +0.1%
+    1M:  -4.2%  vs Nifty -3.4%  -> RS: -0.8% (UNDERPERFORMING)
+    3M:  +11.9%  vs Nifty -3.1%  -> RS: +15.0% (OUTPERFORMING)
+    6M:  +19.6%
+
+  TREND HEALTH:
+    RSI: 42.6  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 1.62%
+    ATR extension from SMA20: -1.65x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.28x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4756.27 (-2.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Titan Co Ltd (BOM:500114) (Q1 FY27) Earnings Call Highlights: Strong Growth Amidst Customs Duty ...
+    * India Jewelry Stocks Lose 12% as Modi Targets $72 Billion In Gold Imports
+    * India's Titan hits record high on strong fourth-quarter sales
+    * Titan Co Ltd (BOM:500114) Q3 2026 Earnings Call Highlights: Strategic Acquisitions and Market ...
+    * Indian jewellers' stocks shine on strong festive-quarter sales; Titan hits record high
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.6T | P/E: 60.647644
+  Price: Rs1573.2  |  52w range: Rs1264.49 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +0.3%  -> RS: -0.2%
+    1W:  +0.4%  vs Nifty +0.1%
+    1M:  -4.6%  vs Nifty -3.4%  -> RS: -1.2% (UNDERPERFORMING)
+    3M:  +0.8%  vs Nifty -3.1%  -> RS: +3.9% (OUTPERFORMING)
+    6M:  +17.1%
+
+  TREND HEALTH:
+    RSI: 44.2  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): 1.95%
+    ATR extension from SMA20: -0.92x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.39x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1527.12 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+    * Pidilite Industries Ltd (BOM:500331) Q3 2026 Earnings Call Highlights: Strong Domestic Growth ...
+    * Lower input costs drive profit rise at India's Pidilite Industries
+    * Indian adhesives maker Pidilite's quarterly profit grows on strong demand
+
+-----------------------------------------------------------------
+
+  NAUKRI — Info Edge (India) Limited
+  Communication Services | Rs839.7B | P/E: 52.592293
+  Price: Rs1296.4  |  52w range: Rs923.1 — Rs1407.76
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.6%  vs Nifty +0.3%  -> RS: +3.3% (OUTPERFORMING)
+    1W:  +3.6%  vs Nifty +0.1%
+    1M:  -4.7%  vs Nifty -3.4%  -> RS: -1.4% (UNDERPERFORMING)
+    3M:  +32.1%  vs Nifty -3.1%  -> RS: +35.2% (OUTPERFORMING)
+    6M:  +36.5%
+
+  TREND HEALTH:
+    RSI: 52.2  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.92%
+    ATR extension from SMA20: -0.2x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.37x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1239.53 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Info Edge (India) Ltd (BOM:532777) (Q1 2027) Earnings Call Highlights: AI-Driven Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q4 2026 Earnings Call Highlights: Strong Revenue Growth and ...
+    * Info Edge (India) Ltd (BOM:532777) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
