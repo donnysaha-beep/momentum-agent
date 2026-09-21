@@ -6288,5 +6288,102 @@
       "missed_trades": 11,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-21",
+    "trades": [
+      {
+        "ticker": "TITAN",
+        "entry": 4826.05,
+        "target1": 4940.7,
+        "target2": 5017.13,
+        "stop": 4779.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 4810.5,
+        "eod_high": 4879.0,
+        "eod_low": 4780.0,
+        "eod_close": 4875.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 4875.0 (+1.0%)"
+      },
+      {
+        "ticker": "TECHM",
+        "entry": 1539.05,
+        "target1": 1596.81,
+        "target2": 1635.32,
+        "stop": 1525.95,
+        "verdict": "WATCH",
+        "eod_open": 1528.5999755859375,
+        "eod_high": 1560.4000244140625,
+        "eod_low": 1526.0,
+        "eod_close": 1558.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NAUKRI",
+        "entry": 1272.35,
+        "target1": 1329.1,
+        "target2": 1366.94,
+        "stop": 1251.35,
+        "verdict": "WATCH",
+        "eod_open": 1257.4000244140625,
+        "eod_high": 1305.0999755859375,
+        "eod_low": 1251.4000244140625,
+        "eod_close": 1296.4000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HEROMOTOCO",
+        "entry": 5397.05,
+        "target1": 5563.58,
+        "target2": 5674.6,
+        "stop": 5337.45,
+        "verdict": "WATCH",
+        "eod_open": 5337.5,
+        "eod_high": 5425.0,
+        "eod_low": 5337.5,
+        "eod_close": 5419.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "DIVISLAB",
+        "entry": 11533.05,
+        "target1": 11820.35,
+        "target2": 12011.88,
+        "stop": 11465.95,
+        "verdict": "WATCH",
+        "eod_open": 9383.0,
+        "eod_high": 9456.5,
+        "eod_low": 9376.5,
+        "eod_close": 9410.5,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "APOLLOHOSP",
+        "entry": 8901.55,
+        "target1": 9127.42,
+        "target2": 9278.0,
+        "stop": 8826.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 8861.0,
+        "eod_high": 8974.5,
+        "eod_low": 8826.5,
+        "eod_close": 8912.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 8912.0 (+0.1%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 2,
+      "valid_skips": 1,
+      "missed_trades": 3,
+      "false_negatives": 0
+    }
   }
 ]
