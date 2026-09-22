@@ -28,7 +28,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 =================================================================
 
   PAYTM — One97 Communications Limited
-  Technology | Rs1.2T | P/E: 181.62163
+  Technology | Rs1.2T | P/E: 178.9349
   Price: Rs1814.4  |  52w range: Rs959.0 — Rs1849.9
 
   PERFORMANCE vs NIFTY:
@@ -63,7 +63,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   APOLLOHOSP — Apollo Hospitals Enterprise Limited
-  Healthcare | Rs1.3T | P/E: 60.97654
+  Healthcare | Rs1.3T | P/E: 60.821228
   Price: Rs8835.5  |  52w range: Rs6776.6 — Rs9039.48
 
   PERFORMANCE vs NIFTY:
@@ -202,7 +202,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   EICHERMOT — Eicher Motors Limited
-  Consumer Cyclical | Rs2.0T | P/E: 35.291042
+  Consumer Cyclical | Rs2.0T | P/E: 35.30782
   Price: Rs7427.0  |  52w range: Rs6517.75 — Rs8105.12
 
   PERFORMANCE vs NIFTY:
@@ -237,7 +237,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   DIVISLAB — Divi's Laboratories Limited
-  Healthcare | Rs2.5T | P/E: 84.534035
+  Healthcare | Rs2.5T | P/E: 84.94096
   Price: Rs9352.0  |  52w range: Rs5666.13 — Rs9575.0
 
   PERFORMANCE vs NIFTY:
@@ -271,7 +271,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   RBLBANK — RBL Bank Limited
-  Financial Services | Rs656.7B | P/E: 34.97521
+  Financial Services | Rs656.7B | P/E: 34.946327
   Price: Rs423.2  |  52w range: Rs268.26 — Rs423.2
 
   PERFORMANCE vs NIFTY:
@@ -340,7 +340,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   DRREDDY — Dr. Reddy's Laboratories Limited
-  Healthcare | Rs1.0T | P/E: 30.503778
+  Healthcare | Rs1.0T | P/E: 30.534544
   Price: Rs1211.0  |  52w range: Rs1135.6 — Rs1367.03
 
   PERFORMANCE vs NIFTY:
@@ -444,7 +444,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   MARICO — Marico Limited
-  Consumer Defensive | Rs1.1T | P/E: 57.044674
+  Consumer Defensive | Rs1.1T | P/E: 57.201927
   Price: Rs830.0  |  52w range: Rs694.23 — Rs885.35
 
   PERFORMANCE vs NIFTY:
@@ -512,7 +512,7 @@ RELIANCE       Rs  1240.4   -0.6%   -5.3%    -1.5%   38.6 -1.8x   WATCH
 -----------------------------------------------------------------
 
   RELIANCE — Reliance Industries Limited
-  Energy | N/A | P/E: 22.475086
+  Energy | N/A | P/E: 22.446617
   Price: Rs1240.4  |  52w range: Rs1226.4 — Rs1584.97
 
   PERFORMANCE vs NIFTY:
