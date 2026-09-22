@@ -1,0 +1,150 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Tuesday, September 22 2026 09:19 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23375.35  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 23425.8 — 23489.0
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 2 TRADE NOW | 1 WATCH | 0 WAIT | 9 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [90% probability]
+  TITAN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 4953.0
+  Gap from prev  : +0.1%  (prev Rs 4875.0 | opened Rs 4882.5)
+  Opening Range  : Rs 4863.0 — Rs 4903.5  (0.83% wide)
+  VWAP           : Rs 4935.93  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 79.31
+
+  TRADE PLAN:
+    Entry trigger  : Rs 4903.55  (break above ORB high)
+    Target 1 (50%) : Rs 5022.52  (+2.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 5101.83  (+4.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 4862.95  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:2.93 (T1)  |  1:4.87 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 8 shares
+    Capital needed : Rs 39,228
+    Max loss       : Rs 325  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] Making higher highs post-ORB
+    [+] VWAP sloping upward
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+  TRADE NOW  [70% probability]
+  NAUKRI
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1308.0
+  Gap from prev  : -0.0%  (prev Rs 1296.4 | opened Rs 1296.3)
+  Opening Range  : Rs 1292.5 — Rs 1304.8  (0.95% wide)
+  VWAP           : Rs 1306.74  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 35.61
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1304.85  (break above ORB high)
+    Target 1 (50%) : Rs 1358.26  (+4.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1393.87  (+6.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1292.45  (-0.9%)  [below ORB low]
+    Risk/Reward    : 1:4.31 (T1)  |  1:7.18 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 30 shares
+    Capital needed : Rs 39,146
+    Max loss       : Rs 372  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [70% probability]
+  RBLBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 422.45
+  Gap from prev  : +0.4%  (prev Rs 402.4 | opened Rs 404.0)
+  Opening Range  : Rs 402.9 — Rs 408.6  (1.41% wide)
+  VWAP           : Rs 412.95  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 9.91
+
+  TRADE PLAN:
+    Entry trigger  : Rs 408.65  (break above ORB high)
+    Target 1 (50%) : Rs 423.52  (+3.6%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 433.44  (+6.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 402.85  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:2.56 (T1)  |  1:4.27 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 97 shares
+    Capital needed : Rs 39,639
+    Max loss       : Rs 563  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  POLICYBZR  [70%]  |  Rs 1786.1
+    [-] Nifty broke its own ORB low — avoid all longs
+  COALINDIA  [50%]  |  Rs 426.25
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] GAP TRAP: Gapped up 2.0% but first candle closed red — institutions selling into gap, do not buy
+  EICHERMOT  [50%]  |  Rs 7470.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  DIVISLAB  [40%]  |  Rs 9338.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  PAYTM  [40%]  |  Rs 1812.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  DRREDDY  [40%]  |  Rs 1212.1
+    [-] Nifty broke its own ORB low — avoid all longs
+  HEROMOTOCO  [40%]  |  Rs 5391.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  APOLLOHOSP  [40%]  |  Rs 8895.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [30%]  |  Rs 333.55
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
