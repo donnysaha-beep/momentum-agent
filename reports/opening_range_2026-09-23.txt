@@ -1,0 +1,323 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, September 23 2026 09:20 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23428.45  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 23352.15 — 23413.9
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 3 TRADE NOW | 8 WATCH | 4 WAIT | 0 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  POLICYBZR
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1899.9
+  Gap from prev  : +0.4%  (prev Rs 1793.0 | opened Rs 1800.0)
+  Opening Range  : Rs 1800.0 — Rs 1823.9  (1.33% wide)
+  VWAP           : Rs 1864.07  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 61.41
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1823.95  (break above ORB high)
+    Target 1 (50%) : Rs 1916.06  (+5.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1977.47  (+8.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1799.95  (-1.3%)  [below ORB low]
+    Risk/Reward    : 1:3.83 (T1)  |  1:6.38 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 13 shares
+    Capital needed : Rs 23,711
+    Max loss       : Rs 312  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+  TRADE NOW  [70% probability]
+  AUBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1055.5
+  Gap from prev  : -0.2%  (prev Rs 1038.0 | opened Rs 1035.8)
+  Opening Range  : Rs 1033.2 — Rs 1044.2  (1.06% wide)
+  VWAP           : Rs 1049.3  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 21.46
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1044.25  (break above ORB high)
+    Target 1 (50%) : Rs 1076.43  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1097.89  (+5.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1033.15  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.91 (T1)  |  1:4.85 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 23 shares
+    Capital needed : Rs 24,018
+    Max loss       : Rs 255  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+  TRADE NOW  [70% probability]
+  DIVISLAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 9573.0
+  Gap from prev  : -0.1%  (prev Rs 9352.0 | opened Rs 9345.5)
+  Opening Range  : Rs 9312.5 — Rs 9392.5  (0.86% wide)
+  VWAP           : Rs 9488.59  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 184.62
+
+  TRADE PLAN:
+    Entry trigger  : Rs 9392.55  (break above ORB high)
+    Target 1 (50%) : Rs 9669.48  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 9854.1  (+4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 9312.45  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:3.47 (T1)  |  1:5.78 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 2 shares
+    Capital needed : Rs 18,785
+    Max loss       : Rs 160  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [70% probability]
+  JINDALSTEL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1174.5
+  Gap from prev  : +0.8%  (prev Rs 1141.0 | opened Rs 1150.3)
+  Opening Range  : Rs 1150.3 — Rs 1160.5  (0.89% wide)
+  VWAP           : Rs 1172.83  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 28.95
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1160.55  (break above ORB high)
+    Target 1 (50%) : Rs 1203.97  (+3.7%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1232.92  (+6.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1150.25  (-0.9%)  [below ORB low]
+    Risk/Reward    : 1:4.2 (T1)  |  1:7.01 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 21 shares
+    Capital needed : Rs 24,372
+    Max loss       : Rs 216  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [70% probability]
+  TATASTEEL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 190.59
+  Gap from prev  : +0.2%  (prev Rs 184.97 | opened Rs 185.3)
+  Opening Range  : Rs 185.1 — Rs 187.35  (1.22% wide)
+  VWAP           : Rs 189.35  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 4.29
+
+  TRADE PLAN:
+    Entry trigger  : Rs 187.4  (break above ORB high)
+    Target 1 (50%) : Rs 193.84  (+3.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 198.13  (+5.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 185.05  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:2.75 (T1)  |  1:4.58 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 133 shares
+    Capital needed : Rs 24,924
+    Max loss       : Rs 313  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [70% probability]
+  SAIL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 184.78
+  Gap from prev  : +0.9%  (prev Rs 174.01 | opened Rs 175.5)
+  Opening Range  : Rs 175.5 — Rs 177.87  (1.35% wide)
+  VWAP           : Rs 181.96  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 6.09
+
+  TRADE PLAN:
+    Entry trigger  : Rs 177.92  (break above ORB high)
+    Target 1 (50%) : Rs 187.05  (+5.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 193.14  (+8.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 175.45  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:3.69 (T1)  |  1:6.15 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 140 shares
+    Capital needed : Rs 24,909
+    Max loss       : Rs 346  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [70% probability]
+  NATIONALUM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 362.7
+  Gap from prev  : +0.3%  (prev Rs 352.2 | opened Rs 353.3)
+  Opening Range  : Rs 353.3 — Rs 357.75  (1.26% wide)
+  VWAP           : Rs 358.72  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 10.35
+
+  TRADE PLAN:
+    Entry trigger  : Rs 357.8  (break above ORB high)
+    Target 1 (50%) : Rs 373.33  (+4.3%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 383.69  (+7.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 353.25  (-1.3%)  [below ORB low]
+    Risk/Reward    : 1:3.42 (T1)  |  1:5.7 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 69 shares
+    Capital needed : Rs 24,688
+    Max loss       : Rs 314  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [70% probability]
+  JSWSTEEL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1295.5
+  Gap from prev  : +0.3%  (prev Rs 1268.6 | opened Rs 1271.9)
+  Opening Range  : Rs 1271.9 — Rs 1286.6  (1.16% wide)
+  VWAP           : Rs 1291.22  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 24.64
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1286.65  (break above ORB high)
+    Target 1 (50%) : Rs 1323.62  (+2.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1348.26  (+4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1271.85  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.5 (T1)  |  1:4.17 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 19 shares
+    Capital needed : Rs 24,446
+    Max loss       : Rs 281  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  NYKAA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 339.9
+  Gap from prev  : -0.1%  (prev Rs 333.55 | opened Rs 333.05)
+  Opening Range  : Rs 332.85 — Rs 334.7  (0.56% wide)
+  VWAP           : Rs 337.66  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 7.91
+
+  TRADE PLAN:
+    Entry trigger  : Rs 334.75  (break above ORB high)
+    Target 1 (50%) : Rs 346.62  (+3.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 354.53  (+5.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 332.8  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:6.12 (T1)  |  1:10.19 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 74 shares
+    Capital needed : Rs 24,772
+    Max loss       : Rs 144  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  BAJFINANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1035.7
+  Gap from prev  : +2.1%  (prev Rs 1008.8 | opened Rs 1030.1)
+  Opening Range  : Rs 1022.6 — Rs 1033.2  (1.04% wide)
+  VWAP           : Rs 1033.14  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 19.92
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1033.25  (break above ORB high)
+    Target 1 (50%) : Rs 1063.14  (+2.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1083.06  (+4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1022.55  (-1.0%)  [below ORB low]
+    Risk/Reward    : 1:2.78 (T1)  |  1:4.63 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 24 shares
+    Capital needed : Rs 24,798
+    Max loss       : Rs 257  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  ADANIPORTS
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1806.5
+  Gap from prev  : +0.3%  (prev Rs 1795.0 | opened Rs 1800.5)
+  Opening Range  : Rs 1797.4 — Rs 1806.6  (0.51% wide)
+  VWAP           : Rs 1801.67  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 37.35
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1806.65  (break above ORB high)
+    Target 1 (50%) : Rs 1862.67  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1900.02  (+5.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1797.35  (-0.5%)  [below ORB low]
+    Risk/Reward    : 1:6.08 (T1)  |  1:10.14 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 13 shares
+    Capital needed : Rs 23,486
+    Max loss       : Rs 121  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs1806.5999755859375) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  IDFCFIRSTB  [60%]  |  Rs 87.9  |  ORB: 86.0—86.87  |  VWAP: 88.32
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  IIFL  [50%]  |  Rs 627.6  |  ORB: 614.0—623.7  |  VWAP: 631.49
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  RBLBANK  [50%]  |  Rs 427.1  |  ORB: 422.35—426.9  |  VWAP: 426.73
+    [~] Inside opening range — direction not confirmed yet
+  PAYTM  [40%]  |  Rs 1779.4  |  ORB: 1766.5—1818.9  |  VWAP: 1778.67
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
