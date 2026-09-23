@@ -10,16 +10,16 @@ Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict
 IDFCFIRSTB     Rs    87.9   +3.0%   +3.4%    +6.7%   60.8  1.3x   WATCH NOW
 NYKAA          Rs   340.9   +2.2%   +2.0%    +5.4%   55.4  0.5x   WATCH NOW
 SAIL           Rs   185.4   +6.6%   +0.5%    +3.8%   55.5 -0.0x   WATCH NOW
-AUBANK         Rs  1053.0   +1.4%   -5.5%    -2.2%   47.8 -0.5x   WATCH NOW
+AUBANK         Rs  1053.0   +1.6%   -6.7%    -3.4%   48.2 -0.3x   WATCH NOW
 NATIONALUM     Rs   363.4   +3.2%   -8.6%    -5.3%   47.7 -0.4x   WATCH NOW
 RBLBANK        Rs   428.0   +1.1%  +11.5%   +14.8%   66.3  2.2x   WATCH
 DIVISLAB       Rs  9624.0   +2.9%  +10.1%   +13.4%   67.9  1.6x   WATCH
 ADANIPORTS     Rs  1807.3   +0.7%   +6.1%    +9.5%   60.4  2.0x   WATCH
-POLICYBZR      Rs  1886.3   +5.2%   +5.7%    +9.0%   60.8  1.1x   WATCH
+POLICYBZR      Rs  1886.3   +4.5%   +4.9%    +8.2%   61.3  1.2x   WATCH
 PAYTM          Rs  1775.0   -2.2%   +3.3%    +6.6%   58.0  0.8x   WATCH
 TATASTEEL      Rs   190.8   +3.2%   +2.1%    +5.4%   58.9  1.2x   WATCH
 JINDALSTEL     Rs  1175.3   +3.0%   +1.8%    +5.2%   61.3  1.1x   WATCH
-JSWSTEEL       Rs  1297.8   +2.3%   -2.2%    +1.1%   53.4  0.1x   WATCH
+JSWSTEEL       Rs  1297.8   +2.4%   -1.7%    +1.6%   53.9  0.3x   WATCH
 BAJFINANCE     Rs  1043.2   +3.4%   -4.1%    -0.7%   49.3  0.0x   WATCH
 IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 
@@ -134,25 +134,25 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   AUBANK — AU Small Finance Bank Limited
-  Financial Services | Rs789.1B | P/E: 27.871891
+  Financial Services | Rs789.1B | P/E: 27.916224
   Price: Rs1053.0  |  52w range: Rs723.85 — Rs1128.6
 
   PERFORMANCE vs NIFTY:
-    1D:  +1.4%  vs Nifty +0.1%  -> RS: +1.3% (OUTPERFORMING)
-    1W:  +2.4%  vs Nifty +1.4%
-    1M:  -5.5%  vs Nifty -3.3%  -> RS: -2.2% (UNDERPERFORMING)
-    3M:  +2.7%  vs Nifty -2.4%  -> RS: +5.1% (OUTPERFORMING)
-    6M:  +16.9%
+    1D:  +1.6%  vs Nifty +0.1%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +1.9%  vs Nifty +1.4%
+    1M:  -6.7%  vs Nifty -3.3%  -> RS: -3.4% (UNDERPERFORMING)
+    3M:  -1.2%  vs Nifty -2.4%  -> RS: +1.1% (OUTPERFORMING)
+    6M:  +13.3%
 
   TREND HEALTH:
-    RSI: 47.8  |  Days above SMA50 (last 20): 10/20
-    Daily volatility (ATR%): 2.11%
-    ATR extension from SMA20: -0.48x  (HEALTHY)
+    RSI: 48.2  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): 2.07%
+    ATR extension from SMA20: -0.31x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 1.66x 20-day avg
+    Volume today: 1.67x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1019.71 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1020.33 (-3.1%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -274,7 +274,7 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   ADANIPORTS — Adani Ports and Special Economic Zone Limited
-  Industrials | Rs4.2T | P/E: 30.694633
+  Industrials | Rs4.2T | P/E: 30.88346
   Price: Rs1807.3  |  52w range: Rs1298.13 — Rs1883.2
 
   PERFORMANCE vs NIFTY:
@@ -312,21 +312,21 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
   Price: Rs1886.3  |  52w range: Rs1426.9 — Rs1957.3
 
   PERFORMANCE vs NIFTY:
-    1D:  +5.2%  vs Nifty +0.1%  -> RS: +5.1% (OUTPERFORMING)
-    1W:  +8.7%  vs Nifty +1.4%
-    1M:  +5.7%  vs Nifty -3.3%  -> RS: +9.0% (OUTPERFORMING)
-    3M:  +16.3%  vs Nifty -2.4%  -> RS: +18.6% (OUTPERFORMING)
-    6M:  +25.9%
+    1D:  +4.5%  vs Nifty +0.1%  -> RS: +4.4% (OUTPERFORMING)
+    1W:  +3.2%  vs Nifty +1.4%
+    1M:  +4.9%  vs Nifty -3.3%  -> RS: +8.2% (OUTPERFORMING)
+    3M:  +15.3%  vs Nifty -2.4%  -> RS: +17.6% (OUTPERFORMING)
+    6M:  +22.6%
 
   TREND HEALTH:
-    RSI: 60.8  |  Days above SMA50 (last 20): 20/20
-    Daily volatility (ATR%): 3.33%
-    ATR extension from SMA20: 1.12x  (HEALTHY)
+    RSI: 61.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 3.24%
+    ATR extension from SMA20: 1.18x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.79x 20-day avg
+    Volume today: 1.89x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1792.11 (-5.0%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1794.72 (-4.9%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -376,7 +376,7 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   TATASTEEL — Tata Steel Limited
-  Basic Materials | Rs2.4T | P/E: 21.392378
+  Basic Materials | Rs2.4T | P/E: 21.585974
   Price: Rs190.82  |  52w range: Rs157.42 — Rs216.66
 
   PERFORMANCE vs NIFTY:
@@ -411,7 +411,7 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   JINDALSTEL — Jindal Steel Limited
-  Basic Materials | Rs1.2T | P/E: 43.64278
+  Basic Materials | Rs1.2T | P/E: 44.018726
   Price: Rs1175.3  |  52w range: Rs984.24 — Rs1286.5
 
   PERFORMANCE vs NIFTY:
@@ -449,21 +449,21 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
   Price: Rs1297.8  |  52w range: Rs1073.14 — Rs1341.0
 
   PERFORMANCE vs NIFTY:
-    1D:  +2.3%  vs Nifty +0.1%  -> RS: +2.2% (OUTPERFORMING)
-    1W:  +5.6%  vs Nifty +1.4%
-    1M:  -2.2%  vs Nifty -3.3%  -> RS: +1.1% (OUTPERFORMING)
-    3M:  +5.1%  vs Nifty -2.4%  -> RS: +7.4% (OUTPERFORMING)
-    6M:  +11.8%
+    1D:  +2.4%  vs Nifty +0.1%  -> RS: +2.3% (OUTPERFORMING)
+    1W:  +3.9%  vs Nifty +1.4%
+    1M:  -1.7%  vs Nifty -3.3%  -> RS: +1.6% (OUTPERFORMING)
+    3M:  +6.0%  vs Nifty -2.4%  -> RS: +8.4% (OUTPERFORMING)
+    6M:  +10.6%
 
   TREND HEALTH:
-    RSI: 53.4  |  Days above SMA50 (last 20): 13/20
-    Daily volatility (ATR%): 1.91%
-    ATR extension from SMA20: 0.13x  (HEALTHY)
+    RSI: 53.9  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 1.86%
+    ATR extension from SMA20: 0.29x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.95x 20-day avg
+    Volume today: 0.98x 20-day avg
     RS 55-day slope: POSITIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1260.59 (-2.9%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1261.5 (-2.8%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
@@ -479,7 +479,7 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   BAJFINANCE — Bajaj Finance Limited
-  Financial Services | Rs6.5T | P/E: 32.41765
+  Financial Services | Rs6.5T | P/E: 32.01964
   Price: Rs1043.2  |  52w range: Rs796.65 — Rs1158.8
 
   PERFORMANCE vs NIFTY:
@@ -515,7 +515,7 @@ IIFL           Rs   633.3   +2.5%   -5.0%    -1.6%   56.1  0.5x   WATCH
 -----------------------------------------------------------------
 
   IIFL — IIFL Finance Limited
-  Financial Services | Rs269.3B | P/E: 12.706661
+  Financial Services | Rs269.3B | P/E: 12.906053
   Price: Rs633.3  |  52w range: Rs416.27 — Rs696.4
 
   PERFORMANCE vs NIFTY:
