@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Thursday, September 24 2026
+  Layer 0 | Generated: 07:28 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  23,169.55  (-1.18%)
+  Bank Nifty            :  55,582.80  (-1.71%)
+  India VIX             :      11.69  (+12.90%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 23081.51  [ESTIMATED]
+  Change vs prev : -0.38%
+  Bias           : BEARISH
+  Based on       : S&P 500 -0.76% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,706.03  (-0.76%)
+  Nasdaq (US)           :  26,936.04  (-0.69%)
+  US VIX                :      15.18  (+2.08%)
+  Crude Oil (WTI)       :      92.40  (+0.26%)
+  Gold                  :   4,321.80  (+0.08%)
+  Silver                :      64.73  (+0.54%)
+  USD/INR               :      95.88  (+0.20%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.4% (bearish)
+  * India VIX SPIKE +12.9% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Pharma
+  Avoid      : IT, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
