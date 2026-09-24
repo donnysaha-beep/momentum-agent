@@ -1,0 +1,39 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, September 24 2026
+  Layer 3 | 05:45 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+=================================================================
+  RUNNING PERFORMANCE (69 days tracked)
+=================================================================
+  Total Trades    : 125
+  Win Rate        : 5.6%
+  Good Wins       : 7
+  Good Losses     : 39
+  False Positives : 79
+  Valid Skips     : 20
+  Missed Trades   : 263
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
