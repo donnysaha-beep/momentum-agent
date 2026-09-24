@@ -43,11 +43,11 @@ INFY           Rs  1014.5   -0.6%   -9.4%    -4.7%   32.4 -2.4x   WATCH
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
   RECENT NEWS:
+    * WF vs. HDB: Which Stock Should Value Investors Buy Now?
     * Microsoft Drops as Three-Zone Hyderabad Region Goes Live
     * Microsoft Stays Flat as Hyderabad Adds AI Capacity Without Water Cooling
     * Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading
     * Apple Pay to launch in India next month with Axis Bank- report
-    * Asian Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading
 
 -----------------------------------------------------------------
 
@@ -86,7 +86,7 @@ INFY           Rs  1014.5   -0.6%   -9.4%    -4.7%   32.4 -2.4x   WATCH
 -----------------------------------------------------------------
 
   RELIANCE — Reliance Industries Limited
-  Energy | N/A | P/E: 22.102972
+  Energy | Rs16.5T | P/E: 22.102972
   Price: Rs1219.2  |  52w range: Rs1219.2 — Rs1584.97
 
   PERFORMANCE vs NIFTY:
@@ -121,7 +121,7 @@ INFY           Rs  1014.5   -0.6%   -9.4%    -4.7%   32.4 -2.4x   WATCH
 -----------------------------------------------------------------
 
   TCS — Tata Consultancy Services Limited
-  Technology | N/A | P/E: 15.1561365
+  Technology | Rs7.6T | P/E: 15.1561365
   Price: Rs2087.0  |  52w range: Rs1971.79 — Rs3204.28
 
   PERFORMANCE vs NIFTY:
@@ -180,11 +180,11 @@ INFY           Rs  1014.5   -0.6%   -9.4%    -4.7%   32.4 -2.4x   WATCH
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
+    * Chainlink’s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?
     * Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear
     * India's Silicon Valley Is Straining Under Its Own Growth
     * Former Infosys chief’s AI startup nabs another $53M
     * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Monday Trading
-    * Trump administration proposes axing grace period for H-1B visa holders after job loss
 
 -----------------------------------------------------------------
 
