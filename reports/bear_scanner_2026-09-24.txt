@@ -1,0 +1,147 @@
+=================================================================
+  BEAR SCANNER — Thursday, September 24 2026 09:27 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: BEARISH
+  Price: 23112.8  |  Gap: -1.0%  |  VWAP: nan
+  ORB: 23215.65 — 23280.6
+  *** Nifty broke ORB low — bearish breadth confirmed ***
+
+REGIME: DANGER  |  SHORT SIZE: SMALL SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 3 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 1 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [70% probability]
+  RELIANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1222.8
+  Gap from prev  : -1.0%  (prev Rs 1248.0 | opened Rs 1236.0)
+  Opening Range  : Rs 1236.0 — Rs 1241.2  (0.42% wide)
+  VWAP           : Rs 1230.66  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 33.5
+  ATR (daily)    : Rs 19.12
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1235.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1207.27  (-2.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1188.15  (-3.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1241.25  (+0.4%)  [above ORB high]
+    Risk/Reward    : 1:5.4 (T1)  |  1:9.0 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 20 shares
+    Capital needed : Rs 24,719  (margin)
+    Max loss       : Rs 106  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [70% probability]
+  INFY
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1009.0
+  Gap from prev  : -0.5%  (prev Rs 1020.5 | opened Rs 1015.0)
+  Opening Range  : Rs 1015.0 — Rs 1022.0  (0.68% wide)
+  VWAP           : Rs 1012.4  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 27.5
+  ATR (daily)    : Rs 24.75
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1014.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 977.83  (-3.7%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 953.08  (-6.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1022.05  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:5.23 (T1)  |  1:8.71 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 24 shares
+    Capital needed : Rs 24,359  (margin)
+    Max loss       : Rs 170  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [70% probability]
+  SBIN
+  ─────────────────────────────────────────────
+  Current Price  : Rs 980.5
+  Gap from prev  : -1.0%  (prev Rs 994.1 | opened Rs 984.0)
+  Opening Range  : Rs 984.0 — Rs 992.0  (0.81% wide)
+  VWAP           : Rs 984.36  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 35.1
+  ATR (daily)    : Rs 15.56
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 983.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 960.61  (-2.4%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 945.05  (-4.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 992.05  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:2.89 (T1)  |  1:4.82 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 25 shares
+    Capital needed : Rs 24,599  (margin)
+    Max loss       : Rs 202  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [60% probability]
+  TCS
+  ─────────────────────────────────────────────
+  Current Price  : Rs 2071.6
+  Gap from prev  : -1.0%  (prev Rs 2089.6 | opened Rs 2068.7)
+  Opening Range  : Rs 2068.7 — Rs 2093.5  (1.18% wide)
+  VWAP           : Rs 2084.38  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 26.9
+  ATR (daily)    : Rs 56.46
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 2068.65  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1983.96  (-4.1%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1927.5  (-6.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 2093.55  (+1.2%)  [above ORB high]
+    Risk/Reward    : 1:3.41 (T1)  |  1:5.68 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 12 shares
+    Capital needed : Rs 24,824  (margin)
+    Max loss       : Rs 299  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 2068.699951171875) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  HDFCBANK  [40%]  |  Rs 731.25
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
