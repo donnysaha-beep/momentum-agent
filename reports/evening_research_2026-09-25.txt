@@ -3,23 +3,23 @@
 =================================================================
 
 MARKET REGIME: NEUTRAL
-  Nifty 50: Rs23140.5  1D: +0.3%  1W: -0.6%  1M: -4.9%  3M: -2.9%
+  Nifty 50: Rs23140.5  1D: +0.3%  1W: -0.9%  1M: -4.4%  3M: -3.7%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-APLAPOLLO      Rs  2214.7   +1.4%   +1.6%    +6.5%   57.7  0.5x   WATCH NOW
-SIEMENS        Rs  3877.0   +0.9%   -5.3%    -0.4%   48.1 -0.4x   WATCH NOW
-COALINDIA      Rs   426.1   +1.0%   +7.9%   +12.8%   58.0  1.0x   WATCH
-DIVISLAB       Rs  9619.5   +0.2%   +6.2%   +11.1%   67.3  1.3x   WATCH
-ADANIPORTS     Rs  1788.0   +0.1%   +4.3%    +9.2%   56.9  1.4x   WATCH
-HAL            Rs  4800.0   +0.5%   -2.0%    +2.9%   48.0 -0.3x   WATCH
-TECHM          Rs  1548.0   +0.3%   -2.3%    +2.6%   45.5 -0.5x   WATCH
-BAJAJ-AUTO     Rs 11281.0   +0.7%   -3.8%    +1.2%   40.3 -2.2x   WATCH
-TITAN          Rs  4884.0   +1.1%   -5.0%    -0.1%   45.5 -0.9x   WATCH
-NAUKRI         Rs  1254.8   +2.5%   -5.2%    -0.3%   45.1 -0.9x   WATCH
-ABB            Rs  7052.5   -1.1%   -5.8%    -0.9%   38.1 -1.4x   WATCH
-M&M            Rs  3035.0   +1.8%   -8.9%    -4.0%   35.1 -1.3x   WATCH
-EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
+APLAPOLLO      Rs  2214.7   +1.4%   +1.6%    +6.0%   57.7  0.5x   WATCH NOW
+SIEMENS        Rs  3877.0   +0.9%   -5.3%    -0.9%   48.1 -0.4x   WATCH NOW
+COALINDIA      Rs   426.1   +1.0%   +7.9%   +12.3%   58.0  1.0x   WATCH
+DIVISLAB       Rs  9619.5   +0.2%   +6.2%   +10.6%   67.3  1.3x   WATCH
+ADANIPORTS     Rs  1788.0   +0.1%   +4.3%    +8.7%   56.9  1.4x   WATCH
+HAL            Rs  4800.0   +0.5%   -2.0%    +2.4%   48.0 -0.3x   WATCH
+TECHM          Rs  1548.0   +0.3%   -2.3%    +2.1%   45.5 -0.5x   WATCH
+BAJAJ-AUTO     Rs 11281.0   +0.7%   -3.8%    +0.7%   40.3 -2.2x   WATCH
+TITAN          Rs  4884.0   +1.1%   -5.0%    -0.6%   45.5 -0.9x   WATCH
+NAUKRI         Rs  1254.8   +2.5%   -5.2%    -0.8%   45.1 -0.9x   WATCH
+ABB            Rs  7052.5   -1.1%   -5.8%    -1.4%   38.1 -1.4x   WATCH
+M&M            Rs  3035.0   +1.8%   -8.9%    -4.5%   35.1 -1.3x   WATCH
+EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.7%   31.9 -2.1x   WATCH
 
 =================================================================
   FULL DETAIL
@@ -31,9 +31,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +1.4%  vs Nifty +0.3%  -> RS: +1.0% (OUTPERFORMING)
-    1W:  -2.4%  vs Nifty -0.6%
-    1M:  +1.6%  vs Nifty -4.9%  -> RS: +6.5% (OUTPERFORMING)
-    3M:  +24.0%  vs Nifty -2.9%  -> RS: +26.8% (OUTPERFORMING)
+    1W:  -2.4%  vs Nifty -0.9%
+    1M:  +1.6%  vs Nifty -4.4%  -> RS: +6.0% (OUTPERFORMING)
+    3M:  +24.0%  vs Nifty -3.7%  -> RS: +27.6% (OUTPERFORMING)
     6M:  +12.7%
 
   TREND HEALTH:
@@ -58,14 +58,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   SIEMENS — Siemens Limited
-  Industrials | Rs1.4T | P/E: 81.77599
+  Industrials | Rs1.4T | P/E: 82.05291
   Price: Rs3877.0  |  52w range: Rs2834.67 — Rs4114.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.9%  vs Nifty +0.3%  -> RS: +0.6% (OUTPERFORMING)
-    1W:  -0.9%  vs Nifty -0.6%
-    1M:  -5.3%  vs Nifty -4.9%  -> RS: -0.4%
-    3M:  +7.4%  vs Nifty -2.9%  -> RS: +10.3% (OUTPERFORMING)
+    1W:  -0.9%  vs Nifty -0.9%
+    1M:  -5.3%  vs Nifty -4.4%  -> RS: -0.9% (UNDERPERFORMING)
+    3M:  +7.4%  vs Nifty -3.7%  -> RS: +11.1% (OUTPERFORMING)
     6M:  +24.5%
 
   TREND HEALTH:
@@ -94,9 +94,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +1.0%  vs Nifty +0.3%  -> RS: +0.6% (OUTPERFORMING)
-    1W:  +4.0%  vs Nifty -0.6%
-    1M:  +7.9%  vs Nifty -4.9%  -> RS: +12.8% (OUTPERFORMING)
-    3M:  +0.4%  vs Nifty -2.9%  -> RS: +3.3% (OUTPERFORMING)
+    1W:  +4.0%  vs Nifty -0.9%
+    1M:  +7.9%  vs Nifty -4.4%  -> RS: +12.3% (OUTPERFORMING)
+    3M:  +0.4%  vs Nifty -3.7%  -> RS: +4.1% (OUTPERFORMING)
     6M:  -6.6%
 
   TREND HEALTH:
@@ -127,9 +127,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +0.2%  vs Nifty +0.3%  -> RS: -0.2%
-    1W:  +2.6%  vs Nifty -0.6%
-    1M:  +6.2%  vs Nifty -4.9%  -> RS: +11.1% (OUTPERFORMING)
-    3M:  +43.9%  vs Nifty -2.9%  -> RS: +46.8% (OUTPERFORMING)
+    1W:  +2.6%  vs Nifty -0.9%
+    1M:  +6.2%  vs Nifty -4.4%  -> RS: +10.6% (OUTPERFORMING)
+    3M:  +43.9%  vs Nifty -3.7%  -> RS: +47.5% (OUTPERFORMING)
     6M:  +61.7%
 
   TREND HEALTH:
@@ -156,14 +156,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   ADANIPORTS — Adani Ports and Special Economic Zone Limited
-  Industrials | Rs4.1T | P/E: 30.912863
+  Industrials | Rs4.1T | P/E: 30.532785
   Price: Rs1788.0  |  52w range: Rs1298.13 — Rs1883.2
 
   PERFORMANCE vs NIFTY:
     1D:  +0.1%  vs Nifty +0.3%  -> RS: -0.2%
-    1W:  -2.0%  vs Nifty -0.6%
-    1M:  +4.3%  vs Nifty -4.9%  -> RS: +9.2% (OUTPERFORMING)
-    3M:  -0.5%  vs Nifty -2.9%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  -2.0%  vs Nifty -0.9%
+    1M:  +4.3%  vs Nifty -4.4%  -> RS: +8.7% (OUTPERFORMING)
+    3M:  -0.5%  vs Nifty -3.7%  -> RS: +3.2% (OUTPERFORMING)
     6M:  +31.5%
 
   TREND HEALTH:
@@ -189,14 +189,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.2T | P/E: 34.909092
+  Industrials | Rs3.2T | P/E: 34.430813
   Price: Rs4800.0  |  52w range: Rs3480.15 — Rs5099.0
 
   PERFORMANCE vs NIFTY:
     1D:  +0.5%  vs Nifty +0.3%  -> RS: +0.2%
-    1W:  -0.0%  vs Nifty -0.6%
-    1M:  -2.0%  vs Nifty -4.9%  -> RS: +2.9% (OUTPERFORMING)
-    3M:  +10.1%  vs Nifty -2.9%  -> RS: +13.0% (OUTPERFORMING)
+    1W:  -0.0%  vs Nifty -0.9%
+    1M:  -2.0%  vs Nifty -4.4%  -> RS: +2.4% (OUTPERFORMING)
+    3M:  +10.1%  vs Nifty -3.7%  -> RS: +13.8% (OUTPERFORMING)
     6M:  +27.2%
 
   TREND HEALTH:
@@ -227,9 +227,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +0.3%  vs Nifty +0.3%  -> RS: -0.0%
-    1W:  +0.7%  vs Nifty -0.6%
-    1M:  -2.3%  vs Nifty -4.9%  -> RS: +2.6% (OUTPERFORMING)
-    3M:  +10.5%  vs Nifty -2.9%  -> RS: +13.4% (OUTPERFORMING)
+    1W:  +0.7%  vs Nifty -0.9%
+    1M:  -2.3%  vs Nifty -4.4%  -> RS: +2.1% (OUTPERFORMING)
+    3M:  +10.5%  vs Nifty -3.7%  -> RS: +14.2% (OUTPERFORMING)
     6M:  +14.7%
 
   TREND HEALTH:
@@ -261,9 +261,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +0.7%  vs Nifty +0.3%  -> RS: +0.3%
-    1W:  -1.2%  vs Nifty -0.6%
-    1M:  -3.8%  vs Nifty -4.9%  -> RS: +1.2% (OUTPERFORMING)
-    3M:  +14.6%  vs Nifty -2.9%  -> RS: +17.5% (OUTPERFORMING)
+    1W:  -1.2%  vs Nifty -0.9%
+    1M:  -3.8%  vs Nifty -4.4%  -> RS: +0.7% (OUTPERFORMING)
+    3M:  +14.6%  vs Nifty -3.7%  -> RS: +18.3% (OUTPERFORMING)
     6M:  +26.4%
 
   TREND HEALTH:
@@ -295,9 +295,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +1.1%  vs Nifty +0.3%  -> RS: +0.7% (OUTPERFORMING)
-    1W:  +1.8%  vs Nifty -0.6%
-    1M:  -5.0%  vs Nifty -4.9%  -> RS: -0.1%
-    3M:  +14.2%  vs Nifty -2.9%  -> RS: +17.1% (OUTPERFORMING)
+    1W:  +1.8%  vs Nifty -0.9%
+    1M:  -5.0%  vs Nifty -4.4%  -> RS: -0.6% (UNDERPERFORMING)
+    3M:  +14.2%  vs Nifty -3.7%  -> RS: +17.9% (OUTPERFORMING)
     6M:  +19.3%
 
   TREND HEALTH:
@@ -324,14 +324,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   NAUKRI — Info Edge (India) Limited
-  Communication Services | Rs812.8B | P/E: 53.94669
+  Communication Services | Rs812.8B | P/E: 50.76052
   Price: Rs1254.8  |  52w range: Rs923.1 — Rs1388.85
 
   PERFORMANCE vs NIFTY:
     1D:  +2.5%  vs Nifty +0.3%  -> RS: +2.2% (OUTPERFORMING)
-    1W:  +0.3%  vs Nifty -0.6%
-    1M:  -5.2%  vs Nifty -4.9%  -> RS: -0.3%
-    3M:  +28.6%  vs Nifty -2.9%  -> RS: +31.5% (OUTPERFORMING)
+    1W:  +0.3%  vs Nifty -0.9%
+    1M:  -5.2%  vs Nifty -4.4%  -> RS: -0.8% (UNDERPERFORMING)
+    3M:  +28.6%  vs Nifty -3.7%  -> RS: +32.3% (OUTPERFORMING)
     6M:  +29.7%
 
   TREND HEALTH:
@@ -356,14 +356,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   ABB — ABB India Limited
-  Industrials | Rs1.5T | P/E: 94.335205
-  Price: Rs7052.5  |  52w range: Rs4618.02 — Rs7710.0
+  Industrials | Rs1.5T | P/E: 94.22178
+  Price: Rs7052.5  |  52w range: Rs4618.03 — Rs7710.0
 
   PERFORMANCE vs NIFTY:
     1D:  -1.1%  vs Nifty +0.3%  -> RS: -1.4% (UNDERPERFORMING)
-    1W:  -3.0%  vs Nifty -0.6%
-    1M:  -5.8%  vs Nifty -4.9%  -> RS: -0.9% (UNDERPERFORMING)
-    3M:  +2.0%  vs Nifty -2.9%  -> RS: +4.9% (OUTPERFORMING)
+    1W:  -3.0%  vs Nifty -0.9%
+    1M:  -5.8%  vs Nifty -4.4%  -> RS: -1.4% (UNDERPERFORMING)
+    3M:  +2.0%  vs Nifty -3.7%  -> RS: +5.7% (OUTPERFORMING)
     6M:  +13.8%
 
   TREND HEALTH:
@@ -388,14 +388,14 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 -----------------------------------------------------------------
 
   M&M — Mahindra & Mahindra Limited
-  Consumer Cyclical | Rs3.6T | P/E: 18.808874
+  Consumer Cyclical | Rs3.6T | P/E: 18.466686
   Price: Rs3035.0  |  52w range: Rs2900.64 — Rs3762.88
 
   PERFORMANCE vs NIFTY:
     1D:  +1.8%  vs Nifty +0.3%  -> RS: +1.4% (OUTPERFORMING)
-    1W:  -0.6%  vs Nifty -0.6%
-    1M:  -8.9%  vs Nifty -4.9%  -> RS: -4.0% (UNDERPERFORMING)
-    3M:  -3.6%  vs Nifty -2.9%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  -0.6%  vs Nifty -0.9%
+    1M:  -8.9%  vs Nifty -4.4%  -> RS: -4.5% (UNDERPERFORMING)
+    3M:  -3.6%  vs Nifty -3.7%  -> RS: +0.1%
     6M:  +0.0%
 
   TREND HEALTH:
@@ -404,12 +404,11 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
     ATR extension from SMA20: -1.28x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 1.08x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs2945.08 (-3.0%)
 
   VERDICT: WATCH
-    [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
@@ -429,9 +428,9 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
 
   PERFORMANCE vs NIFTY:
     1D:  +0.3%  vs Nifty +0.3%  -> RS: -0.1%
-    1W:  -2.1%  vs Nifty -0.6%
-    1M:  -9.1%  vs Nifty -4.9%  -> RS: -4.2% (UNDERPERFORMING)
-    3M:  -2.1%  vs Nifty -2.9%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -2.1%  vs Nifty -0.9%
+    1M:  -9.1%  vs Nifty -4.4%  -> RS: -4.7% (UNDERPERFORMING)
+    3M:  -2.1%  vs Nifty -3.7%  -> RS: +1.6% (OUTPERFORMING)
     6M:  +7.6%
 
   TREND HEALTH:
@@ -440,13 +439,12 @@ EICHERMOT      Rs  7360.0   +0.3%   -9.1%    -4.2%   31.9 -2.1x   WATCH
     ATR extension from SMA20: -2.06x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 0.49x 20-day avg
-    RS 55-day slope: POSITIVE | RS ACCELERATING
+    RS 55-day slope: POSITIVE
 
   SUGGESTED STOP LOSS (1.5x ATR): Rs7187.36 (-2.3%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
-    [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
