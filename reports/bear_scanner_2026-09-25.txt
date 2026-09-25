@@ -1,0 +1,122 @@
+=================================================================
+  BEAR SCANNER — Friday, September 25 2026 09:44 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23126.45  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 23032.95 — 23121.4
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 2 SHORT NOW | 0 WATCH SHORT | 1 WAIT | 10 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [70% probability]
+  ABB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 7027.0
+  Gap from prev  : -0.2%  (prev Rs 7129.0 | opened Rs 7111.5)
+  Opening Range  : Rs 7111.5 — Rs 7197.0  (1.19% wide)
+  VWAP           : Rs 7086.78  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 33.8
+  ATR (daily)    : Rs 155.01
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 7111.45  (break BELOW ORB low)
+    Target 1 (50%) : Rs 6878.93  (-3.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 6723.93  (-5.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 7197.05  (+1.2%)  [above ORB high]
+    Risk/Reward    : 1:2.73 (T1)  |  1:4.54 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 3 shares
+    Capital needed : Rs 21,334  (margin)
+    Max loss       : Rs 257  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+  SHORT NOW  [50% probability]
+  DIVISLAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 9591.5
+  Gap from prev  : +0.4%  (prev Rs 9602.0 | opened Rs 9638.5)
+  Opening Range  : Rs 9616.5 — Rs 9668.5  (0.54% wide)
+  VWAP           : Rs 9591.67  (BELOW, flat/up)
+  Volume         : WEAK
+  RSI (daily)    : 65.6
+  ATR (daily)    : Rs 185.49
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 9616.45  (break BELOW ORB low)
+    Target 1 (50%) : Rs 9338.22  (-2.9%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 9152.73  (-4.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 9668.55  (+0.5%)  [above ORB high]
+    Risk/Reward    : 1:5.35 (T1)  |  1:8.93 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 2 shares
+    Capital needed : Rs 19,233  (margin)
+    Max loss       : Rs 104  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  WAIT — No Short Signal Yet
+=================================================================
+  ADANIPORTS  [40%]  |  Rs 1786.0  |  ORB: 1777.2—1793.9  |  VWAP: 1788.44
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  APLAPOLLO  [50%]  |  Rs 2212.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [40%]  |  Rs 4796.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  EICHERMOT  [40%]  |  Rs 7355.0
+    [-] Above VWAP — no institutional selling confirmed
+  SIEMENS  [30%]  |  Rs 3863.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  NAUKRI  [30%]  |  Rs 1251.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  M&M  [30%]  |  Rs 3031.2
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  BAJAJ-AUTO  [30%]  |  Rs 11295.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  TITAN  [30%]  |  Rs 4875.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  TECHM  [30%]  |  Rs 1550.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  COALINDIA  [20%]  |  Rs 425.1
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
