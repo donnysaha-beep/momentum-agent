@@ -6607,5 +6607,144 @@
       "missed_trades": 8,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-09-25",
+    "trades": [
+      {
+        "ticker": "APLAPOLLO",
+        "entry": 2204.35,
+        "target1": 2287.72,
+        "target2": 2343.29,
+        "stop": 2178.55,
+        "verdict": "WATCH",
+        "eod_open": 2178.60009765625,
+        "eod_high": 2219.0,
+        "eod_low": 2178.60009765625,
+        "eod_close": 2214.699951171875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "COALINDIA",
+        "entry": 424.45,
+        "target1": 435.88,
+        "target2": 443.5,
+        "stop": 421.3,
+        "verdict": "WATCH",
+        "eod_open": 423.29998779296875,
+        "eod_high": 426.6499938964844,
+        "eod_low": 421.3500061035156,
+        "eod_close": 426.1000061035156,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "TITAN",
+        "entry": 4845.55,
+        "target1": 4962.64,
+        "target2": 5040.7,
+        "stop": 4825.45,
+        "verdict": "WATCH",
+        "eod_open": 4835.5,
+        "eod_high": 4884.0,
+        "eod_low": 4821.5,
+        "eod_close": 4884.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NAUKRI",
+        "entry": 1237.95,
+        "target1": 1297.76,
+        "target2": 1337.64,
+        "stop": 1216.25,
+        "verdict": "WATCH",
+        "eod_open": 1218.0999755859375,
+        "eod_high": 1257.0,
+        "eod_low": 1216.300048828125,
+        "eod_close": 1254.800048828125,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "M&M",
+        "entry": 11329.05,
+        "target1": 11605.12,
+        "target2": 11789.17,
+        "stop": 11230.95,
+        "verdict": "WATCH",
+        "eod_open": 2979.39990234375,
+        "eod_high": 3045.0,
+        "eod_low": 2967.10009765625,
+        "eod_close": 3035.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "TECHM",
+        "entry": 1542.05,
+        "target1": 1595.25,
+        "target2": 1630.72,
+        "stop": 1527.25,
+        "verdict": "WATCH",
+        "eod_open": 1540.0999755859375,
+        "eod_high": 1553.5,
+        "eod_low": 1527.300048828125,
+        "eod_close": 1548.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SIEMENS",
+        "entry": 3880.05,
+        "target1": 4011.47,
+        "target2": 4099.08,
+        "stop": 3832.45,
+        "verdict": "WATCH",
+        "eod_open": 3841.699951171875,
+        "eod_high": 3881.60009765625,
+        "eod_low": 3828.10009765625,
+        "eod_close": 3877.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4819.15,
+        "target1": 4963.99,
+        "target2": 5060.56,
+        "stop": 4770.35,
+        "verdict": "WATCH",
+        "eod_open": 4770.39990234375,
+        "eod_high": 4819.10009765625,
+        "eod_low": 4760.10009765625,
+        "eod_close": 4800.0,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "EICHERMOT",
+        "entry": 7379.05,
+        "target1": 7547.39,
+        "target2": 7659.61,
+        "stop": 7322.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 7331.0,
+        "eod_high": 7379.0,
+        "eod_low": 7305.0,
+        "eod_close": 7360.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 2,
+      "missed_trades": 7,
+      "false_negatives": 0
+    }
   }
 ]

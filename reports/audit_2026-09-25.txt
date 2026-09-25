@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, September 25 2026
+  Layer 3 | 05:47 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 0
+  Valid Skips     : 2
+  Missed Trades   : 7
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     APLAPOLLO    | Verdict: WATCH
+               Entry: Rs 2204.35 | Stop: Rs 2178.55 | T1: Rs 2287.72
+               EOD: O:2178.60009765625 H:2219.0 L:2178.60009765625 C:2214.699951171875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     COALINDIA    | Verdict: WATCH
+               Entry: Rs 424.45 | Stop: Rs 421.3 | T1: Rs 435.88
+               EOD: O:423.29998779296875 H:426.6499938964844 L:421.3500061035156 C:426.1000061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TITAN        | Verdict: WATCH
+               Entry: Rs 4845.55 | Stop: Rs 4825.45 | T1: Rs 4962.64
+               EOD: O:4835.5 H:4884.0 L:4821.5 C:4884.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NAUKRI       | Verdict: WATCH
+               Entry: Rs 1237.95 | Stop: Rs 1216.25 | T1: Rs 1297.76
+               EOD: O:1218.0999755859375 H:1257.0 L:1216.300048828125 C:1254.800048828125
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    M&M          | Verdict: WATCH
+               Entry: Rs 11329.05 | Stop: Rs 11230.95 | T1: Rs 11605.12
+               EOD: O:2979.39990234375 H:3045.0 L:2967.10009765625 C:3035.0
+               Correctly watched — no valid entry formed
+
+  [MISSED]     TECHM        | Verdict: WATCH
+               Entry: Rs 1542.05 | Stop: Rs 1527.25 | T1: Rs 1595.25
+               EOD: O:1540.0999755859375 H:1553.5 L:1527.300048828125 C:1548.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     SIEMENS      | Verdict: WATCH
+               Entry: Rs 3880.05 | Stop: Rs 3832.45 | T1: Rs 4011.47
+               EOD: O:3841.699951171875 H:3881.60009765625 L:3828.10009765625 C:3877.0
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    HAL          | Verdict: WATCH
+               Entry: Rs 4819.15 | Stop: Rs 4770.35 | T1: Rs 4963.99
+               EOD: O:4770.39990234375 H:4819.10009765625 L:4760.10009765625 C:4800.0
+               Correctly watched — no valid entry formed
+
+  [MISSED]     EICHERMOT    | Verdict: TRADE NOW
+               Entry: Rs 7379.05 | Stop: Rs 7322.95 | T1: Rs 7547.39
+               EOD: O:7331.0 H:7379.0 L:7305.0 C:7360.0
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (70 days tracked)
+=================================================================
+  Total Trades    : 125
+  Win Rate        : 5.6%
+  Good Wins       : 7
+  Good Losses     : 39
+  False Positives : 79
+  Valid Skips     : 22
+  Missed Trades   : 270
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
