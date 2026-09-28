@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, September 28 2026
+  Layer 0 | Generated: 08:30 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,842.75  (-1.29%)
+  Bank Nifty            :  54,591.95  (-1.78%)
+  India VIX             :      13.72  (+12.83%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22902.14  [ESTIMATED]
+  Change vs prev : +0.26%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.51% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,743.41  (+0.51%)
+  Nasdaq (US)           :  27,068.72  (+0.48%)
+  US VIX                :      16.11  (+8.34%)
+  Crude Oil (WTI)       :      94.63  (+2.40%)
+  Gold                  :   4,183.70  (-3.18%)
+  Silver                :      61.47  (-4.32%)
+  USD/INR               :      95.95  (-0.22%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX SPIKE +12.8% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, IT, Pharma
+  Avoid      : Aviation, Consumer, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
