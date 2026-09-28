@@ -1,0 +1,198 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 28, 2026
+=================================================================
+
+MARKET REGIME: DANGER
+  Nifty 50: Rs23140.5  1D: +0.3%  1W: -0.9%  1M: -4.4%  3M: -3.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HDFCBANK       Rs     nan    nan%    nan%     nan%   56.4  0.0x   WATCH
+INFY           Rs     nan    nan%    nan%     nan%   29.9  0.0x   WATCH
+RELIANCE       Rs     nan    nan%    nan%     nan%   37.4  0.0x   WATCH
+LT             Rs     nan    nan%    nan%     nan%   43.9  0.0x   WATCH
+TCS            Rs     nan    nan%    nan%     nan%   32.0  0.0x   WAIT
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.1T | P/E: 15.71694
+  Price: Rsnan  |  52w range: Rs687.1 — Rs993.08
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.3%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.9%
+    1M:  nan%  vs Nifty -4.4%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 56.4  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.78x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week
+    * WF vs. HDB: Which Stock Should Value Investors Buy Now?
+    * Microsoft Drops as Three-Zone Hyderabad Region Goes Live
+    * Microsoft Stays Flat as Hyderabad Adds AI Capacity Without Water Cooling
+    * Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.1T | P/E: 12.941177
+  Price: Rsnan  |  52w range: Rs985.3 — Rs1654.01
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.3%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.9%
+    1M:  nan%  vs Nifty -4.4%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 29.9  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.0x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?
+    * Chainlink Jumped 12% in a Day. Can It Reach $15 by the End of October?
+    * Litecoin, Cardano, Stellar, and Chainlink All Outperformed Bitcoin This Week. Which Rally Has the Strongest Support?
+    * Chainlink’s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?
+    * Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs16.2T | P/E: 21.70745
+  Price: Rsnan  |  52w range: Rs1219.2 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.3%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.9%
+    1M:  nan%  vs Nifty -4.4%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 37.4  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.26x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Oil Refiners In Focus After Saudi Exports Rise and Brent Nears $110
+    * Reliance (NYSE:RS) Gets A Lift From Tax Relief As Valuation Looks Nearly Fair
+    * Kering Expands Generation Award to India
+    * Reliance’s JioHotstar takes its streaming empire global — without sports
+    * Meta and Google's Jio Bet Is Heading Toward a $137 Billion Test
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.2T | P/E: 31.243465
+  Price: Rsnan  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.3%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.9%
+    1M:  nan%  vs Nifty -4.4%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India Begins Tokenizing Its $620 Billion Corporate Bond Market
+    * L&T and MHI to build 50km people mover system at Al Maktoum Airport
+    * What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?
+    * L&T’s Vyoma.AI to construct NVIDIA B300 AI Factory in India
+    * Sector Update: Tech Stocks Gain Thursday Afternoon
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs7.5T | P/E: 15.046505
+  Price: Rsnan  |  52w range: Rs1971.79 — Rs3204.28
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.3%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.9%
+    1M:  nan%  vs Nifty -4.4%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 32.0  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.87x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WAIT
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Becoming ‘AI native’ might not be as profitable as you think. Unless your company does it right
+    * Trump administration proposes axing grace period for H-1B visa holders after job loss
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
