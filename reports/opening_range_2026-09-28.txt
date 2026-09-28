@@ -1,0 +1,14 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, September 28 2026 10:57 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22780.25  |  Gap: -0.3%  |  VWAP: nan
+  ORB: 22889.3 — 23079.75
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: DANGER  |  POSITION SIZE: NO TRADES TODAY
+
+  *** DO NOT TRADE TODAY — DANGER REGIME ***
+=================================================================
