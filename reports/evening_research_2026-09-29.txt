@@ -1,0 +1,111 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 29, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs22716.2  1D: -0.3%  1W: -2.6%  1M: -6.0%  3M: -5.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+DIVISLAB       Rs  9431.0   -1.2%   -0.4%    +5.7%   58.6  0.2x   WATCH NOW
+APLAPOLLO      Rs  2188.6   -0.4%   -1.2%    +4.8%   54.1  0.1x   WATCH
+SAIL           Rs   181.8   -1.3%   -6.8%    -0.7%   50.5 -0.2x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.5T | P/E: 85.86907
+  Price: Rs9431.0  |  52w range: Rs5666.13 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.2%  vs Nifty -0.3%  -> RS: -1.0% (UNDERPERFORMING)
+    1W:  +0.8%  vs Nifty -2.6%
+    1M:  -0.4%  vs Nifty -6.0%  -> RS: +5.7% (OUTPERFORMING)
+    3M:  +43.9%  vs Nifty -5.1%  -> RS: +49.1% (OUTPERFORMING)
+    6M:  +57.5%
+
+  TREND HEALTH:
+    RSI: 58.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.99%
+    ATR extension from SMA20: 0.25x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.38x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9149.79 (-3.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.0% of 52w high (breakout zone)
+
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs607.7B | P/E: 49.41522
+  Price: Rs2188.6  |  52w range: Rs1679.63 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.3%  -> RS: -0.1%
+    1W:  -0.3%  vs Nifty -2.6%
+    1M:  -1.2%  vs Nifty -6.0%  -> RS: +4.8% (OUTPERFORMING)
+    3M:  +22.8%  vs Nifty -5.1%  -> RS: +28.0% (OUTPERFORMING)
+    6M:  +11.3%
+
+  TREND HEALTH:
+    RSI: 54.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.49%
+    ATR extension from SMA20: 0.09x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.06x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2106.88 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  SAIL — Steel Authority of India Limited
+  Basic Materials | Rs751.0B | P/E: 17.56715
+  Price: Rs181.82  |  52w range: Rs125.91 — Rs206.06
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.3%  vs Nifty -0.3%  -> RS: -1.0% (UNDERPERFORMING)
+    1W:  +4.5%  vs Nifty -2.6%
+    1M:  -6.8%  vs Nifty -6.0%  -> RS: -0.7% (UNDERPERFORMING)
+    3M:  +4.8%  vs Nifty -5.1%  -> RS: +9.9% (OUTPERFORMING)
+    6M:  +24.8%
+
+  TREND HEALTH:
+    RSI: 50.5  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.24%
+    ATR extension from SMA20: -0.23x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.37x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs172.98 (-4.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
