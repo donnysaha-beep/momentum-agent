@@ -1,0 +1,93 @@
+=================================================================
+  BEAR SCANNER — Tuesday, September 29 2026 10:51 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 22716.2  |  Gap: -0.2%  |  VWAP: nan
+  ORB: 22611.1 — 22752.45
+
+REGIME: CAUTION  |  SHORT SIZE: ACTIVE SHORT SIZE (Rs 62,500/trade)
+
+SUMMARY: 1 SHORT NOW | 1 WATCH SHORT | 0 WAIT | 1 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  DIVISLAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 9431.0
+  Gap from prev  : +0.3%  (prev Rs 9550.0 | opened Rs 9575.5)
+  Opening Range  : Rs 9531.5 — Rs 9605.5  (0.77% wide)
+  VWAP           : Rs 9505.33  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 56.8
+  ATR (daily)    : Rs 187.66
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 9531.45  (break BELOW ORB low)
+    Target 1 (50%) : Rs 9249.96  (-3.0%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 9062.3  (-4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 9605.55  (+0.8%)  [above ORB high]
+    Risk/Reward    : 1:3.78 (T1)  |  1:6.31 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 6 shares
+    Capital needed : Rs 57,189  (margin)
+    Max loss       : Rs 445  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping downward
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [60% probability]
+  SAIL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 181.82
+  Gap from prev  : -0.8%  (prev Rs 184.2 | opened Rs 182.7)
+  Opening Range  : Rs 181.8 — Rs 183.3  (0.82% wide)
+  VWAP           : Rs 184.0  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 50.2
+  ATR (daily)    : Rs 6.0
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 181.75  (break BELOW ORB low)
+    Target 1 (50%) : Rs 172.75  (-5.0%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 166.75  (-8.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 183.35  (+0.9%)  [above ORB high]
+    Risk/Reward    : 1:5.62 (T1)  |  1:9.38 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 343 shares
+    Capital needed : Rs 62,340  (margin)
+    Max loss       : Rs 549  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 181.8000030517578) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  APLAPOLLO  [60%]  |  Rs 2188.6
+    [-] Stock holding above ORB low — no breakdown yet
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
