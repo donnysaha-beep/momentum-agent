@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Tuesday, September 29 2026
+  Layer 0 | Generated: 08:14 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 0/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,642.75  (-0.60%)
+  Bank Nifty            :  54,196.45  (-0.51%)
+  India VIX             :      14.05  (+3.02%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22554.44  [ESTIMATED]
+  Change vs prev : -0.39%
+  Bias           : BEARISH
+  Based on       : S&P 500 -0.77% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,683.69  (-0.77%)
+  Nasdaq (US)           :  26,820.38  (-0.92%)
+  US VIX                :      16.13  (+0.37%)
+  Crude Oil (WTI)       :      93.58  (+1.06%)
+  Gold                  :   4,172.80  (-3.43%)
+  Silver                :      61.09  (-0.21%)
+  USD/INR               :      96.04  (+0.26%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.4% (bearish)
+  * India VIX 14.05 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Pharma
+  Avoid      : IT, Banking, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
