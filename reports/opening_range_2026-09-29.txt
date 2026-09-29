@@ -1,0 +1,38 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Tuesday, September 29 2026 10:42 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22716.2  |  Gap: -0.2%  |  VWAP: nan
+  ORB: 22611.1 — 22752.45
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 1 WAIT | 2 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  APLAPOLLO  [40%]  |  Rs 2188.6  |  ORB: 2172.3—2191.9  |  VWAP: 2202.9
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  DIVISLAB  [50%]  |  Rs 9431.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  SAIL  [40%]  |  Rs 181.82
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
