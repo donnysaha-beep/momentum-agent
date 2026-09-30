@@ -1,0 +1,54 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, September 30 2026
+  Layer 3 | 06:16 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 3
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         KOTAKBANK    | Verdict: TRADE NOW
+               Entry: Rs 409.95 | Stop: Rs 406.55 | T1: Rs 422.11
+               EOD: O:406.6000061035156 H:419.1000061035156 L:406.6000061035156 C:417.0
+               Triggered but no target/stop hit — closed at Rs 417.0 (+1.7%)
+
+  [FP]         IDFCFIRSTB   | Verdict: TRADE NOW
+               Entry: Rs 80.35 | Stop: Rs 79.68 | T1: Rs 83.3
+               EOD: O:79.7300033569336 H:82.08000183105469 L:79.7300033569336 C:81.44000244140625
+               Triggered but no target/stop hit — closed at Rs 81.44000244140625 (+1.4%)
+
+  [FP]         JINDALSTEL   | Verdict: TRADE NOW
+               Entry: Rs 1132.55 | Stop: Rs 1125.05 | T1: Rs 1175.22
+               EOD: O:1128.699951171875 H:1144.0999755859375 L:1125.0999755859375 C:1134.9000244140625
+               Triggered but no target/stop hit — closed at Rs 1134.9000244140625 (+0.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (71 days tracked)
+=================================================================
+  Total Trades    : 128
+  Win Rate        : 5.5%
+  Good Wins       : 7
+  Good Losses     : 39
+  False Positives : 82
+  Valid Skips     : 22
+  Missed Trades   : 270
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
