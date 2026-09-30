@@ -1,0 +1,547 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — September 30, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22620.45  1D: -0.4%  1W: -3.5%  1M: -6.1%  3M: -5.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+KOTAKBANK      Rs   417.0   +2.7%   -1.9%    +4.2%   56.5  0.3x   WATCH NOW
+JINDALSTEL     Rs  1134.9   +0.4%   -2.2%    +3.9%   49.8 -0.1x   WATCH NOW
+SAIL           Rs   181.5   +1.1%   -4.7%    +1.3%   53.1  0.2x   WATCH NOW
+SIEMENS        Rs  3725.6   +0.4%   -7.5%    -1.5%   38.2 -1.6x   WATCH NOW
+RBLBANK        Rs   403.4   +0.3%   +6.0%   +12.1%   49.5 -0.8x   WATCH
+APLAPOLLO      Rs  2190.1   +0.1%   -1.6%    +4.5%   54.3  0.1x   WATCH
+HAL            Rs  4668.0   +2.6%   -2.9%    +3.2%   42.5 -1.3x   WATCH
+IDFCFIRSTB     Rs    81.4   +2.5%   -4.1%    +2.0%   40.7 -1.9x   WATCH
+BPCL           Rs   303.2   +1.3%   -4.5%    +1.5%   43.4 -0.7x   WATCH
+LT             Rs  3760.0   +0.3%   -5.5%    +0.5%   35.6 -2.0x   WATCH
+BEL            Rs   388.3   +0.1%   -5.6%    +0.5%   40.3 -1.3x   WATCH
+TECHM          Rs  1524.0   +0.9%   -7.0%    -0.9%   41.7 -0.7x   WATCH
+ICICIBANK      Rs  1321.7   +2.3%   -8.1%    -2.0%   36.4 -1.8x   WATCH
+HCLTECH        Rs  1230.0   +0.7%   -9.0%    -2.9%   42.1 -0.7x   WATCH
+NMDC           Rs    76.5   -0.6%  -10.7%    -4.6%   31.4 -2.6x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.1T | P/E: 20.461237
+  Price: Rs417.0  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.7%  vs Nifty -0.4%  -> RS: +3.1% (OUTPERFORMING)
+    1W:  +0.9%  vs Nifty -3.5%
+    1M:  -1.9%  vs Nifty -6.1%  -> RS: +4.2% (OUTPERFORMING)
+    3M:  +4.3%  vs Nifty -5.2%  -> RS: +9.5% (OUTPERFORMING)
+    6M:  +12.6%
+
+  TREND HEALTH:
+    RSI: 56.5  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 1.91%
+    ATR extension from SMA20: 0.35x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.57x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs405.04 (-2.9%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.57x avg) = conviction
+
+  RECENT NEWS:
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+    * India's Kotak Investment Banking appoints co-CEOs
+    * Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say
+
+-----------------------------------------------------------------
+
+  JINDALSTEL — Jindal Steel Limited
+  Basic Materials | Rs1.2T | P/E: 42.553432
+  Price: Rs1134.9  |  52w range: Rs984.24 — Rs1286.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.4%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -3.4%  vs Nifty -3.5%
+    1M:  -2.2%  vs Nifty -6.1%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  +10.5%  vs Nifty -5.2%  -> RS: +15.7% (OUTPERFORMING)
+    6M:  -0.5%
+
+  TREND HEALTH:
+    RSI: 49.8  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.46%
+    ATR extension from SMA20: -0.07x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.13x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1093.01 (-3.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.13x avg) = conviction
+
+  RECENT NEWS:
+    * Vibhor Steel Tubes Ltd (NSE:VSTL) (Q1 2027) Earnings Call Highlights: Strong Order Book and ...
+    * Jindal Steel Ltd (BOM:532286) Q1 2027 Earnings Call Highlights: Strategic Focus on Value-Added ...
+    * India's Jindal Steel quarterly profit slumps on elevated costs; names MD
+    * Thyssenkrupp lifts steel division valuation after Jindal talks end
+    * Jindal Steel Ltd (BOM:532286) (Q4 FY26) Earnings Call Highlights: Record Capacity Expansion and ...
+
+-----------------------------------------------------------------
+
+  SAIL — Steel Authority of India Limited
+  Basic Materials | Rs749.6B | P/E: 17.620388
+  Price: Rs181.49  |  52w range: Rs124.28 — Rs203.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty -0.4%  -> RS: +1.6% (OUTPERFORMING)
+    1W:  -0.8%  vs Nifty -3.5%
+    1M:  -4.7%  vs Nifty -6.1%  -> RS: +1.3% (OUTPERFORMING)
+    3M:  +9.3%  vs Nifty -5.2%  -> RS: +14.5% (OUTPERFORMING)
+    6M:  +21.2%
+
+  TREND HEALTH:
+    RSI: 53.1  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.23%
+    ATR extension from SMA20: 0.23x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.03x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs172.69 (-4.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Steel Authority Of India Ltd (BOM:500113) (Q1 2027) Earnings Call Highlights: EBITDA Surges ...
+    * Indian steelmaker SAIL's quarterly profit rises as domestic prices improve
+    * India explores Russian coking coal assets, more nickel supplies, sources say
+    * Why The Story Around Steel Authority of India (NSEI:SAIL) Is Shifting After New Fair Value Update
+    * Steel Authority Of India Ltd (BOM:500113) Q4 2026 Earnings Call Highlights: Strong Profit ...
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.3T | P/E: 80.32773
+  Price: Rs3725.6  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.4%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -4.1%  vs Nifty -3.5%
+    1M:  -7.5%  vs Nifty -6.1%  -> RS: -1.5% (UNDERPERFORMING)
+    3M:  +5.2%  vs Nifty -5.2%  -> RS: +10.4% (OUTPERFORMING)
+    6M:  +20.7%
+
+  TREND HEALTH:
+    RSI: 38.2  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 2.45%
+    ATR extension from SMA20: -1.62x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.73x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3588.95 (-3.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Siemens Ltd (BOM:500550) Q4 2026 Earnings Call Highlights: Strong Order Growth Amid ...
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs625.9B | P/E: 33.33471
+  Price: Rs403.35  |  52w range: Rs272.84 — Rs428.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -0.4%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  -5.8%  vs Nifty -3.5%
+    1M:  +6.0%  vs Nifty -6.1%  -> RS: +12.1% (OUTPERFORMING)
+    3M:  +11.8%  vs Nifty -5.2%  -> RS: +17.0% (OUTPERFORMING)
+    6M:  +33.0%
+
+  TREND HEALTH:
+    RSI: 49.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.52%
+    ATR extension from SMA20: -0.8x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.89x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs388.11 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * RBL Bank Ltd (BOM:540065) Q1 2027 Earnings Call Highlights: Strong Advances Growth and ...
+    * India's RBL Bank posts higher profit on strong loan growth
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * India's markets regulator approves change of control at RBL Bank in Emirates NBD stake deal
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs608.1B | P/E: 49.449085
+  Price: Rs2190.1  |  52w range: Rs1679.63 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -0.4%  -> RS: +0.5%
+    1W:  -0.2%  vs Nifty -3.5%
+    1M:  -1.6%  vs Nifty -6.1%  -> RS: +4.5% (OUTPERFORMING)
+    3M:  +23.2%  vs Nifty -5.2%  -> RS: +28.4% (OUTPERFORMING)
+    6M:  +10.0%
+
+  TREND HEALTH:
+    RSI: 54.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.45%
+    ATR extension from SMA20: 0.13x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.99x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2109.62 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * APL Apollo Tubes Ltd (BOM:533758) (Q1 2027) Earnings Call Highlights: Resilient Margins Amid ...
+    * APL Apollo Tubes Ltd (BOM:533758) Q3 2026 Earnings Call Highlights: Strong Growth and Strategic ...
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.1T | P/E: 34.900936
+  Price: Rs4668.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.6%  vs Nifty -0.4%  -> RS: +3.0% (OUTPERFORMING)
+    1W:  -3.5%  vs Nifty -3.5%
+    1M:  -2.9%  vs Nifty -6.1%  -> RS: +3.2% (OUTPERFORMING)
+    3M:  +5.5%  vs Nifty -5.2%  -> RS: +10.7% (OUTPERFORMING)
+    6M:  +27.5%
+
+  TREND HEALTH:
+    RSI: 42.5  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.3%
+    ATR extension from SMA20: -1.34x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.48x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4507.26 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+    * India's Hindustan Aeronautics posts strong quarterly results on project execution, deliveries
+    * India's Hindustan Aeronautics posts quarterly profit rise as 'other income' surges
+    * Strength in Defense & Propulsion Unit Drives GE Aerospace: Can It Sustain?
+    * India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves
+
+-----------------------------------------------------------------
+
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs702.2B | P/E: 31.444017
+  Price: Rs81.44  |  52w range: Rs58.68 — Rs87.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.5%  vs Nifty -0.4%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  -7.3%  vs Nifty -3.5%
+    1M:  -4.1%  vs Nifty -6.1%  -> RS: +2.0% (OUTPERFORMING)
+    3M:  +3.5%  vs Nifty -5.2%  -> RS: +8.7% (OUTPERFORMING)
+    6M:  +29.2%
+
+  TREND HEALTH:
+    RSI: 40.7  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.4%
+    ATR extension from SMA20: -1.88x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.03x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs78.5 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Indian shares snap losing run on oil slide, earnings optimism
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  BPCL — Bharat Petroleum Corporation Limited
+  Energy | Rs1.3T | P/E: 7.559212
+  Price: Rs303.2  |  52w range: Rs271.3 — Rs388.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty -0.4%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  -4.0%  vs Nifty -3.5%
+    1M:  -4.5%  vs Nifty -6.1%  -> RS: +1.5% (OUTPERFORMING)
+    3M:  -0.3%  vs Nifty -5.2%  -> RS: +4.9% (OUTPERFORMING)
+    6M:  +6.5%
+
+  TREND HEALTH:
+    RSI: 43.4  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): 2.27%
+    ATR extension from SMA20: -0.65x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.38x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs292.89 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * 3 Indian Oil Stocks Facing A New Risk From Russian Crude Dependence
+    * DEE Development Engineers Ltd (NSE:DEEDEV) (Q1 2027) Earnings Call Highlights: Strong Revenue ...
+    * Indian retailers' losses on domestic LPG sales narrow in August
+    * Bharat Petroleum Corp Ltd (BOM:500547) Q1 2027 Earnings Call Highlights: Operational Resilience ...
+    * Discounts on Russian oil evaporate on fresh Middle East crisis
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.2T | P/E: 31.146454
+  Price: Rs3760.0  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -0.4%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  -4.3%  vs Nifty -3.5%
+    1M:  -5.5%  vs Nifty -6.1%  -> RS: +0.5% (OUTPERFORMING)
+    3M:  -8.1%  vs Nifty -5.2%  -> RS: -2.9% (UNDERPERFORMING)
+    6M:  +4.0%
+
+  TREND HEALTH:
+    RSI: 35.6  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 1.65%
+    ATR extension from SMA20: -2.03x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.63x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3666.9 (-2.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India Begins Tokenizing Its $620 Billion Corporate Bond Market
+    * L&T and MHI to build 50km people mover system at Al Maktoum Airport
+    * What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?
+    * L&T’s Vyoma.AI to construct NVIDIA B300 AI Factory in India
+    * Sector Update: Tech Stocks Gain Thursday Afternoon
+
+-----------------------------------------------------------------
+
+  BEL — Bharat Electronics Limited
+  Industrials | Rs2.8T | P/E: 46.171223
+  Price: Rs388.3  |  52w range: Rs381.31 — Rs467.81
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -0.4%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  -2.0%  vs Nifty -3.5%
+    1M:  -5.6%  vs Nifty -6.1%  -> RS: +0.5%
+    3M:  -6.6%  vs Nifty -5.2%  -> RS: -1.4% (UNDERPERFORMING)
+    6M:  -6.0%
+
+  TREND HEALTH:
+    RSI: 40.3  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 1.78%
+    ATR extension from SMA20: -1.3x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.01x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs377.94 (-2.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * 3 India Deep Tech Stocks Riding AI And Semiconductor Spending
+    * Bharat Electronics Ltd (BOM:500049) Q1 2027 Earnings Call Highlights: Robust Revenue Growth and ...
+    * Bharat Electronics Ltd (BOM:500049) Q4 2026 Earnings Call Highlights: Strong Revenue Growth and ...
+    * India's Cyient misses quarterly profit view on one-time charge, higher costs
+    * Indo-Pacific Defence: the top-performing defence trade in Europe - and most investors are missing it
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 26.90678
+  Price: Rs1524.0  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty -0.4%  -> RS: +1.3% (OUTPERFORMING)
+    1W:  -2.1%  vs Nifty -3.5%
+    1M:  -7.0%  vs Nifty -6.1%  -> RS: -0.9% (UNDERPERFORMING)
+    3M:  +14.8%  vs Nifty -5.2%  -> RS: +20.0% (OUTPERFORMING)
+    6M:  +11.0%
+
+  TREND HEALTH:
+    RSI: 41.7  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 2.46%
+    ATR extension from SMA20: -0.69x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.65x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1467.82 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+    * Rezolve AI Stock Drops After Net Loss Widens – CEO Says Google Is ‘Just The Beginning’ With More Deals In Pipeline
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs9.5T | P/E: 17.076227
+  Price: Rs1321.7  |  52w range: Rs1195.82 — Rs1460.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty -0.4%  -> RS: +2.7% (OUTPERFORMING)
+    1W:  -1.4%  vs Nifty -3.5%
+    1M:  -8.1%  vs Nifty -6.1%  -> RS: -2.0% (UNDERPERFORMING)
+    3M:  -3.4%  vs Nifty -5.2%  -> RS: +1.8% (OUTPERFORMING)
+    6M:  +5.8%
+
+  TREND HEALTH:
+    RSI: 36.4  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): 1.61%
+    ATR extension from SMA20: -1.82x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.6x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1289.69 (-2.4%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Apple Pay to launch in India next month with Axis Bank- report
+    * India and Russia Are Finding Another Way Around the Dollar
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading
+
+-----------------------------------------------------------------
+
+  HCLTECH — HCL Technologies Limited
+  Technology | Rs3.3T | P/E: 19.135035
+  Price: Rs1230.0  |  52w range: Rs1023.75 — Rs1679.96
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.7%  vs Nifty -0.4%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  -2.1%  vs Nifty -3.5%
+    1M:  -9.0%  vs Nifty -6.1%  -> RS: -2.9% (UNDERPERFORMING)
+    3M:  +20.1%  vs Nifty -5.2%  -> RS: +25.4% (OUTPERFORMING)
+    6M:  -8.3%
+
+  TREND HEALTH:
+    RSI: 42.1  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): 2.76%
+    ATR extension from SMA20: -0.66x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.73x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1179.11 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * HCLTech targets mid-sized businesses with new AI services unit
+    * Trump administration proposes axing grace period for H-1B visa holders after job loss
+    * AI reshapes India's IT services sector contracts as clients demand more for less
+    * India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub
+    * India's Odisha state approves corporate investments worth $475 million
+
+-----------------------------------------------------------------
+
+  NMDC — NMDC Limited
+  Basic Materials | Rs672.9B | P/E: 9.079478
+  Price: Rs76.54  |  52w range: Rs70.4 — Rs96.04
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -0.4%  -> RS: -0.2%
+    1W:  -6.7%  vs Nifty -3.5%
+    1M:  -10.7%  vs Nifty -6.1%  -> RS: -4.6% (UNDERPERFORMING)
+    3M:  -9.2%  vs Nifty -5.2%  -> RS: -4.0% (UNDERPERFORMING)
+    6M:  -1.7%
+
+  TREND HEALTH:
+    RSI: 31.4  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.4%
+    ATR extension from SMA20: -2.62x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.33x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs73.78 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * India explores Russian coking coal assets, more nickel supplies, sources say
+    * NMDC Ltd (BOM:526371) Q4 2026 Earnings Call Highlights: Surpassing Production Milestones and ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
