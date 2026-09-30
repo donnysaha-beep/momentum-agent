@@ -229,7 +229,7 @@ NMDC           Rs    76.5   -0.6%  -10.7%    -4.6%   31.4 -2.6x   WATCH
 -----------------------------------------------------------------
 
   HAL — Hindustan Aeronautics Limited
-  Industrials | Rs3.1T | P/E: 34.900936
+  Industrials | Rs3.1T | P/E: 33.532074
   Price: Rs4668.0  |  52w range: Rs3480.15 — Rs5099.0
 
   PERFORMANCE vs NIFTY:
@@ -401,7 +401,7 @@ NMDC           Rs    76.5   -0.6%  -10.7%    -4.6%   31.4 -2.6x   WATCH
 -----------------------------------------------------------------
 
   TECHM — Tech Mahindra Limited
-  Technology | Rs1.4T | P/E: 26.90678
+  Technology | Rs1.4T | P/E: 26.343994
   Price: Rs1524.0  |  52w range: Rs1297.97 — Rs1723.61
 
   PERFORMANCE vs NIFTY:
@@ -462,11 +462,11 @@ NMDC           Rs    76.5   -0.6%  -10.7%    -4.6%   31.4 -2.6x   WATCH
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
 
   RECENT NEWS:
+    * Apple Pay launches in India with Axis Bank partnership
     * Apple Pay to launch in India next month with Axis Bank- report
     * India and Russia Are Finding Another Way Around the Dollar
     * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
     * Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading
-    * Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading
 
 -----------------------------------------------------------------
 
