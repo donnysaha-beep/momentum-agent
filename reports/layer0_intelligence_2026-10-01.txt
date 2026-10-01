@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Thursday, October 01 2026
+  Layer 0 | Generated: 08:39 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,262.50  (-1.58%)
+  Bank Nifty            :  54,188.20  (-0.81%)
+  India VIX             :      15.40  (+14.12%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22235.78  [ESTIMATED]
+  Change vs prev : -0.12%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 -0.25% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,651.54  (-0.25%)
+  Nasdaq (US)           :  26,861.06  (+0.24%)
+  US VIX                :      16.82  (+2.94%)
+  Crude Oil (WTI)       :      92.38  (+2.17%)
+  Gold                  :   4,190.10  (+0.08%)
+  Silver                :      60.83  (+1.21%)
+  USD/INR               :      96.22  (+0.18%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX SPIKE +14.1% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Energy, Pharma
+  Avoid      : Aviation, Consumer, Banking, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
