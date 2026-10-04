@@ -1,0 +1,467 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 04, 2026
+=================================================================
+
+MARKET REGIME: BEAR
+  Nifty 50: Rs22421.95  1D: -0.9%  1W: -2.8%  1M: -6.8%  3M: -6.6%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+KOTAKBANK      Rs   418.4   +0.3%   -1.2%    +5.6%   57.6  0.5x   WATCH NOW
+SIEMENS        Rs  3804.0   +2.1%   -5.3%    +1.4%   45.4 -0.6x   WATCH NOW
+HINDALCO       Rs   941.9   +0.0%   -6.7%    +0.1%   35.5 -1.9x   WATCH NOW
+RBLBANK        Rs   411.4   +2.0%   +5.7%   +12.4%   54.2 -0.0x   WATCH
+DIVISLAB       Rs  9249.0   -0.5%   +0.3%    +7.1%   51.3 -0.7x   WATCH
+BHEL           Rs   421.0   +1.3%   -1.5%    +5.3%   49.7 -0.2x   WATCH
+AXISBANK       Rs  1217.1   -0.7%   -2.9%    +3.9%   44.5 -0.8x   WATCH
+NYKAA          Rs   324.9   +1.6%   -3.7%    +3.1%   44.3 -1.0x   WATCH
+TECHM          Rs  1533.0   +0.6%   -5.5%    +1.2%   44.2 -0.4x   WATCH
+HCLTECH        Rs  1243.1   +1.1%   -6.6%    +0.1%   45.6 -0.2x   WATCH
+APOLLOHOSP     Rs  8133.5   -0.4%   -6.7%    +0.1%   29.7 -3.3x   WATCH
+SUNPHARMA      Rs  1801.0   -0.9%   -6.8%    +0.0%   36.7 -1.7x   WATCH
+INFY           Rs  1035.0   +4.1%   -9.2%    -2.4%   44.9 -0.3x   WATCH
+HAVELLS        Rs  1040.0   +2.4%  -12.8%    -6.0%   30.8 -2.2x   WATCH
+BAJAJFINSV     Rs  1732.6   +0.1%  -12.9%    -6.1%   24.8 -3.2x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.2T | P/E: 20.487268
+  Price: Rs418.35  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -0.9%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  +3.3%  vs Nifty -2.8%
+    1M:  -1.2%  vs Nifty -6.8%  -> RS: +5.6% (OUTPERFORMING)
+    3M:  +5.0%  vs Nifty -6.6%  -> RS: +11.6% (OUTPERFORMING)
+    6M:  +14.4%
+
+  TREND HEALTH:
+    RSI: 57.6  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.1%
+    ATR extension from SMA20: 0.49x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 4.73x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs405.15 (-3.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (4.73x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.4T | P/E: 80.0
+  Price: Rs3804.0  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.1%  vs Nifty -0.9%  -> RS: +3.0% (OUTPERFORMING)
+    1W:  -1.0%  vs Nifty -2.8%
+    1M:  -5.3%  vs Nifty -6.8%  -> RS: +1.4% (OUTPERFORMING)
+    3M:  +6.8%  vs Nifty -6.6%  -> RS: +13.4% (OUTPERFORMING)
+    6M:  +25.4%
+
+  TREND HEALTH:
+    RSI: 45.4  |  Days above SMA50 (last 20): 10/20
+    Daily volatility (ATR%): 2.4%
+    ATR extension from SMA20: -0.63x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.01x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3666.98 (-3.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  HINDALCO — Hindalco Industries Limited
+  Basic Materials | Rs2.1T | P/E: 12.770847
+  Price: Rs941.85  |  52w range: Rs756.16 — Rs1143.73
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.0%  vs Nifty -0.9%  -> RS: +0.9% (OUTPERFORMING)
+    1W:  -4.1%  vs Nifty -2.8%
+    1M:  -6.7%  vs Nifty -6.8%  -> RS: +0.1%
+    3M:  -0.3%  vs Nifty -6.6%  -> RS: +6.3% (OUTPERFORMING)
+    6M:  +9.2%
+
+  TREND HEALTH:
+    RSI: 35.5  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): 2.25%
+    ATR extension from SMA20: -1.9x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs910.08 (-3.4%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs638.3B | P/E: 34.0
+  Price: Rs411.4  |  52w range: Rs272.84 — Rs428.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.0%  vs Nifty -0.9%  -> RS: +2.9% (OUTPERFORMING)
+    1W:  -0.3%  vs Nifty -2.8%
+    1M:  +5.7%  vs Nifty -6.8%  -> RS: +12.4% (OUTPERFORMING)
+    3M:  +16.0%  vs Nifty -6.6%  -> RS: +22.6% (OUTPERFORMING)
+    6M:  +39.5%
+
+  TREND HEALTH:
+    RSI: 54.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.54%
+    ATR extension from SMA20: -0.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.49x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs395.7 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.5T | P/E: 84.03598
+  Price: Rs9249.0  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.5%  vs Nifty -0.9%  -> RS: +0.4%
+    1W:  -3.7%  vs Nifty -2.8%
+    1M:  +0.3%  vs Nifty -6.8%  -> RS: +7.1% (OUTPERFORMING)
+    3M:  +39.0%  vs Nifty -6.6%  -> RS: +45.6% (OUTPERFORMING)
+    6M:  +54.4%
+
+  TREND HEALTH:
+    RSI: 51.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.1%
+    ATR extension from SMA20: -0.71x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.18x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8957.93 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 60.2289
+  Price: Rs421.0  |  52w range: Rs230.2 — Rs442.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty -0.9%  -> RS: +2.2% (OUTPERFORMING)
+    1W:  +1.4%  vs Nifty -2.8%
+    1M:  -1.5%  vs Nifty -6.8%  -> RS: +5.3% (OUTPERFORMING)
+    3M:  +5.1%  vs Nifty -6.6%  -> RS: +11.7% (OUTPERFORMING)
+    6M:  +65.7%
+
+  TREND HEALTH:
+    RSI: 49.7  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.88%
+    ATR extension from SMA20: -0.21x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.0x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs402.83 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs3.8T | P/E: 13.698368
+  Price: Rs1217.1  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty -0.9%  -> RS: +0.1%
+    1W:  +2.6%  vs Nifty -2.8%
+    1M:  -2.9%  vs Nifty -6.8%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  -10.6%  vs Nifty -6.6%  -> RS: -4.0% (UNDERPERFORMING)
+    6M:  +1.1%
+
+  TREND HEALTH:
+    RSI: 44.5  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 2.06%
+    ATR extension from SMA20: -0.78x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.43x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1179.45 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs931.1B | P/E: 357.08792
+  Price: Rs324.95  |  52w range: Rs234.7 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.6%  vs Nifty -0.9%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  -3.1%  vs Nifty -2.8%
+    1M:  -3.7%  vs Nifty -6.8%  -> RS: +3.1% (OUTPERFORMING)
+    3M:  +3.5%  vs Nifty -6.6%  -> RS: +10.1% (OUTPERFORMING)
+    6M:  +35.6%
+
+  TREND HEALTH:
+    RSI: 44.3  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.66%
+    ATR extension from SMA20: -1.02x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.09x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs312.0 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Heavy volume today (2.09x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 26.52708
+  Price: Rs1533.0  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty -0.9%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  -0.7%  vs Nifty -2.8%
+    1M:  -5.5%  vs Nifty -6.8%  -> RS: +1.2% (OUTPERFORMING)
+    3M:  +10.7%  vs Nifty -6.6%  -> RS: +17.3% (OUTPERFORMING)
+    6M:  +13.0%
+
+  TREND HEALTH:
+    RSI: 44.2  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.47%
+    ATR extension from SMA20: -0.36x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.53x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1476.25 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  HCLTECH — HCL Technologies Limited
+  Technology | Rs3.4T | P/E: 19.341839
+  Price: Rs1243.1  |  52w range: Rs1023.75 — Rs1679.96
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty -0.9%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  -0.0%  vs Nifty -2.8%
+    1M:  -6.6%  vs Nifty -6.8%  -> RS: +0.1%
+    3M:  +16.5%  vs Nifty -6.6%  -> RS: +23.1% (OUTPERFORMING)
+    6M:  -6.2%
+
+  TREND HEALTH:
+    RSI: 45.6  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): 2.69%
+    ATR extension from SMA20: -0.17x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.35x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1192.94 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.2T | P/E: 55.865788
+  Price: Rs8133.5  |  52w range: Rs6776.6 — Rs9069.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.9%  -> RS: +0.5%
+    1W:  -8.5%  vs Nifty -2.8%
+    1M:  -6.7%  vs Nifty -6.8%  -> RS: +0.1%
+    3M:  -6.4%  vs Nifty -6.6%  -> RS: +0.2%
+    6M:  +7.9%
+
+  TREND HEALTH:
+    RSI: 29.7  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.36%
+    ATR extension from SMA20: -3.3x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.15x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7845.8 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Heavy volume today (2.15x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  SUNPHARMA — Sun Pharmaceutical Industries Limited
+  Healthcare | Rs4.3T | P/E: 35.712868
+  Price: Rs1801.0  |  52w range: Rs1574.92 — Rs2001.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -0.9%  -> RS: +0.0%
+    1W:  -2.6%  vs Nifty -2.8%
+    1M:  -6.8%  vs Nifty -6.8%  -> RS: +0.0%
+    3M:  -3.5%  vs Nifty -6.6%  -> RS: +3.1% (OUTPERFORMING)
+    6M:  +0.7%
+
+  TREND HEALTH:
+    RSI: 36.7  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 1.74%
+    ATR extension from SMA20: -1.69x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.52x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1753.9 (-2.6%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.2T | P/E: 13.298214
+  Price: Rs1035.0  |  52w range: Rs985.3 — Rs1654.01
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.1%  vs Nifty -0.9%  -> RS: +5.0% (OUTPERFORMING)
+    1W:  +2.0%  vs Nifty -2.8%
+    1M:  -9.2%  vs Nifty -6.8%  -> RS: -2.4% (UNDERPERFORMING)
+    3M:  -0.6%  vs Nifty -6.6%  -> RS: +6.0% (OUTPERFORMING)
+    6M:  -16.7%
+
+  TREND HEALTH:
+    RSI: 44.9  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.62%
+    ATR extension from SMA20: -0.27x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.64x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs994.3 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  HAVELLS — Havells India Limited
+  Industrials | Rs652.7B | P/E: 40.0
+  Price: Rs1040.0  |  52w range: Rs1016.0 — Rs1497.33
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.4%  vs Nifty -0.9%  -> RS: +3.2% (OUTPERFORMING)
+    1W:  -4.6%  vs Nifty -2.8%
+    1M:  -12.8%  vs Nifty -6.8%  -> RS: -6.0% (UNDERPERFORMING)
+    3M:  -12.4%  vs Nifty -6.6%  -> RS: -5.8% (UNDERPERFORMING)
+    6M:  -15.1%
+
+  TREND HEALTH:
+    RSI: 30.8  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 2.51%
+    ATR extension from SMA20: -2.23x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.32x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1000.82 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.32x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  BAJAJFINSV — Bajaj Finserv Ltd.
+  Financial Services | Rs2.8T | P/E: 27.397215
+  Price: Rs1732.6  |  52w range: Rs1630.41 — Rs2174.74
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -0.9%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  -1.7%  vs Nifty -2.8%
+    1M:  -12.9%  vs Nifty -6.8%  -> RS: -6.1% (UNDERPERFORMING)
+    3M:  -6.6%  vs Nifty -6.6%  -> RS: -0.0%
+    6M:  +2.3%
+
+  TREND HEALTH:
+    RSI: 24.8  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.09%
+    ATR extension from SMA20: -3.18x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.04x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1678.17 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (3.04x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
