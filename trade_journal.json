@@ -6801,5 +6801,88 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-05",
+    "trades": [
+      {
+        "ticker": "PAYTM",
+        "entry": 1670.85,
+        "target1": 1760.84,
+        "target2": 1820.83,
+        "stop": 1654.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 1660.0999755859375,
+        "eod_high": 1694.0,
+        "eod_low": 1655.0,
+        "eod_close": 1684.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1684.0 (+0.8%)"
+      },
+      {
+        "ticker": "IDFCFIRSTB",
+        "entry": 81.75,
+        "target1": 84.73,
+        "target2": 86.72,
+        "stop": 80.65,
+        "verdict": "WATCH",
+        "eod_open": 80.69999694824219,
+        "eod_high": 82.30000305175781,
+        "eod_low": 80.69999694824219,
+        "eod_close": 82.22000122070312,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1319.85,
+        "target1": 1353.42,
+        "target2": 1375.8,
+        "stop": 1303.85,
+        "verdict": "WATCH",
+        "eod_open": 1314.5,
+        "eod_high": 1334.300048828125,
+        "eod_low": 1303.9000244140625,
+        "eod_close": 1332.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "AUBANK",
+        "entry": 1020.25,
+        "target1": 1059.54,
+        "target2": 1085.73,
+        "stop": 1006.35,
+        "verdict": "WATCH",
+        "eod_open": 1011.5999755859375,
+        "eod_high": 1035.300048828125,
+        "eod_low": 1006.4000244140625,
+        "eod_close": 1029.199951171875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4688.05,
+        "target1": 4846.35,
+        "target2": 4951.88,
+        "stop": 4609.35,
+        "verdict": "TRADE NOW",
+        "eod_open": 4609.39990234375,
+        "eod_high": 4688.0,
+        "eod_low": 4609.39990234375,
+        "eod_close": 4680.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]
