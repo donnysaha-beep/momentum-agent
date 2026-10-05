@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, October 05 2026
+  Layer 0 | Generated: 08:46 AM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 60/100
+TREND TYPE       : BREAKOUT_FRIENDLY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,526.50  (+0.47%)
+  Bank Nifty            :  54,766.20  (+0.58%)
+  India VIX             :      15.04  (+4.01%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22607.6  [ESTIMATED]
+  Change vs prev : +0.36%
+  Bias           : BULLISH
+  Based on       : S&P 500 +0.73% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,722.72  (+0.73%)
+  Nasdaq (US)           :  27,190.86  (+1.19%)
+  US VIX                :      16.17  (+5.62%)
+  Crude Oil (WTI)       :      90.63  (-0.53%)
+  Gold                  :   4,190.90  (+0.69%)
+  Silver                :      61.94  (+3.27%)
+  USD/INR               :      96.30  (+0.08%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +0.4% (bullish)
+  * India VIX 15.04 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Metals, IT, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================
