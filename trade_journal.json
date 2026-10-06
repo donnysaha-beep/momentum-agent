@@ -6884,5 +6884,130 @@
       "missed_trades": 4,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-06",
+    "trades": [
+      {
+        "ticker": "DIVISLAB",
+        "entry": 9231.05,
+        "target1": 9535.09,
+        "target2": 9737.78,
+        "stop": 9164.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 9212.0,
+        "eod_high": 9553.5,
+        "eod_low": 9165.0,
+        "eod_close": 9550.0,
+        "outcome": "GOOD_WIN",
+        "outcome_detail": "Hit Target 1 (Rs 9535.09) \u2014 +3.29%"
+      },
+      {
+        "ticker": "SIEMENS",
+        "entry": 3735.05,
+        "target1": 3873.34,
+        "target2": 3965.53,
+        "stop": 3694.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 3729.10009765625,
+        "eod_high": 3854.0,
+        "eod_low": 3695.0,
+        "eod_close": 3854.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 3854.0 (+3.2%)"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 6973.05,
+        "target1": 7244.26,
+        "target2": 7425.06,
+        "stop": 6878.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 6903.5,
+        "eod_high": 7138.0,
+        "eod_low": 6878.5,
+        "eod_close": 7122.5,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 7122.5 (+2.1%)"
+      },
+      {
+        "ticker": "HAL",
+        "entry": 4719.05,
+        "target1": 4873.12,
+        "target2": 4975.83,
+        "stop": 4686.55,
+        "verdict": "TRADE NOW",
+        "eod_open": 4693.2001953125,
+        "eod_high": 4833.89990234375,
+        "eod_low": 4686.60009765625,
+        "eod_close": 4816.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 4816.0 (+2.0%)"
+      },
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 1247.35,
+        "target1": 1283.32,
+        "target2": 1307.3,
+        "stop": 1234.25,
+        "verdict": "TRADE NOW",
+        "eod_open": 1238.4000244140625,
+        "eod_high": 1261.199951171875,
+        "eod_low": 1234.300048828125,
+        "eod_close": 1259.5999755859375,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1259.5999755859375 (+1.0%)"
+      },
+      {
+        "ticker": "ADANIPORTS",
+        "entry": 1773.45,
+        "target1": 1836.58,
+        "target2": 1878.67,
+        "stop": 1765.75,
+        "verdict": "WATCH",
+        "eod_open": 1768.0999755859375,
+        "eod_high": 1787.5,
+        "eod_low": 1765.800048828125,
+        "eod_close": 1783.4000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BHEL",
+        "entry": 438.95,
+        "target1": 457.87,
+        "target2": 470.48,
+        "stop": 427.9,
+        "verdict": "WATCH",
+        "eod_open": 431.54998779296875,
+        "eod_high": 453.79998779296875,
+        "eod_low": 427.95001220703125,
+        "eod_close": 452.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "VEDL",
+        "entry": 264.0,
+        "target1": 274.6,
+        "target2": 281.67,
+        "stop": 256.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 257.20001220703125,
+        "eod_high": 267.70001220703125,
+        "eod_low": 256.79998779296875,
+        "eod_close": 265.6000061035156,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 265.6000061035156 (+0.6%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 1,
+      "good_losses": 0,
+      "false_positives": 5,
+      "valid_skips": 0,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]

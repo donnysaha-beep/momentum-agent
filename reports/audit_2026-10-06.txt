@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, October 06 2026
+  Layer 3 | 06:47 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 0
+  False Positives : 5
+  Valid Skips     : 0
+  Missed Trades   : 2
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [WIN]        DIVISLAB     | Verdict: TRADE NOW
+               Entry: Rs 9231.05 | Stop: Rs 9164.95 | T1: Rs 9535.09
+               EOD: O:9212.0 H:9553.5 L:9165.0 C:9550.0
+               Hit Target 1 (Rs 9535.09) — +3.29%
+
+  [FP]         SIEMENS      | Verdict: TRADE NOW
+               Entry: Rs 3735.05 | Stop: Rs 3694.95 | T1: Rs 3873.34
+               EOD: O:3729.10009765625 H:3854.0 L:3695.0 C:3854.0
+               Triggered but no target/stop hit — closed at Rs 3854.0 (+3.2%)
+
+  [FP]         ABB          | Verdict: TRADE NOW
+               Entry: Rs 6973.05 | Stop: Rs 6878.45 | T1: Rs 7244.26
+               EOD: O:6903.5 H:7138.0 L:6878.5 C:7122.5
+               Triggered but no target/stop hit — closed at Rs 7122.5 (+2.1%)
+
+  [FP]         HAL          | Verdict: TRADE NOW
+               Entry: Rs 4719.05 | Stop: Rs 4686.55 | T1: Rs 4873.12
+               EOD: O:4693.2001953125 H:4833.89990234375 L:4686.60009765625 C:4816.0
+               Triggered but no target/stop hit — closed at Rs 4816.0 (+2.0%)
+
+  [FP]         JSWSTEEL     | Verdict: TRADE NOW
+               Entry: Rs 1247.35 | Stop: Rs 1234.25 | T1: Rs 1283.32
+               EOD: O:1238.4000244140625 H:1261.199951171875 L:1234.300048828125 C:1259.5999755859375
+               Triggered but no target/stop hit — closed at Rs 1259.5999755859375 (+1.0%)
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1773.45 | Stop: Rs 1765.75 | T1: Rs 1836.58
+               EOD: O:1768.0999755859375 H:1787.5 L:1765.800048828125 C:1783.4000244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BHEL         | Verdict: WATCH
+               Entry: Rs 438.95 | Stop: Rs 427.9 | T1: Rs 457.87
+               EOD: O:431.54998779296875 H:453.79998779296875 L:427.95001220703125 C:452.0
+               Entry triggered but no target set — monitor
+
+  [FP]         VEDL         | Verdict: TRADE NOW
+               Entry: Rs 264.0 | Stop: Rs 256.75 | T1: Rs 274.6
+               EOD: O:257.20001220703125 H:267.70001220703125 L:256.79998779296875 C:265.6000061035156
+               Triggered but no target/stop hit — closed at Rs 265.6000061035156 (+0.6%)
+
+=================================================================
+  RUNNING PERFORMANCE (73 days tracked)
+=================================================================
+  Total Trades    : 135
+  Win Rate        : 5.9%
+  Good Wins       : 8
+  Good Losses     : 39
+  False Positives : 88
+  Valid Skips     : 22
+  Missed Trades   : 276
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
