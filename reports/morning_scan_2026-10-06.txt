@@ -1,0 +1,182 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, October 06 2026 09:10 AM
+=================================================================
+
+MARKET REGIME: BULL  [GO]
+  Nifty 50:  Rs22701.0  | Today: +0.6%  | 1W: -0.3%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 13.76  (-6.9%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Consumer (+2.8%) | NewEconomy (+2.1%) | FMCG (+1.8%)
+  Lagging : IT (-0.5%) | Cement (-0.8%) | Finance (-0.9%)
+
+Found 43 momentum stocks → 20 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    BHEL         Rs   452.2   +5.4%   65.5   2.7x   +0.0%   +4.8%  2.2x    8/10   A+
+2    KOTAKBANK    Rs   431.6   +3.8%   66.0   1.9x   -2.9%   +3.1%  1.8x    8/10   A+
+3    DIVISLAB     Rs  9461.5   +2.9%   58.6   0.7x   -1.7%   +2.2%  0.4x    8/10   A+
+4    SIEMENS      Rs  3829.0   +3.5%   48.9   0.8x   -6.9%   +2.8% -0.1x    7/10   A
+5    HAL          Rs  4827.0   +3.1%   53.7   1.1x   -5.3%   +2.5%  0.5x    7/10   A
+6    ABB          Rs  7098.0   +2.9%   48.4   1.2x   -7.9%   +2.3% -0.0x    7/10   A
+7    NYKAA        Rs   340.4   +0.3%   56.3   0.7x   -2.6%   -0.4%  0.8x    7/10   A
+8    VEDL         Rs   264.9   +3.9%   51.0   1.8x  -66.4%   +3.2%  0.5x    6/10   A
+9    JSWSTEEL     Rs  1258.3   +1.9%   47.0   0.9x   -6.2%   +1.2% -0.2x    6/10   A
+10   ADANIPORTS   Rs  1778.3   +0.2%   53.2   0.7x   -5.6%   -0.4%  0.2x    6/10   A
+11   RBLBANK      Rs   412.9   -0.9%   54.5   0.6x   -3.5%   -1.5%  0.2x    6/10   A
+12   TRENT        Rs  2904.7  +12.6%   62.7   6.3x  -39.6%  +11.9%  2.4x    5/10   B
+13   JUBLFOOD     Rs   460.4   +3.3%   43.9   1.1x  -25.9%   +2.6% -0.9x    5/10   B
+14   APLAPOLLO    Rs  2138.9   +1.9%   48.4   0.4x   -5.9%   +1.2% -0.5x    5/10   B
+15   IRB          Rs    17.1   +1.6%   33.9   0.3x  -24.6%   +1.0% -2.2x    5/10   B
+16   PAGEIND      Rs 38000.0   +1.4%   61.1   1.2x  -12.4%   +0.8%  2.0x    5/10   B
+17   BEL          Rs   386.0   +0.3%   40.3   0.9x  -17.5%   -0.3% -1.0x    5/10   B
+18   LT           Rs  3751.5   +0.0%   38.8   1.1x  -14.3%   -0.6% -1.4x    5/10   B
+19   PAYTM        Rs  1680.4   -0.2%   49.3   0.4x   -9.2%   -0.9% -1.1x    5/10   B
+20   AUBANK       Rs  1025.1   -0.4%   47.8   0.8x   -9.2%   -1.0% -0.1x    5/10   B
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  BHEL (Infra) — Rs452.25 | Grade A+ | 8/10
+  52w: Rs230.2 — Rs452.25 | ATR: 2.72%/day | Ext: 2.22x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.8%)
+    [-] Not ATR-extended (2.2x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs431.65 | Grade A+ | 8/10
+  52w: Rs352.79 — Rs444.35 | ATR: 2.24%/day | Ext: 1.81x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.1%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DIVISLAB (Pharma) — Rs9461.5 | Grade A+ | 8/10
+  52w: Rs5797.09 — Rs9624.0 | ATR: 2.0%/day | Ext: 0.41x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.2%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SIEMENS (Infra) — Rs3829.0 | Grade A | 7/10
+  52w: Rs2834.67 — Rs4114.0 | ATR: 2.42%/day | Ext: -0.07x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.8%)
+    [+] Not ATR-extended (-0.1x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4827.0 | Grade A | 7/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.16%/day | Ext: 0.53x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.5%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ABB (Infra) — Rs7098.0 | Grade A | 7/10
+  52w: Rs4618.03 — Rs7710.0 | ATR: 2.56%/day | Ext: -0.02x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.3%)
+    [+] Not ATR-extended (-0.0x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs340.45 | Grade A | 7/10
+  52w: Rs234.7 — Rs349.55 | ATR: 2.58%/day | Ext: 0.77x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.4%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  VEDL (Metals) — Rs264.95 | Grade A | 6/10
+  52w: Rs252.05 — Rs787.5 | ATR: 2.54%/day | Ext: 0.46x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.2%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  JSWSTEEL (Metals) — Rs1258.3 | Grade A | 6/10
+  52w: Rs1073.14 — Rs1341.0 | ATR: 1.9%/day | Ext: -0.25x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.2%)
+    [+] Not ATR-extended (-0.2x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1778.3 | Grade A | 6/10
+  52w: Rs1298.13 — Rs1883.2 | ATR: 2.28%/day | Ext: 0.17x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.4%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
