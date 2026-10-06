@@ -1,0 +1,467 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 06, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs22555.75  1D: +0.6%  1W: -2.5%  1M: -5.7%  3M: -6.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+BHEL           Rs     nan    nan%    nan%     nan%   54.7  0.0x   WATCH NOW
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   54.9  0.0x   WATCH NOW
+SIEMENS        Rs     nan    nan%    nan%     nan%   38.5  0.0x   WATCH NOW
+HAL            Rs     nan    nan%    nan%     nan%   45.0  0.0x   WATCH NOW
+DIVISLAB       Rs     nan    nan%    nan%     nan%   49.1  0.0x   WATCH
+ABB            Rs     nan    nan%    nan%     nan%   39.2  0.0x   WATCH
+NYKAA          Rs     nan    nan%    nan%     nan%   55.7  0.0x   WATCH
+VEDL           Rs     nan    nan%    nan%     nan%   41.2  0.0x   WATCH
+JSWSTEEL       Rs     nan    nan%    nan%     nan%   39.7  0.0x   WATCH
+ADANIPORTS     Rs     nan    nan%    nan%     nan%   52.6  0.0x   WATCH
+RBLBANK        Rs     nan    nan%    nan%     nan%   57.2  0.0x   WATCH
+TRENT          Rs     nan    nan%    nan%     nan%   24.4  0.0x   WATCH
+JUBLFOOD       Rs     nan    nan%    nan%     nan%   35.3  0.0x   WATCH
+APLAPOLLO      Rs     nan    nan%    nan%     nan%   43.1  0.0x   WATCH
+IRB            Rs     nan    nan%    nan%     nan%   28.2  0.0x   WAIT
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.6T | P/E: 64.66381
+  Price: Rsnan  |  52w range: Rs230.2 — Rs442.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.7  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 3.19x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (3.19x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.3T | P/E: 21.171568
+  Price: Rsnan  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.9  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.17x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.17x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.4T | P/E: 94.48394
+  Price: Rsnan  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 38.5  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.97x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.2T | P/E: 34.55302
+  Price: Rsnan  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 45.0  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.35x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.5T | P/E: 86.652756
+  Price: Rsnan  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 49.1  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.03x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  ABB — ABB India Limited
+  Industrials | Rs1.5T | P/E: 97.02356
+  Price: Rsnan  |  52w range: Rs4618.03 — Rs7710.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 39.2  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.33x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs969.0B | P/E: 380.00003
+  Price: Rsnan  |  52w range: Rs234.7 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 55.7  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.82x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  VEDL — Vedanta Limited
+  Basic Materials | Rs1.0T | P/E: 11.173748
+  Price: Rsnan  |  52w range: Rs252.05 — Rs787.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 41.2  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.08x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.08x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  JSWSTEEL — JSW Steel Limited
+  Basic Materials | Rs3.1T | P/E: 12.428219
+  Price: Rsnan  |  52w range: Rs1073.14 — Rs1341.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 39.7  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.01x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.1T | P/E: 30.438643
+  Price: Rsnan  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 52.6  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.85x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs643.4B | P/E: 30.167395
+  Price: Rsnan  |  52w range: Rs272.84 — Rs428.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 57.2  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.78x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  TRENT — Trent Limited
+  Consumer Cyclical | Rs1.5T | P/E: 85.67217
+  Price: Rsnan  |  52w range: Rs2193.96 — Rs4807.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 24.4  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 6.88x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (6.88x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  JUBLFOOD — Jubilant FoodWorks Limited
+  Consumer Cyclical | Rs295.8B | P/E: 80.60036
+  Price: Rsnan  |  52w range: Rs411.98 — Rs621.58
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 35.3  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.43x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs597.5B | P/E: 48.610798
+  Price: Rsnan  |  52w range: Rs1691.88 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 43.1  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.56x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  IRB — IRB Infrastructure Developers Limited
+  Industrials | Rs215.5B | P/E: 22.582277
+  Price: Rsnan  |  52w range: Rs16.87 — Rs22.73
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -2.5%
+    1M:  nan%  vs Nifty -5.7%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 28.2  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.96x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WAIT
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
