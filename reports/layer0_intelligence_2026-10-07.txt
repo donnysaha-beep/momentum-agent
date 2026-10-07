@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Wednesday, October 07 2026
+  Layer 0 | Generated: 08:26 AM IST
+=================================================================
+
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 40/100
+TREND TYPE       : CHOPPY
+SIZE MULTIPLIER  : 0.75x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,572.65  (-0.89%)
+  Bank Nifty            :  54,866.15  (-0.48%)
+  India VIX             :      13.96  (+2.57%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22638.11  [ESTIMATED]
+  Change vs prev : +0.29%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 +0.58% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,818.93  (+0.58%)
+  Nasdaq (US)           :  27,599.79  (+0.45%)
+  US VIX                :      15.25  (+1.60%)
+  Crude Oil (WTI)       :      89.59  (+0.17%)
+  Gold                  :   4,155.50  (-0.75%)
+  Silver                :      60.71  (-0.75%)
+  USD/INR               :      96.74  (+0.41%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX 13.96 (calm)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : IT, Banking, Infra
+  Avoid      : Energy
+
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+
+=================================================================
