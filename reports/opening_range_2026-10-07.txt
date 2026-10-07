@@ -1,0 +1,108 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, October 07 2026 11:06 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22603.05  |  Gap: -0.4%  |  VWAP: nan
+  ORB: 22602.1 — 22690.45
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 TRADE NOW | 1 WATCH | 4 WAIT | 4 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  KOTAKBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 440.0
+  Gap from prev  : +0.0%  (prev Rs 431.9 | opened Rs 431.9)
+  Opening Range  : Rs 429.85 — Rs 432.45  (0.6% wide)
+  VWAP           : Rs 438.82  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 9.31
+
+  TRADE PLAN:
+    Entry trigger  : Rs 432.5  (break above ORB high)
+    Target 1 (50%) : Rs 446.47  (+3.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 455.78  (+5.4%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 429.8  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:5.21 (T1)  |  1:8.68 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 57 shares
+    Capital needed : Rs 24,652
+    Max loss       : Rs 154  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] Making higher highs post-ORB
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  COALINDIA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 414.5
+  Gap from prev  : +0.2%  (prev Rs 411.65 | opened Rs 412.35)
+  Opening Range  : Rs 411.0 — Rs 415.8  (1.17% wide)
+  VWAP           : Rs 413.91  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 8.19
+
+  TRADE PLAN:
+    Entry trigger  : Rs 415.85  (break above ORB high)
+    Target 1 (50%) : Rs 428.13  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 436.32  (+4.9%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 410.95  (-1.2%)  [below ORB low]
+    Risk/Reward    : 1:2.5 (T1)  |  1:4.17 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 60 shares
+    Capital needed : Rs 24,951
+    Max loss       : Rs 294  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Above VWAP — institutional support intact
+    [~] Within 0.5% of ORB high (Rs415.79998779296875) — set alert
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  DIVISLAB  [50%]  |  Rs 9559.0  |  ORB: 9527.5—9575.5  |  VWAP: 9572.04
+    [~] Inside opening range — direction not confirmed yet
+  AXISBANK  [50%]  |  Rs 1242.5  |  ORB: 1233.1—1242.3  |  VWAP: 1247.68
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  RBLBANK  [40%]  |  Rs 412.0  |  ORB: 410.55—413.5  |  VWAP: 413.03
+    [~] Inside opening range — direction not confirmed yet
+  NYKAA  [30%]  |  Rs 341.25  |  ORB: 337.6—341.7  |  VWAP: 342.6
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  JUBLFOOD  [40%]  |  Rs 460.6
+    [-] Below VWAP with no breakout — no valid long
+  BHEL  [40%]  |  Rs 448.5
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  PAYTM  [20%]  |  Rs 1732.0
+    [-] Below VWAP with no breakout — no valid long
+  ADANIGREEN  [20%]  |  Rs 1341.4
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
