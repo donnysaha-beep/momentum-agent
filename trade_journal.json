@@ -7009,5 +7009,46 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-07",
+    "trades": [
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 432.5,
+        "target1": 446.47,
+        "target2": 455.78,
+        "stop": 429.8,
+        "verdict": "WATCH",
+        "eod_open": 431.8999938964844,
+        "eod_high": 441.3999938964844,
+        "eod_low": 429.0,
+        "eod_close": 440.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "COALINDIA",
+        "entry": 415.85,
+        "target1": 428.13,
+        "target2": 436.32,
+        "stop": 410.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 412.3500061035156,
+        "eod_high": 415.79998779296875,
+        "eod_low": 411.0,
+        "eod_close": 414.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry never triggered \u2014 stock consolidated, no move"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
