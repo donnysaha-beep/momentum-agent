@@ -5,3 +5,7 @@
 [11:32] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
   ! Nifty below VWAP AND ORB low — bearish structure
   ! VIX SPIKE +9.8% intraday — fear entering market
+
+[12:10] DANGER | STOP_NEW_ENTRIES — tighten stops on open positions
+  ! Nifty below VWAP AND ORB low — bearish structure
+  ! VIX SPIKE +9.8% intraday — fear entering market
