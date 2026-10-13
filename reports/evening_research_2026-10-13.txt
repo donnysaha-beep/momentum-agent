@@ -1,0 +1,194 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 13, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22363.35  1D: -0.7%  1W: -0.8%  1M: -4.6%  3M: -6.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+PAYTM          Rs     nan    nan%    nan%     nan%   50.8  0.0x   WATCH
+BHEL           Rs     nan    nan%    nan%     nan%   56.3  0.0x   WATCH
+HAL            Rs     nan    nan%    nan%     nan%   50.3  0.0x   WATCH
+APLAPOLLO      Rs     nan    nan%    nan%     nan%   51.6  0.0x   WATCH
+TECHM          Rs     nan    nan%    nan%     nan%   35.3  0.0x   WATCH
+AXISBANK       Rs     nan    nan%    nan%     nan%   54.0  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 176.98659
+  Price: Rsnan  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 50.8  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.84x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 63.283264
+  Price: Rsnan  |  52w range: Rs230.2 — Rs452.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 56.3  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.71x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 35.71481
+  Price: Rsnan  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 50.3  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.9x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs606.7B | P/E: 49.356224
+  Price: Rsnan  |  52w range: Rs1691.88 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 51.6  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.55x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.4T | P/E: 25.928104
+  Price: Rsnan  |  52w range: Rs1297.97 — Rs1723.61
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 35.3  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.5x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs3.9T | P/E: 14.262903
+  Price: Rsnan  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.8%
+    1M:  nan%  vs Nifty -4.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -6.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.0  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
