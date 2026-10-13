@@ -1,0 +1,116 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, October 13 2026 09:37 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs22687.1  | Today: +1.4%  | 1W: -0.4%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 14.22  (-6.7%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : PSU (+4.2%) | Defence (+3.7%) | IT (+3.3%)
+  Lagging : Metals (+0.2%) | Consumer (+0.1%) | FMCG (-0.8%)
+
+Found 43 momentum stocks → 6 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    PAYTM        Rs  1710.1   +4.5%   52.6   1.7x   -7.6%   +3.8% -0.2x    8/10   A+
+2    BHEL         Rs   441.6   +1.9%   56.9   1.6x   -2.3%   +1.1%  1.0x    8/10   A+
+3    HAL          Rs  4859.6   +4.4%   54.9   0.8x   -4.7%   +3.6%  1.0x    6/10   A
+4    APLAPOLLO    Rs  2168.0   +2.5%   52.5   0.4x   -4.6%   +1.8%  0.1x    6/10   A
+5    TECHM        Rs  1538.6   +1.6%   49.3   1.5x  -10.7%   +0.9%  0.1x    6/10   A
+6    AXISBANK     Rs  1271.8   +1.0%   59.1   0.8x   -9.3%   +0.3%  1.4x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  PAYTM (NewEconomy) — Rs1710.1 | Grade A+ | 8/10
+  52w: Rs959.0 — Rs1849.9 | ATR: 4.27%/day | Ext: -0.2x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.8%)
+    [+] Not ATR-extended (-0.2x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BHEL (Infra) — Rs441.6 | Grade A+ | 8/10
+  52w: Rs230.2 — Rs452.0 | ATR: 3.22%/day | Ext: 1.04x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.1%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4859.6 | Grade A | 6/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.49%/day | Ext: 0.96x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.6%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  APLAPOLLO (Metals) — Rs2168.0 | Grade A | 6/10
+  52w: Rs1691.88 — Rs2272.05 | ATR: 2.99%/day | Ext: 0.14x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [-] In leading sector (Metals)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1538.6 | Grade A | 6/10
+  52w: Rs1297.97 — Rs1723.61 | ATR: 2.65%/day | Ext: 0.06x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (0.1x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  AXISBANK (Banking) — Rs1271.8 | Grade A | 6/10
+  52w: Rs1160.41 — Rs1401.92 | ATR: 2.07%/day | Ext: 1.39x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
