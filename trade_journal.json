@@ -7271,5 +7271,32 @@
       "missed_trades": 2,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-14",
+    "trades": [
+      {
+        "ticker": "BHEL",
+        "entry": 446.8,
+        "target1": 468.6,
+        "target2": 483.14,
+        "stop": 439.8,
+        "verdict": "TRADE NOW",
+        "eod_open": 444.20001220703125,
+        "eod_high": 464.0,
+        "eod_low": 439.45001220703125,
+        "eod_close": 464.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 439.8) \u2014 -1.57% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 0,
+      "false_negatives": 0
+    }
   }
 ]
