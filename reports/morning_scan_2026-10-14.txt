@@ -1,0 +1,102 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, October 14 2026 07:51 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs22573.2  | Today: -0.7%  | 1W: -0.1%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 14.94  (+5.8%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Electricals (+1.7%) | IT (+1.1%) | FMCG (+1.0%)
+  Lagging : Banking (-0.7%) | Pharma (-1.8%) | Finance (-1.9%)
+
+Found 52 momentum stocks → 5 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    PAYTM        Rs  1721.8   +0.4%   53.9   0.6x   -6.9%   +1.1%  0.0x    8/10   A+
+2    HAL          Rs  4891.7   +0.5%   56.6   0.7x   -4.1%   +1.1%  1.3x    7/10   A
+3    BHEL         Rs   441.9   -0.1%   57.0   1.0x   -2.2%   +0.5%  1.0x    7/10   A
+4    KOTAKBANK    Rs   440.0   +0.2%   65.1   0.7x   -1.0%   +0.9%  2.1x    6/10   A
+5    NYKAA        Rs   337.5   -0.1%   52.1   0.3x   -3.4%   +0.5%  0.4x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  PAYTM (NewEconomy) — Rs1721.8 | Grade A+ | 8/10
+  52w: Rs959.0 — Rs1849.9 | ATR: 4.03%/day | Ext: 0.04x
+    [-] RSI < 55 (weak)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.1%)
+    [+] Not ATR-extended (0.0x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4891.7 | Grade A | 7/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.35%/day | Ext: 1.26x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.1%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BHEL (Infra) — Rs441.85 | Grade A | 7/10
+  52w: Rs230.2 — Rs452.0 | ATR: 3.03%/day | Ext: 0.98x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs440.0 | Grade A | 6/10
+  52w: Rs352.79 — Rs444.35 | ATR: 2.05%/day | Ext: 2.09x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [-] Not ATR-extended (2.1x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs337.5 | Grade A | 6/10
+  52w: Rs234.7 — Rs349.55 | ATR: 2.81%/day | Ext: 0.43x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
