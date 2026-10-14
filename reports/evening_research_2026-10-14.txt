@@ -1,0 +1,172 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 14, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22622.7  1D: -0.4%  1W: +0.1%  1M: -3.3%  3M: -6.6%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+BHEL           Rs   464.0   +4.9%   +7.7%   +11.0%   65.3  2.3x   WATCH
+KOTAKBANK      Rs   438.1   -0.2%   +4.5%    +7.9%   63.6  1.9x   WATCH
+HAL            Rs  4933.0   +1.3%   +0.6%    +3.9%   58.4  1.6x   WATCH
+NYKAA          Rs   336.5   -0.4%   -2.3%    +1.0%   51.4  0.3x   WATCH
+PAYTM          Rs  1712.4   -0.1%   -5.3%    -1.9%   52.9 -0.1x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.6T | P/E: 66.38055
+  Price: Rs464.0  |  52w range: Rs230.2 — Rs464.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.9%  vs Nifty -0.4%  -> RS: +5.3% (OUTPERFORMING)
+    1W:  +3.5%  vs Nifty +0.1%
+    1M:  +7.7%  vs Nifty -3.3%  -> RS: +11.0% (OUTPERFORMING)
+    3M:  +13.8%  vs Nifty -6.6%  -> RS: +20.4% (OUTPERFORMING)
+    6M:  +89.5%
+
+  TREND HEALTH:
+    RSI: 65.3  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 3.15%
+    ATR extension from SMA20: 2.34x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 3.45x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs442.07 (-4.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.45x avg) = conviction
+    [~] Extended 2.34x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.4T | P/E: 21.47304
+  Price: Rs438.05  |  52w range: Rs352.79 — Rs444.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.4%  -> RS: +0.2%
+    1W:  -0.4%  vs Nifty +0.1%
+    1M:  +4.5%  vs Nifty -3.3%  -> RS: +7.9% (OUTPERFORMING)
+    3M:  +14.1%  vs Nifty -6.6%  -> RS: +20.6% (OUTPERFORMING)
+    6M:  +21.7%
+
+  TREND HEALTH:
+    RSI: 63.6  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.08%
+    ATR extension from SMA20: 1.86x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.08x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs424.37 (-3.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.4% of 52w high (breakout zone)
+    [~] Extended 1.86x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 35.392452
+  Price: Rs4933.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty -0.4%  -> RS: +1.8% (OUTPERFORMING)
+    1W:  +3.9%  vs Nifty +0.1%
+    1M:  +0.6%  vs Nifty -3.3%  -> RS: +3.9% (OUTPERFORMING)
+    3M:  +9.6%  vs Nifty -6.6%  -> RS: +16.1% (OUTPERFORMING)
+    6M:  +31.7%
+
+  TREND HEALTH:
+    RSI: 58.4  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): 2.33%
+    ATR extension from SMA20: 1.6x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4760.68 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.6x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs964.3B | P/E: 378.0899
+  Price: Rs336.5  |  52w range: Rs234.7 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.4%  -> RS: +0.0%
+    1W:  -1.4%  vs Nifty +0.1%
+    1M:  -2.3%  vs Nifty -3.3%  -> RS: +1.0% (OUTPERFORMING)
+    3M:  +2.5%  vs Nifty -6.6%  -> RS: +9.0% (OUTPERFORMING)
+    6M:  +33.3%
+
+  TREND HEALTH:
+    RSI: 51.4  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.84%
+    ATR extension from SMA20: 0.33x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.59x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs322.18 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 171.06892
+  Price: Rs1712.4  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.1%  vs Nifty -0.4%  -> RS: +0.3%
+    1W:  -1.1%  vs Nifty +0.1%
+    1M:  -5.3%  vs Nifty -3.3%  -> RS: -1.9% (UNDERPERFORMING)
+    3M:  +23.5%  vs Nifty -6.6%  -> RS: +30.1% (OUTPERFORMING)
+    6M:  +66.4%
+
+  TREND HEALTH:
+    RSI: 52.9  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 4.06%
+    ATR extension from SMA20: -0.09x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.76x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1608.13 (-6.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
