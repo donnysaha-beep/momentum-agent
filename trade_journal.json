@@ -7298,5 +7298,60 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-15",
+    "trades": [
+      {
+        "ticker": "RELIANCE",
+        "entry": 1185.05,
+        "target1": 1221.5,
+        "target2": 1245.81,
+        "stop": 1177.35,
+        "verdict": "WATCH",
+        "eod_open": 1185.0,
+        "eod_high": 1218.699951171875,
+        "eod_low": 1177.4000244140625,
+        "eod_close": 1215.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HDFCBANK",
+        "entry": 718.45,
+        "target1": 740.04,
+        "target2": 754.43,
+        "stop": 710.9,
+        "verdict": "WATCH",
+        "eod_open": 713.1500244140625,
+        "eod_high": 727.6500244140625,
+        "eod_low": 710.9500122070312,
+        "eod_close": 726.8499755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "LT",
+        "entry": 3631.05,
+        "target1": 3742.49,
+        "target2": 3816.78,
+        "stop": 3606.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 3629.60009765625,
+        "eod_high": 3681.60009765625,
+        "eod_low": 3606.800048828125,
+        "eod_close": 3632.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 3632.0 (+0.0%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 2,
+      "false_negatives": 0
+    }
   }
 ]
