@@ -1,0 +1,106 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Thursday, October 15 2026 09:10 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22986.0  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 22637.4 — 22771.55
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 1 TRADE NOW | 2 WATCH | 0 WAIT | 0 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [70% probability]
+  RELIANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1210.7
+  Gap from prev  : +0.9%  (prev Rs 1174.6 | opened Rs 1185.0)
+  Opening Range  : Rs 1177.4 — Rs 1185.0  (0.65% wide)
+  VWAP           : Rs 1205.41  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 24.3
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1185.05  (break above ORB high)
+    Target 1 (50%) : Rs 1221.5  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1245.81  (+5.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1177.35  (-0.7%)  [below ORB low]
+    Risk/Reward    : 1:4.74 (T1)  |  1:7.89 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 10 shares
+    Capital needed : Rs 11,850
+    Max loss       : Rs 77  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [70% probability]
+  HDFCBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 725.05
+  Gap from prev  : +0.3%  (prev Rs 710.7 | opened Rs 713.15)
+  Opening Range  : Rs 710.95 — Rs 718.4  (1.05% wide)
+  VWAP           : Rs 722.19  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 14.39
+
+  TRADE PLAN:
+    Entry trigger  : Rs 718.45  (break above ORB high)
+    Target 1 (50%) : Rs 740.04  (+3.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 754.43  (+5.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 710.9  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.87 (T1)  |  1:4.77 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 17 shares
+    Capital needed : Rs 12,214
+    Max loss       : Rs 128  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+  WATCH — near breakout  [60% probability]
+  LT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3660.0
+  Gap from prev  : -0.3%  (prev Rs 3642.0 | opened Rs 3629.6)
+  Opening Range  : Rs 3606.8 — Rs 3631.0  (0.67% wide)
+  VWAP           : Rs 3659.2  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 74.29
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3631.05  (break above ORB high)
+    Target 1 (50%) : Rs 3742.49  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3816.78  (+5.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3606.75  (-0.7%)  [below ORB low]
+    Risk/Reward    : 1:4.58 (T1)  |  1:7.64 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 3 shares
+    Capital needed : Rs 10,893
+    Max loss       : Rs 73  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
