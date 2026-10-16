@@ -1,0 +1,88 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, October 16 2026 07:23 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23128.35  | Today: +0.6%  | 1W: +2.7%
+  EMA20: ABOVE  | EMA50: BELOW
+  India VIX: 13.93  (-0.7%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : IT (+4.0%) | Auto (+1.4%) | Metals (+1.2%)
+  Lagging : NewEconomy (-0.4%) | Consumer (-0.5%) | FMCG (-0.9%)
+
+Found 31 momentum stocks → 4 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    TECHM        Rs  1782.9   +8.1%   75.2   5.1x   +0.0%   +7.5%  4.4x    6/10   A
+2    JSWSTEEL     Rs  1226.5   +2.2%   47.7   1.1x   -8.5%   +1.6% -0.3x    6/10   A
+3    NAUKRI       Rs  1254.9   +2.9%   51.8   0.7x   -9.6%   +0.6%  0.4x    6/10   A
+4    HAL          Rs  4968.0   +1.2%   59.6   0.9x   -2.6%   +0.6%  1.8x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  TECHM (IT) — Rs1782.9 | Grade A | 6/10
+  52w: Rs1297.97 — Rs1782.9 | ATR: 2.98%/day | Ext: 4.42x
+    [-] RSI > 75 (overbought)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+7.5%)
+    [-] Not ATR-extended (4.4x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  JSWSTEEL (Metals) — Rs1226.5 | Grade A | 6/10
+  52w: Rs1073.14 — Rs1341.0 | ATR: 2.36%/day | Ext: -0.3x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.6%)
+    [+] Not ATR-extended (-0.3x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NAUKRI (IT) — Rs1254.9 | Grade A | 6/10
+  52w: Rs923.1 — Rs1388.85 | ATR: 3.23%/day | Ext: 0.39x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4968.0 | Grade A | 6/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.21%/day | Ext: 1.81x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.6%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [-] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
