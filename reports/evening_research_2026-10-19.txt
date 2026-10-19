@@ -3,15 +3,15 @@
 =================================================================
 
 MARKET REGIME: CAUTION
-  Nifty 50: Rs22888.95  1D: -1.1%  1W: +2.4%  1M: -1.6%  3M: -4.9%
+  Nifty 50: Rs23146.15  1D: +0.7%  1W: +2.8%  1M: -0.3%  3M: -3.9%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-HDFCBANK       Rs   712.0   -2.3%   -0.1%    +1.5%   47.9 -0.4x   WATCH
-RELIANCE       Rs  1202.0   -0.8%   -3.4%    -1.7%   46.6  0.1x   WATCH
-LT             Rs  3661.9   +1.0%   -4.5%    -2.9%   40.6 -1.1x   WAIT
-TCS            Rs  2460.9   -0.2%  +13.0%   +14.6%   73.5  4.2x   AVOID
-INFY           Rs  1130.7   -2.6%   +6.8%    +8.4%   62.5  2.9x   AVOID
+HDFCBANK       Rs     nan    nan%    nan%     nan%   55.3  0.0x   WATCH
+INFY           Rs     nan    nan%    nan%     nan%   69.8  0.0x   WATCH
+TCS            Rs     nan    nan%    nan%     nan%   74.0  0.0x   WATCH
+RELIANCE       Rs     nan    nan%    nan%     nan%   48.7  0.0x   WAIT
+LT             Rs     nan    nan%    nan%     nan%   36.8  0.0x   WAIT
 
 =================================================================
   FULL DETAIL
@@ -19,53 +19,52 @@ INFY           Rs  1130.7   -2.6%   +6.8%    +8.4%   62.5  2.9x   AVOID
 
   HDFCBANK — HDFC Bank Limited
   Financial Services | Rs11.0T | P/E: 15.562841
-  Price: Rs712.0  |  52w range: Rs687.1 — Rs993.08
+  Price: Rsnan  |  52w range: Rs687.1 — Rs993.08
 
   PERFORMANCE vs NIFTY:
-    1D:  -2.3%  vs Nifty -1.1%  -> RS: -1.2% (UNDERPERFORMING)
-    1W:  +1.0%  vs Nifty +2.4%
-    1M:  -0.1%  vs Nifty -1.6%  -> RS: +1.5% (OUTPERFORMING)
-    3M:  -11.9%  vs Nifty -4.9%  -> RS: -7.0% (UNDERPERFORMING)
-    6M:  -9.3%
+    1D:  nan%  vs Nifty +0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.8%
+    1M:  nan%  vs Nifty -0.3%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.9%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 47.9  |  Days above SMA50 (last 20): 6/20
-    Daily volatility (ATR%): 2.12%
-    ATR extension from SMA20: -0.42x  (HEALTHY)
+    RSI: 55.3  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: EXPANDING
     Volume today: 1.09x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs689.36 (-3.2%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WATCH
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
-    [~] Underperforming Nifty today — wait for RS to recover
 
 
 -----------------------------------------------------------------
 
-  RELIANCE — Reliance Industries Limited
-  Energy | Rs16.3T | P/E: 21.767475
-  Price: Rs1202.0  |  52w range: Rs1158.9 — Rs1584.97
+  INFY — Infosys Limited
+  Technology | Rs4.6T | P/E: 15.404632
+  Price: Rsnan  |  52w range: Rs985.3 — Rs1654.01
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.8%  vs Nifty -1.1%  -> RS: +0.3%
-    1W:  +3.7%  vs Nifty +2.4%
-    1M:  -3.4%  vs Nifty -1.6%  -> RS: -1.7% (UNDERPERFORMING)
-    3M:  -7.3%  vs Nifty -4.9%  -> RS: -2.4% (UNDERPERFORMING)
-    6M:  -9.2%
+    1D:  nan%  vs Nifty +0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.8%
+    1M:  nan%  vs Nifty -0.3%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.9%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 46.6  |  Days above SMA50 (last 20): 0/20
-    Daily volatility (ATR%): 2.02%
-    ATR extension from SMA20: 0.07x  (HEALTHY)
+    RSI: 69.8  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.09x 20-day avg
+    Volume today: 1.05x 20-day avg
     RS 55-day slope: NEGATIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1165.57 (-3.0%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WATCH
     [+] RS accelerating (momentum building)
@@ -74,26 +73,54 @@ INFY           Rs  1130.7   -2.6%   +6.8%    +8.4%   62.5  2.9x   AVOID
 
 -----------------------------------------------------------------
 
-  LT — Larsen & Toubro Limited
-  Industrials | Rs5.0T | P/E: 30.376606
-  Price: Rs3661.9  |  52w range: Rs3310.07 — Rs4375.36
+  TCS — Tata Consultancy Services Limited
+  Technology | N/A | P/E: 17.250105
+  Price: Rsnan  |  52w range: Rs1961.36 — Rs3187.34
 
   PERFORMANCE vs NIFTY:
-    1D:  +1.0%  vs Nifty -1.1%  -> RS: +2.1% (OUTPERFORMING)
-    1W:  +0.9%  vs Nifty +2.4%
-    1M:  -4.5%  vs Nifty -1.6%  -> RS: -2.9% (UNDERPERFORMING)
-    3M:  -3.0%  vs Nifty -4.9%  -> RS: +1.9% (OUTPERFORMING)
-    6M:  -5.1%
+    1D:  nan%  vs Nifty +0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.8%
+    1M:  nan%  vs Nifty -0.3%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.9%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 40.6  |  Days above SMA50 (last 20): 0/20
-    Daily volatility (ATR%): 1.97%
-    ATR extension from SMA20: -1.1x  (HEALTHY)
+    RSI: 74.0  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.31x 20-day avg
+    Volume today: 1.59x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | N/A | P/E: 21.767475
+  Price: Rsnan  |  52w range: Rs1158.9 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.8%
+    1M:  nan%  vs Nifty -0.3%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.9%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 48.7  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.09x 20-day avg
     RS 55-day slope: NEGATIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs3553.6 (-3.0%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
   VERDICT: WAIT
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
@@ -101,62 +128,29 @@ INFY           Rs  1130.7   -2.6%   +6.8%    +8.4%   62.5  2.9x   AVOID
 
 -----------------------------------------------------------------
 
-  TCS — Tata Consultancy Services Limited
-  Technology | Rs8.9T | P/E: 17.250105
-  Price: Rs2460.9  |  52w range: Rs1961.36 — Rs3187.34
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.0T | P/E: 30.376606
+  Price: Rsnan  |  52w range: Rs3310.07 — Rs4375.36
 
   PERFORMANCE vs NIFTY:
-    1D:  -0.2%  vs Nifty -1.1%  -> RS: +0.9% (OUTPERFORMING)
-    1W:  +16.4%  vs Nifty +2.4%
-    1M:  +13.0%  vs Nifty -1.6%  -> RS: +14.6% (OUTPERFORMING)
-    3M:  +12.4%  vs Nifty -4.9%  -> RS: +17.3% (OUTPERFORMING)
-    6M:  -2.6%
+    1D:  nan%  vs Nifty +0.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.8%
+    1M:  nan%  vs Nifty -0.3%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.9%  -> RS: nan%
+    6M:  nan%
 
   TREND HEALTH:
-    RSI: 73.5  |  Days above SMA50 (last 20): 5/20
-    Daily volatility (ATR%): 3.03%
-    ATR extension from SMA20: 4.15x  (STRETCHED)
+    RSI: 36.8  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
     Volatility trend: EXPANDING
-    Volume today: 1.59x 20-day avg
-    RS 55-day slope: NEGATIVE | RS ACCELERATING
+    Volume today: 1.31x 20-day avg
+    RS 55-day slope: NEGATIVE
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rs2349.23 (-4.5%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
 
-  VERDICT: AVOID
-    [+] RS accelerating (momentum building)
-    [~] Extended 4.15x from SMA20 — wait for pullback
-    [-] Severely extended (4.15x ATR from SMA20)
-
-
------------------------------------------------------------------
-
-  INFY — Infosys Limited
-  Technology | Rs4.6T | P/E: 15.404632
-  Price: Rs1130.7  |  52w range: Rs985.3 — Rs1654.01
-
-  PERFORMANCE vs NIFTY:
-    1D:  -2.6%  vs Nifty -1.1%  -> RS: -1.5% (UNDERPERFORMING)
-    1W:  +10.8%  vs Nifty +2.4%
-    1M:  +6.8%  vs Nifty -1.6%  -> RS: +8.4% (OUTPERFORMING)
-    3M:  +4.5%  vs Nifty -4.9%  -> RS: +9.4% (OUTPERFORMING)
-    6M:  -13.2%
-
-  TREND HEALTH:
-    RSI: 62.5  |  Days above SMA50 (last 20): 3/20
-    Daily volatility (ATR%): 2.84%
-    ATR extension from SMA20: 2.87x  (STRETCHED)
-    Volatility trend: EXPANDING
-    Volume today: 1.05x 20-day avg
-    RS 55-day slope: NEGATIVE | RS ACCELERATING
-
-  SUGGESTED STOP LOSS (1.5x ATR): Rs1082.56 (-4.3%)
-
-  VERDICT: AVOID
-    [+] RS accelerating (momentum building)
+  VERDICT: WAIT
     [~] Weak trend (only {days_above_50}/20 days above SMA50)
-    [~] Extended 2.87x from SMA20 — wait for pullback
-    [~] Underperforming Nifty today — wait for RS to recover
-    [-] Severely extended (2.87x ATR from SMA20)
 
 
 -----------------------------------------------------------------
