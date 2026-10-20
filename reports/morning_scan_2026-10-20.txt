@@ -1,0 +1,32 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, October 20 2026 07:48 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs22888.95  | Today: -1.1%  | 1W: +2.4%
+  EMA20: BELOW  | EMA50: BELOW
+  India VIX: 14.77  (+5.0%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Energy (+nan%) | IT (-1.4%) | Banking (+nan%)
+  Lagging : Electricals (-2.0%) | NewEconomy (+nan%) | PSU (-2.3%)
+
+Found 27 momentum stocks → 0 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
