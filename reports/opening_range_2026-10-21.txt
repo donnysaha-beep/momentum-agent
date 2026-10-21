@@ -1,0 +1,14 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, October 21 2026 09:23 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22684.35  |  Gap: +0.6%  |  VWAP: nan
+  ORB: 22981.35 — 23118.3
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: DANGER  |  POSITION SIZE: NO TRADES TODAY
+
+  *** DO NOT TRADE TODAY — DANGER REGIME ***
+=================================================================
