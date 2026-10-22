@@ -1,0 +1,194 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 22, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22687.65  1D: -0.5%  1W: +0.3%  1M: -3.1%  3M: -6.4%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+KOTAKBANK      Rs   437.0   -0.2%   +5.3%    +8.4%   57.7  0.9x   WATCH
+HAL            Rs  4875.0   +0.4%   +1.0%    +4.1%   53.3  0.8x   WATCH
+DIVISLAB       Rs  9162.0   -0.3%   -2.6%    +0.5%   47.9 -0.8x   WATCH
+PAYTM          Rs  1661.4   -0.5%   -8.2%    -5.1%   46.6 -0.5x   WATCH
+BPCL           Rs   286.9   -0.4%   -8.2%    -5.2%   37.4 -1.2x   WATCH
+BANDHANBNK     Rs   158.4   -0.4%  -11.5%    -8.4%   39.8 -1.8x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.3T | P/E: 21.42157
+  Price: Rs437.0  |  52w range: Rs352.79 — Rs447.95
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.5%  -> RS: +0.4%
+    1W:  -0.2%  vs Nifty +0.3%
+    1M:  +5.3%  vs Nifty -3.1%  -> RS: +8.4% (OUTPERFORMING)
+    3M:  +14.4%  vs Nifty -6.4%  -> RS: +20.8% (OUTPERFORMING)
+    6M:  +17.7%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.14%
+    ATR extension from SMA20: 0.95x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.65x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs422.94 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.4% of 52w high (breakout zone)
+
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 34.976322
+  Price: Rs4875.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.5%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  -1.2%  vs Nifty +0.3%
+    1M:  +1.0%  vs Nifty -3.1%  -> RS: +4.1% (OUTPERFORMING)
+    3M:  +8.8%  vs Nifty -6.4%  -> RS: +15.2% (OUTPERFORMING)
+    6M:  +19.1%
+
+  TREND HEALTH:
+    RSI: 53.3  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 2.33%
+    ATR extension from SMA20: 0.81x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.32x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4704.67 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.4T | P/E: 83.1322
+  Price: Rs9162.0  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.3%  vs Nifty -0.5%  -> RS: +0.2%
+    1W:  +1.5%  vs Nifty +0.3%
+    1M:  -2.6%  vs Nifty -3.1%  -> RS: +0.5%
+    3M:  +25.7%  vs Nifty -6.4%  -> RS: +32.1% (OUTPERFORMING)
+    6M:  +51.6%
+
+  TREND HEALTH:
+    RSI: 47.9  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.42%
+    ATR extension from SMA20: -0.79x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.85x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8828.99 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 165.97403
+  Price: Rs1661.4  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.5%  vs Nifty -0.5%  -> RS: +0.0%
+    1W:  -3.0%  vs Nifty +0.3%
+    1M:  -8.2%  vs Nifty -3.1%  -> RS: -5.1% (UNDERPERFORMING)
+    3M:  +23.3%  vs Nifty -6.4%  -> RS: +29.7% (OUTPERFORMING)
+    6M:  +50.1%
+
+  TREND HEALTH:
+    RSI: 46.6  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 3.62%
+    ATR extension from SMA20: -0.45x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.53x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1571.19 (-5.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  BPCL — Bharat Petroleum Corporation Limited
+  Energy | Rs1.2T | P/E: 7.1576457
+  Price: Rs286.95  |  52w range: Rs271.3 — Rs388.3
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.5%  -> RS: +0.2%
+    1W:  -0.9%  vs Nifty +0.3%
+    1M:  -8.2%  vs Nifty -3.1%  -> RS: -5.2% (UNDERPERFORMING)
+    3M:  -9.7%  vs Nifty -6.4%  -> RS: -3.2% (UNDERPERFORMING)
+    6M:  -2.0%
+
+  TREND HEALTH:
+    RSI: 37.4  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 2.71%
+    ATR extension from SMA20: -1.18x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 3.63x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs275.29 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.63x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs255.3B | P/E: 18.884386
+  Price: Rs158.44  |  52w range: Rs134.31 — Rs214.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.5%  -> RS: +0.1%
+    1W:  -6.0%  vs Nifty +0.3%
+    1M:  -11.5%  vs Nifty -3.1%  -> RS: -8.4% (UNDERPERFORMING)
+    3M:  -24.4%  vs Nifty -6.4%  -> RS: -18.0% (UNDERPERFORMING)
+    6M:  -4.2%
+
+  TREND HEALTH:
+    RSI: 39.8  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 4.2%
+    ATR extension from SMA20: -1.8x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.37x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs148.46 (-6.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
