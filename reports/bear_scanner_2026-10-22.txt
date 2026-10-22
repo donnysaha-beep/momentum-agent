@@ -1,0 +1,46 @@
+=================================================================
+  BEAR SCANNER — Thursday, October 22 2026 09:33 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 22659.2  |  Gap: -0.5%  |  VWAP: nan
+  ORB: 22558.05 — 22690.45
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 6 SKIP
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  KOTAKBANK  [60%]  |  Rs 437.2
+    [-] Stock holding above ORB low — no breakdown yet
+  BANDHANBNK  [50%]  |  Rs 158.79
+    [-] Stock holding above ORB low — no breakdown yet
+  BPCL  [40%]  |  Rs 286.1
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  DIVISLAB  [30%]  |  Rs 9116.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HAL  [30%]  |  Rs 4873.8
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  PAYTM  [30%]  |  Rs 1657.9
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
