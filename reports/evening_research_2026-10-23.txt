@@ -47,7 +47,7 @@ TCS            Rs  2530.0   +0.9%  +20.8%   +23.9%   74.7  4.1x   AVOID
 -----------------------------------------------------------------
 
   RELIANCE — Reliance Industries Limited
-  Energy | Rs16.1T | P/E: 21.550163
+  Energy | N/A | P/E: 21.550163
   Price: Rs1190.0  |  52w range: Rs1158.9 — Rs1584.97
 
   PERFORMANCE vs NIFTY:
@@ -131,7 +131,7 @@ TCS            Rs  2530.0   +0.9%  +20.8%   +23.9%   74.7  4.1x   AVOID
 -----------------------------------------------------------------
 
   TCS — Tata Consultancy Services Limited
-  Technology | Rs9.2T | P/E: 17.734472
+  Technology | N/A | P/E: 17.734472
   Price: Rs2530.0  |  52w range: Rs1961.36 — Rs3187.34
 
   PERFORMANCE vs NIFTY:
