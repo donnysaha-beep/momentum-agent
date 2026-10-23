@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, October 23 2026
+  Layer 0 | Generated: 07:16 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 20/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,395.65  (-1.29%)
+  Bank Nifty            :  54,116.45  (-1.47%)
+  India VIX             :      16.79  (+6.55%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22261.28  [ESTIMATED]
+  Change vs prev : -0.60%
+  Bias           : BEARISH
+  Based on       : S&P 500 -1.21% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,663.43  (-1.21%)
+  Nasdaq (US)           :  26,008.86  (-2.60%)
+  US VIX                :      19.03  (+14.09%)
+  Crude Oil (WTI)       :     100.81  (+1.35%)
+  Gold                  :   4,028.60  (-0.78%)
+  Silver                :      54.07  (-1.27%)
+  USD/INR               :      94.93  (+0.65%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -0.6% (bearish)
+  * India VIX 16.79 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : IT, Pharma
+  Avoid      : Energy, Banking, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
