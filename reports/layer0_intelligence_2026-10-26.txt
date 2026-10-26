@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Monday, October 26 2026
+  Layer 0 | Generated: 07:38 AM IST
+=================================================================
+
+MARKET REGIME    : NEUTRAL
+CONFIDENCE SCORE : 20/100
+TREND TYPE       : BREAKOUT_FRIENDLY
+SIZE MULTIPLIER  : 0.75x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  22,599.30  (+-0.00%)
+  Bank Nifty            :  54,033.30  (-0.47%)
+  India VIX             :      17.58  (+4.30%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 22540.54  [ESTIMATED]
+  Change vs prev : -0.26%
+  Bias           : NEUTRAL
+  Based on       : S&P 500 -0.52% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,623.68  (-0.52%)
+  Nasdaq (US)           :  25,955.34  (-0.21%)
+  US VIX                :      19.67  (+1.13%)
+  Crude Oil (WTI)       :     101.47  (-1.74%)
+  Gold                  :   4,021.50  (+0.34%)
+  Silver                :      53.98  (+0.50%)
+  USD/INR               :      95.18  (+0.49%)
+
+REGIME FACTORS:
+  * GIFT Nifty neutral
+  * India VIX 17.58 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Aviation, Consumer, IT, Banking, Infra
+  Avoid      : Energy
+
+TRADING VERDICT: 75% position sizing. Trade only A+ setups. Stick to leading sectors.
+
+=================================================================
