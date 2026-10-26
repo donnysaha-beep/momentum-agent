@@ -1,0 +1,314 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 26, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22753.2  1D: +0.7%  1W: -1.7%  1M: -3.0%  3M: -5.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+KOTAKBANK      Rs   440.8   +2.4%   +6.7%    +9.6%   58.9  1.0x   WATCH
+JSWSTEEL       Rs  1260.0   +6.3%   -2.9%    +0.1%   55.1  1.1x   WATCH
+ADANIPORTS     Rs  1752.5   +2.9%   -3.0%    -0.1%   50.4 -0.1x   WATCH
+NYKAA          Rs   329.9   +3.3%   -3.2%    -0.3%   47.8 -0.3x   WATCH
+APLAPOLLO      Rs  2077.9   +2.2%   -5.3%    -2.4%   44.8 -0.9x   WATCH
+DIVISLAB       Rs  9050.0   +1.1%   -6.0%    -3.0%   45.2 -1.0x   WATCH
+SAIL           Rs   169.8   +3.3%   -7.2%    -4.3%   45.4 -0.6x   WATCH
+JINDALSTEL     Rs  1039.9   +2.4%  -11.5%    -8.6%   42.6 -0.7x   WATCH
+JUBLFOOD       Rs   422.9   +4.7%  -12.5%    -9.5%   41.8 -0.8x   WATCH
+DRREDDY        Rs  1310.9   +6.6%   +8.2%   +11.2%   70.4  2.7x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.4T | P/E: 21.605392
+  Price: Rs440.75  |  52w range: Rs352.79 — Rs447.95
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.4%  vs Nifty +0.7%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  -1.5%  vs Nifty -1.7%
+    1M:  +6.7%  vs Nifty -3.0%  -> RS: +9.6% (OUTPERFORMING)
+    3M:  +15.6%  vs Nifty -5.2%  -> RS: +20.8% (OUTPERFORMING)
+    6M:  +16.4%
+
+  TREND HEALTH:
+    RSI: 58.9  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.27%
+    ATR extension from SMA20: 1.0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.2x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs425.77 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.6% of 52w high (breakout zone)
+
+
+-----------------------------------------------------------------
+
+  JSWSTEEL — JSW Steel Limited
+  Basic Materials | Rs3.1T | P/E: 10.834049
+  Price: Rs1260.0  |  52w range: Rs1073.14 — Rs1341.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +6.3%  vs Nifty +0.7%  -> RS: +5.6% (OUTPERFORMING)
+    1W:  +3.6%  vs Nifty -1.7%
+    1M:  -2.9%  vs Nifty -3.0%  -> RS: +0.1%
+    3M:  -0.5%  vs Nifty -5.2%  -> RS: +4.6% (OUTPERFORMING)
+    6M:  +4.3%
+
+  TREND HEALTH:
+    RSI: 55.1  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 2.72%
+    ATR extension from SMA20: 1.11x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1208.6 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.0T | P/E: 29.911247
+  Price: Rs1752.5  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.9%  vs Nifty +0.7%  -> RS: +2.2% (OUTPERFORMING)
+    1W:  +0.1%  vs Nifty -1.7%
+    1M:  -3.0%  vs Nifty -3.0%  -> RS: -0.1%
+    3M:  -3.7%  vs Nifty -5.2%  -> RS: +1.5% (OUTPERFORMING)
+    6M:  +13.6%
+
+  TREND HEALTH:
+    RSI: 50.4  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.69%
+    ATR extension from SMA20: -0.1x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1681.91 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs945.2B | P/E: 370.61798
+  Price: Rs329.85  |  52w range: Rs234.7 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.3%  vs Nifty +0.7%  -> RS: +2.6% (OUTPERFORMING)
+    1W:  -4.4%  vs Nifty -1.7%
+    1M:  -3.2%  vs Nifty -3.0%  -> RS: -0.3%
+    3M:  +1.0%  vs Nifty -5.2%  -> RS: +6.2% (OUTPERFORMING)
+    6M:  +25.6%
+
+  TREND HEALTH:
+    RSI: 47.8  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 3.26%
+    ATR extension from SMA20: -0.3x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.4x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs313.7 (-4.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs576.9B | P/E: 46.936974
+  Price: Rs2077.9  |  52w range: Rs1691.88 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.2%  vs Nifty +0.7%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  -3.5%  vs Nifty -1.7%
+    1M:  -5.3%  vs Nifty -3.0%  -> RS: -2.4% (UNDERPERFORMING)
+    3M:  +14.4%  vs Nifty -5.2%  -> RS: +19.6% (OUTPERFORMING)
+    6M:  +2.0%
+
+  TREND HEALTH:
+    RSI: 44.8  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.92%
+    ATR extension from SMA20: -0.87x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.83x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1986.91 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.4T | P/E: 82.11596
+  Price: Rs9050.0  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.1%  vs Nifty +0.7%  -> RS: +0.4%
+    1W:  -1.0%  vs Nifty -1.7%
+    1M:  -6.0%  vs Nifty -3.0%  -> RS: -3.0% (UNDERPERFORMING)
+    3M:  +23.0%  vs Nifty -5.2%  -> RS: +28.2% (OUTPERFORMING)
+    6M:  +44.4%
+
+  TREND HEALTH:
+    RSI: 45.2  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.57%
+    ATR extension from SMA20: -0.97x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8701.63 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  SAIL — Steel Authority of India Limited
+  Basic Materials | Rs701.4B | P/E: 16.421663
+  Price: Rs169.8  |  52w range: Rs124.28 — Rs203.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.3%  vs Nifty +0.7%  -> RS: +2.6% (OUTPERFORMING)
+    1W:  -0.7%  vs Nifty -1.7%
+    1M:  -7.2%  vs Nifty -3.0%  -> RS: -4.3% (UNDERPERFORMING)
+    3M:  +6.2%  vs Nifty -5.2%  -> RS: +11.4% (OUTPERFORMING)
+    6M:  +0.4%
+
+  TREND HEALTH:
+    RSI: 45.4  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 3.63%
+    ATR extension from SMA20: -0.55x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.03x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs160.55 (-5.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  JINDALSTEL — Jindal Steel Limited
+  Basic Materials | Rs1.1T | P/E: 37.073086
+  Price: Rs1039.9  |  52w range: Rs984.24 — Rs1286.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.4%  vs Nifty +0.7%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  -0.5%  vs Nifty -1.7%
+    1M:  -11.5%  vs Nifty -3.0%  -> RS: -8.6% (UNDERPERFORMING)
+    3M:  -0.3%  vs Nifty -5.2%  -> RS: +4.9% (OUTPERFORMING)
+    6M:  -15.2%
+
+  TREND HEALTH:
+    RSI: 42.6  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): 3.03%
+    ATR extension from SMA20: -0.72x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.34x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs992.63 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.34x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  JUBLFOOD — Jubilant FoodWorks Limited
+  Consumer Cyclical | N/A | P/E: 75.78853
+  Price: Rs422.9  |  52w range: Rs404.0 — Rs613.56
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.7%  vs Nifty +0.7%  -> RS: +4.0% (OUTPERFORMING)
+    1W:  +1.2%  vs Nifty -1.7%
+    1M:  -12.5%  vs Nifty -3.0%  -> RS: -9.5% (UNDERPERFORMING)
+    3M:  +1.4%  vs Nifty -5.2%  -> RS: +6.5% (OUTPERFORMING)
+    6M:  -7.7%
+
+  TREND HEALTH:
+    RSI: 41.8  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 3.22%
+    ATR extension from SMA20: -0.85x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.16x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs402.45 (-4.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.16x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.1T | P/E: 39.026497
+  Price: Rs1310.9  |  52w range: Rs1135.6 — Rs1367.03
+
+  PERFORMANCE vs NIFTY:
+    1D:  +6.6%  vs Nifty +0.7%  -> RS: +5.9% (OUTPERFORMING)
+    1W:  +6.3%  vs Nifty -1.7%
+    1M:  +8.2%  vs Nifty -3.0%  -> RS: +11.2% (OUTPERFORMING)
+    3M:  +10.8%  vs Nifty -5.2%  -> RS: +16.0% (OUTPERFORMING)
+    6M:  +8.0%
+
+  TREND HEALTH:
+    RSI: 70.4  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.43%
+    ATR extension from SMA20: 2.68x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 3.87x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1263.12 (-3.6%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.87x avg) = conviction
+    [~] Extended 2.68x from SMA20 — wait for pullback
+    [-] Severely extended (2.68x ATR from SMA20)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
