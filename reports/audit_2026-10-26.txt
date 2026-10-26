@@ -1,0 +1,79 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, October 26 2026
+  Layer 3 | 07:02 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 0
+  False Positives : 3
+  Valid Skips     : 0
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         JINDALSTEL   | Verdict: TRADE NOW
+               Entry: Rs 1031.05 | Stop: Rs 1016.15 | T1: Rs 1079.24
+               EOD: O:1019.7999877929688 H:1041.0 L:1016.2000122070312 C:1039.9000244140625
+               Triggered but no target/stop hit — closed at Rs 1039.9000244140625 (+0.9%)
+
+  [WIN]        JSWSTEEL     | Verdict: TRADE NOW
+               Entry: Rs 1208.15 | Stop: Rs 1187.65 | T1: Rs 1259.63
+               EOD: O:1187.699951171875 H:1260.0 L:1187.699951171875 C:1260.0
+               Hit Target 1 (Rs 1259.63) — +4.26%
+
+  [FP]         JUBLFOOD     | Verdict: TRADE NOW
+               Entry: Rs 404.65 | Stop: Rs 399.95 | T1: Rs 425.13
+               EOD: O:401.1000061035156 H:424.1000061035156 L:400.0 C:422.8999938964844
+               Triggered but no target/stop hit — closed at Rs 422.8999938964844 (+4.5%)
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 8987.05 | Stop: Rs 8875.45 | T1: Rs 9334.22
+               EOD: O:8879.5 H:9080.0 L:8863.0 C:9050.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1719.85 | Stop: Rs 1697.65 | T1: Rs 1790.6
+               EOD: O:1702.699951171875 H:1752.5 L:1697.699951171875 C:1752.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 316.5 | Stop: Rs 313.15 | T1: Rs 332.82
+               EOD: O:315.8999938964844 H:329.8500061035156 L:313.20001220703125 C:329.8500061035156
+               Entry triggered but no target set — monitor
+
+  [MISSED]     APLAPOLLO    | Verdict: WATCH
+               Entry: Rs 2065.15 | Stop: Rs 2025.15 | T1: Rs 2157.74
+               EOD: O:2025.199951171875 H:2084.39990234375 L:2025.199951171875 C:2077.89990234375
+               Entry triggered but no target set — monitor
+
+  [FP]         SAIL         | Verdict: TRADE NOW
+               Entry: Rs 164.25 | Stop: Rs 162.15 | T1: Rs 173.29
+               EOD: O:163.49000549316406 H:170.0 L:162.1999969482422 C:169.8000030517578
+               Triggered but no target/stop hit — closed at Rs 169.8000030517578 (+3.4%)
+
+=================================================================
+  RUNNING PERFORMANCE (82 days tracked)
+=================================================================
+  Total Trades    : 151
+  Win Rate        : 6.0%
+  Good Wins       : 9
+  Good Losses     : 43
+  False Positives : 99
+  Valid Skips     : 22
+  Missed Trades   : 294
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

@@ -7477,5 +7477,130 @@
       "missed_trades": 3,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-10-26",
+    "trades": [
+      {
+        "ticker": "JINDALSTEL",
+        "entry": 1031.05,
+        "target1": 1079.24,
+        "target2": 1111.36,
+        "stop": 1016.15,
+        "verdict": "TRADE NOW",
+        "eod_open": 1019.7999877929688,
+        "eod_high": 1041.0,
+        "eod_low": 1016.2000122070312,
+        "eod_close": 1039.9000244140625,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1039.9000244140625 (+0.9%)"
+      },
+      {
+        "ticker": "JSWSTEEL",
+        "entry": 1208.15,
+        "target1": 1259.63,
+        "target2": 1293.96,
+        "stop": 1187.65,
+        "verdict": "TRADE NOW",
+        "eod_open": 1187.699951171875,
+        "eod_high": 1260.0,
+        "eod_low": 1187.699951171875,
+        "eod_close": 1260.0,
+        "outcome": "GOOD_WIN",
+        "outcome_detail": "Hit Target 1 (Rs 1259.63) \u2014 +4.26%"
+      },
+      {
+        "ticker": "JUBLFOOD",
+        "entry": 404.65,
+        "target1": 425.13,
+        "target2": 438.78,
+        "stop": 399.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 401.1000061035156,
+        "eod_high": 424.1000061035156,
+        "eod_low": 400.0,
+        "eod_close": 422.8999938964844,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 422.8999938964844 (+4.5%)"
+      },
+      {
+        "ticker": "DIVISLAB",
+        "entry": 8987.05,
+        "target1": 9334.22,
+        "target2": 9565.66,
+        "stop": 8875.45,
+        "verdict": "WATCH",
+        "eod_open": 8879.5,
+        "eod_high": 9080.0,
+        "eod_low": 8863.0,
+        "eod_close": 9050.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIPORTS",
+        "entry": 1719.85,
+        "target1": 1790.6,
+        "target2": 1837.77,
+        "stop": 1697.65,
+        "verdict": "WATCH",
+        "eod_open": 1702.699951171875,
+        "eod_high": 1752.5,
+        "eod_low": 1697.699951171875,
+        "eod_close": 1752.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 316.5,
+        "target1": 332.82,
+        "target2": 343.7,
+        "stop": 313.15,
+        "verdict": "WATCH",
+        "eod_open": 315.8999938964844,
+        "eod_high": 329.8500061035156,
+        "eod_low": 313.20001220703125,
+        "eod_close": 329.8500061035156,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "APLAPOLLO",
+        "entry": 2065.15,
+        "target1": 2157.74,
+        "target2": 2219.47,
+        "stop": 2025.15,
+        "verdict": "WATCH",
+        "eod_open": 2025.199951171875,
+        "eod_high": 2084.39990234375,
+        "eod_low": 2025.199951171875,
+        "eod_close": 2077.89990234375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "SAIL",
+        "entry": 164.25,
+        "target1": 173.29,
+        "target2": 179.32,
+        "stop": 162.15,
+        "verdict": "TRADE NOW",
+        "eod_open": 163.49000549316406,
+        "eod_high": 170.0,
+        "eod_low": 162.1999969482422,
+        "eod_close": 169.8000030517578,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 169.8000030517578 (+3.4%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 1,
+      "good_losses": 0,
+      "false_positives": 3,
+      "valid_skips": 0,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]
