@@ -1,0 +1,59 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, October 27 2026
+  Layer 3 | 06:33 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 3
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [MISSED]     APLAPOLLO    | Verdict: WATCH
+               Entry: Rs 2159.95 | Stop: Rs 2099.95 | T1: Rs 2260.18
+               EOD: O:2104.39990234375 H:2213.89990234375 L:2100.0 C:2213.89990234375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     DIVISLAB     | Verdict: WATCH
+               Entry: Rs 9296.55 | Stop: Rs 9073.95 | T1: Rs 9664.57
+               EOD: O:9074.0 H:9505.5 L:9074.0 C:9505.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     NYKAA        | Verdict: WATCH
+               Entry: Rs 334.95 | Stop: Rs 331.35 | T1: Rs 351.29
+               EOD: O:332.95001220703125 H:339.3999938964844 L:331.3999938964844 C:339.3999938964844
+               Entry triggered but no target set — monitor
+
+  [FP]         ADANIPORTS   | Verdict: TRADE NOW
+               Entry: Rs 1754.15 | Stop: Rs 1740.95 | T1: Rs 1822.59
+               EOD: O:1741.0 H:1762.4000244140625 L:1741.0 C:1754.5
+               Triggered but no target/stop hit — closed at Rs 1754.5 (+0.0%)
+
+=================================================================
+  RUNNING PERFORMANCE (83 days tracked)
+=================================================================
+  Total Trades    : 152
+  Win Rate        : 5.9%
+  Good Wins       : 9
+  Good Losses     : 43
+  False Positives : 100
+  Valid Skips     : 22
+  Missed Trades   : 297
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
