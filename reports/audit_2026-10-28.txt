@@ -1,0 +1,54 @@
+=================================================================
+  PERFORMANCE AUDIT — Wednesday, October 28 2026
+  Layer 3 | 01:32 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         ADANIPORTS   | Verdict: TRADE NOW
+               Entry: Rs 1747.75 | Stop: Rs 1729.35 | T1: Rs 1818.07
+               EOD: O:1747.0 H:1781.5 L:1729.4000244140625 C:1761.300048828125
+               Triggered but no target/stop hit — closed at Rs 1761.300048828125 (+0.8%)
+
+  [MISSED]     DRREDDY      | Verdict: WATCH
+               Entry: Rs 1315.05 | Stop: Rs 1302.05 | T1: Rs 1363.55
+               EOD: O:1302.0999755859375 H:1337.9000244140625 L:1302.0999755859375 C:1335.4000244140625
+               Entry triggered but no target set — monitor
+
+  [FP]         BANDHANBNK   | Verdict: TRADE NOW
+               Entry: Rs 153.07 | Stop: Rs 151.0 | T1: Rs 163.64
+               EOD: O:152.0500030517578 H:156.97999572753906 L:151.0500030517578 C:155.36000061035156
+               Triggered but no target/stop hit — closed at Rs 155.36000061035156 (+1.5%)
+
+=================================================================
+  RUNNING PERFORMANCE (84 days tracked)
+=================================================================
+  Total Trades    : 154
+  Win Rate        : 5.8%
+  Good Wins       : 9
+  Good Losses     : 43
+  False Positives : 102
+  Valid Skips     : 22
+  Missed Trades   : 298
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
