@@ -1,0 +1,230 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 28, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22698.85  1D: -0.2%  1W: -0.5%  1M: -1.9%  3M: -4.5%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+DIVISLAB       Rs  9558.5   +0.6%   -0.6%    +1.3%   59.5  1.1x   WATCH NOW
+KOTAKBANK      Rs   440.0   -0.6%   +8.9%   +10.8%   57.7  0.6x   WATCH
+FEDERALBNK     Rs   346.0   +1.3%   +7.5%    +9.4%   58.1  1.4x   WATCH
+ADANIPORTS     Rs  1761.3   +0.4%   -1.5%    +0.4%   51.8  0.1x   WATCH
+LT             Rs  3801.3   +3.7%   -1.9%    -0.0%   56.2  1.4x   WATCH
+BANDHANBNK     Rs   155.4   +2.3%  -17.2%   -15.3%   40.7 -1.2x   WATCH
+DRREDDY        Rs  1335.4   +1.9%  +11.2%   +13.1%   73.4  3.1x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.5T | P/E: 86.72988
+  Price: Rs9558.5  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty -0.2%  -> RS: +0.8% (OUTPERFORMING)
+    1W:  +4.0%  vs Nifty -0.5%
+    1M:  -0.6%  vs Nifty -1.9%  -> RS: +1.3% (OUTPERFORMING)
+    3M:  +31.9%  vs Nifty -4.5%  -> RS: +36.4% (OUTPERFORMING)
+    6M:  +52.8%
+
+  TREND HEALTH:
+    RSI: 59.5  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.66%
+    ATR extension from SMA20: 1.13x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.24x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9177.5 (-4.0%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.7% of 52w high (breakout zone)
+
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.4T | P/E: 20.38925
+  Price: Rs440.0  |  52w range: Rs352.79 — Rs447.95
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -0.2%  -> RS: -0.3%
+    1W:  +0.5%  vs Nifty -0.5%
+    1M:  +8.9%  vs Nifty -1.9%  -> RS: +10.8% (OUTPERFORMING)
+    3M:  +14.4%  vs Nifty -4.5%  -> RS: +18.9% (OUTPERFORMING)
+    6M:  +16.2%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.13%
+    ATR extension from SMA20: 0.58x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.61x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs425.95 (-3.2%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.8% of 52w high (breakout zone)
+
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs854.8B | P/E: 17.035944
+  Price: Rs346.0  |  52w range: Rs234.01 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty -0.2%  -> RS: +1.5% (OUTPERFORMING)
+    1W:  +0.6%  vs Nifty -0.5%
+    1M:  +7.5%  vs Nifty -1.9%  -> RS: +9.4% (OUTPERFORMING)
+    3M:  -2.0%  vs Nifty -4.5%  -> RS: +2.5% (OUTPERFORMING)
+    6M:  +17.9%
+
+  TREND HEALTH:
+    RSI: 58.1  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): 2.7%
+    ATR extension from SMA20: 1.44x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs332.0 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.1T | P/E: 30.061445
+  Price: Rs1761.3  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty -0.2%  -> RS: +0.6% (OUTPERFORMING)
+    1W:  +0.7%  vs Nifty -0.5%
+    1M:  -1.5%  vs Nifty -1.9%  -> RS: +0.4%
+    3M:  -0.4%  vs Nifty -4.5%  -> RS: +4.1% (OUTPERFORMING)
+    6M:  +12.1%
+
+  TREND HEALTH:
+    RSI: 51.8  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.61%
+    ATR extension from SMA20: 0.1x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.8x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1692.39 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.2T | P/E: 29.281311
+  Price: Rs3801.3  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.7%  vs Nifty -0.2%  -> RS: +3.9% (OUTPERFORMING)
+    1W:  +4.5%  vs Nifty -0.5%
+    1M:  -1.9%  vs Nifty -1.9%  -> RS: -0.0%
+    3M:  +0.4%  vs Nifty -4.5%  -> RS: +4.9% (OUTPERFORMING)
+    6M:  -5.2%
+
+  TREND HEALTH:
+    RSI: 56.2  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 1.39x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.84x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3674.85 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.84x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  BANDHANBNK — Bandhan Bank Limited
+  Financial Services | Rs250.3B | P/E: 18.517282
+  Price: Rs155.36  |  52w range: Rs134.31 — Rs214.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.3%  vs Nifty -0.2%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  -2.4%  vs Nifty -0.5%
+    1M:  -17.2%  vs Nifty -1.9%  -> RS: -15.3% (UNDERPERFORMING)
+    3M:  -5.6%  vs Nifty -4.5%  -> RS: -1.1% (UNDERPERFORMING)
+    6M:  -10.7%
+
+  TREND HEALTH:
+    RSI: 40.7  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): 4.46%
+    ATR extension from SMA20: -1.19x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs144.96 (-6.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.1T | P/E: 39.75588
+  Price: Rs1335.4  |  52w range: Rs1135.6 — Rs1367.03
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty -0.2%  -> RS: +2.2% (OUTPERFORMING)
+    1W:  +7.3%  vs Nifty -0.5%
+    1M:  +11.2%  vs Nifty -1.9%  -> RS: +13.1% (OUTPERFORMING)
+    3M:  +15.9%  vs Nifty -4.5%  -> RS: +20.4% (OUTPERFORMING)
+    6M:  +9.0%
+
+  TREND HEALTH:
+    RSI: 73.4  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.38%
+    ATR extension from SMA20: 3.11x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1287.8 (-3.6%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.3% of 52w high (breakout zone)
+    [~] Extended 3.11x from SMA20 — wait for pullback
+    [-] Severely extended (3.11x ATR from SMA20)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
