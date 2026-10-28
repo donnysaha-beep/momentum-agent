@@ -1,0 +1,124 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Wednesday, October 28 2026 10:36 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 22698.85  |  Gap: -0.3%  |  VWAP: nan
+  ORB: 22540.75 — 22689.15
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 2 TRADE NOW | 1 WATCH | 3 WAIT | 1 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [70% probability]
+  ADANIPORTS
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1761.3
+  Gap from prev  : -0.4%  (prev Rs 1754.5 | opened Rs 1747.0)
+  Opening Range  : Rs 1729.4 — Rs 1747.7  (1.06% wide)
+  VWAP           : Rs 1753.71  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 46.88
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1747.75  (break above ORB high)
+    Target 1 (50%) : Rs 1818.07  (+4.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1864.95  (+6.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1729.35  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:3.83 (T1)  |  1:6.39 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 14 shares
+    Capital needed : Rs 24,468
+    Max loss       : Rs 258  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+  TRADE NOW  [70% probability]
+  DRREDDY
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1335.4
+  Gap from prev  : -0.6%  (prev Rs 1310.0 | opened Rs 1302.1)
+  Opening Range  : Rs 1302.1 — Rs 1315.0  (0.99% wide)
+  VWAP           : Rs 1327.06  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 32.34
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1315.05  (break above ORB high)
+    Target 1 (50%) : Rs 1363.55  (+3.7%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1395.89  (+6.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1302.05  (-1.0%)  [below ORB low]
+    Risk/Reward    : 1:3.73 (T1)  |  1:6.21 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 19 shares
+    Capital needed : Rs 24,986
+    Max loss       : Rs 247  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [70% probability]
+  BANDHANBNK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 155.36
+  Gap from prev  : +0.1%  (prev Rs 151.91 | opened Rs 152.05)
+  Opening Range  : Rs 151.05 — Rs 153.02  (1.3% wide)
+  VWAP           : Rs 154.67  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 7.05
+
+  TRADE PLAN:
+    Entry trigger  : Rs 153.07  (break above ORB high)
+    Target 1 (50%) : Rs 163.64  (+6.9%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 170.69  (+11.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 151.0  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:5.12 (T1)  |  1:8.53 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 163 shares
+    Capital needed : Rs 24,950
+    Max loss       : Rs 337  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  DIVISLAB  [60%]  |  Rs 9558.5  |  ORB: 9377.0—9488.0  |  VWAP: 9610.43
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  FEDERALBNK  [60%]  |  Rs 346.0  |  ORB: 342.9—347.85  |  VWAP: 345.53
+    [~] Inside opening range — direction not confirmed yet
+  KOTAKBANK  [40%]  |  Rs 440.0  |  ORB: 438.4—441.65  |  VWAP: 441.55
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  LT  [20%]  |  Rs 3801.3
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
