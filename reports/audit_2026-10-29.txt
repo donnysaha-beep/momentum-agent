@@ -1,0 +1,74 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, October 29 2026
+  Layer 3 | 01:45 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 1
+  Good Losses     : 1
+  False Positives : 5
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         ADANIPORTS   | Verdict: TRADE NOW
+               Entry: Rs 1805.95 | Stop: Rs 1777.35 | T1: Rs 1882.16
+               EOD: O:1786.300048828125 H:1872.0 L:1777.4000244140625 C:1872.0
+               Triggered but no target/stop hit — closed at Rs 1872.0 (+3.7%)
+
+  [LOSS]       DIVISLAB     | Verdict: TRADE NOW
+               Entry: Rs 9628.05 | Stop: Rs 9549.95 | T1: Rs 9995.27
+               EOD: O:9573.0 H:9685.0 L:9534.0 C:9664.0
+               Hit stop loss (Rs 9549.95) — -0.81% (clean stop, system worked)
+
+  [FP]         POWERGRID    | Verdict: TRADE NOW
+               Entry: Rs 255.5 | Stop: Rs 251.05 | T1: Rs 264.54
+               EOD: O:251.35000610351562 H:262.5 L:251.10000610351562 C:260.0
+               Triggered but no target/stop hit — closed at Rs 260.0 (+1.8%)
+
+  [WIN]        KOTAKBANK    | Verdict: TRADE NOW
+               Entry: Rs 444.25 | Stop: Rs 440.0 | T1: Rs 459.67
+               EOD: O:441.5 H:460.1000061035156 L:440.04998779296875 C:459.0
+               Hit Target 1 (Rs 459.67) — +3.47%
+
+  [FP]         NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 347.05 | Stop: Rs 342.45 | T1: Rs 363.54
+               EOD: O:342.5 H:352.8999938964844 L:342.5 C:352.8999938964844
+               Triggered but no target/stop hit — closed at Rs 352.8999938964844 (+1.7%)
+
+  [FP]         PAYTM        | Verdict: TRADE NOW
+               Entry: Rs 1651.05 | Stop: Rs 1628.45 | T1: Rs 1748.33
+               EOD: O:1628.5 H:1700.0 L:1628.5 C:1686.5
+               Triggered but no target/stop hit — closed at Rs 1686.5 (+2.1%)
+
+  [FP]         NHPC         | Verdict: TRADE NOW
+               Entry: Rs 74.89 | Stop: Rs 73.77 | T1: Rs 77.68
+               EOD: O:73.97000122070312 H:77.3499984741211 L:73.81999969482422 C:77.19999694824219
+               Triggered but no target/stop hit — closed at Rs 77.19999694824219 (+3.1%)
+
+=================================================================
+  RUNNING PERFORMANCE (85 days tracked)
+=================================================================
+  Total Trades    : 161
+  Win Rate        : 6.2%
+  Good Wins       : 10
+  Good Losses     : 44
+  False Positives : 107
+  Valid Skips     : 22
+  Missed Trades   : 298
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
