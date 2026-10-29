@@ -1,0 +1,253 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 29, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs22698.85  1D: -0.2%  1W: -0.5%  1M: -1.9%  3M: -4.5%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+ADANIPORTS     Rs     nan    nan%    nan%     nan%   51.8  0.0x   WATCH NOW
+NYKAA          Rs     nan    nan%    nan%     nan%   55.6  0.0x   WATCH
+APLAPOLLO      Rs     nan    nan%    nan%     nan%   53.1  0.0x   WATCH
+DIVISLAB       Rs     nan    nan%    nan%     nan%   59.5  0.0x   WATCH
+POWERGRID      Rs     nan    nan%    nan%     nan%   44.5  0.0x   WATCH
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   57.7  0.0x   WATCH
+PAYTM          Rs     nan    nan%    nan%     nan%   45.2  0.0x   WATCH
+NHPC           Rs     nan    nan%    nan%     nan%   54.5  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.3T | P/E: 31.241657
+  Price: Rsnan  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 51.8  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.38x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.38x avg) = conviction
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 396.51685
+  Price: Rsnan  |  52w range: Rs234.7 — Rs349.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 55.6  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.44x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs609.5B | P/E: 46.543682
+  Price: Rsnan  |  52w range: Rs1691.88 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 53.1  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.78x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.6T | P/E: 87.68714
+  Price: Rsnan  |  52w range: Rs5797.09 — Rs9624.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 59.5  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.67x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  POWERGRID — Power Grid Corporation of India Limited
+  Utilities | Rs2.4T | P/E: 15.204678
+  Price: Rsnan  |  52w range: Rs244.65 — Rs319.41
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 44.5  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.12x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.6T | P/E: 21.269693
+  Price: Rsnan  |  52w range: Rs352.79 — Rs447.95
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.64x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 127.95902
+  Price: Rsnan  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 45.2  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.84x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+
+-----------------------------------------------------------------
+
+  NHPC — NHPC Limited
+  Utilities | Rs775.5B | P/E: 20.42328
+  Price: Rsnan  |  52w range: Rs69.84 — Rs85.17
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.2%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.5%
+    1M:  nan%  vs Nifty -1.9%  -> RS: nan%
+    3M:  nan%  vs Nifty -4.5%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.5  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.43x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
