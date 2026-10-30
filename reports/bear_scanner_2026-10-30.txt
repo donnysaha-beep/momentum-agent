@@ -1,0 +1,94 @@
+=================================================================
+  BEAR SCANNER — Friday, October 30 2026 10:58 AM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 23053.1  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 22919.9 — 22991.55
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 SHORT NOW | 2 WATCH SHORT | 0 WAIT | 3 SKIP
+
+=================================================================
+  WATCH SHORT — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH SHORT — near breakdown  [50% probability]
+  TECHM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1790.8
+  Gap from prev  : +1.5%  (prev Rs 1769.6 | opened Rs 1796.8)
+  Opening Range  : Rs 1782.6 — Rs 1799.8  (0.96% wide)
+  VWAP           : Rs 1799.82  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 69.3
+  ATR (daily)    : Rs 52.22
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1782.55  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1704.22  (-4.4%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1652.0  (-7.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1799.85  (+1.0%)  [above ORB high]
+    Risk/Reward    : 1:4.53 (T1)  |  1:7.55 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 14 shares
+    Capital needed : Rs 24,956  (margin)
+    Max loss       : Rs 242  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 1782.5999755859375) — set alert
+
+  WATCH SHORT — near breakdown  [50% probability]
+  NYKAA
+  ─────────────────────────────────────────────
+  Current Price  : Rs 349.35
+  Gap from prev  : +0.0%  (prev Rs 352.9 | opened Rs 352.9)
+  Opening Range  : Rs 348.7 — Rs 352.9  (1.19% wide)
+  VWAP           : Rs 350.48  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 60.1
+  ATR (daily)    : Rs 10.59
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 348.65  (break BELOW ORB low)
+    Target 1 (50%) : Rs 332.76  (-4.6%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 322.17  (-7.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 352.95  (+1.2%)  [above ORB high]
+    Risk/Reward    : 1:3.71 (T1)  |  1:6.18 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 71 shares
+    Capital needed : Rs 24,754  (margin)
+    Max loss       : Rs 305  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Below VWAP — distribution confirmed
+    [~] Within 0.5% of ORB low (Rs 348.70001220703125) — set alert
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  DIVISLAB  [40%]  |  Rs 9780.0
+    [-] Stock holding above ORB low — no breakdown yet
+  TRENT  [40%]  |  Rs 3017.3
+    [-] Stock holding above ORB low — no breakdown yet
+  ADANIPORTS  [30%]  |  Rs 1850.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
