@@ -1,0 +1,102 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, October 30 2026 08:49 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23044.4  | Today: +0.5%  | 1W: +2.0%
+  EMA20: ABOVE  | EMA50: BELOW
+  India VIX: 15.31  (+1.2%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Consumer (+1.8%) | IT (+1.7%) | Pharma (+1.4%)
+  Lagging : Infra (-1.7%) | PSU (-2.0%) | Finance (-2.6%)
+
+Found 33 momentum stocks → 5 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    DIVISLAB     Rs  9809.0   +1.5%   64.9   1.4x   +0.0%   +1.0%  2.0x    7/10   A
+2    TRENT        Rs  3037.7   +6.2%   62.8   2.9x  -35.9%   +5.7%  2.0x    6/10   A
+3    TECHM        Rs  1802.9   +1.9%   68.6   0.5x   -0.9%   +1.4%  2.8x    6/10   A
+4    NYKAA        Rs   349.7   -0.9%   58.7   0.3x   -0.9%   -1.4%  1.2x    6/10   A
+5    ADANIPORTS   Rs  1837.8   -1.8%   59.5   1.4x   -2.4%   -2.3%  1.5x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  DIVISLAB (Pharma) — Rs9809.0 | Grade A | 7/10
+  52w: Rs5797.09 — Rs9809.0 | ATR: 2.5%/day | Ext: 2.04x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.0%)
+    [-] Not ATR-extended (2.0x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TRENT (Consumer) — Rs3037.7 | Grade A | 6/10
+  52w: Rs2193.96 — Rs4737.5 | ATR: 2.92%/day | Ext: 2.04x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.7%)
+    [-] Not ATR-extended (2.0x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1802.9 | Grade A | 6/10
+  52w: Rs1287.33 — Rs1819.65 | ATR: 2.95%/day | Ext: 2.77x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [-] Not ATR-extended (2.8x ATR from SMA20)
+    [+] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs349.7 | Grade A | 6/10
+  52w: Rs234.7 — Rs352.9 | ATR: 2.99%/day | Ext: 1.22x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.4%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1837.8 | Grade A | 6/10
+  52w: Rs1298.13 — Rs1883.2 | ATR: 2.78%/day | Ext: 1.5x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-2.3%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
