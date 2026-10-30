@@ -1,0 +1,41 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Friday, October 30 2026 10:53 AM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23053.1  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 22919.9 — 22991.55
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 2 WAIT | 3 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  ADANIPORTS  [50%]  |  Rs 1850.0  |  ORB: 1815.2—1863.9  |  VWAP: 1844.14
+    [~] Inside opening range — direction not confirmed yet
+  DIVISLAB  [40%]  |  Rs 9780.0  |  ORB: 9632.0—9829.0  |  VWAP: 9795.29
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  TECHM  [40%]  |  Rs 1790.8
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [40%]  |  Rs 349.35
+    [-] Below VWAP with no breakout — no valid long
+  TRENT  [30%]  |  Rs 3017.3
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
