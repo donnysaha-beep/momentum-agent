@@ -1,0 +1,176 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — October 31, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs23053.1  1D: +0.5%  1W: +2.0%  1M: +1.5%  3M: -3.9%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TRENT          Rs  3017.3   +5.4%  +14.5%   +13.0%   61.9  1.8x   WATCH
+NYKAA          Rs   349.4   -1.0%   +6.7%    +5.2%   58.4  1.2x   WATCH
+DIVISLAB       Rs  9780.0   +1.2%   +3.7%    +2.2%   64.4  1.9x   WATCH
+ADANIPORTS     Rs  1850.0   -1.2%   +1.5%    +0.1%   61.3  1.7x   WATCH
+TECHM          Rs  1790.8   +1.2%  +19.5%   +18.1%   67.6  2.6x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TRENT — Trent Limited
+  Consumer Cyclical | Rs1.6T | P/E: 84.874825
+  Price: Rs3017.3  |  52w range: Rs2193.96 — Rs4737.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +5.4%  vs Nifty +0.5%  -> RS: +4.9% (OUTPERFORMING)
+    1W:  +10.6%  vs Nifty +2.0%
+    1M:  +14.5%  vs Nifty +1.5%  -> RS: +13.0% (OUTPERFORMING)
+    3M:  +3.0%  vs Nifty -3.9%  -> RS: +6.8% (OUTPERFORMING)
+    6M:  +2.2%
+
+  TREND HEALTH:
+    RSI: 61.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.94%
+    ATR extension from SMA20: 1.82x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 3.33x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2884.03 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Heavy volume today (3.33x avg) = conviction
+    [~] Extended 1.82x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 392.5281
+  Price: Rs349.35  |  52w range: Rs234.7 — Rs352.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.0%  vs Nifty +0.5%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  +9.4%  vs Nifty +2.0%
+    1M:  +6.7%  vs Nifty +1.5%  -> RS: +5.2% (OUTPERFORMING)
+    3M:  +6.0%  vs Nifty -3.9%  -> RS: +9.9% (OUTPERFORMING)
+    6M:  +34.4%
+
+  TREND HEALTH:
+    RSI: 58.4  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 3.0%
+    ATR extension from SMA20: 1.19x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.58x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs333.65 (-4.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.0% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.6T | P/E: 88.73968
+  Price: Rs9780.0  |  52w range: Rs5797.09 — Rs9780.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.5%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +9.3%  vs Nifty +2.0%
+    1M:  +3.7%  vs Nifty +1.5%  -> RS: +2.2% (OUTPERFORMING)
+    3M:  +31.7%  vs Nifty -3.9%  -> RS: +35.6% (OUTPERFORMING)
+    6M:  +56.2%
+
+  TREND HEALTH:
+    RSI: 64.4  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.52%
+    ATR extension from SMA20: 1.92x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.67x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs9410.32 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.92x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.3T | P/E: 30.8745
+  Price: Rs1850.0  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.2%  vs Nifty +0.5%  -> RS: -1.7% (UNDERPERFORMING)
+    1W:  +8.7%  vs Nifty +2.0%
+    1M:  +1.5%  vs Nifty +1.5%  -> RS: +0.1%
+    3M:  +4.2%  vs Nifty -3.9%  -> RS: +8.1% (OUTPERFORMING)
+    6M:  +16.9%
+
+  TREND HEALTH:
+    RSI: 61.3  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.76%
+    ATR extension from SMA20: 1.73x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.83x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1773.32 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.8% of 52w high (breakout zone)
+    [~] Extended 1.73x from SMA20 — wait for pullback
+    [~] Underperforming Nifty today — wait for RS to recover
+
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.8T | P/E: 28.781742
+  Price: Rs1790.8  |  52w range: Rs1287.33 — Rs1819.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.5%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +0.0%  vs Nifty +2.0%
+    1M:  +19.5%  vs Nifty +1.5%  -> RS: +18.1% (OUTPERFORMING)
+    3M:  +10.4%  vs Nifty -3.9%  -> RS: +14.3% (OUTPERFORMING)
+    6M:  +26.7%
+
+  TREND HEALTH:
+    RSI: 67.6  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.97%
+    ATR extension from SMA20: 2.56x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.73x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1711.04 (-4.5%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.6% of 52w high (breakout zone)
+    [~] Extended 2.56x from SMA20 — wait for pullback
+    [-] Severely extended (2.56x ATR from SMA20)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
