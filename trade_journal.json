@@ -7837,5 +7837,46 @@
       "missed_trades": 0,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-11-02",
+    "trades": [
+      {
+        "ticker": "LT",
+        "entry": 3903.15,
+        "target1": 4027.09,
+        "target2": 4109.72,
+        "stop": 3872.95,
+        "verdict": "WATCH",
+        "eod_open": 3873.0,
+        "eod_high": 3953.0,
+        "eod_low": 3873.0,
+        "eod_close": 3939.89990234375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "HDFCBANK",
+        "entry": 695.4,
+        "target1": 716.89,
+        "target2": 731.22,
+        "stop": 691.4,
+        "verdict": "TRADE NOW",
+        "eod_open": 694.4000244140625,
+        "eod_high": 700.75,
+        "eod_low": 688.7000122070312,
+        "eod_close": 700.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 691.4) \u2014 -0.58% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]
