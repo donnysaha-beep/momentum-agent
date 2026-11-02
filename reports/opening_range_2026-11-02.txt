@@ -1,0 +1,87 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, November 02 2026 12:28 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 23440.8  |  Gap: +0.8%  |  VWAP: nan
+  ORB: 23212.65 — 23292.45
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 1 TRADE NOW | 1 WATCH | 0 WAIT | 1 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  LT
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3939.9
+  Gap from prev  : +0.0%  (prev Rs 3871.7 | opened Rs 3873.0)
+  Opening Range  : Rs 3873.0 — Rs 3903.1  (0.78% wide)
+  VWAP           : Rs 3922.16  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 82.63
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3903.15  (break above ORB high)
+    Target 1 (50%) : Rs 4027.09  (+3.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 4109.72  (+5.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3872.95  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:4.13 (T1)  |  1:6.87 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 3 shares
+    Capital needed : Rs 11,709
+    Max loss       : Rs 91  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [80% probability]
+  HDFCBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 700.0
+  Gap from prev  : +0.2%  (prev Rs 692.8 | opened Rs 694.4)
+  Opening Range  : Rs 691.45 — Rs 695.35  (0.56% wide)
+  VWAP           : Rs 693.89  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 14.33
+
+  TRADE PLAN:
+    Entry trigger  : Rs 695.4  (break above ORB high)
+    Target 1 (50%) : Rs 716.89  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 731.22  (+5.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 691.4  (-0.6%)  [below ORB low]
+    Risk/Reward    : 1:5.33 (T1)  |  1:8.88 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 17 shares
+    Capital needed : Rs 11,822
+    Max loss       : Rs 68  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  RELIANCE  [50%]  |  Rs 1300.0
+    [-] GAP TRAP: Gapped up 5.4% but first candle closed red — institutions selling into gap, do not buy
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
