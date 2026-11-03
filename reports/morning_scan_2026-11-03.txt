@@ -1,0 +1,172 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Tuesday, November 03 2026 09:47 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23731.85  | Today: +1.2%  | 1W: +4.3%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 15.82  (+2.1%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : FMCG (+3.7%) | Auto (+1.7%) | Cement (+1.5%)
+  Lagging : Infra (+0.0%) | Energy (-0.3%) | Metals (-1.4%)
+
+Found 37 momentum stocks → 10 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    HAL          Rs  4938.0   +1.7%   57.1   1.1x   -3.2%   +0.5%  0.9x    7/10   A
+2    NYKAA        Rs   353.0   -0.2%   60.1   1.0x   -0.2%   -1.4%  1.4x    7/10   A
+3    MARICO       Rs   868.6   +8.8%   73.3   6.1x   -1.9%   +7.5%  3.7x    6/10   A
+4    BRITANNIA    Rs  4909.9   +5.9%   58.4   2.4x  -19.3%   +4.7%  1.7x    6/10   A
+5    ASIANPAINT   Rs  2420.5   +3.2%   57.8   2.3x  -17.8%   +2.0%  1.5x    6/10   A
+6    ITC          Rs   272.9   +2.4%   61.5   1.4x  -30.9%   +1.2%  1.7x    6/10   A
+7    ULTRACEMCO   Rs 11625.0   +2.1%   65.5   1.2x   -9.1%   +0.8%  2.7x    6/10   A
+8    KOTAKBANK    Rs   462.0   +0.8%   67.8   0.7x   +0.0%   -0.5%  1.9x    6/10   A
+9    ADANIPORTS   Rs  1856.8   +0.1%   62.0   1.0x   -1.4%   -1.1%  1.7x    6/10   A
+10   TRENT        Rs  3025.0   -0.7%   61.5   0.6x  -35.7%   -1.9%  1.5x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  HAL (Defence) — Rs4938.0 | Grade A | 7/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.37%/day | Ext: 0.87x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs353.0 | Grade A | 7/10
+  52w: Rs234.7 — Rs353.65 | ATR: 2.85%/day | Ext: 1.39x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.4%)
+    [+] Not ATR-extended (1.4x ATR from SMA20)
+    [+] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MARICO (FMCG) — Rs868.6 | Grade A | 6/10
+  52w: Rs707.42 — Rs885.35 | ATR: 2.52%/day | Ext: 3.69x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+7.5%)
+    [-] Not ATR-extended (3.7x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  BRITANNIA (FMCG) — Rs4909.9 | Grade A | 6/10
+  52w: Rs4537.9 — Rs6083.68 | ATR: 2.21%/day | Ext: 1.72x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.7%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ASIANPAINT (Consumer) — Rs2420.5 | Grade A | 6/10
+  52w: Rs2103.05 — Rs2942.97 | ATR: 2.42%/day | Ext: 1.47x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.0%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ITC (FMCG) — Rs272.9 | Grade A | 6/10
+  52w: Rs255.0 — Rs394.7 | ATR: 2.26%/day | Ext: 1.68x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.2%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ULTRACEMCO (Cement) — Rs11625.0 | Grade A | 6/10
+  52w: Rs10154.73 — Rs12790.92 | ATR: 2.2%/day | Ext: 2.73x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.8%)
+    [-] Not ATR-extended (2.7x ATR from SMA20)
+    [+] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs462.0 | Grade A | 6/10
+  52w: Rs352.79 — Rs462.0 | ATR: 2.09%/day | Ext: 1.89x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.5%)
+    [+] Not ATR-extended (1.9x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1856.8 | Grade A | 6/10
+  52w: Rs1298.13 — Rs1883.2 | ATR: 2.64%/day | Ext: 1.74x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.1%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TRENT (Consumer) — Rs3025.0 | Grade A | 6/10
+  52w: Rs2193.96 — Rs4706.45 | ATR: 2.78%/day | Ext: 1.47x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.9%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
