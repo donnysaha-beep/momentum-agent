@@ -1,0 +1,84 @@
+=================================================================
+  PERFORMANCE AUDIT — Tuesday, November 03 2026
+  Layer 3 | 07:58 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 2
+  Missed Trades   : 6
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         BRITANNIA    | Verdict: TRADE NOW
+               Entry: Rs 4779.05 | Stop: Rs 4700.25 | T1: Rs 4941.78
+               EOD: O:4700.2998046875 H:4930.0 L:4700.2998046875 C:4930.0
+               Triggered but no target/stop hit — closed at Rs 4930.0 (+3.2%)
+
+  [MISSED]     KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 458.05 | Stop: Rs 456.0 | T1: Rs 473.17
+               EOD: O:457.79998779296875 H:464.6499938964844 L:455.6000061035156 C:464.6499938964844
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ASIANPAINT   | Verdict: WATCH
+               Entry: Rs 2408.85 | Stop: Rs 2364.15 | T1: Rs 2496.19
+               EOD: O:2364.199951171875 H:2443.39990234375 L:2364.199951171875 C:2437.800048828125
+               Entry triggered but no target set — monitor
+
+  [MISSED]     HAL          | Verdict: WATCH
+               Entry: Rs 4902.15 | Stop: Rs 4836.05 | T1: Rs 5074.25
+               EOD: O:4879.89990234375 H:4974.2998046875 L:4836.10009765625 C:4958.60009765625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     MARICO       | Verdict: WATCH
+               Entry: Rs 848.55 | Stop: Rs 829.4 | T1: Rs 881.9
+               EOD: O:836.6500244140625 H:878.4000244140625 L:829.4500122070312 C:878.4000244140625
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ITC          | Verdict: WATCH
+               Entry: Rs 270.55 | Stop: Rs 264.9 | T1: Rs 279.85
+               EOD: O:270.5 H:273.8999938964844 L:264.8500061035156 C:273.8999938964844
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    ADANIPORTS   | Verdict: WATCH
+               Entry: Rs 1872.05 | Stop: Rs 1854.05 | T1: Rs 1945.3
+               EOD: O:1872.0 H:1872.0 L:1844.199951171875 C:1866.9000244140625
+               Correctly watched — no valid entry formed
+
+  [SKIP OK]    NYKAA        | Verdict: WATCH
+               Entry: Rs 354.9 | Stop: Rs 349.05 | T1: Rs 370.33
+               EOD: O:352.70001220703125 H:354.8500061035156 L:348.3999938964844 C:353.8999938964844
+               Correctly watched — no valid entry formed
+
+  [MISSED]     TRENT        | Verdict: TRADE NOW
+               Entry: Rs 3047.05 | Stop: Rs 3029.45 | T1: Rs 3174.72
+               EOD: O:3040.89990234375 H:3047.0 L:3014.199951171875 C:3036.5
+               Entry never triggered — stock consolidated, no move
+
+=================================================================
+  RUNNING PERFORMANCE (87 days tracked)
+=================================================================
+  Total Trades    : 163
+  Win Rate        : 6.1%
+  Good Wins       : 10
+  Good Losses     : 45
+  False Positives : 108
+  Valid Skips     : 24
+  Missed Trades   : 305
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
