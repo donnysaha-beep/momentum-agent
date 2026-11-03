@@ -1,0 +1,313 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 03, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23440.8  1D: +1.7%  1W: +3.0%  1M: +3.6%  3M: -3.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HAL            Rs     nan    nan%    nan%     nan%   52.2  0.0x   WATCH
+NYKAA          Rs     nan    nan%    nan%     nan%   60.7  0.0x   WATCH
+MARICO         Rs     nan    nan%    nan%     nan%   53.6  0.0x   WATCH
+BRITANNIA      Rs     nan    nan%    nan%     nan%   39.8  0.0x   WATCH
+ASIANPAINT     Rs     nan    nan%    nan%     nan%   47.3  0.0x   WATCH
+ITC            Rs     nan    nan%    nan%     nan%   54.5  0.0x   WATCH
+ULTRACEMCO     Rs     nan    nan%    nan%     nan%   60.8  0.0x   WATCH
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   66.0  0.0x   WATCH
+ADANIPORTS     Rs     nan    nan%    nan%     nan%   61.7  0.0x   WATCH
+TRENT          Rs     nan    nan%    nan%     nan%   63.4  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 35.576122
+  Price: Rsnan  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 52.2  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.11x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 397.64044
+  Price: Rsnan  |  52w range: Rs234.7 — Rs353.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 60.7  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.05x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.1T | P/E: 56.452442
+  Price: Rsnan  |  52w range: Rs707.42 — Rs885.35
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 53.6  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 6.22x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (6.22x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  BRITANNIA — Britannia Industries Limited
+  Consumer Defensive | Rs1.2T | P/E: 45.6017
+  Price: Rsnan  |  52w range: Rs4537.9 — Rs6083.68
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 39.8  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.51x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] Heavy volume today (2.51x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  ASIANPAINT — Asian Paints Limited
+  Basic Materials | Rs2.3T | P/E: 48.311535
+  Price: Rsnan  |  52w range: Rs2103.05 — Rs2942.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 47.3  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.38x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.38x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  ITC — ITC Limited
+  Consumer Defensive | Rs3.4T | P/E: 18.175182
+  Price: Rsnan  |  52w range: Rs255.0 — Rs394.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.5  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.41x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  ULTRACEMCO — UltraTech Cement Limited
+  Basic Materials | Rs3.4T | P/E: 39.1252
+  Price: Rsnan  |  52w range: Rs10154.73 — Rs12790.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 60.8  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.27x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.6T | P/E: 21.531511
+  Price: Rsnan  |  52w range: Rs352.79 — Rs461.6
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.75x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.3T | P/E: 31.156544
+  Price: Rsnan  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 61.7  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.08x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  TRENT — Trent Limited
+  Consumer Cyclical | Rs1.6T | P/E: 89.51946
+  Price: Rsnan  |  52w range: Rs2193.96 — Rs4706.45
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.7%  -> RS: nan%
+    1W:  nan%  vs Nifty +3.0%
+    1M:  nan%  vs Nifty +3.6%  -> RS: nan%
+    3M:  nan%  vs Nifty -3.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 63.4  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.64x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
