@@ -1,0 +1,256 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 04, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs23810.85  1D: +1.6%  1W: +4.7%  1M: +6.2%  3M: -2.1%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HAL            Rs     nan    nan%    nan%     nan%   58.2  0.0x   WATCH
+BHEL           Rs     nan    nan%    nan%     nan%   43.9  0.0x   WATCH
+ADANIPORTS     Rs     nan    nan%    nan%     nan%   63.1  0.0x   WATCH
+DABUR          Rs     nan    nan%    nan%     nan%   54.1  0.0x   WATCH
+APLAPOLLO      Rs     nan    nan%    nan%     nan%   51.2  0.0x   WATCH
+NYKAA          Rs     nan    nan%    nan%     nan%   60.8  0.0x   WATCH
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   68.9  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.4T | P/E: 36.440666
+  Price: Rsnan  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 58.2  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.74x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 51.25151
+  Price: Rsnan  |  52w range: Rs241.72 — Rs464.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 43.9  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.5x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * thyssenkrupp nucera AG & Co (THYKF) (Q3 2026) Earnings Call Highlights: Strategic Pivot to ...
+    * GE Power India Ltd (BOM:532309) Q3 2026 Earnings Call Highlights: Strong Profit Growth Amid ...
+    * Synergy Green Industries Ltd (BOM:541929) Q3 2026 Earnings Call Highlights: Expansion Plans and ...
+    * Adani secures Japanese funding for India’s green energy corridor
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.4T | P/E: 31.875835
+  Price: Rsnan  |  52w range: Rs1298.13 — Rs1883.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 63.1  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.24x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * 3 India Logistics Stocks Riding The Shift From Road To Rail
+    * Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift
+    * India's Adani Ports posts higher profit on domestic demand
+    * Gautam Adani’s Net Worth Swells By $2 Billion—Becomes Asia’s Richest Person
+
+-----------------------------------------------------------------
+
+  DABUR — Dabur India Limited
+  Consumer Defensive | Rs700.7B | P/E: 35.585583
+  Price: Rsnan  |  52w range: Rs357.8 — Rs518.62
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 54.1  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.28x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.28x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Dabur gets stay order on FSSAI directive from India court
+    * India's Dabur posts quarterly profit rise as price hikes counter cost inflation
+    * U.S. drug regulator flags data integrity, maintenance lapses at Dabur India plant
+    * RAS Luxury Skincare Raises $7.5 Million in Series B Funding
+
+-----------------------------------------------------------------
+
+  APLAPOLLO — APL Apollo Tubes Limited
+  Basic Materials | Rs610.8B | P/E: 46.645462
+  Price: Rsnan  |  52w range: Rs1691.88 — Rs2272.05
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 51.2  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.72x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * APL Apollo Tubes Ltd (BOM:533758) (Q1 2027) Earnings Call Highlights: Resilient Margins Amid ...
+    * APL Apollo Tubes Ltd (BOM:533758) Q3 2026 Earnings Call Highlights: Strong Growth and Strategic ...
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 399.4382
+  Price: Rsnan  |  52w range: Rs234.7 — Rs353.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 60.8  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.42x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.6T | P/E: 21.288229
+  Price: Rsnan  |  52w range: Rs352.79 — Rs464.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +4.7%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -2.1%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 68.9  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * CCI approves Kotak’s purchase of Deutsche Bank’s India retail operations
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
