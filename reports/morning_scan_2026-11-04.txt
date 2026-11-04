@@ -1,0 +1,130 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, November 04 2026 09:34 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs23921.15  | Today: +0.5%  | 1W: +5.4%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 15.22  (-3.2%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Finance (+3.9%) | Defence (+3.2%) | Infra (+3.0%)
+  Lagging : Auto (+0.6%) | Pharma (+0.2%) | IT (-1.2%)
+
+Found 53 momentum stocks → 7 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    HAL          Rs  5061.9   +2.1%   63.1   1.6x   -0.7%   +1.6%  1.8x    8/10   A+
+2    BHEL         Rs   424.2   +6.1%   53.9   1.4x   -8.6%   +5.6%  0.4x    7/10   A
+3    ADANIPORTS   Rs  1902.6   +1.9%   66.6   1.2x   +0.0%   +1.4%  2.5x    7/10   A
+4    DABUR        Rs   392.4   +2.8%   60.1   2.0x  -24.3%   +2.3%  1.8x    6/10   A
+5    APLAPOLLO    Rs  2186.0   +1.5%   54.5   0.5x   -3.8%   +1.1%  0.8x    6/10   A
+6    NYKAA        Rs   352.9   -0.3%   59.9   1.2x   -0.3%   -0.8%  1.3x    6/10   A
+7    KOTAKBANK    Rs   457.5   -1.5%   62.4   0.8x   -1.5%   -2.0%  1.3x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  HAL (Defence) — Rs5061.9 | Grade A+ | 8/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.39%/day | Ext: 1.75x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.6%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  BHEL (Infra) — Rs424.25 | Grade A | 7/10
+  52w: Rs241.72 — Rs464.0 | ATR: 3.58%/day | Ext: 0.41x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.6%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1902.6 | Grade A | 7/10
+  52w: Rs1298.13 — Rs1902.6 | ATR: 2.64%/day | Ext: 2.48x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [-] Not ATR-extended (2.5x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DABUR (FMCG) — Rs392.35 | Grade A | 6/10
+  52w: Rs357.8 — Rs518.62 | ATR: 2.36%/day | Ext: 1.84x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.3%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [-] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  APLAPOLLO (Metals) — Rs2186.0 | Grade A | 6/10
+  52w: Rs1691.88 — Rs2272.05 | ATR: 2.86%/day | Ext: 0.81x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.1%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs352.9 | Grade A | 6/10
+  52w: Rs234.7 — Rs353.9 | ATR: 2.92%/day | Ext: 1.27x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.8%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs457.5 | Grade A | 6/10
+  52w: Rs352.79 — Rs464.65 | ATR: 2.13%/day | Ext: 1.26x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-2.0%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
