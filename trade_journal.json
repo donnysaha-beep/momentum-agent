@@ -8100,5 +8100,116 @@
       "missed_trades": 3,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-11-05",
+    "trades": [
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1461.75,
+        "target1": 1507.28,
+        "target2": 1537.64,
+        "stop": 1446.25,
+        "verdict": "WATCH",
+        "eod_open": 1450.5,
+        "eod_high": 1500.9000244140625,
+        "eod_low": 1446.300048828125,
+        "eod_close": 1500.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "AXISBANK",
+        "entry": 1264.65,
+        "target1": 1306.87,
+        "target2": 1335.02,
+        "stop": 1247.45,
+        "verdict": "WATCH",
+        "eod_open": 1248.5,
+        "eod_high": 1285.5999755859375,
+        "eod_low": 1247.5,
+        "eod_close": 1280.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "IIFL",
+        "entry": 603.55,
+        "target1": 644.26,
+        "target2": 671.4,
+        "stop": 593.55,
+        "verdict": "WATCH",
+        "eod_open": 595.3499755859375,
+        "eod_high": 611.0,
+        "eod_low": 584.75,
+        "eod_close": 604.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "GRASIM",
+        "entry": 3216.45,
+        "target1": 3319.01,
+        "target2": 3387.38,
+        "stop": 3180.65,
+        "verdict": "WATCH",
+        "eod_open": 3183.89990234375,
+        "eod_high": 3232.800048828125,
+        "eod_low": 3180.699951171875,
+        "eod_close": 3227.60009765625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 336.05,
+        "target1": 349.61,
+        "target2": 358.66,
+        "stop": 331.15,
+        "verdict": "WATCH",
+        "eod_open": 336.0,
+        "eod_high": 340.79998779296875,
+        "eod_low": 331.20001220703125,
+        "eod_close": 338.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BAJFINANCE",
+        "entry": 1041.4,
+        "target1": 1087.95,
+        "target2": 1118.98,
+        "stop": 1020.95,
+        "verdict": "WATCH",
+        "eod_open": 1028.4000244140625,
+        "eod_high": 1074.0,
+        "eod_low": 1021.0,
+        "eod_close": 1070.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ULTRACEMCO",
+        "entry": 12230.05,
+        "target1": 12637.75,
+        "target2": 12909.55,
+        "stop": 12064.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 12065.0,
+        "eod_high": 12285.0,
+        "eod_low": 12065.0,
+        "eod_close": 12250.0,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 12250.0 (+0.2%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 0,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 6,
+      "false_negatives": 0
+    }
   }
 ]
