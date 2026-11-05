@@ -1,0 +1,543 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 05, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs23960.6  1D: +0.6%  1W: +5.6%  1M: +6.2%  3M: -1.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+NYKAA          Rs     nan    nan%    nan%     nan%   61.7  0.0x   WATCH NOW
+NHPC           Rs     nan    nan%    nan%     nan%   63.3  0.0x   WATCH NOW
+PAYTM          Rs     nan    nan%    nan%     nan%   56.5  0.0x   WATCH NOW
+ICICIBANK      Rs     nan    nan%    nan%     nan%   61.9  0.0x   WATCH
+AXISBANK       Rs     nan    nan%    nan%     nan%   49.8  0.0x   WATCH
+BAJFINANCE     Rs     nan    nan%    nan%     nan%   57.8  0.0x   WATCH
+CHOLAFIN       Rs     nan    nan%    nan%     nan%   56.7  0.0x   WATCH
+IIFL           Rs     nan    nan%    nan%     nan%   50.9  0.0x   WATCH
+ULTRACEMCO     Rs     nan    nan%    nan%     nan%   68.6  0.0x   WATCH
+MANAPPURAM     Rs     nan    nan%    nan%     nan%   53.4  0.0x   WATCH
+HDFCBANK       Rs     nan    nan%    nan%     nan%   62.1  0.0x   WATCH
+GRASIM         Rs     nan    nan%    nan%     nan%   64.3  0.0x   WATCH
+TECHM          Rs     nan    nan%    nan%     nan%   65.7  0.0x   WATCH
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   64.0  0.0x   WATCH
+FEDERALBNK     Rs     nan    nan%    nan%     nan%   47.8  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 312.76785
+  Price: Rsnan  |  52w range: Rs234.7 — Rs355.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 61.7  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 4.94x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (4.94x avg) = conviction
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * India's Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  NHPC — NHPC Limited
+  Utilities | Rs809.6B | P/E: 18.744184
+  Price: Rsnan  |  52w range: Rs69.84 — Rs85.15
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 63.3  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 4.23x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (4.23x avg) = conviction
+
+  RECENT NEWS:
+    * NHPC and Essar announce $475m renewable project in Andhra Pradesh, India
+    * NHPC (NSEI:NHPC) Stock Gets Fair Value Trim As Analysts Weigh Execution And Valuation
+    * ACME Solar secures $355m from PFC for 250MW project
+    * At least 15 Indian workers trapped after tunnel blast kills 10
+    * NHPC Ltd (BOM:533098) Q4 2026 Earnings Call Highlights: Strong Profit Growth Amid Operational ...
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.1T | P/E: 135.1745
+  Price: Rsnan  |  52w range: Rs959.0 — Rs1849.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 56.5  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.79x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * One97 Communications And 2 Top Indian Founder Led Stocks
+    * Top 3 Indian Founder Led Stocks To Watch In November 2026
+    * 3 Great Indian Founder Led Stocks To Own In November 2026
+    * What One97 Communications Holders Got Right
+    * 3 Indian Founder Led Stocks To Watch With Up To 35% Earnings Growth
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs10.8T | P/E: 18.420729
+  Price: Rsnan  |  52w range: Rs1195.82 — Rs1460.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 61.9  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.8x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Heavy volume today (2.8x avg) = conviction
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading
+    * Zacks Industry Outlook Highlights ICICI, Canadian Imperial Bank and KB Financial
+    * 3 Foreign Bank Stocks to Invest in Despite Challenging Industry Trends
+    * Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading
+    * Wall Street Analysts Predict a 25.44% Upside in ICICI Bank (IBN): Here's  What You Should Know
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs4.0T | P/E: 13.356986
+  Price: Rsnan  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 49.8  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.07x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * Apple Pay launches in India with Axis Bank partnership
+    * Apple Launches Mobile Payment Services in India
+    * Apple Pay finally launches in India after years on the sidelines
+    * Foldables, AI Servers and India Expansion: What Lies Ahead for Apple (AAPL) Under the New CEO?
+
+-----------------------------------------------------------------
+
+  BAJFINANCE — Bajaj Finance Limited
+  Financial Services | Rs6.7T | P/E: 30.764809
+  Price: Rsnan  |  52w range: Rs796.65 — Rs1158.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 57.8  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 3.12x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.12x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...
+    * India's Bajaj Finance hits record high on strong loan growth, asset quality
+    * Bajaj Finance Ltd (BOM:500034) (Q1 2027) Earnings Call Highlights: Record Customer Additions ...
+    * India's Bajaj Finance beats profit view on higher loan growth, asset quality boost
+    * Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending
+
+-----------------------------------------------------------------
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.5T | P/E: 24.116196
+  Price: Rsnan  |  52w range: Rs1354.17 — Rs1940.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 56.7  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.92x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q1 2027 Earnings Call Highlights: ...
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q2 2026 Earnings Call Highlights: ...
+
+-----------------------------------------------------------------
+
+  IIFL — IIFL Finance Limited
+  Financial Services | Rs258.0B | P/E: 10.379464
+  Price: Rsnan  |  52w range: Rs419.35 — Rs696.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 50.9  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.05x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] Heavy volume today (2.05x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Market Chatter: Blackstone Eyes Stake in India's IIFL Finance as Fairfax Financial Looks to Exit
+    * IIFL Finance Ltd (BOM:532636) Q1 2027 Earnings Call Highlights: Strong Profitability Amidst ...
+    * IIFL Finance Ltd (BOM:532636) Q2 2026 Earnings Call Highlights: Robust Profit Growth Amid Asset ...
+
+-----------------------------------------------------------------
+
+  ULTRACEMCO — UltraTech Cement Limited
+  Basic Materials | Rs3.6T | P/E: 40.964417
+  Price: Rsnan  |  52w range: Rs10154.73 — Rs12790.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 68.6  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.86x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * India's UltraTech Cement plans its biggest rupee debt funding, bankers say
+    * India's Ultratech cement tops cost pressures with strong demand
+    * UltraTech Cement Ltd (BOM:532538) Q4 2026 Earnings Call Highlights: Record Growth and Strategic ...
+    * UltraTech Cement Ltd (BOM:532538) Q3 2026 Earnings Call Highlights: Strategic Growth Amidst ...
+    * Container Corporation of India Ltd (BOM:531344) Q2 2026 Earnings Call Highlights: Record ...
+
+-----------------------------------------------------------------
+
+  MANAPPURAM — Manappuram Finance Limited
+  Financial Services | Rs306.2B | P/E: 20.061539
+  Price: Rsnan  |  52w range: Rs249.98 — Rs370.78
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 53.4  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.24x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.24x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Manappuram Finance Ltd (BOM:531213) (Q1 2027) Earnings Call Highlights: Gold Loan Surge Drives ...
+    * Manappuram Finance Ltd (BOM:531213) Q3 2026 Earnings Call Highlights: Strong Gold Loan Growth ...
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs11.7T | P/E: 16.612022
+  Price: Rsnan  |  52w range: Rs680.2 — Rs993.08
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 62.1  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.05x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Heavy volume today (2.05x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading
+    * Mastercard scales in India
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Monday Trading
+    * A $9.5 Billion Fund Bought These 3 Stocks
+
+-----------------------------------------------------------------
+
+  GRASIM — Grasim Industries Limited
+  Basic Materials | Rs2.2T | P/E: 38.49255
+  Price: Rsnan  |  52w range: Rs2523.24 — Rs3380.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 64.3  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 3.04x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (3.04x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
+    * Grasim Industries Ltd (BOM:500300) (Q1 2027) Earnings Call Highlights: Record Revenue and ...
+    * India's Grasim Industries swings to first-quarter profit as core business improves
+    * Shell agrees $1.8bn sale of Sprng Energy to Aditya Birla Renewables
+    * Grasim Industries Ltd (BOM:500300) Q3 2026 Earnings Call Highlights: Strong Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.8T | P/E: 29.294437
+  Price: Rsnan  |  52w range: Rs1287.33 — Rs1819.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 65.7  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.77x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+    * REZOLVE AI PLC Q2 2026 Earnings Call Summary
+    * Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.6T | P/E: 21.640408
+  Price: Rsnan  |  52w range: Rs352.79 — Rs464.65
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 64.0  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.02x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?
+    * CCI approves Kotak’s purchase of Deutsche Bank’s India retail operations
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs836.2B | P/E: 16.52832
+  Price: Rsnan  |  52w range: Rs234.99 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +5.6%
+    1M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    3M:  nan%  vs Nifty -1.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 47.8  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.83x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Modest Fair Value Lift On Refined Analyst Assumptions
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
