@@ -1,0 +1,246 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Thursday, November 05 2026 12:24 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 24536.6  |  Gap: +1.7%  |  VWAP: nan
+  ORB: 24298.45 — 24385.9
+  *** WARNING ***
+    [-] Nifty gap-up with red first candle — trap reversal risk
+
+REGIME: BULL  |  POSITION SIZE: FULL SIZE (Rs 40,000/trade)
+
+SUMMARY: 0 TRADE NOW | 7 WATCH | 2 WAIT | 6 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [80% probability]
+  ICICIBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1500.0
+  Gap from prev  : +1.9%  (prev Rs 1424.1 | opened Rs 1450.5)
+  Opening Range  : Rs 1446.3 — Rs 1461.7  (1.06% wide)
+  VWAP           : Rs 1481.16  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 30.35
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1461.75  (break above ORB high)
+    Target 1 (50%) : Rs 1507.28  (+3.1%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1537.64  (+5.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1446.25  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.93 (T1)  |  1:4.9 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 27 shares
+    Capital needed : Rs 39,467
+    Max loss       : Rs 418  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [70% probability]
+  AXISBANK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1280.0
+  Gap from prev  : +1.3%  (prev Rs 1232.0 | opened Rs 1248.5)
+  Opening Range  : Rs 1247.5 — Rs 1264.6  (1.37% wide)
+  VWAP           : Rs 1270.96  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 28.15
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1264.65  (break above ORB high)
+    Target 1 (50%) : Rs 1306.87  (+3.3%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1335.02  (+5.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1247.45  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:2.46 (T1)  |  1:4.09 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 31 shares
+    Capital needed : Rs 39,204
+    Max loss       : Rs 533  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [70% probability]
+  IIFL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 604.5
+  Gap from prev  : +3.0%  (prev Rs 578.2 | opened Rs 595.35)
+  Opening Range  : Rs 593.6 — Rs 603.5  (1.67% wide)
+  VWAP           : Rs 598.62  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 27.14
+
+  TRADE PLAN:
+    Entry trigger  : Rs 603.55  (break above ORB high)
+    Target 1 (50%) : Rs 644.26  (+6.8%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 671.4  (+11.2%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 593.55  (-1.7%)  [below ORB low]
+    Risk/Reward    : 1:4.07 (T1)  |  1:6.77 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 66 shares
+    Capital needed : Rs 39,834
+    Max loss       : Rs 660  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [70% probability]
+  GRASIM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 3227.6
+  Gap from prev  : +1.5%  (prev Rs 3138.0 | opened Rs 3183.9)
+  Opening Range  : Rs 3180.7 — Rs 3216.4  (1.12% wide)
+  VWAP           : Rs 3214.6  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 68.37
+
+  TRADE PLAN:
+    Entry trigger  : Rs 3216.45  (break above ORB high)
+    Target 1 (50%) : Rs 3319.01  (+3.2%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 3387.38  (+5.3%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 3180.65  (-1.1%)  [below ORB low]
+    Risk/Reward    : 1:2.87 (T1)  |  1:4.78 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 12 shares
+    Capital needed : Rs 38,597
+    Max loss       : Rs 430  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [70% probability]
+  FEDERALBNK
+  ─────────────────────────────────────────────
+  Current Price  : Rs 338.5
+  Gap from prev  : +0.2%  (prev Rs 335.2 | opened Rs 336.0)
+  Opening Range  : Rs 331.2 — Rs 336.0  (1.45% wide)
+  VWAP           : Rs 337.33  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 9.04
+
+  TRADE PLAN:
+    Entry trigger  : Rs 336.05  (break above ORB high)
+    Target 1 (50%) : Rs 349.61  (+4.0%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 358.66  (+6.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 331.15  (-1.5%)  [below ORB low]
+    Risk/Reward    : 1:2.77 (T1)  |  1:4.61 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 119 shares
+    Capital needed : Rs 39,990
+    Max loss       : Rs 583  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [60% probability]
+  BAJFINANCE
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1070.0
+  Gap from prev  : +3.5%  (prev Rs 994.0 | opened Rs 1028.4)
+  Opening Range  : Rs 1021.0 — Rs 1041.35  (1.99% wide)
+  VWAP           : Rs 1052.79  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 31.03
+
+  TRADE PLAN:
+    Entry trigger  : Rs 1041.4  (break above ORB high)
+    Target 1 (50%) : Rs 1087.95  (+4.5%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 1118.98  (+7.5%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1020.95  (-2.0%)  [below ORB low]
+    Risk/Reward    : 1:2.28 (T1)  |  1:3.8 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 38 shares
+    Capital needed : Rs 39,573
+    Max loss       : Rs 777  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+  WATCH — near breakout  [60% probability]
+  ULTRACEMCO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 12250.0
+  Gap from prev  : +2.1%  (prev Rs 11816.0 | opened Rs 12065.0)
+  Opening Range  : Rs 12065.0 — Rs 12230.0  (1.37% wide)
+  VWAP           : Rs 12208.32  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 271.8
+
+  TRADE PLAN:
+    Entry trigger  : Rs 12230.05  (break above ORB high)
+    Target 1 (50%) : Rs 12637.75  (+3.3%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 12909.55  (+5.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 12064.95  (-1.4%)  [below ORB low]
+    Risk/Reward    : 1:2.47 (T1)  |  1:4.12 (T2)
+
+  POSITION SIZE (BULL regime):
+    Qty            : 3 shares
+    Capital needed : Rs 36,690
+    Max loss       : Rs 495  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty gap-up trap — high reversal risk today
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  PAYTM  [60%]  |  Rs 1781.6  |  ORB: 1736.0—1772.8  |  VWAP: 1783.2
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+  TECHM  [60%]  |  Rs 1822.7  |  ORB: 1807.9—1822.0  |  VWAP: 1830.37
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  CHOLAFIN  [50%]  |  Rs 1760.0
+    [-] Nifty gap-up trap — high reversal risk today
+  MANAPPURAM  [50%]  |  Rs 326.0
+    [-] Nifty gap-up trap — high reversal risk today
+  NYKAA  [40%]  |  Rs 350.3
+    [-] Nifty gap-up trap — high reversal risk today
+  HDFCBANK  [40%]  |  Rs 760.0
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] GAP TRAP: Gapped up 3.5% but first candle closed red — institutions selling into gap, do not buy
+  KOTAKBANK  [30%]  |  Rs 467.0
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] GAP TRAP: Gapped up 2.1% but first candle closed red — institutions selling into gap, do not buy
+  NHPC  [20%]  |  Rs 80.6
+    [-] Nifty gap-up trap — high reversal risk today
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+    [-] GAP TRAP: Gapped up 5.5% but first candle closed red — institutions selling into gap, do not buy
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
