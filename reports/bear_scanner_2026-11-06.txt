@@ -1,0 +1,71 @@
+=================================================================
+  BEAR SCANNER — Friday, November 06 2026 12:22 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 25030.35  |  Gap: -0.1%  |  VWAP: nan
+  ORB: 24388.1 — 24548.1
+
+REGIME: DANGER  |  SHORT SIZE: SMALL SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 4 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [50% probability]
+  TCS
+  ─────────────────────────────────────────────
+  Current Price  : Rs 2498.5
+  Gap from prev  : +1.4%  (prev Rs 2495.7 | opened Rs 2531.1)
+  Opening Range  : Rs 2519.8 — Rs 2564.6  (1.75% wide)
+  VWAP           : Rs 2515.43  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 66.8
+  ATR (daily)    : Rs 70.82
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 2519.75  (break BELOW ORB low)
+    Target 1 (50%) : Rs 2413.52  (-4.2%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 2342.7  (-7.0%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 2564.65  (+1.8%)  [above ORB high]
+    Risk/Reward    : 1:2.37 (T1)  |  1:3.95 (T2)
+
+  POSITION SIZE (DANGER regime):
+    Qty            : 9 shares
+    Capital needed : Rs 22,678  (margin)
+    Max loss       : Rs 404  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  RELIANCE  [40%]  |  Rs 1320.0
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  SBIN  [40%]  |  Rs 1018.5
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  HDFCBANK  [20%]  |  Rs 788.25
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  INFY  [20%]  |  Rs 1181.4
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
