@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Friday, November 06 2026
+  Layer 0 | Generated: 09:08 AM IST
+=================================================================
+
+MARKET REGIME    : DANGER
+CONFIDENCE SCORE : 80/100
+TREND TYPE       : HIGH_VOLATILITY
+SIZE MULTIPLIER  : 0.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  24,856.15  (+1.30%)
+  Bank Nifty            :  58,761.25  (+1.71%)
+  India VIX             :      17.39  (+11.60%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 24314.29  [ESTIMATED]
+  Change vs prev : -2.18%
+  Bias           : BEARISH
+  Based on       : S&P 500 -4.36% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,353.73  (-4.36%)
+  Nasdaq (US)           :  24,315.00  (-5.52%)
+  US VIX                :      26.78  (-4.97%)
+  Crude Oil (WTI)       :      89.97  (-0.61%)
+  Gold                  :   4,084.50  (-0.70%)
+  Silver                :      52.20  (-0.06%)
+  USD/INR               :      93.99  (-0.56%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -2.2% (bearish)
+  * India VIX SPIKE +11.6% (fear)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Banking, Pharma
+  Avoid      : IT, NewEconomy
+
+TRADING VERDICT: NO TRADES TODAY. Capital preservation mode. Stay in cash.
+
+=================================================================
