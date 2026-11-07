@@ -1,0 +1,202 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 07, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs25030.35  1D: +2.0%  1W: +8.6%  1M: +10.7%  3M: +1.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+INFY           Rs  1181.4   +1.2%  +21.8%   +11.1%   64.2  1.8x   WATCH
+TCS            Rs  2498.5   +0.1%  +20.7%   +10.0%   63.2  1.0x   WATCH
+HDFCBANK       Rs   788.2   +3.7%  +12.2%    +1.4%   73.9  4.4x   AVOID
+LT             Rs  4117.7   +1.7%  +11.2%    +0.5%   75.1  4.1x   AVOID
+RELIANCE       Rs  1320.0   +0.5%   +9.3%    -1.4%   68.2  3.3x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  INFY — Infosys Limited
+  Technology | Rs4.8T | P/E: 15.731026
+  Price: Rs1181.4  |  52w range: Rs963.23 — Rs1616.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +2.0%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  +2.0%  vs Nifty +8.6%
+    1M:  +21.8%  vs Nifty +10.7%  -> RS: +11.1% (OUTPERFORMING)
+    3M:  +3.5%  vs Nifty +1.7%  -> RS: +1.8% (OUTPERFORMING)
+    6M:  +5.8%
+
+  TREND HEALTH:
+    RSI: 64.2  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.37%
+    ATR extension from SMA20: 1.75x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.91x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1121.65 (-5.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Extended 1.75x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading
+    * Infosys: 3 Key Takeaways for Long-Term Investors
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Friday Trading
+    * Cognizant Sinks as Bookings Drop 7% and AI Shifts “From Capability to Value Realization”
+    * Truist Financial (TFC) Expands Hyderabad AI Hub As India Team Tops 1,000
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs9.0T | P/E: 17.513668
+  Price: Rs2498.5  |  52w range: Rs1961.36 — Rs3187.34
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty +2.0%  -> RS: -1.9% (UNDERPERFORMING)
+    1W:  -0.2%  vs Nifty +8.6%
+    1M:  +20.7%  vs Nifty +10.7%  -> RS: +10.0% (OUTPERFORMING)
+    3M:  +2.1%  vs Nifty +1.7%  -> RS: +0.4%
+    6M:  +3.4%
+
+  TREND HEALTH:
+    RSI: 63.2  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.86%
+    ATR extension from SMA20: 0.98x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.79x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2391.13 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * From pilot to fleet: Automa 2026 on scaling digital offshore
+    * Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees
+    * Why Infosys Can Shrug Off the US Green-Card Suspension, For Now
+    * Infosys sees no material impact from U.S. PERM suspension
+    * TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks
+
+-----------------------------------------------------------------
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs12.2T | P/E: 17.229507
+  Price: Rs788.25  |  52w range: Rs680.2 — Rs993.08
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.7%  vs Nifty +2.0%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +13.8%  vs Nifty +8.6%
+    1M:  +12.2%  vs Nifty +10.7%  -> RS: +1.4% (OUTPERFORMING)
+    3M:  +6.2%  vs Nifty +1.7%  -> RS: +4.5% (OUTPERFORMING)
+    6M:  +2.9%
+
+  TREND HEALTH:
+    RSI: 73.9  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 2.22%
+    ATR extension from SMA20: 4.36x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 2.15x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs761.98 (-3.3%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.15x avg) = conviction
+    [~] Extended 4.36x from SMA20 — wait for pullback
+    [-] Severely extended (4.36x ATR from SMA20)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading
+    * Mastercard scales in India
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Monday Trading
+    * A $9.5 Billion Fund Bought These 3 Stocks
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.7T | P/E: 31.718533
+  Price: Rs4117.7  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.7%  vs Nifty +2.0%  -> RS: -0.3%
+    1W:  +6.3%  vs Nifty +8.6%
+    1M:  +11.2%  vs Nifty +10.7%  -> RS: +0.5%
+    3M:  +3.2%  vs Nifty +1.7%  -> RS: +1.5% (OUTPERFORMING)
+    6M:  +1.5%
+
+  TREND HEALTH:
+    RSI: 75.1  |  Days above SMA50 (last 20): 6/20
+    Daily volatility (ATR%): 2.08%
+    ATR extension from SMA20: 4.1x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.47x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3989.41 (-3.1%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [~] Extended 4.1x from SMA20 — wait for pullback
+    [-] Severely extended (4.1x ATR from SMA20)
+
+  RECENT NEWS:
+    * Larsen & Toubro Ltd (LTOUF) (Q2 2027) Earnings Call Highlights: Record INR1. ...
+    * L&T wins contracts for Bangladesh’s first underground metro
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * L&T receives LNTP for 1.6GW Chandrapura thermal project in India
+    * India raises policy rate by 25 bps in first hike in nearly four years
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs17.9T | P/E: 21.75346
+  Price: Rs1320.0  |  52w range: Rs1158.0 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.5%  vs Nifty +2.0%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  +13.3%  vs Nifty +8.6%
+    1M:  +9.3%  vs Nifty +10.7%  -> RS: -1.4% (UNDERPERFORMING)
+    3M:  +2.2%  vs Nifty +1.7%  -> RS: +0.6% (OUTPERFORMING)
+    6M:  -7.0%
+
+  TREND HEALTH:
+    RSI: 68.2  |  Days above SMA50 (last 20): 5/20
+    Daily volatility (ATR%): 2.41%
+    ATR extension from SMA20: 3.26x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.09x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1272.26 (-3.6%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [~] Extended 3.26x from SMA20 — wait for pullback
+    [~] Underperforming Nifty today — wait for RS to recover
+    [-] Severely extended (3.26x ATR from SMA20)
+
+  RECENT NEWS:
+    * Reliance Industries Ltd (WBO:RLI) (Q2 2027) Earnings Call Highlights: Record EBITDA and PAT as ...
+    * Reliance Adds Record $19 Billion in Market Value on Profit Beat
+    * 3 Oil Stocks Worth Watching If Energy Prices Stay High
+    * Jio Platforms breaks India's IPO record
+    * Jio Platforms breaks India's IPO record
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
