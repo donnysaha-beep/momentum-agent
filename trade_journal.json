@@ -8211,5 +8211,88 @@
       "missed_trades": 6,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-11-09",
+    "trades": [
+      {
+        "ticker": "HAL",
+        "entry": 4985.05,
+        "target1": 5181.14,
+        "target2": 5311.86,
+        "stop": 4940.45,
+        "verdict": "TRADE NOW",
+        "eod_open": 4985.0,
+        "eod_high": 5017.89990234375,
+        "eod_low": 4842.39990234375,
+        "eod_close": 4999.0,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 4940.45) \u2014 -0.89% (clean stop, system worked)"
+      },
+      {
+        "ticker": "RVNL",
+        "entry": 195.04,
+        "target1": 205.26,
+        "target2": 212.07,
+        "stop": 192.2,
+        "verdict": "TRADE NOW",
+        "eod_open": 194.99000549316406,
+        "eod_high": 203.0,
+        "eod_low": 191.72000122070312,
+        "eod_close": 201.6999969482422,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 192.2) \u2014 -1.46% (clean stop, system worked)"
+      },
+      {
+        "ticker": "NYKAA",
+        "entry": 351.55,
+        "target1": 368.44,
+        "target2": 379.69,
+        "stop": 348.6,
+        "verdict": "TRADE NOW",
+        "eod_open": 351.5,
+        "eod_high": 359.70001220703125,
+        "eod_low": 346.20001220703125,
+        "eod_close": 359.70001220703125,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 348.6) \u2014 -0.84% (clean stop, system worked)"
+      },
+      {
+        "ticker": "PAGEIND",
+        "entry": 35675.05,
+        "target1": 37045.44,
+        "target2": 37959.03,
+        "stop": 35299.95,
+        "verdict": "WATCH",
+        "eod_open": 35675.0,
+        "eod_high": 36710.0,
+        "eod_low": 35260.0,
+        "eod_close": 36380.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ADANIGREEN",
+        "entry": 1431.25,
+        "target1": 1498.22,
+        "target2": 1542.87,
+        "stop": 1416.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 1417.0,
+        "eod_high": 1449.5,
+        "eod_low": 1417.0,
+        "eod_close": 1448.9000244140625,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 1448.9000244140625 (+1.2%)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 3,
+      "false_positives": 1,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]

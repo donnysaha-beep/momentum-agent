@@ -1,0 +1,64 @@
+=================================================================
+  PERFORMANCE AUDIT — Monday, November 09 2026
+  Layer 3 | 10:52 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 3
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 1
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [LOSS]       HAL          | Verdict: TRADE NOW
+               Entry: Rs 4985.05 | Stop: Rs 4940.45 | T1: Rs 5181.14
+               EOD: O:4985.0 H:5017.89990234375 L:4842.39990234375 C:4999.0
+               Hit stop loss (Rs 4940.45) — -0.89% (clean stop, system worked)
+
+  [LOSS]       RVNL         | Verdict: TRADE NOW
+               Entry: Rs 195.04 | Stop: Rs 192.2 | T1: Rs 205.26
+               EOD: O:194.99000549316406 H:203.0 L:191.72000122070312 C:201.6999969482422
+               Hit stop loss (Rs 192.2) — -1.46% (clean stop, system worked)
+
+  [LOSS]       NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 351.55 | Stop: Rs 348.6 | T1: Rs 368.44
+               EOD: O:351.5 H:359.70001220703125 L:346.20001220703125 C:359.70001220703125
+               Hit stop loss (Rs 348.6) — -0.84% (clean stop, system worked)
+
+  [MISSED]     PAGEIND      | Verdict: WATCH
+               Entry: Rs 35675.05 | Stop: Rs 35299.95 | T1: Rs 37045.44
+               EOD: O:35675.0 H:36710.0 L:35260.0 C:36380.0
+               Entry triggered but no target set — monitor
+
+  [FP]         ADANIGREEN   | Verdict: TRADE NOW
+               Entry: Rs 1431.25 | Stop: Rs 1416.95 | T1: Rs 1498.22
+               EOD: O:1417.0 H:1449.5 L:1417.0 C:1448.9000244140625
+               Triggered but no target/stop hit — closed at Rs 1448.9000244140625 (+1.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (90 days tracked)
+=================================================================
+  Total Trades    : 170
+  Win Rate        : 5.9%
+  Good Wins       : 10
+  Good Losses     : 49
+  False Positives : 111
+  Valid Skips     : 24
+  Missed Trades   : 315
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
