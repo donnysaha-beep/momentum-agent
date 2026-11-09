@@ -1,0 +1,144 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Monday, November 09 2026 10:00 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs25044.65  | Today: +0.1%  | 1W: +6.8%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 17.4  (-0.4%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Pharma (+3.2%) | PSU (+2.2%) | Infra (+2.1%)
+  Lagging : Consumer (-0.5%) | IT (-0.8%) | Cement (-1.6%)
+
+Found 46 momentum stocks → 8 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    DIVISLAB     Rs 11565.5  +12.1%   85.0   3.3x   +0.0%  +12.0%  6.0x    7/10   A
+2    ADANIPORTS   Rs  1942.7   +0.3%   68.1   0.9x   +0.0%   +0.3%  2.7x    7/10   A
+3    RVNL         Rs   201.7   +4.3%   59.1   2.1x  -47.7%   +4.3%  1.8x    6/10   A
+4    NYKAA        Rs   359.7   +1.9%   62.8   1.0x   +0.0%   +1.8%  1.6x    6/10   A
+5    ADANIGREEN   Rs  1448.9   +1.7%   68.2   0.9x   -9.7%   +1.7%  3.2x    6/10   A
+6    PAGEIND      Rs 36380.0   +1.2%   56.2   1.5x  -16.1%   +1.2%  1.1x    6/10   A
+7    HAL          Rs  4999.0   +0.4%   57.7   1.1x   -2.0%   +0.3%  0.8x    6/10   A
+8    TECHM        Rs  1805.0   -1.4%   64.9   0.7x   -1.4%   -1.5%  1.2x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  DIVISLAB (Pharma) — Rs11565.5 | Grade A | 7/10
+  52w: Rs5797.09 — Rs11565.5 | ATR: 2.84%/day | Ext: 5.99x
+    [-] RSI > 75 (overbought)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+12.0%)
+    [-] Not ATR-extended (6.0x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1942.7 | Grade A | 7/10
+  52w: Rs1298.13 — Rs1942.7 | ATR: 2.63%/day | Ext: 2.68x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [-] Not ATR-extended (2.7x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  RVNL (Infra) — Rs201.7 | Grade A | 6/10
+  52w: Rs179.67 — Rs385.53 | ATR: 3.34%/day | Ext: 1.75x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.3%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs359.7 | Grade A | 6/10
+  52w: Rs234.7 — Rs359.7 | ATR: 3.07%/day | Ext: 1.58x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.8%)
+    [+] Not ATR-extended (1.6x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  ADANIGREEN (Energy) — Rs1448.9 | Grade A | 6/10
+  52w: Rs772.8 — Rs1604.5 | ATR: 2.99%/day | Ext: 3.16x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.7%)
+    [-] Not ATR-extended (3.2x ATR from SMA20)
+    [-] In leading sector (Energy)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PAGEIND (Consumer) — Rs36380.0 | Grade A | 6/10
+  52w: Rs29916.57 — Rs43370.55 | ATR: 2.53%/day | Ext: 1.09x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.2%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [-] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4999.0 | Grade A | 6/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.58%/day | Ext: 0.77x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [-] In leading sector (Defence)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1805.0 | Grade A | 6/10
+  52w: Rs1287.33 — Rs1831.0 | ATR: 2.76%/day | Ext: 1.19x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.5%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [-] In leading sector (IT)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
