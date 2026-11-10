@@ -1,0 +1,545 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 10, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs25044.65  1D: +0.1%  1W: +6.8%  1M: +12.7%  3M: +1.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TECHM          Rs  1805.0   -1.4%  +21.6%    +9.0%   64.9  1.2x   WATCH
+TRENT          Rs  3119.2   +1.3%   +8.4%    -4.2%   67.0  2.2x   WATCH
+NYKAA          Rs   359.7   +1.9%   +8.2%    -4.4%   62.8  1.6x   WATCH
+RVNL           Rs   201.7   +4.3%   +7.8%    -4.9%   59.1  1.8x   WATCH
+HAL            Rs  4999.0   +0.4%   +7.6%    -5.1%   57.7  0.8x   WATCH
+CROMPTON       Rs   218.9   +1.5%   +7.1%    -5.5%   59.6  1.8x   WATCH
+IRB            Rs    18.3   +7.3%   +4.2%    -8.4%   62.3  2.2x   WATCH
+SIEMENS        Rs  3655.0   +2.7%   +0.4%   -12.2%   55.7  1.4x   WATCH
+PAGEIND        Rs 36380.0   +1.2%   -0.2%   -12.8%   56.2  1.1x   WATCH
+FEDERALBNK     Rs   344.1   +1.2%   +7.2%    -5.5%   56.1  0.5x   WAIT
+DIVISLAB       Rs 11565.5  +12.1%  +23.6%   +10.9%   85.0  6.0x   AVOID
+ADANIGREEN     Rs  1448.9   +1.7%  +17.2%    +4.6%   68.2  3.2x   AVOID
+IRFC           Rs    83.5   +3.8%  +14.1%    +1.4%   67.9  2.8x   AVOID
+ADANIPORTS     Rs  1942.7   +0.3%  +13.7%    +1.1%   68.1  2.7x   AVOID
+HAVELLS        Rs  1159.5   +2.8%  +13.3%    +0.6%   66.5  2.8x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.8T | P/E: 29.009964
+  Price: Rs1805.0  |  52w range: Rs1287.33 — Rs1831.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.4%  vs Nifty +0.1%  -> RS: -1.5% (UNDERPERFORMING)
+    1W:  +1.0%  vs Nifty +6.8%
+    1M:  +21.6%  vs Nifty +12.7%  -> RS: +9.0% (OUTPERFORMING)
+    3M:  +10.3%  vs Nifty +1.7%  -> RS: +8.6% (OUTPERFORMING)
+    6M:  +26.7%
+
+  TREND HEALTH:
+    RSI: 64.9  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.76%
+    ATR extension from SMA20: 1.19x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.65x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1730.16 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.4% of 52w high (breakout zone)
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+
+-----------------------------------------------------------------
+
+  TRENT — Trent Limited
+  Consumer Cyclical | Rs1.7T | P/E: 87.74121
+  Price: Rs3119.2  |  52w range: Rs2193.96 — Rs4398.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.3%  vs Nifty +0.1%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  +2.4%  vs Nifty +6.8%
+    1M:  +8.4%  vs Nifty +12.7%  -> RS: -4.2% (UNDERPERFORMING)
+    3M:  -0.3%  vs Nifty +1.7%  -> RS: -2.0% (UNDERPERFORMING)
+    6M:  +13.1%
+
+  TREND HEALTH:
+    RSI: 67.0  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.65%
+    ATR extension from SMA20: 2.19x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.97x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2994.99 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 2.19x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 321.16074
+  Price: Rs359.7  |  52w range: Rs234.7 — Rs359.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty +0.1%  -> RS: +1.8% (OUTPERFORMING)
+    1W:  +1.7%  vs Nifty +6.8%
+    1M:  +8.2%  vs Nifty +12.7%  -> RS: -4.4% (UNDERPERFORMING)
+    3M:  +7.3%  vs Nifty +1.7%  -> RS: +5.5% (OUTPERFORMING)
+    6M:  +35.9%
+
+  TREND HEALTH:
+    RSI: 62.8  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 3.07%
+    ATR extension from SMA20: 1.58x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.93x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs343.11 (-4.6%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.58x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  RVNL — Rail Vikas Nigam Limited
+  Industrials | Rs420.5B | P/E: 46.798145
+  Price: Rs201.7  |  52w range: Rs179.67 — Rs385.53
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.3%  vs Nifty +0.1%  -> RS: +4.3% (OUTPERFORMING)
+    1W:  +8.4%  vs Nifty +6.8%
+    1M:  +7.8%  vs Nifty +12.7%  -> RS: -4.9% (UNDERPERFORMING)
+    3M:  -11.7%  vs Nifty +1.7%  -> RS: -13.4% (UNDERPERFORMING)
+    6M:  -32.0%
+
+  TREND HEALTH:
+    RSI: 59.1  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 3.34%
+    ATR extension from SMA20: 1.75x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 2.08x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs191.59 (-5.0%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.08x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 1.75x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * GPT Infraprojects Ltd (BOM:533761) (Q2 2027) Earnings Call Highlights: Record Order Book and ...
+    * Rail Vikas Nigam Ltd (BOM:542649) (Q1 2027) Earnings Call Highlights: Record Order Book and ...
+    * Rail Vikas Nigam Ltd (BOM:542649) Q4 2026 Earnings Call Highlights: Navigating Growth Amidst ...
+    * Texmaco Rail & Engineering Ltd (BOM:533326) Q2 2026 Earnings Call Highlights: Strong ...
+    * Rail Vikas Nigam Ltd (BOM:542649) Q2 2026 Earnings Call Highlights: Strong Order Book and New ...
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.3T | P/E: 35.86598
+  Price: Rs4999.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.4%  vs Nifty +0.1%  -> RS: +0.3%
+    1W:  +3.0%  vs Nifty +6.8%
+    1M:  +7.6%  vs Nifty +12.7%  -> RS: -5.1% (UNDERPERFORMING)
+    3M:  +7.8%  vs Nifty +1.7%  -> RS: +6.1% (OUTPERFORMING)
+    6M:  +15.4%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.58%
+    ATR extension from SMA20: 0.77x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.06x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4805.23 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+
+-----------------------------------------------------------------
+
+  CROMPTON — Crompton Greaves Consumer Electricals Limited
+  Consumer Cyclical | Rs141.0B | P/E: N/A
+  Price: Rs218.9  |  52w range: Rs191.55 — Rs298.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.5%  vs Nifty +0.1%  -> RS: +1.4% (OUTPERFORMING)
+    1W:  +12.3%  vs Nifty +6.8%
+    1M:  +7.1%  vs Nifty +12.7%  -> RS: -5.5% (UNDERPERFORMING)
+    3M:  -17.7%  vs Nifty +1.7%  -> RS: -19.4% (UNDERPERFORMING)
+    6M:  -18.7%
+
+  TREND HEALTH:
+    RSI: 59.6  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 3.75%
+    ATR extension from SMA20: 1.75x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.88x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs206.6 (-5.6%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 1.75x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) (Q1 2027) Earnings Call Highlights: ...
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) Q4 2026 Earnings Call Highlights: Strong ...
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) Q3 2026 Earnings Call Highlights: Strong ...
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) Q2 2026 Earnings Call Highlights: Strong ...
+
+-----------------------------------------------------------------
+
+  IRB — IRB Infrastructure Developers Limited
+  Industrials | Rs220.7B | P/E: 20.528091
+  Price: Rs18.27  |  52w range: Rs15.73 — Rs22.73
+
+  PERFORMANCE vs NIFTY:
+    1D:  +7.3%  vs Nifty +0.1%  -> RS: +7.3% (OUTPERFORMING)
+    1W:  +12.2%  vs Nifty +6.8%
+    1M:  +4.2%  vs Nifty +12.7%  -> RS: -8.4% (UNDERPERFORMING)
+    3M:  -9.1%  vs Nifty +1.7%  -> RS: -10.8% (UNDERPERFORMING)
+    6M:  -14.8%
+
+  TREND HEALTH:
+    RSI: 62.3  |  Days above SMA50 (last 20): 1/20
+    Daily volatility (ATR%): 3.38%
+    ATR extension from SMA20: 2.22x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 4.15x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs17.34 (-5.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (4.15x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 2.22x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * IRB Infrastructure Developers Ltd (BOM:532947) (Q2 2027) Earnings Call Highlights: PAT Surges ...
+    * IRB Infrastructure Developers Ltd (BOM:532947) (Q1 2027) Earnings Call Highlights: PAT Surges ...
+    * IRB Infrastructure Developers Ltd (BOM:532947) Q4 2026 Earnings Call Highlights: Navigating ...
+    * IRB Infrastructure Developers Ltd (BOM:532947) Q3 2026 Earnings Call Highlights: Navigating ...
+
+-----------------------------------------------------------------
+
+  SIEMENS — Siemens Limited
+  Industrials | Rs1.3T | P/E: 88.43455
+  Price: Rs3655.0  |  52w range: Rs2834.67 — Rs4114.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.7%  vs Nifty +0.1%  -> RS: +2.6% (OUTPERFORMING)
+    1W:  +7.3%  vs Nifty +6.8%
+    1M:  +0.4%  vs Nifty +12.7%  -> RS: -12.2% (UNDERPERFORMING)
+    3M:  -8.2%  vs Nifty +1.7%  -> RS: -9.9% (UNDERPERFORMING)
+    6M:  -3.5%
+
+  TREND HEALTH:
+    RSI: 55.7  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 3.37%
+    ATR extension from SMA20: 1.37x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.37x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3470.32 (-5.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Siemens Ltd (BOM:500550) Q4 2026 Earnings Call Highlights: Strong Order Growth Amid ...
+
+-----------------------------------------------------------------
+
+  PAGEIND — Page Industries Limited
+  Consumer Cyclical | Rs405.8B | P/E: 53.685528
+  Price: Rs36380.0  |  52w range: Rs29916.57 — Rs43370.55
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.1%  -> RS: +1.2% (OUTPERFORMING)
+    1W:  +2.5%  vs Nifty +6.8%
+    1M:  -0.2%  vs Nifty +12.7%  -> RS: -12.8% (UNDERPERFORMING)
+    3M:  -9.3%  vs Nifty +1.7%  -> RS: -11.1% (UNDERPERFORMING)
+    6M:  -0.2%
+
+  TREND HEALTH:
+    RSI: 56.2  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): 2.53%
+    ATR extension from SMA20: 1.09x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.47x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs34996.75 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Page Industries Ltd (BOM:532827) (Q1 2027) Earnings Call Highlights: Revenue Grows 7. ...
+    * Jockey India licensee's quarterly profit falls on higher expenses
+    * Page Industries Ltd (BOM:532827) Q4 2026 Earnings Call Highlights: Strong Revenue Growth Amid ...
+    * Page Industries Ltd (BOM:532827) Q2 2026 Earnings Call Highlights: Navigating Growth Amidst ...
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs850.1B | P/E: 16.801758
+  Price: Rs344.1  |  52w range: Rs234.99 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty +0.1%  -> RS: +1.1% (OUTPERFORMING)
+    1W:  +2.0%  vs Nifty +6.8%
+    1M:  +7.2%  vs Nifty +12.7%  -> RS: -5.5% (UNDERPERFORMING)
+    3M:  -3.1%  vs Nifty +1.7%  -> RS: -4.8% (UNDERPERFORMING)
+    6M:  +20.3%
+
+  TREND HEALTH:
+    RSI: 56.1  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.57%
+    ATR extension from SMA20: 0.52x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.61x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs330.85 (-3.9%)
+
+  VERDICT: WAIT
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs3.1T | P/E: 91.26095
+  Price: Rs11565.5  |  52w range: Rs5797.09 — Rs11565.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +12.1%  vs Nifty +0.1%  -> RS: +12.0% (OUTPERFORMING)
+    1W:  +16.3%  vs Nifty +6.8%
+    1M:  +23.6%  vs Nifty +12.7%  -> RS: +10.9% (OUTPERFORMING)
+    3M:  +37.9%  vs Nifty +1.7%  -> RS: +36.2% (OUTPERFORMING)
+    6M:  +78.6%
+
+  TREND HEALTH:
+    RSI: 85.0  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.84%
+    ATR extension from SMA20: 5.99x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 3.25x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs11072.61 (-4.3%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [+] Heavy volume today (3.25x avg) = conviction
+    [~] Extended 5.99x from SMA20 — wait for pullback
+    [-] RSI overbought (>80)
+    [-] Severely extended (5.99x ATR from SMA20)
+
+  RECENT NEWS:
+    * Divi's Laboratories Ltd (BOM:532488) (Q2 2027) Earnings Call Highlights: Profit Surges 64% as ...
+    * Missed Divi's Laboratories' Rally? Here's What Holders Saw
+    * 3 Indian Export Stocks Retail Investors Are Watching For Dollar Earnings
+    * 3 Indian Export Stocks That Could Benefit From A Weaker Rupee
+    * Divi's Laboratories Ltd (BOM:532488) (Q1 FY27) Earnings Call Highlights: Record Profit Surge ...
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.4T | P/E: 131.71819
+  Price: Rs1448.9  |  52w range: Rs772.8 — Rs1604.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.7%  vs Nifty +0.1%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +8.4%  vs Nifty +6.8%
+    1M:  +17.2%  vs Nifty +12.7%  -> RS: +4.6% (OUTPERFORMING)
+    3M:  +5.0%  vs Nifty +1.7%  -> RS: +3.3% (OUTPERFORMING)
+    6M:  +18.1%
+
+  TREND HEALTH:
+    RSI: 68.2  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.99%
+    ATR extension from SMA20: 3.16x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.9x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1383.94 (-4.5%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 3.16x from SMA20 — wait for pullback
+    [-] Severely extended (3.16x ATR from SMA20)
+
+  RECENT NEWS:
+    * What Adani Green Energy Bulls Got Right
+    * Adani Green Energy Ltd (BOM:541450) Q1 2027 Earnings Call Highlights: Record Growth in Energy ...
+    * Gautam Adani’s Net Worth Swells By $2 Billion—Becomes Asia’s Richest Person
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+
+-----------------------------------------------------------------
+
+  IRFC — Indian Railway Finance Corporation Limited
+  Financial Services | Rs1.1T | P/E: 14.804965
+  Price: Rs83.5  |  52w range: Rs73.19 — Rs130.26
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.8%  vs Nifty +0.1%  -> RS: +3.8% (OUTPERFORMING)
+    1W:  +10.4%  vs Nifty +6.8%
+    1M:  +14.1%  vs Nifty +12.7%  -> RS: +1.4% (OUTPERFORMING)
+    3M:  -4.7%  vs Nifty +1.7%  -> RS: -6.4% (UNDERPERFORMING)
+    6M:  -18.7%
+
+  TREND HEALTH:
+    RSI: 67.9  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): 2.78%
+    ATR extension from SMA20: 2.81x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.94x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs80.01 (-4.2%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 2.81x from SMA20 — wait for pullback
+    [-] Severely extended (2.81x ATR from SMA20)
+
+  RECENT NEWS:
+    * Indian Railway Finance Corp Ltd (BOM:543257) (Q1 2027) Earnings Call Highlights: Record Revenue ...
+    * Indian Railway Finance Corp Ltd (BOM:543257) Q4 2026 Earnings Call Highlights: Record Revenue ...
+    * Indian Railway Finance Corp Ltd (BOM:543257) Q3 2026 Earnings Call Highlights: Strong Growth in ...
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.5T | P/E: 32.421562
+  Price: Rs1942.7  |  52w range: Rs1298.13 — Rs1942.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty +0.1%  -> RS: +0.2%
+    1W:  +4.8%  vs Nifty +6.8%
+    1M:  +13.7%  vs Nifty +12.7%  -> RS: +1.1% (OUTPERFORMING)
+    3M:  +14.3%  vs Nifty +1.7%  -> RS: +12.6% (OUTPERFORMING)
+    6M:  +17.7%
+
+  TREND HEALTH:
+    RSI: 68.1  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.63%
+    ATR extension from SMA20: 2.68x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.84x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1865.99 (-3.9%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 2.68x from SMA20 — wait for pullback
+    [-] Severely extended (2.68x ATR from SMA20)
+
+  RECENT NEWS:
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * 3 India Logistics Stocks Riding The Shift From Road To Rail
+    * Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift
+    * India's Adani Ports posts higher profit on domestic demand
+    * Gautam Adani’s Net Worth Swells By $2 Billion—Becomes Asia’s Richest Person
+
+-----------------------------------------------------------------
+
+  HAVELLS — Havells India Limited
+  Industrials | Rs727.7B | P/E: 43.75472
+  Price: Rs1159.5  |  52w range: Rs1008.5 — Rs1489.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +2.8%  vs Nifty +0.1%  -> RS: +2.7% (OUTPERFORMING)
+    1W:  +12.7%  vs Nifty +6.8%
+    1M:  +13.3%  vs Nifty +12.7%  -> RS: +0.6% (OUTPERFORMING)
+    3M:  -10.1%  vs Nifty +1.7%  -> RS: -11.8% (UNDERPERFORMING)
+    6M:  -6.1%
+
+  TREND HEALTH:
+    RSI: 66.5  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 2.88%
+    ATR extension from SMA20: 2.75x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.84x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1109.33 (-4.3%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 2.75x from SMA20 — wait for pullback
+    [-] Severely extended (2.75x ATR from SMA20)
+
+  RECENT NEWS:
+    * Havells India Ltd (BOM:517354) Q1 2027 Earnings Call Highlights: Strong Revenue Growth Amid ...
+    * Havells India Ltd (BOM:517354) Q4 2026 Earnings Call Highlights: Strategic Investments and ...
+    * Havells India Ltd (BOM:517354) Q3 2026 Earnings Call Highlights: Strong Revenue and EBITDA ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
