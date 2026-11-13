@@ -1,0 +1,74 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, November 13 2026
+  Layer 3 | 08:20 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 1
+  Valid Skips     : 1
+  Missed Trades   : 4
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         NYKAA        | Verdict: TRADE NOW
+               Entry: Rs 360.05 | Stop: Rs 357.2 | T1: Rs 376.55
+               EOD: O:357.45001220703125 H:366.3500061035156 L:357.25 C:365.20001220703125
+               Triggered but no target/stop hit — closed at Rs 365.20001220703125 (+1.4%)
+
+  [MISSED]     ICICIBANK    | Verdict: WATCH
+               Entry: Rs 1583.15 | Stop: Rs 1574.45 | T1: Rs 1632.36
+               EOD: O:1575.0999755859375 H:1585.800048828125 L:1566.199951171875 C:1583.5999755859375
+               Entry triggered but no target set — monitor
+
+  [MISSED]     BHEL         | Verdict: WATCH
+               Entry: Rs 432.45 | Stop: Rs 424.7 | T1: Rs 455.22
+               EOD: O:424.75 H:438.25 L:424.75 C:436.29998779296875
+               Entry triggered but no target set — monitor
+
+  [MISSED]     ABB          | Verdict: WATCH
+               Entry: Rs 7026.05 | Stop: Rs 6929.95 | T1: Rs 7369.28
+               EOD: O:6944.5 H:7120.0 L:6930.0 C:7054.5
+               Entry triggered but no target set — monitor
+
+  [MISSED]     PAYTM        | Verdict: WATCH
+               Entry: Rs 1934.05 | Stop: Rs 1906.35 | T1: Rs 2033.07
+               EOD: O:1911.699951171875 H:1960.0 L:1903.0 C:1939.9000244140625
+               Entry triggered but no target set — monitor
+
+  [SKIP OK]    KOTAKBANK    | Verdict: WATCH
+               Entry: Rs 489.75 | Stop: Rs 486.8 | T1: Rs 505.73
+               EOD: O:486.8500061035156 H:489.70001220703125 L:484.1000061035156 C:488.54998779296875
+               Correctly watched — no valid entry formed
+
+  [LOSS]       FEDERALBNK   | Verdict: TRADE NOW
+               Entry: Rs 361.8 | Stop: Rs 359.95 | T1: Rs 375.32
+               EOD: O:360.75 H:362.3500061035156 L:358.20001220703125 C:360.95001220703125
+               Hit stop loss (Rs 359.95) — -0.51% (clean stop, system worked)
+
+=================================================================
+  RUNNING PERFORMANCE (93 days tracked)
+=================================================================
+  Total Trades    : 175
+  Win Rate        : 6.3%
+  Good Wins       : 11
+  Good Losses     : 50
+  False Positives : 114
+  Valid Skips     : 25
+  Missed Trades   : 324
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================

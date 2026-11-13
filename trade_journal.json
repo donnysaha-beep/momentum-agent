@@ -8432,5 +8432,116 @@
       "missed_trades": 3,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-11-13",
+    "trades": [
+      {
+        "ticker": "NYKAA",
+        "entry": 360.05,
+        "target1": 376.55,
+        "target2": 387.55,
+        "stop": 357.2,
+        "verdict": "TRADE NOW",
+        "eod_open": 357.45001220703125,
+        "eod_high": 366.3500061035156,
+        "eod_low": 357.25,
+        "eod_close": 365.20001220703125,
+        "outcome": "FALSE_POSITIVE",
+        "outcome_detail": "Triggered but no target/stop hit \u2014 closed at Rs 365.20001220703125 (+1.4%)"
+      },
+      {
+        "ticker": "ICICIBANK",
+        "entry": 1583.15,
+        "target1": 1632.36,
+        "target2": 1665.17,
+        "stop": 1574.45,
+        "verdict": "WATCH",
+        "eod_open": 1575.0999755859375,
+        "eod_high": 1585.800048828125,
+        "eod_low": 1566.199951171875,
+        "eod_close": 1583.5999755859375,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "BHEL",
+        "entry": 432.45,
+        "target1": 455.22,
+        "target2": 470.39,
+        "stop": 424.7,
+        "verdict": "WATCH",
+        "eod_open": 424.75,
+        "eod_high": 438.25,
+        "eod_low": 424.75,
+        "eod_close": 436.29998779296875,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "ABB",
+        "entry": 7026.05,
+        "target1": 7369.28,
+        "target2": 7598.09,
+        "stop": 6929.95,
+        "verdict": "WATCH",
+        "eod_open": 6944.5,
+        "eod_high": 7120.0,
+        "eod_low": 6930.0,
+        "eod_close": 7054.5,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "PAYTM",
+        "entry": 1934.05,
+        "target1": 2033.07,
+        "target2": 2099.09,
+        "stop": 1906.35,
+        "verdict": "WATCH",
+        "eod_open": 1911.699951171875,
+        "eod_high": 1960.0,
+        "eod_low": 1903.0,
+        "eod_close": 1939.9000244140625,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "KOTAKBANK",
+        "entry": 489.75,
+        "target1": 505.73,
+        "target2": 516.39,
+        "stop": 486.8,
+        "verdict": "WATCH",
+        "eod_open": 486.8500061035156,
+        "eod_high": 489.70001220703125,
+        "eod_low": 484.1000061035156,
+        "eod_close": 488.54998779296875,
+        "outcome": "VALID_SKIP",
+        "outcome_detail": "Correctly watched \u2014 no valid entry formed"
+      },
+      {
+        "ticker": "FEDERALBNK",
+        "entry": 361.8,
+        "target1": 375.32,
+        "target2": 384.34,
+        "stop": 359.95,
+        "verdict": "TRADE NOW",
+        "eod_open": 360.75,
+        "eod_high": 362.3500061035156,
+        "eod_low": 358.20001220703125,
+        "eod_close": 360.95001220703125,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 359.95) \u2014 -0.51% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 1,
+      "valid_skips": 1,
+      "missed_trades": 4,
+      "false_negatives": 0
+    }
   }
 ]
