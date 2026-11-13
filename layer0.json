@@ -1,22 +1,24 @@
 {
-  "date": "2026-11-12",
-  "regime": "BULL",
-  "confidence": 60,
+  "date": "2026-11-13",
+  "regime": "NEUTRAL",
+  "confidence": 20,
   "trend_type": "BREAKOUT_FRIENDLY",
-  "size_multiplier": 1.0,
+  "size_multiplier": 0.75,
   "prioritize_sectors": [
     "IT",
     "Banking",
     "Infra"
   ],
-  "avoid_sectors": [],
-  "gift_bias": "BULLISH",
-  "gift_estimated_chg": 0.66,
-  "india_vix": 16.68,
-  "india_vix_chg": -5.03,
+  "avoid_sectors": [
+    "Energy"
+  ],
+  "gift_bias": "NEUTRAL",
+  "gift_estimated_chg": -0.17,
+  "india_vix": 15.8,
+  "india_vix_chg": -4.95,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": 1.31,
-  "crude_chg": -0.16,
-  "gold_chg": -1.52
+  "sp500_chg": -0.35,
+  "crude_chg": -0.06,
+  "gold_chg": 0.46
 }
