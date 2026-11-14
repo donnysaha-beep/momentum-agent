@@ -1,0 +1,447 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 14, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs25144.3  1D: -0.6%  1W: +2.5%  1M: +10.7%  3M: +2.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TECHM          Rs  1764.0   -0.6%  +15.2%    +4.6%   56.5 -0.4x   WATCH
+FEDERALBNK     Rs   360.9   -0.4%   +9.5%    -1.1%   66.3  1.9x   WATCH
+NYKAA          Rs   365.2   +1.4%   +8.1%    -2.6%   64.9  1.8x   WATCH
+ADANIPORTS     Rs  1903.3   -1.4%   +8.0%    -2.7%   59.6  1.5x   WATCH
+ABB            Rs  7054.5   +1.9%   +1.1%    -9.6%   58.4  1.7x   WATCH
+BHEL           Rs   436.3   +1.2%   -1.4%   -12.0%   58.5  1.6x   WATCH
+DIVISLAB       Rs 11442.0   -0.4%  +23.2%   +12.6%   78.7  4.5x   AVOID
+ICICIBANK      Rs  1583.6   -0.4%  +16.4%    +5.8%   75.8  4.3x   AVOID
+MARICO         Rs   900.0   -0.2%  +15.0%    +4.3%   69.4  3.4x   AVOID
+PAYTM          Rs  1939.9   +0.8%  +13.1%    +2.5%   72.3  3.4x   AVOID
+KOTAKBANK      Rs   488.6   -0.4%  +11.3%    +0.6%   74.0  3.0x   AVOID
+AXISBANK       Rs  1331.0   -0.9%   +4.9%    -5.7%   65.9  2.6x   AVOID
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.7T | P/E: 28.351011
+  Price: Rs1764.0  |  52w range: Rs1287.33 — Rs1831.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -0.6%  -> RS: +0.1%
+    1W:  -3.2%  vs Nifty +2.5%
+    1M:  +15.2%  vs Nifty +10.7%  -> RS: +4.6% (OUTPERFORMING)
+    3M:  +8.4%  vs Nifty +2.3%  -> RS: +6.2% (OUTPERFORMING)
+    6M:  +24.4%
+
+  TREND HEALTH:
+    RSI: 56.5  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.65%
+    ATR extension from SMA20: -0.44x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.33x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1693.89 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs891.8B | P/E: 17.624514
+  Price: Rs360.95  |  52w range: Rs234.99 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.6%  -> RS: +0.2%
+    1W:  +6.6%  vs Nifty +2.5%
+    1M:  +9.5%  vs Nifty +10.7%  -> RS: -1.1% (UNDERPERFORMING)
+    3M:  +1.1%  vs Nifty +2.3%  -> RS: -1.2% (UNDERPERFORMING)
+    6M:  +23.6%
+
+  TREND HEALTH:
+    RSI: 66.3  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.46%
+    ATR extension from SMA20: 1.86x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.42x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs347.64 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.6% of 52w high (breakout zone)
+    [~] Extended 1.86x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 326.07144
+  Price: Rs365.2  |  52w range: Rs234.7 — Rs365.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.4%  vs Nifty -0.6%  -> RS: +2.0% (OUTPERFORMING)
+    1W:  +4.2%  vs Nifty +2.5%
+    1M:  +8.1%  vs Nifty +10.7%  -> RS: -2.6% (UNDERPERFORMING)
+    3M:  +12.8%  vs Nifty +2.3%  -> RS: +10.5% (OUTPERFORMING)
+    6M:  +34.1%
+
+  TREND HEALTH:
+    RSI: 64.9  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.95%
+    ATR extension from SMA20: 1.81x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.83x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs349.02 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 1.81x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.4T | P/E: 31.76402
+  Price: Rs1903.3  |  52w range: Rs1298.13 — Rs1942.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.4%  vs Nifty -0.6%  -> RS: -0.8% (UNDERPERFORMING)
+    1W:  +1.0%  vs Nifty +2.5%
+    1M:  +8.0%  vs Nifty +10.7%  -> RS: -2.7% (UNDERPERFORMING)
+    3M:  +13.2%  vs Nifty +2.3%  -> RS: +10.9% (OUTPERFORMING)
+    6M:  +9.3%
+
+  TREND HEALTH:
+    RSI: 59.6  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.67%
+    ATR extension from SMA20: 1.46x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1827.08 (-4.0%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.0% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * 3 India Logistics Stocks Riding The Shift From Road To Rail
+    * Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift
+    * India's Adani Ports posts higher profit on domestic demand
+    * Gautam Adani’s Net Worth Swells By $2 Billion—Becomes Asia’s Richest Person
+
+-----------------------------------------------------------------
+
+  ABB — ABB India Limited
+  Industrials | Rs1.5T | P/E: 94.23591
+  Price: Rs7054.5  |  52w range: Rs4618.02 — Rs7710.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.9%  vs Nifty -0.6%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  +6.4%  vs Nifty +2.5%
+    1M:  +1.1%  vs Nifty +10.7%  -> RS: -9.6% (UNDERPERFORMING)
+    3M:  -7.8%  vs Nifty +2.3%  -> RS: -10.1% (UNDERPERFORMING)
+    6M:  -0.6%
+
+  TREND HEALTH:
+    RSI: 58.4  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 3.22%
+    ATR extension from SMA20: 1.72x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.57x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs6714.18 (-4.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 1.72x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  BHEL — Bharat Heavy Electricals Limited
+  Industrials | Rs1.5T | P/E: 52.756947
+  Price: Rs436.3  |  52w range: Rs241.72 — Rs464.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.2%  vs Nifty -0.6%  -> RS: +1.8% (OUTPERFORMING)
+    1W:  +4.3%  vs Nifty +2.5%
+    1M:  -1.4%  vs Nifty +10.7%  -> RS: -12.0% (UNDERPERFORMING)
+    3M:  +6.7%  vs Nifty +2.3%  -> RS: +4.4% (OUTPERFORMING)
+    6M:  +13.4%
+
+  TREND HEALTH:
+    RSI: 58.5  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 3.38%
+    ATR extension from SMA20: 1.58x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs414.19 (-5.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.58x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Azad Engineering Ltd (NSE:AZAD) (Q2 2027) Earnings Call Highlights: Record Revenue of Rs 187. ...
+    * thyssenkrupp nucera AG & Co (THYKF) (Q3 2026) Earnings Call Highlights: Strategic Pivot to ...
+    * GE Power India Ltd (BOM:532309) Q3 2026 Earnings Call Highlights: Strong Profit Growth Amid ...
+    * Synergy Green Industries Ltd (BOM:541929) Q3 2026 Earnings Call Highlights: Expansion Plans and ...
+    * Adani secures Japanese funding for India’s green energy corridor
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs3.0T | P/E: 90.28643
+  Price: Rs11442.0  |  52w range: Rs5797.09 — Rs11565.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.6%  -> RS: +0.2%
+    1W:  +12.8%  vs Nifty +2.5%
+    1M:  +23.2%  vs Nifty +10.7%  -> RS: +12.6% (OUTPERFORMING)
+    3M:  +37.9%  vs Nifty +2.3%  -> RS: +35.6% (OUTPERFORMING)
+    6M:  +71.4%
+
+  TREND HEALTH:
+    RSI: 78.7  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 2.94%
+    ATR extension from SMA20: 4.52x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs10938.17 (-4.4%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 1.1% of 52w high (breakout zone)
+    [~] Extended 4.52x from SMA20 — wait for pullback
+    [-] Severely extended (4.52x ATR from SMA20)
+
+  RECENT NEWS:
+    * Divi's Laboratories Is Up 82%, But The Story Isn't Finished
+    * Divi's Laboratories Ltd (BOM:532488) (Q2 2027) Earnings Call Highlights: Profit Surges 64% as ...
+    * Missed Divi's Laboratories' Rally? Here's What Holders Saw
+    * 3 Indian Export Stocks Retail Investors Are Watching For Dollar Earnings
+    * 3 Indian Export Stocks That Could Benefit From A Weaker Rupee
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs11.4T | P/E: 19.447378
+  Price: Rs1583.6  |  52w range: Rs1195.82 — Rs1590.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.6%  -> RS: +0.2%
+    1W:  +5.6%  vs Nifty +2.5%
+    1M:  +16.4%  vs Nifty +10.7%  -> RS: +5.8% (OUTPERFORMING)
+    3M:  +10.6%  vs Nifty +2.3%  -> RS: +8.3% (OUTPERFORMING)
+    6M:  +24.8%
+
+  TREND HEALTH:
+    RSI: 75.8  |  Days above SMA50 (last 20): 18/20
+    Daily volatility (ATR%): 2.03%
+    ATR extension from SMA20: 4.26x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.64x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1535.48 (-3.0%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 0.4% of 52w high (breakout zone)
+    [~] Extended 4.26x from SMA20 — wait for pullback
+    [-] Severely extended (4.26x ATR from SMA20)
+
+  RECENT NEWS:
+    * Jindal Power secures $470m funding for Botswana power project
+    * Here's Where Investors Turned To As They Fled AI Stocks
+    * Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading
+    * 5 Best All-Time High Stocks to Buy According to Wall Street
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Friday Trading
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.2T | P/E: 57.840614
+  Price: Rs900.0  |  52w range: Rs707.42 — Rs925.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.2%  vs Nifty -0.6%  -> RS: +0.4%
+    1W:  +1.4%  vs Nifty +2.5%
+    1M:  +15.0%  vs Nifty +10.7%  -> RS: +4.3% (OUTPERFORMING)
+    3M:  +4.2%  vs Nifty +2.3%  -> RS: +1.9% (OUTPERFORMING)
+    6M:  +11.0%
+
+  TREND HEALTH:
+    RSI: 69.4  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 2.3%
+    ATR extension from SMA20: 3.44x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.51x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs868.94 (-3.5%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.7% of 52w high (breakout zone)
+    [~] Extended 3.44x from SMA20 — wait for pullback
+    [-] Severely extended (3.44x ATR from SMA20)
+
+
+-----------------------------------------------------------------
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.2T | P/E: 147.18513
+  Price: Rs1939.9  |  52w range: Rs959.0 — Rs1939.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.8%  vs Nifty -0.6%  -> RS: +1.4% (OUTPERFORMING)
+    1W:  +8.9%  vs Nifty +2.5%
+    1M:  +13.1%  vs Nifty +10.7%  -> RS: +2.5% (OUTPERFORMING)
+    3M:  +22.5%  vs Nifty +2.3%  -> RS: +20.2% (OUTPERFORMING)
+    6M:  +74.7%
+
+  TREND HEALTH:
+    RSI: 72.3  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): 3.38%
+    ATR extension from SMA20: 3.37x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.42x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1841.51 (-5.1%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 3.37x from SMA20 — wait for pullback
+    [-] Severely extended (3.37x ATR from SMA20)
+
+  RECENT NEWS:
+    * Top 3 Indian Founder Led Stocks With Revenue Growth Up To 22% To Watch
+    * One97 Communications And 2 Other Indian Founder Led Stocks
+    * 3 Indian Founder Led Stocks With Earnings Growth Up To 36%
+    * 3 Indian Founder Led Stocks With Up To 36% Earnings Growth
+    * Top 3 Indian Founder Led Stocks To Watch In November 2026
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs4.9T | P/E: 22.639017
+  Price: Rs488.55  |  52w range: Rs352.79 — Rs490.4
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.4%  vs Nifty -0.6%  -> RS: +0.2%
+    1W:  +4.6%  vs Nifty +2.5%
+    1M:  +11.3%  vs Nifty +10.7%  -> RS: +0.6% (OUTPERFORMING)
+    3M:  +24.2%  vs Nifty +2.3%  -> RS: +21.9% (OUTPERFORMING)
+    6M:  +29.9%
+
+  TREND HEALTH:
+    RSI: 74.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.09%
+    ATR extension from SMA20: 2.98x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.5x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs473.22 (-3.1%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.4% of 52w high (breakout zone)
+    [~] Extended 2.98x from SMA20 — wait for pullback
+    [-] Severely extended (2.98x ATR from SMA20)
+
+  RECENT NEWS:
+    * Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?
+    * CCI approves Kotak’s purchase of Deutsche Bank’s India retail operations
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs4.1T | P/E: 13.889178
+  Price: Rs1331.0  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.9%  vs Nifty -0.6%  -> RS: -0.3%
+    1W:  +4.0%  vs Nifty +2.5%
+    1M:  +4.9%  vs Nifty +10.7%  -> RS: -5.7% (UNDERPERFORMING)
+    3M:  +6.7%  vs Nifty +2.3%  -> RS: +4.4% (OUTPERFORMING)
+    6M:  +2.9%
+
+  TREND HEALTH:
+    RSI: 65.9  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 2.17%
+    ATR extension from SMA20: 2.56x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.61x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1287.67 (-3.3%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 2.56x from SMA20 — wait for pullback
+    [-] Severely extended (2.56x ATR from SMA20)
+
+  RECENT NEWS:
+    * Jindal Power secures $470m funding for Botswana power project
+    * Here's Where Investors Turned To As They Fled AI Stocks
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * Apple Pay launches in India with Axis Bank partnership
+    * Apple Launches Mobile Payment Services in India
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
