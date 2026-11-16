@@ -1,0 +1,99 @@
+=================================================================
+  BEAR SCANNER — Monday, November 16 2026 01:04 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: NEUTRAL
+  Price: 25291.1  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 25197.5 — 25310.55
+
+REGIME: NEUTRAL  |  SHORT SIZE: REDUCED SHORT SIZE (Rs 25,000/trade)
+
+SUMMARY: 2 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 5 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  DIVISLAB
+  ─────────────────────────────────────────────
+  Current Price  : Rs 11080.0
+  Gap from prev  : +0.2%  (prev Rs 11442.0 | opened Rs 11463.5)
+  Opening Range  : Rs 11442.0 — Rs 11519.0  (0.67% wide)
+  VWAP           : Rs 11159.14  (BELOW, sloping DOWN)
+  Volume         : EXPANDING
+  RSI (daily)    : 69.6
+  ATR (daily)    : Rs 359.04
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 11441.95  (break BELOW ORB low)
+    Target 1 (50%) : Rs 10903.39  (-4.7%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 10544.35  (-7.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 11519.05  (+0.7%)  [above ORB high]
+    Risk/Reward    : 1:7.03 (T1)  |  1:11.7 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 2 shares
+    Capital needed : Rs 22,884  (margin)
+    Max loss       : Rs 154  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping downward
+
+  SHORT NOW  [50% probability]
+  PAYTM
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1890.8
+  Gap from prev  : +0.1%  (prev Rs 1939.9 | opened Rs 1942.5)
+  Opening Range  : Rs 1917.1 — Rs 1956.0  (1.99% wide)
+  VWAP           : Rs 1895.99  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 67.8
+  ATR (daily)    : Rs 67.78
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1917.05  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1815.38  (-5.3%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1747.6  (-8.8%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1956.05  (+2.0%)  [above ORB high]
+    Risk/Reward    : 1:2.61 (T1)  |  1:4.35 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 13 shares
+    Capital needed : Rs 24,922  (margin)
+    Max loss       : Rs 507  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  FEDERALBNK  [50%]  |  Rs 362.0
+    [-] Stock holding above ORB low — no breakdown yet
+  ICICIBANK  [50%]  |  Rs 1585.0
+    [-] Above VWAP — no institutional selling confirmed
+  MARICO  [30%]  |  Rs 913.65
+    [-] Stock holding above ORB low — no breakdown yet
+    [-] Above VWAP — no institutional selling confirmed
+  AXISBANK  [30%]  |  Rs 1342.4
+    [-] Above VWAP — no institutional selling confirmed
+  TECHM  [30%]  |  Rs 1776.4
+    [-] Above VWAP — no institutional selling confirmed
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
