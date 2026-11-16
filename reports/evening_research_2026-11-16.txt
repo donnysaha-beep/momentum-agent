@@ -1,0 +1,259 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 16, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs25144.3  1D: -0.6%  1W: +2.5%  1M: +10.7%  3M: +2.3%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+PAYTM          Rs     nan    nan%    nan%     nan%   72.3  0.0x   WATCH NOW
+MARICO         Rs     nan    nan%    nan%     nan%   69.4  0.0x   WATCH
+AXISBANK       Rs     nan    nan%    nan%     nan%   65.9  0.0x   WATCH
+TECHM          Rs     nan    nan%    nan%     nan%   56.5  0.0x   WATCH
+FEDERALBNK     Rs     nan    nan%    nan%     nan%   66.3  0.0x   WATCH
+ICICIBANK      Rs     nan    nan%    nan%     nan%   75.8  0.0x   WATCH
+DIVISLAB       Rs     nan    nan%    nan%     nan%   78.7  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  PAYTM — One97 Communications Limited
+  Technology | Rs1.2T | P/E: 143.4598
+  Price: Rsnan  |  52w range: Rs959.0 — Rs1939.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 72.3  |  Days above SMA50 (last 20): 10/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.51x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Paytm secures preliminary RBI approval for digital wallets
+    * Top 3 Indian Founder Led Stocks With Revenue Growth Over 18%
+    * Top 3 Indian Founder Led Stocks With Revenue Growth Up To 22% To Watch
+    * One97 Communications And 2 Other Indian Founder Led Stocks
+    * 3 Indian Founder Led Stocks With Earnings Growth Up To 36%
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.2T | P/E: 58.717865
+  Price: Rsnan  |  52w range: Rs707.42 — Rs925.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 69.4  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.7x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs4.2T | P/E: 14.00814
+  Price: Rsnan  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 65.9  |  Days above SMA50 (last 20): 7/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.78x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Jindal Power secures $470m funding for Botswana power project
+    * Here's Where Investors Turned To As They Fled AI Stocks
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * Apple Pay launches in India with Axis Bank partnership
+    * Apple Launches Mobile Payment Services in India
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.7T | P/E: 28.550304
+  Price: Rsnan  |  52w range: Rs1287.33 — Rs1831.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 56.5  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.42x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs894.4B | P/E: 17.675781
+  Price: Rsnan  |  52w range: Rs238.25 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 66.3  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.64x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Modest Fair Value Lift On Refined Analyst Assumptions
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs11.4T | P/E: 19.464571
+  Price: Rsnan  |  52w range: Rs1195.82 — Rs1590.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 75.8  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.57x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Jindal Power secures $470m funding for Botswana power project
+    * Here's Where Investors Turned To As They Fled AI Stocks
+    * Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading
+    * 5 Best All-Time High Stocks to Buy According to Wall Street
+    * Asian Equities Traded in the US as American Depositary Receipts Surge in Friday Trading
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs2.9T | P/E: 87.42997
+  Price: Rsnan  |  52w range: Rs5797.09 — Rs11565.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.5%
+    1M:  nan%  vs Nifty +10.7%  -> RS: nan%
+    3M:  nan%  vs Nifty +2.3%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 78.7  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.05x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Divi's Laboratories Is Up 82%, But The Story Isn't Finished
+    * Divi's Laboratories Ltd (BOM:532488) (Q2 2027) Earnings Call Highlights: Profit Surges 64% as ...
+    * Missed Divi's Laboratories' Rally? Here's What Holders Saw
+    * 3 Indian Export Stocks Retail Investors Are Watching For Dollar Earnings
+    * 3 Indian Export Stocks That Could Benefit From A Weaker Rupee
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
