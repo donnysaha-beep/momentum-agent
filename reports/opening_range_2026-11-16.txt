@@ -1,0 +1,75 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Monday, November 16 2026 12:48 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 25291.1  |  Gap: +0.2%  |  VWAP: nan
+  ORB: 25197.5 — 25310.55
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 1 TRADE NOW | 0 WATCH | 4 WAIT | 2 SKIP
+
+=================================================================
+  *** TRADE NOW ***
+=================================================================
+  TRADE NOW  [80% probability]
+  MARICO
+  ─────────────────────────────────────────────
+  Current Price  : Rs 913.65
+  Gap from prev  : +0.1%  (prev Rs 900.0 | opened Rs 900.55)
+  Opening Range  : Rs 900.55 — Rs 907.4  (0.76% wide)
+  VWAP           : Rs 905.86  (ABOVE, sloping UP)
+  Volume         : EXPANDING
+  ATR (daily)    : Rs 20.58
+
+  TRADE PLAN:
+    Entry trigger  : Rs 907.45  (break above ORB high)
+    Target 1 (50%) : Rs 938.32  (+3.4%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 958.91  (+5.7%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 900.5  (-0.8%)  [below ORB low]
+    Risk/Reward    : 1:4.42 (T1)  |  1:7.36 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 27 shares
+    Capital needed : Rs 24,501
+    Max loss       : Rs 188  (if stop hit)
+
+  WHY THIS SETUP:
+    [+] Broke ORB high with VWAP support
+    [+] Volume expanding — conviction confirmed
+    [+] VWAP sloping upward
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  AXISBANK  [70%]  |  Rs 1342.4  |  ORB: 1337.8—1351.2  |  VWAP: 1339.07
+    [~] Inside opening range — direction not confirmed yet
+  TECHM  [70%]  |  Rs 1776.4  |  ORB: 1769.7—1790.7  |  VWAP: 1771.42
+    [~] Inside opening range — direction not confirmed yet
+  FEDERALBNK  [60%]  |  Rs 362.0  |  ORB: 359.6—362.75  |  VWAP: 364.51
+    [~] Inside opening range — direction not confirmed yet
+  ICICIBANK  [60%]  |  Rs 1585.0  |  ORB: 1584.4—1596.3  |  VWAP: 1584.82
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  DIVISLAB  [50%]  |  Rs 11080.0
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  PAYTM  [40%]  |  Rs 1890.8
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
