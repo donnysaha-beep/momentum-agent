@@ -1,0 +1,33 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Tuesday, November 17 2026 01:29 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 25387.4  |  Gap: +0.1%  |  VWAP: nan
+  ORB: 25269.2 — 25357.85
+
+REGIME: CAUTION  |  POSITION SIZE: QUARTER SIZE (Rs 12,500/trade)
+
+SUMMARY: 0 TRADE NOW | 0 WATCH | 3 WAIT | 0 SKIP
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  RELIANCE  [70%]  |  Rs 1367.0  |  ORB: 1335.6—1343.6  |  VWAP: 1357.22
+    [~] CAUTION regime + stock opened below prev close (-0.4%) — skip
+  HDFCBANK  [50%]  |  Rs 814.95  |  ORB: 811.0—816.2  |  VWAP: 816.22
+    [~] Inside opening range — direction not confirmed yet
+  LT  [40%]  |  Rs 4155.5  |  ORB: 4140.1—4167.2  |  VWAP: 4183.26
+    [~] Inside opening range — direction not confirmed yet
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
