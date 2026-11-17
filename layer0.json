@@ -1,21 +1,24 @@
 {
-  "date": "2026-11-16",
-  "regime": "NEUTRAL",
+  "date": "2026-11-17",
+  "regime": "CAUTION",
   "confidence": 20,
-  "trend_type": "BREAKOUT_FRIENDLY",
-  "size_multiplier": 0.75,
+  "trend_type": "MEAN_REVERSION",
+  "size_multiplier": 0.5,
   "prioritize_sectors": [
     "Banking",
-    "Infra"
+    "Pharma"
   ],
-  "avoid_sectors": [],
-  "gift_bias": "NEUTRAL",
-  "gift_estimated_chg": -0.2,
-  "india_vix": 15.68,
-  "india_vix_chg": 1.15,
+  "avoid_sectors": [
+    "IT",
+    "NewEconomy"
+  ],
+  "gift_bias": "BEARISH",
+  "gift_estimated_chg": -0.96,
+  "india_vix": 15.52,
+  "india_vix_chg": -1.02,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": -0.4,
-  "crude_chg": -0.25,
-  "gold_chg": -0.47
+  "sp500_chg": -1.92,
+  "crude_chg": 0.07,
+  "gold_chg": 0.09
 }

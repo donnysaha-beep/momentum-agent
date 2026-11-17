@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Tuesday, November 17 2026
+  Layer 0 | Generated: 10:27 AM IST
+=================================================================
+
+MARKET REGIME    : CAUTION
+CONFIDENCE SCORE : 20/100
+TREND TYPE       : MEAN_REVERSION
+SIZE MULTIPLIER  : 0.5x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  25,387.40  (+0.38%)
+  Bank Nifty            :  62,273.25  (+1.13%)
+  India VIX             :      15.52  (-1.02%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 25143.68  [ESTIMATED]
+  Change vs prev : -0.96%
+  Bias           : BEARISH
+  Based on       : S&P 500 -1.92% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,416.59  (-1.92%)
+  Nasdaq (US)           :  24,509.76  (-2.49%)
+  US VIX                :      23.75  (+3.67%)
+  Crude Oil (WTI)       :      85.78  (+0.07%)
+  Gold                  :   3,856.50  (+0.09%)
+  Silver                :      47.22  (+0.93%)
+  USD/INR               :      93.46  (-0.83%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. -1.0% (bearish)
+  * India VIX 15.52 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : Banking, Pharma
+  Avoid      : IT, NewEconomy
+
+TRADING VERDICT: 50% position sizing. Only highest conviction trades. Avoid weak sectors.
+
+=================================================================
