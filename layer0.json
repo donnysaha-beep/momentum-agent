@@ -1,24 +1,27 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "regime": "CAUTION",
   "confidence": 20,
   "trend_type": "MEAN_REVERSION",
   "size_multiplier": 0.5,
   "prioritize_sectors": [
-    "Banking",
+    "Aviation",
+    "Consumer",
     "Pharma"
   ],
   "avoid_sectors": [
+    "Energy",
     "IT",
+    "Banking",
     "NewEconomy"
   ],
   "gift_bias": "BEARISH",
-  "gift_estimated_chg": -0.96,
-  "india_vix": 15.52,
-  "india_vix_chg": -1.02,
+  "gift_estimated_chg": -0.52,
+  "india_vix": 15.54,
+  "india_vix_chg": 0.13,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": -1.92,
-  "crude_chg": 0.07,
-  "gold_chg": 0.09
+  "sp500_chg": -1.03,
+  "crude_chg": -3.34,
+  "gold_chg": -2.14
 }
