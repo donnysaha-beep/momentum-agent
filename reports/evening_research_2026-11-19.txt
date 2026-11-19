@@ -1,0 +1,459 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 19, 2026
+=================================================================
+
+MARKET REGIME: NEUTRAL
+  Nifty 50: Rs25227.95  1D: -0.6%  1W: -0.1%  1M: +9.0%  3M: +3.4%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HEROMOTOCO     Rs     nan    nan%    nan%     nan%   48.1  0.0x   WATCH
+NYKAA          Rs     nan    nan%    nan%     nan%   52.8  0.0x   WATCH
+FEDERALBNK     Rs     nan    nan%    nan%     nan%   62.6  0.0x   WATCH
+CROMPTON       Rs     nan    nan%    nan%     nan%   47.7  0.0x   WATCH
+M&M            Rs     nan    nan%    nan%     nan%   67.2  0.0x   WATCH
+IDFCFIRSTB     Rs     nan    nan%    nan%     nan%   61.4  0.0x   WATCH
+KOTAKBANK      Rs     nan    nan%    nan%     nan%   74.3  0.0x   WATCH
+AXISBANK       Rs     nan    nan%    nan%     nan%   68.5  0.0x   WATCH
+SUNPHARMA      Rs     nan    nan%    nan%     nan%   62.3  0.0x   WATCH
+ADANIGREEN     Rs     nan    nan%    nan%     nan%   57.5  0.0x   WATCH
+MARICO         Rs     nan    nan%    nan%     nan%   66.0  0.0x   WATCH
+DRREDDY        Rs     nan    nan%    nan%     nan%   73.6  0.0x   WATCH
+EICHERMOT      Rs     nan    nan%    nan%     nan%   59.8  0.0x   WAIT
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.1T | P/E: 18.541632
+  Price: Rsnan  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 48.1  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.17x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] Heavy volume today (2.17x avg) = conviction
+
+  RECENT NEWS:
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * TVS Isn’t Just Winning India, It’s Building A Global Motorcycle Empire
+    * Hero Just Swiped Left On Zero’s Latest Funding Round. Here’s Why
+    * Hero MotoCorp Ltd (BOM:500182) Q3 2026 Earnings Call Highlights: Record Revenue and Market ...
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 319.46426
+  Price: Rsnan  |  52w range: Rs234.7 — Rs365.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 52.8  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.56x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * 3 Indian Founder Led Stocks With Revenue Growth Up To 30%
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * India's Nykaa posts higher quarterly profit on strong beauty demand, fashion growth
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs900.6B | P/E: 17.797852
+  Price: Rsnan  |  52w range: Rs244.1 — Rs370.43
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 62.6  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.49x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+    * The Federal Bank Ltd (LSE:FEDS) Q1 2027 Earnings Call Highlights: Strong Profit Growth and ...
+    * Federal Bank (NSEI:FEDERALBNK) Stock Sees Modest Fair Value Lift On Refined Analyst Assumptions
+
+-----------------------------------------------------------------
+
+  CROMPTON — Crompton Greaves Consumer Electricals Limited
+  Consumer Cyclical | Rs141.7B | P/E: N/A
+  Price: Rsnan  |  52w range: Rs191.55 — Rs298.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 47.7  |  Days above SMA50 (last 20): 3/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.7x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) (Q1 2027) Earnings Call Highlights: ...
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) Q4 2026 Earnings Call Highlights: Strong ...
+    * Crompton Greaves Consumer Electricals Ltd (BOM:539876) Q3 2026 Earnings Call Highlights: Strong ...
+
+-----------------------------------------------------------------
+
+  M&M — Mahindra & Mahindra Limited
+  Consumer Cyclical | Rs4.2T | P/E: 20.324356
+  Price: Rsnan  |  52w range: Rs2751.2 — Rs3762.88
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 67.2  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.56x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Mars Finds Surprising Value in Personalized M&M’s
+    * How Mars Is Innovating With and For Consumers | WSJLI
+    * Mars Bought Pringles And Cheez-It in a $36B Deal. Now Plans To Open 4 Pet Hospitals As Part Of $1.4B U.S. Expansion
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Mahindra posts 25% rise in Q2 consolidated profit after tax
+
+-----------------------------------------------------------------
+
+  IDFCFIRSTB — IDFC First Bank Limited
+  Financial Services | Rs742.5B | P/E: 24.94203
+  Price: Rsnan  |  52w range: Rs58.68 — Rs87.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 61.4  |  Days above SMA50 (last 20): 4/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.18x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Heavy volume today (2.18x avg) = conviction
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+  RECENT NEWS:
+    * Indian bank stocks show widest exchange price gap in decades
+    * IDFC First Bank Ltd (BOM:539437) Q1 2027 Earnings Call Highlights: Record Profit and Robust ...
+    * IDFC First Bank Ltd (BOM:539437) Q4 2026 Earnings Call Highlights: Strong Loan Growth Amidst ...
+    * RBI approves ICICI Group stake hike in eight banks
+    * IDFC First Bank Ltd (BOM:539437) Q3 2026 Earnings Call Highlights: Robust Growth in Deposits ...
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs5.0T | P/E: 23.308619
+  Price: Rsnan  |  52w range: Rs352.79 — Rs497.25
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 74.3  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.62x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?
+    * CCI approves Kotak’s purchase of Deutsche Bank’s India retail operations
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * ICICI Prudential AMC gets clearance to buy up to 9.95% of four lenders
+    * Ravi Malani to head portfolio management services at Sanctum Wealth
+
+-----------------------------------------------------------------
+
+  AXISBANK — Axis Bank Limited
+  Financial Services | Rs4.3T | P/E: 14.408849
+  Price: Rsnan  |  52w range: Rs1160.41 — Rs1401.92
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 68.5  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.25x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Jindal Power secures $470m funding for Botswana power project
+    * Here's Where Investors Turned To As They Fled AI Stocks
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+    * Apple Pay launches in India with Axis Bank partnership
+    * Apple Launches Mobile Payment Services in India
+
+-----------------------------------------------------------------
+
+  SUNPHARMA — Sun Pharmaceutical Industries Limited
+  Healthcare | Rs4.6T | P/E: 41.575493
+  Price: Rsnan  |  52w range: Rs1574.92 — Rs2001.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 62.3  |  Days above SMA50 (last 20): 9/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.85x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * FDA Decision Watch: What Investors Need To Know About Four Upcoming Drug Rulings
+    * Trump Expands Drug Pricing Deals With 9 Pharma Companies, Bringing Total to 26 — RFK Jr. Details 'Very, Very Emotional' Conversations With President
+    * Mid-cap biotechs join Trump’s latest round of drug pricing deals
+    * Trump lines up MFN deals with nine mid-size pharmas on drug pricing push
+    * $19.6B Infusion In US Plants With Lower Drug Prices: White House’s Deal With Mid-size Drugmakers
+
+-----------------------------------------------------------------
+
+  ADANIGREEN — Adani Green Energy Limited
+  Utilities | Rs2.3T | P/E: 129.54546
+  Price: Rsnan  |  52w range: Rs772.8 — Rs1604.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 57.5  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.16x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * What Adani Green Energy Bulls Got Right
+    * Adani Green Energy Ltd (BOM:541450) Q1 2027 Earnings Call Highlights: Record Growth in Energy ...
+    * Gautam Adani’s Net Worth Swells By $2 Billion—Becomes Asia’s Richest Person
+    * AGEL launches 3.37GWh BESS in Gujarat’s Khavda
+    * US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.2T | P/E: 59.04884
+  Price: Rsnan  |  52w range: Rs707.42 — Rs925.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 66.0  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.2T | P/E: 41.705864
+  Price: Rsnan  |  52w range: Rs1135.6 — Rs1398.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 73.6  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.68x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
+    * RDY Q2 Earnings & Revenues Miss Estimates as Lenalidomide Sales Fall
+    * Dr. Reddy's Laboratories Q2 Earnings Call Highlights
+    * Top Stock Reports for Oracle, American Express & Progressive
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.2T | P/E: 37.059093
+  Price: Rsnan  |  52w range: Rs6517.75 — Rs8105.12
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty -0.6%  -> RS: nan%
+    1W:  nan%  vs Nifty -0.1%
+    1M:  nan%  vs Nifty +9.0%  -> RS: nan%
+    3M:  nan%  vs Nifty +3.4%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 59.8  |  Days above SMA50 (last 20): 11/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.55x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WAIT
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q1 2027 Earnings Call Highlights: Record Revenue and Strategic ...
+    * This Motorcycle Company Just Sold More Bikes Than Harley And Indian Combined. In Just Three Months
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
+    * Eicher Motors Ltd (BOM:505200) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic ...
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
