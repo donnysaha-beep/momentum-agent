@@ -1,0 +1,175 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Thursday, November 19 2026 10:33 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs25514.3  | Today: +1.1%  | 1W: +0.8%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 16.11  (+3.5%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Electricals (+6.0%) | Auto (+5.0%) | FMCG (+2.9%)
+  Lagging : Finance (-0.6%) | IT (-0.8%) | NewEconomy (-3.0%)
+
+Found 51 momentum stocks → 13 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    HEROMOTOCO   Rs  5556.0   +5.8%   61.8   2.2x   -9.5%   +4.6%  1.7x    7/10   A
+2    NYKAA        Rs   357.8   +1.6%   56.9   0.6x   -2.0%   +0.5%  0.8x    7/10   A
+3    FEDERALBNK   Rs   364.5   +1.1%   65.3   0.5x   -1.6%   +0.0%  1.8x    7/10   A
+4    CROMPTON     Rs   220.0   +6.1%   58.8   1.7x  -26.3%   +5.0%  1.9x    6/10   A
+5    EICHERMOT    Rs  8058.5   +4.7%   68.9   1.6x   -0.6%   +3.5%  2.8x    6/10   A
+6    M&M          Rs  3509.0   +4.5%   73.0   1.6x   -6.7%   +3.3%  4.3x    6/10   A
+7    IDFCFIRSTB   Rs    86.0   +4.4%   68.2   2.2x   -2.1%   +3.2%  4.1x    6/10   A
+8    KOTAKBANK    Rs   503.0   +1.6%   77.2   0.6x   +0.0%   +0.5%  3.4x    6/10   A
+9    AXISBANK     Rs  1380.8   +1.5%   71.4   1.2x   -1.5%   +0.4%  3.7x    6/10   A
+10   SUNPHARMA    Rs  1900.0   +1.5%   67.5   0.8x   -5.1%   +0.4%  1.9x    6/10   A
+11   ADANIGREEN   Rs  1425.0   +1.5%   60.1   1.2x  -11.2%   +0.3%  1.7x    6/10   A
+12   MARICO       Rs   918.8   +1.4%   68.5   0.7x   -0.7%   +0.3%  3.2x    6/10   A
+13   DRREDDY      Rs  1400.9   +0.2%   74.1   0.7x   +0.0%   -0.9%  1.9x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  HEROMOTOCO (Auto) — Rs5556.0 | Grade A | 7/10
+  52w: Rs4706.27 — Rs6138.79 | ATR: 2.69%/day | Ext: 1.69x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.6%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  NYKAA (NewEconomy) — Rs357.8 | Grade A | 7/10
+  52w: Rs234.7 — Rs365.2 | ATR: 2.78%/day | Ext: 0.82x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [-] In leading sector (NewEconomy)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+  FEDERALBNK (Banking) — Rs364.5 | Grade A | 7/10
+  52w: Rs244.1 — Rs370.43 | ATR: 2.39%/day | Ext: 1.81x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.0%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  CROMPTON (Electricals) — Rs220.0 | Grade A | 6/10
+  52w: Rs191.55 — Rs298.36 | ATR: 3.45%/day | Ext: 1.88x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+5.0%)
+    [+] Not ATR-extended (1.9x ATR from SMA20)
+    [+] In leading sector (Electricals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  EICHERMOT (Auto) — Rs8058.5 | Grade A | 6/10
+  52w: Rs6517.75 — Rs8105.12 | ATR: 2.68%/day | Ext: 2.76x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.5%)
+    [-] Not ATR-extended (2.8x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  M&M (Auto) — Rs3509.0 | Grade A | 6/10
+  52w: Rs2751.2 — Rs3762.88 | ATR: 2.59%/day | Ext: 4.35x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.3%)
+    [-] Not ATR-extended (4.3x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  IDFCFIRSTB (Banking) — Rs86.05 | Grade A | 6/10
+  52w: Rs58.68 — Rs87.9 | ATR: 2.59%/day | Ext: 4.11x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.2%)
+    [-] Not ATR-extended (4.1x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  KOTAKBANK (Banking) — Rs503.0 | Grade A | 6/10
+  52w: Rs352.79 — Rs503.0 | ATR: 2.01%/day | Ext: 3.38x
+    [-] RSI > 75 (overbought)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [-] Not ATR-extended (3.4x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  AXISBANK (Banking) — Rs1380.8 | Grade A | 6/10
+  52w: Rs1160.41 — Rs1401.92 | ATR: 1.99%/day | Ext: 3.73x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [-] Not ATR-extended (3.7x ATR from SMA20)
+    [+] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  SUNPHARMA (Pharma) — Rs1900.0 | Grade A | 6/10
+  52w: Rs1574.92 — Rs2001.1 | ATR: 2.2%/day | Ext: 1.94x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [+] Not ATR-extended (1.9x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
