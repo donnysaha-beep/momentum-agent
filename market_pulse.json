@@ -1,17 +1,18 @@
 {
-  "timestamp": "2026-11-19T18:25:24.387305",
-  "date": "2026-11-19",
-  "status": "CAUTION",
-  "action": "TIGHTEN_STOPS \u2014 no new entries unless A+ setup",
-  "nifty_price": 25514.3,
+  "timestamp": "2026-11-20T08:01:41.805454",
+  "date": "2026-11-20",
+  "status": "DANGER",
+  "action": "STOP_NEW_ENTRIES \u2014 tighten stops on open positions",
+  "nifty_price": 25701.0,
   "nifty_vs_vwap": "BELOW",
   "nifty_vs_orb_low": "ABOVE",
-  "vix_level": 15.9,
-  "vix_spike": false,
+  "vix_level": 17.45,
+  "vix_spike": true,
   "alerts": [
-    "Nifty below VWAP \u2014 weakening"
+    "Nifty below VWAP \u2014 weakening",
+    "VIX SPIKE +8.3% intraday \u2014 fear entering market"
   ],
   "nifty_vwap": NaN,
-  "nifty_orb_low": 25104.8,
-  "vix_chg": 2.17
+  "nifty_orb_low": 25353.85,
+  "vix_chg": 8.32
 }
