@@ -1,0 +1,191 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 20, 2026
+=================================================================
+
+MARKET REGIME: CAUTION
+  Nifty 50: Rs25514.3  1D: +1.1%  1W: +0.8%  1M: +11.5%  3M: +4.7%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+HDFCBANK       Rs     nan    nan%    nan%     nan%   73.9  0.0x   WATCH
+INFY           Rs     nan    nan%    nan%     nan%   44.7  0.0x   WATCH
+TCS            Rs     nan    nan%    nan%     nan%   42.3  0.0x   WATCH
+RELIANCE       Rs     nan    nan%    nan%     nan%   74.9  0.0x   WAIT
+LT             Rs     nan    nan%    nan%     nan%   73.8  0.0x   WAIT
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  HDFCBANK — HDFC Bank Limited
+  Financial Services | Rs13.1T | P/E: 18.491804
+  Price: Rsnan  |  52w range: Rs680.2 — Rs993.08
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +0.8%
+    1M:  nan%  vs Nifty +11.5%  -> RS: nan%
+    3M:  nan%  vs Nifty +4.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 73.9  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.8x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Tumble 7% for Week
+    * Asian Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Start Week Sharply Lower in Monday Trading
+    * WF vs. HDB: Which Stock Should Value Investors Buy Now?
+    * Here's Where Investors Turned To As They Fled AI Stocks
+
+-----------------------------------------------------------------
+
+  INFY — Infosys Limited
+  Technology | Rs4.4T | P/E: 14.620506
+  Price: Rsnan  |  52w range: Rs963.23 — Rs1616.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +0.8%
+    1M:  nan%  vs Nifty +11.5%  -> RS: nan%
+    3M:  nan%  vs Nifty +4.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 44.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.07x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+
+  RECENT NEWS:
+    * ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?
+    * Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading
+    * The Overlooked AI Trade Hiding in a Beaten-Down Corner of the Market
+    * Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading
+    * Infosys: 3 Key Takeaways for Long-Term Investors
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | Rs8.6T | P/E: 16.656385
+  Price: Rsnan  |  52w range: Rs1961.36 — Rs3187.34
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +0.8%
+    1M:  nan%  vs Nifty +11.5%  -> RS: nan%
+    3M:  nan%  vs Nifty +4.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 42.3  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.85x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * From pilot to fleet: Automa 2026 on scaling digital offshore
+    * Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees
+    * Why Infosys Can Shrug Off the US Green-Card Suspension, For Now
+    * Infosys sees no material impact from U.S. PERM suspension
+    * TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks
+
+-----------------------------------------------------------------
+
+  RELIANCE — Reliance Industries Limited
+  Energy | Rs18.6T | P/E: 22.701056
+  Price: Rsnan  |  52w range: Rs1158.0 — Rs1584.97
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +0.8%
+    1M:  nan%  vs Nifty +11.5%  -> RS: nan%
+    3M:  nan%  vs Nifty +4.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 74.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.63x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WAIT
+
+  RECENT NEWS:
+    * Reliance Industries (NSEI:RELIANCE) Stock Sees Modest Fair Value Cut As Growth Assumptions Ease
+    * Reliance seeks manufacturing partners for its 1,600-satellite network - Bloomberg
+    * Reliance Bets $1.6 Billion on India's Biogas Boom
+    * Reliance plans $4.6bn investment in Andhra Pradesh coal-to-gas project
+    * Reliance Industries Ltd (WBO:RLI) (Q2 2027) Earnings Call Highlights: Record EBITDA and PAT as ...
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.8T | P/E: 32.422585
+  Price: Rsnan  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +0.8%
+    1M:  nan%  vs Nifty +11.5%  -> RS: nan%
+    3M:  nan%  vs Nifty +4.7%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 73.8  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.92x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WAIT
+
+  RECENT NEWS:
+    * L&T secures order for Noida Metro Aqua Line extension project
+    * Larsen & Toubro Ltd (LTOUF) (Q2 2027) Earnings Call Highlights: Record INR1. ...
+    * L&T wins contracts for Bangladesh’s first underground metro
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * L&T receives LNTP for 1.6GW Chandrapura thermal project in India
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
