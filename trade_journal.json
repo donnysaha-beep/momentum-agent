@@ -8765,5 +8765,46 @@
       "missed_trades": 8,
       "false_negatives": 0
     }
+  },
+  {
+    "date": "2026-11-20",
+    "trades": [
+      {
+        "ticker": "HDFCBANK",
+        "entry": 830.15,
+        "target1": 856.74,
+        "target2": 874.47,
+        "stop": 815.5,
+        "verdict": "WATCH",
+        "eod_open": 815.5499877929688,
+        "eod_high": 850.1500244140625,
+        "eod_low": 815.5499877929688,
+        "eod_close": 846.0,
+        "outcome": "MISSED_TRADE",
+        "outcome_detail": "Entry triggered but no target set \u2014 monitor"
+      },
+      {
+        "ticker": "RELIANCE",
+        "entry": 1368.85,
+        "target1": 1412.93,
+        "target2": 1442.32,
+        "stop": 1358.75,
+        "verdict": "TRADE NOW",
+        "eod_open": 1365.300048828125,
+        "eod_high": 1382.699951171875,
+        "eod_low": 1356.300048828125,
+        "eod_close": 1377.5,
+        "outcome": "GOOD_LOSS",
+        "outcome_detail": "Hit stop loss (Rs 1358.75) \u2014 -0.74% (clean stop, system worked)"
+      }
+    ],
+    "summary": {
+      "good_wins": 0,
+      "good_losses": 1,
+      "false_positives": 0,
+      "valid_skips": 0,
+      "missed_trades": 1,
+      "false_negatives": 0
+    }
   }
 ]
