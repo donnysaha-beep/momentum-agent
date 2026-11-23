@@ -1,0 +1,65 @@
+=================================================================
+  BEAR SCANNER — Monday, November 23 2026 03:12 PM IST
+  Short-side signals for NSE India
+=================================================================
+
+NIFTY AT 10:00am: BEARISH
+  Price: 25366.4  |  Gap: +0.5%  |  VWAP: nan
+  ORB: 25573.15 — 25991.95
+  *** Nifty broke ORB low — bearish breadth confirmed ***
+
+REGIME: CAUTION  |  SHORT SIZE: ACTIVE SHORT SIZE (Rs 62,500/trade)
+
+SUMMARY: 1 SHORT NOW | 0 WATCH SHORT | 0 WAIT | 2 SKIP
+
+=================================================================
+  *** SHORT NOW ***
+=================================================================
+  SHORT NOW  [60% probability]
+  DRREDDY
+  ─────────────────────────────────────────────
+  Current Price  : Rs 1380.1
+  Gap from prev  : +0.1%  (prev Rs 1390.2 | opened Rs 1391.5)
+  Opening Range  : Rs 1380.3 — Rs 1394.0  (0.98% wide)
+  VWAP           : Rs 1381.13  (BELOW, sloping DOWN)
+  Volume         : WEAK
+  RSI (daily)    : 66.6
+  ATR (daily)    : Rs 25.57
+
+  SHORT TRADE PLAN:
+    Entry trigger  : Rs 1380.25  (break BELOW ORB low)
+    Target 1 (50%) : Rs 1341.89  (-2.8%)  [1.5x ATR] — cover half here
+    Target 2 (50%) : Rs 1316.33  (-4.6%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 1394.05  (+1.0%)  [above ORB high]
+    Risk/Reward    : 1:2.78 (T1)  |  1:4.63 (T2)
+
+  POSITION SIZE (CAUTION regime):
+    Qty            : 45 shares
+    Capital needed : Rs 62,111  (margin)
+    Max loss       : Rs 621  (if stop hit)
+
+  WHY THIS SHORT:
+    [+] Broke ORB low with VWAP rejection
+    [~] Volume weak — keep position size at minimum
+
+=================================================================
+  SKIP — No Valid Short Setup
+=================================================================
+  TCS  [60%]  |  Rs 2460.0
+    [-] Stock holding above ORB low — no breakdown yet
+  TECHM  [50%]  |  Rs 1777.5
+    [-] Stock holding above ORB low — no breakdown yet
+
+=================================================================
+  SHORT TRADE MANAGEMENT RULES:
+  1. Short only on SHORT NOW — price must cross BELOW entry trigger
+  2. Confirm with volume expansion on breakdown candle
+  3. Cover 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop above each new lower high for Target 2
+  5. Cover 100% if any 5-min candle CLOSES ABOVE VWAP
+  6. Cover 100% if Nifty breaks ABOVE its opening range HIGH
+  7. No new short entries after 1:30pm IST
+  8. Max 3 short trades per day
+  9. Never short a stock with RSI below 25 — bounce risk
+ 10. Need F&O/MIS margin — activate intraday short on Groww
+=================================================================
