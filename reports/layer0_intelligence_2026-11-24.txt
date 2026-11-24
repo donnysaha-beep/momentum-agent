@@ -1,0 +1,46 @@
+=================================================================
+  MARKET INTELLIGENCE REPORT — Tuesday, November 24 2026
+  Layer 0 | Generated: 12:15 PM IST
+=================================================================
+
+MARKET REGIME    : BULL
+CONFIDENCE SCORE : 60/100
+TREND TYPE       : BREAKOUT_FRIENDLY
+SIZE MULTIPLIER  : 1.0x
+
+INDIAN MARKET (prev close):
+  Nifty 50              :  25,349.65  (-1.75%)
+  Bank Nifty            :  62,585.35  (-3.17%)
+  India VIX             :      17.70  (+2.19%)
+
+GIFT NIFTY (pre-market indicator):
+  Open estimate  : 25950.44  [ESTIMATED]
+  Change vs prev : +2.37%
+  Bias           : BULLISH
+  Based on       : S&P 500 +4.73% overnight (GIFT Nifty unavailable)
+
+FII/DII FLOWS (prev session):
+  FII Net : Rs 0 cr
+  DII Net : Rs 0 cr
+
+GLOBAL MACRO (overnight impact):
+  S&P 500 (US)          :   7,237.17  (+4.73%)
+  Nasdaq (US)           :  24,089.56  (+6.51%)
+  US VIX                :      28.32  (+6.39%)
+  Crude Oil (WTI)       :      80.36  (+0.24%)
+  Gold                  :   3,626.00  (-0.70%)
+  Silver                :      42.12  (-2.39%)
+  USD/INR               :      92.90  (+0.24%)
+
+REGIME FACTORS:
+  * GIFT Nifty est. +2.4% (bullish)
+  * India VIX 17.7 (normal)
+  * FII flows neutral (Rs 0 cr)
+
+SECTOR ROTATION POSTURE:
+  Prioritize : IT, Banking, Infra
+  Avoid      : None
+
+TRADING VERDICT: Full position sizing. Favor breakouts and momentum. All sectors open.
+
+=================================================================

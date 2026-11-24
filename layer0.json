@@ -1,25 +1,22 @@
 {
-  "date": "2026-11-23",
-  "regime": "CAUTION",
-  "confidence": 20,
-  "trend_type": "MEAN_REVERSION",
-  "size_multiplier": 0.5,
+  "date": "2026-11-24",
+  "regime": "BULL",
+  "confidence": 60,
+  "trend_type": "BREAKOUT_FRIENDLY",
+  "size_multiplier": 1.0,
   "prioritize_sectors": [
-    "Metals",
-    "Pharma"
-  ],
-  "avoid_sectors": [
     "IT",
     "Banking",
-    "NewEconomy"
+    "Infra"
   ],
-  "gift_bias": "BEARISH",
-  "gift_estimated_chg": -1.85,
+  "avoid_sectors": [],
+  "gift_bias": "BULLISH",
+  "gift_estimated_chg": 2.37,
   "india_vix": 17.7,
-  "india_vix_chg": 2.18,
+  "india_vix_chg": 2.19,
   "fii_net_cr": 0.0,
   "dii_net_cr": 0.0,
-  "sp500_chg": -3.7,
-  "crude_chg": -1.17,
-  "gold_chg": 2.93
+  "sp500_chg": 4.73,
+  "crude_chg": 0.24,
+  "gold_chg": -0.7
 }
