@@ -1,0 +1,129 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 24, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs25800.6  1D: +1.1%  1W: +2.6%  1M: +13.1%  3M: +6.2%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+TCS            Rs     nan    nan%    nan%     nan%   47.3  0.0x   WATCH NOW
+TECHM          Rs     nan    nan%    nan%     nan%   52.1  0.0x   WATCH NOW
+DRREDDY        Rs     nan    nan%    nan%     nan%   69.0  0.0x   WATCH
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  TCS — Tata Consultancy Services Limited
+  Technology | N/A | P/E: 17.243795
+  Price: Rsnan  |  52w range: Rs1961.36 — Rs3187.34
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.6%
+    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
+    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 47.3  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.1x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.1x avg) = conviction
+
+  RECENT NEWS:
+    * CORPWATCH: India's IT giants turn captive tech centres into billion-dollar deals
+    * From pilot to fleet: Automa 2026 on scaling digital offshore
+    * Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees
+    * Why Infosys Can Shrug Off the US Green-Card Suspension, For Now
+    * Infosys sees no material impact from U.S. PERM suspension
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs1.6T | P/E: 28.567984
+  Price: Rsnan  |  52w range: Rs1287.33 — Rs1831.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.6%
+    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
+    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 52.1  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.35x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+    * RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.2T | P/E: 41.08663
+  Price: Rsnan  |  52w range: Rs1135.6 — Rs1400.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
+    1W:  nan%  vs Nifty +2.6%
+    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
+    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
+    6M:  nan%
+
+  TREND HEALTH:
+    RSI: 69.0  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): nan%
+    ATR extension from SMA20: 0x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.25x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
+    * RDY Q2 Earnings & Revenues Miss Estimates as Lenalidomide Sales Fall
+    * Dr. Reddy's Laboratories Q2 Earnings Call Highlights
+    * Top Stock Reports for Oracle, American Express & Progressive
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
