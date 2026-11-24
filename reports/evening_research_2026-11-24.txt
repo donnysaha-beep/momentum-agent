@@ -3,38 +3,121 @@
 =================================================================
 
 MARKET REGIME: BULL
-  Nifty 50: Rs25800.6  1D: +1.1%  1W: +2.6%  1M: +13.1%  3M: +6.2%
+  Nifty 50: Rs25349.65  1D: -1.8%  1W: +0.2%  1M: +11.7%  3M: +5.0%
 
 Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
 ---------------------------------------------------------------------------
-TCS            Rs     nan    nan%    nan%     nan%   47.3  0.0x   WATCH NOW
-TECHM          Rs     nan    nan%    nan%     nan%   52.1  0.0x   WATCH NOW
-DRREDDY        Rs     nan    nan%    nan%     nan%   69.0  0.0x   WATCH
+DRREDDY        Rs  1380.1   -0.7%  +11.4%    -0.3%   64.4  0.5x   WATCH NOW
+NYKAA          Rs   357.0   -1.9%  +10.9%    -0.8%   54.7  0.3x   WATCH NOW
+TCS            Rs  2460.0   +3.5%   -1.9%   -13.6%   57.3  0.1x   WATCH NOW
+TECHM          Rs  1777.5   +1.8%   -2.0%   -13.8%   57.2 -0.1x   WATCH NOW
+HCLTECH        Rs  1364.3   +1.5%   -4.0%   -15.8%   50.0 -0.8x   WATCH NOW
+DIVISLAB       Rs 11203.0   +0.2%  +22.3%   +10.6%   68.7  2.2x   WATCH
+ADANIPORTS     Rs  1919.0   +0.1%   +9.7%    -2.1%   60.3  0.9x   WATCH
+RBLBANK        Rs   393.5   -1.2%   +9.0%    -2.7%   57.7  1.8x   WATCH
+HEROMOTOCO     Rs  5535.0   -0.0%   +7.9%    -3.8%   60.6  1.3x   WATCH
+PIDILITIND     Rs  1594.2   -1.6%   +7.6%    -4.1%   59.3  1.7x   WATCH
+SUNPHARMA      Rs  1860.0   -1.3%   +5.8%    -5.9%   55.4  0.7x   WATCH
+CIPLA          Rs  1399.9   -1.1%   +5.2%    -6.5%   54.7  0.2x   WATCH
+APOLLOHOSP     Rs  9257.0   +0.6%  +21.7%   +10.0%   71.4  3.4x   AVOID
+MARICO         Rs   919.5   +0.3%  +18.6%    +6.9%   68.2  2.6x   AVOID
+EICHERMOT      Rs  8172.5   +0.7%  +15.4%    +3.6%   71.2  2.9x   AVOID
 
 =================================================================
   FULL DETAIL
 =================================================================
 
-  TCS — Tata Consultancy Services Limited
-  Technology | N/A | P/E: 17.243795
-  Price: Rsnan  |  52w range: Rs1961.36 — Rs3187.34
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.2T | P/E: 41.08663
+  Price: Rs1380.1  |  52w range: Rs1135.6 — Rs1400.9
 
   PERFORMANCE vs NIFTY:
-    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
-    1W:  nan%  vs Nifty +2.6%
-    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
-    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
-    6M:  nan%
+    1D:  -0.7%  vs Nifty -1.8%  -> RS: +1.0% (OUTPERFORMING)
+    1W:  +0.2%  vs Nifty +0.2%
+    1M:  +11.4%  vs Nifty +11.7%  -> RS: -0.3%
+    3M:  +17.1%  vs Nifty +5.0%  -> RS: +12.1% (OUTPERFORMING)
+    6M:  +6.5%
 
   TREND HEALTH:
-    RSI: 47.3  |  Days above SMA50 (last 20): 19/20
-    Daily volatility (ATR%): nan%
-    ATR extension from SMA20: 0x  (HEALTHY)
+    RSI: 64.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.81%
+    ATR extension from SMA20: 0.52x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.25x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1342.59 (-2.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.5% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
+    * RDY Q2 Earnings & Revenues Miss Estimates as Lenalidomide Sales Fall
+    * Dr. Reddy's Laboratories Q2 Earnings Call Highlights
+    * Top Stock Reports for Oracle, American Express & Progressive
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 318.75
+  Price: Rs357.0  |  52w range: Rs234.7 — Rs365.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.9%  vs Nifty -1.8%  -> RS: -0.2%
+    1W:  -1.1%  vs Nifty +0.2%
+    1M:  +10.9%  vs Nifty +11.7%  -> RS: -0.8% (UNDERPERFORMING)
+    3M:  +11.3%  vs Nifty +5.0%  -> RS: +6.4% (OUTPERFORMING)
+    6M:  +30.8%
+
+  TREND HEALTH:
+    RSI: 54.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.79%
+    ATR extension from SMA20: 0.34x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.72x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs342.04 (-4.2%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Within 2.2% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * 3 Indian Founder Led Stocks With Revenue Growth Up To 30%
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  TCS — Tata Consultancy Services Limited
+  Technology | N/A | P/E: 17.243795
+  Price: Rs2460.0  |  52w range: Rs1961.36 — Rs3187.34
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.5%  vs Nifty -1.8%  -> RS: +5.3% (OUTPERFORMING)
+    1W:  +2.3%  vs Nifty +0.2%
+    1M:  -1.9%  vs Nifty +11.7%  -> RS: -13.6% (UNDERPERFORMING)
+    3M:  +8.5%  vs Nifty +5.0%  -> RS: +3.5% (OUTPERFORMING)
+    6M:  +12.2%
+
+  TREND HEALTH:
+    RSI: 57.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.85%
+    ATR extension from SMA20: 0.09x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 2.1x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs2354.99 (-4.3%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
@@ -43,39 +126,40 @@ DRREDDY        Rs     nan    nan%    nan%     nan%   69.0  0.0x   WATCH
     [+] Heavy volume today (2.1x avg) = conviction
 
   RECENT NEWS:
+    * Can Best Buy (BBY) Stay Reasonable On Future Cash Flow?
     * CORPWATCH: India's IT giants turn captive tech centres into billion-dollar deals
     * From pilot to fleet: Automa 2026 on scaling digital offshore
     * Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees
     * Why Infosys Can Shrug Off the US Green-Card Suspension, For Now
-    * Infosys sees no material impact from U.S. PERM suspension
 
 -----------------------------------------------------------------
 
   TECHM — Tech Mahindra Limited
   Technology | Rs1.6T | P/E: 28.567984
-  Price: Rsnan  |  52w range: Rs1287.33 — Rs1831.0
+  Price: Rs1777.5  |  52w range: Rs1287.33 — Rs1831.0
 
   PERFORMANCE vs NIFTY:
-    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
-    1W:  nan%  vs Nifty +2.6%
-    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
-    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
-    6M:  nan%
+    1D:  +1.8%  vs Nifty -1.8%  -> RS: +3.5% (OUTPERFORMING)
+    1W:  +0.1%  vs Nifty +0.2%
+    1M:  -2.0%  vs Nifty +11.7%  -> RS: -13.8% (UNDERPERFORMING)
+    3M:  +12.6%  vs Nifty +5.0%  -> RS: +7.6% (OUTPERFORMING)
+    6M:  +36.9%
 
   TREND HEALTH:
-    RSI: 52.1  |  Days above SMA50 (last 20): 19/20
-    Daily volatility (ATR%): nan%
-    ATR extension from SMA20: 0x  (HEALTHY)
+    RSI: 57.2  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.67%
+    ATR extension from SMA20: -0.08x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
     Volume today: 1.35x 20-day avg
     RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1706.36 (-4.0%)
 
   VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
     [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 2.9% of 52w high (breakout zone)
 
   RECENT NEWS:
     * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
@@ -86,37 +170,374 @@ DRREDDY        Rs     nan    nan%    nan%     nan%   69.0  0.0x   WATCH
 
 -----------------------------------------------------------------
 
-  DRREDDY — Dr. Reddy's Laboratories Limited
-  Healthcare | Rs1.2T | P/E: 41.08663
-  Price: Rsnan  |  52w range: Rs1135.6 — Rs1400.9
+  HCLTECH — HCL Technologies Limited
+  Technology | Rs3.7T | P/E: 20.18494
+  Price: Rs1364.3  |  52w range: Rs1014.72 — Rs1665.13
 
   PERFORMANCE vs NIFTY:
-    1D:  nan%  vs Nifty +1.1%  -> RS: nan%
-    1W:  nan%  vs Nifty +2.6%
-    1M:  nan%  vs Nifty +13.1%  -> RS: nan%
-    3M:  nan%  vs Nifty +6.2%  -> RS: nan%
-    6M:  nan%
+    1D:  +1.5%  vs Nifty -1.8%  -> RS: +3.2% (OUTPERFORMING)
+    1W:  -1.5%  vs Nifty +0.2%
+    1M:  -4.0%  vs Nifty +11.7%  -> RS: -15.8% (UNDERPERFORMING)
+    3M:  +6.0%  vs Nifty +5.0%  -> RS: +1.1% (OUTPERFORMING)
+    6M:  +23.7%
 
   TREND HEALTH:
-    RSI: 69.0  |  Days above SMA50 (last 20): 19/20
-    Daily volatility (ATR%): nan%
-    ATR extension from SMA20: 0x  (HEALTHY)
+    RSI: 50.0  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.72%
+    ATR extension from SMA20: -0.83x  (HEALTHY)
     Volatility trend: CONTRACTING (base forming)
-    Volume today: 0.25x 20-day avg
-    RS 55-day slope: POSITIVE
+    Volume today: 1.29x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
 
-  SUGGESTED STOP LOSS (1.5x ATR): Rsnan (nan%)
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1308.55 (-4.1%)
 
-  VERDICT: WATCH
+  VERDICT: WATCH NOW
     [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
     [+] Volatility contracting (base forming, potential breakout)
 
   RECENT NEWS:
-    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
-    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
-    * RDY Q2 Earnings & Revenues Miss Estimates as Lenalidomide Sales Fall
-    * Dr. Reddy's Laboratories Q2 Earnings Call Highlights
-    * Top Stock Reports for Oracle, American Express & Progressive
+    * CORPWATCH: India's IT giants turn captive tech centres into billion-dollar deals
+    * HCLTech introduces Nvidia-based automotive software testing suite
+    * HCLTech and Anthropic Partner on ‘Governed Agentic AI.’ The Labor It Automates Is the Work HCLTech Used to Sell.
+    * Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees
+    * Why Infosys Can Shrug Off the US Green-Card Suspension, For Now
+
+-----------------------------------------------------------------
+
+  DIVISLAB — Divi's Laboratories Limited
+  Healthcare | Rs3.0T | P/E: 88.400536
+  Price: Rs11203.0  |  52w range: Rs5797.09 — Rs11565.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.2%  vs Nifty -1.8%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  +1.1%  vs Nifty +0.2%
+    1M:  +22.3%  vs Nifty +11.7%  -> RS: +10.6% (OUTPERFORMING)
+    3M:  +30.4%  vs Nifty +5.0%  -> RS: +25.5% (OUTPERFORMING)
+    6M:  +62.5%
+
+  TREND HEALTH:
+    RSI: 68.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 2.72%
+    ATR extension from SMA20: 2.18x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.45x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs10745.94 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [~] Extended 2.18x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Divi's Laboratories Is Up 82%, But The Story Isn't Finished
+    * Divi's Laboratories Ltd (BOM:532488) (Q2 2027) Earnings Call Highlights: Profit Surges 64% as ...
+    * Missed Divi's Laboratories' Rally? Here's What Holders Saw
+    * 3 Indian Export Stocks Retail Investors Are Watching For Dollar Earnings
+    * 3 Indian Export Stocks That Could Benefit From A Weaker Rupee
+
+-----------------------------------------------------------------
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.4T | P/E: 32.026035
+  Price: Rs1919.0  |  52w range: Rs1298.13 — Rs1942.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.1%  vs Nifty -1.8%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  +1.4%  vs Nifty +0.2%
+    1M:  +9.7%  vs Nifty +11.7%  -> RS: -2.1% (UNDERPERFORMING)
+    3M:  +14.1%  vs Nifty +5.0%  -> RS: +9.1% (OUTPERFORMING)
+    6M:  +8.7%
+
+  TREND HEALTH:
+    RSI: 60.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.34%
+    ATR extension from SMA20: 0.88x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.71x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1851.67 (-3.5%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 1.2% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * 3 Stocks Tied To Shifting Trade Routes Investors May Want To Watch
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * 3 India Logistics Stocks Riding The Shift From Road To Rail
+    * Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift
+    * India's Adani Ports posts higher profit on domestic demand
+
+-----------------------------------------------------------------
+
+  RBLBANK — RBL Bank Limited
+  Financial Services | Rs611.1B | P/E: 28.411552
+  Price: Rs393.5  |  52w range: Rs287.85 — Rs428.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.2%  vs Nifty -1.8%  -> RS: +0.5% (OUTPERFORMING)
+    1W:  +3.0%  vs Nifty +0.2%
+    1M:  +9.0%  vs Nifty +11.7%  -> RS: -2.7% (UNDERPERFORMING)
+    3M:  +2.7%  vs Nifty +5.0%  -> RS: -2.2% (UNDERPERFORMING)
+    6M:  +17.0%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 2/20
+    Daily volatility (ATR%): 2.95%
+    ATR extension from SMA20: 1.77x  (EXTENDED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.64x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs376.07 (-4.4%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+    [~] Extended 1.77x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * RBI sanctions amalgamation of Emirates NBD India branches with RBL Bank
+    * BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push
+    * Emirates NBD receives all approvals for majority stake acquisition in RBL Bank
+    * RBL Bank Ltd (BOM:540065) Q4 2026 Earnings Call Highlights: Strong Growth in Advances and ...
+    * Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank
+
+-----------------------------------------------------------------
+
+  HEROMOTOCO — Hero MotoCorp Limited
+  Consumer Cyclical | Rs1.1T | P/E: 18.47155
+  Price: Rs5535.0  |  52w range: Rs4706.27 — Rs6138.79
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.0%  vs Nifty -1.8%  -> RS: +1.7% (OUTPERFORMING)
+    1W:  +3.3%  vs Nifty +0.2%
+    1M:  +7.9%  vs Nifty +11.7%  -> RS: -3.8% (UNDERPERFORMING)
+    3M:  -3.7%  vs Nifty +5.0%  -> RS: -8.6% (UNDERPERFORMING)
+    6M:  +10.6%
+
+  TREND HEALTH:
+    RSI: 60.6  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.59%
+    ATR extension from SMA20: 1.3x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.14x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs5319.95 (-3.9%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Hero MotoCorp Ltd (BOM:500182) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% on Record ...
+    * TVS Isn’t Just Winning India, It’s Building A Global Motorcycle Empire
+    * Castrol India's quarterly profit jumps on strong retail, industrial demand
+    * Hero Just Swiped Left On Zero’s Latest Funding Round. Here’s Why
+    * Hero MotoCorp Ltd (BOM:500182) Q3 2026 Earnings Call Highlights: Record Revenue and Market ...
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.6T | P/E: 60.5469
+  Price: Rs1594.2  |  52w range: Rs1264.49 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.6%  vs Nifty -1.8%  -> RS: +0.2%
+    1W:  +3.1%  vs Nifty +0.2%
+    1M:  +7.6%  vs Nifty +11.7%  -> RS: -4.1% (UNDERPERFORMING)
+    3M:  -4.8%  vs Nifty +5.0%  -> RS: -9.7% (UNDERPERFORMING)
+    6M:  +8.2%
+
+  TREND HEALTH:
+    RSI: 59.3  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.48%
+    ATR extension from SMA20: 1.73x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 1.73x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1534.94 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.73x from SMA20 — wait for pullback
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  SUNPHARMA — Sun Pharmaceutical Industries Limited
+  Healthcare | Rs4.5T | P/E: 40.70022
+  Price: Rs1860.0  |  52w range: Rs1574.92 — Rs2001.1
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.3%  vs Nifty -1.8%  -> RS: +0.4%
+    1W:  -0.4%  vs Nifty +0.2%
+    1M:  +5.8%  vs Nifty +11.7%  -> RS: -5.9% (UNDERPERFORMING)
+    3M:  -0.8%  vs Nifty +5.0%  -> RS: -5.8% (UNDERPERFORMING)
+    6M:  +0.1%
+
+  TREND HEALTH:
+    RSI: 55.4  |  Days above SMA50 (last 20): 12/20
+    Daily volatility (ATR%): 2.23%
+    ATR extension from SMA20: 0.71x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.66x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1797.9 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * FDA Decision Watch: What Investors Need To Know About Four Upcoming Drug Rulings
+    * Trump Expands Drug Pricing Deals With 9 Pharma Companies, Bringing Total to 26 — RFK Jr. Details 'Very, Very Emotional' Conversations With President
+    * Mid-cap biotechs join Trump’s latest round of drug pricing deals
+    * Trump lines up MFN deals with nine mid-size pharmas on drug pricing push
+    * $19.6B Infusion In US Plants With Lower Drug Prices: White House’s Deal With Mid-size Drugmakers
+
+-----------------------------------------------------------------
+
+  CIPLA — Cipla Limited
+  Healthcare | Rs1.1T | P/E: 39.05971
+  Price: Rs1399.9  |  52w range: Rs1181.32 — Rs1517.07
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty -1.8%  -> RS: +0.7% (OUTPERFORMING)
+    1W:  +0.4%  vs Nifty +0.2%
+    1M:  +5.2%  vs Nifty +11.7%  -> RS: -6.5% (UNDERPERFORMING)
+    3M:  -2.2%  vs Nifty +5.0%  -> RS: -7.1% (UNDERPERFORMING)
+    6M:  -1.6%
+
+  TREND HEALTH:
+    RSI: 54.7  |  Days above SMA50 (last 20): 16/20
+    Daily volatility (ATR%): 1.86%
+    ATR extension from SMA20: 0.25x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.5x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1360.8 (-2.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * 3 Indian Export Stocks That Could Benefit If The Rupee Hits 100 Against The Dollar
+    * Merck's $8.4 Billion Keytruda Fortress Gets a 2028 Warning
+    * Cipla Ltd (BOM:500087) Full Year 2026 Earnings Call Highlights: Strong India Growth and ...
+    * Pfizer Just Scored a Win That Wall Street Can't Ignore
+    * Pfizer (PFE) Reaches Settlement to Extend VYNDAMAX Patent Protection Until 2031
+
+-----------------------------------------------------------------
+
+  APOLLOHOSP — Apollo Hospitals Enterprise Limited
+  Healthcare | Rs1.3T | P/E: 59.191765
+  Price: Rs9257.0  |  52w range: Rs6776.6 — Rs9257.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.6%  vs Nifty -1.8%  -> RS: +2.4% (OUTPERFORMING)
+    1W:  +5.5%  vs Nifty +0.2%
+    1M:  +21.7%  vs Nifty +11.7%  -> RS: +10.0% (OUTPERFORMING)
+    3M:  +5.0%  vs Nifty +5.0%  -> RS: +0.0%
+    6M:  +14.2%
+
+  TREND HEALTH:
+    RSI: 71.4  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.37%
+    ATR extension from SMA20: 3.35x  (STRETCHED)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.34x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs8927.84 (-3.6%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 3.35x from SMA20 — wait for pullback
+    [-] Severely extended (3.35x ATR from SMA20)
+
+  RECENT NEWS:
+    * Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic
+    * Quantinuum’s Revenue Triples. What It Really Wants Is Quantum for the Masses.
+    * Trump Wants Lower Rates. That Won’t Stop a Fed Rate Hike.
+    * Why the Weak Housing Market Is a Threat to the Broader Economy
+    * Apollo Hospitals Enterprise Ltd (BOM:508869) (Q1 2027) Earnings Call Highlights: Revenue Surges ...
+
+-----------------------------------------------------------------
+
+  MARICO — Marico Limited
+  Consumer Defensive | Rs1.2T | P/E: 59.09383
+  Price: Rs919.5  |  52w range: Rs707.42 — Rs925.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -1.8%  -> RS: +2.0% (OUTPERFORMING)
+    1W:  +0.6%  vs Nifty +0.2%
+    1M:  +18.6%  vs Nifty +11.7%  -> RS: +6.9% (OUTPERFORMING)
+    3M:  +9.3%  vs Nifty +5.0%  -> RS: +4.3% (OUTPERFORMING)
+    6M:  +10.6%
+
+  TREND HEALTH:
+    RSI: 68.2  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.08%
+    ATR extension from SMA20: 2.57x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 0.8x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs890.77 (-3.1%)
+
+  VERDICT: AVOID
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 0.6% of 52w high (breakout zone)
+    [~] Extended 2.57x from SMA20 — wait for pullback
+    [-] Severely extended (2.57x ATR from SMA20)
+
+
+-----------------------------------------------------------------
+
+  EICHERMOT — Eicher Motors Limited
+  Consumer Cyclical | Rs2.2T | P/E: 37.58335
+  Price: Rs8172.5  |  52w range: Rs6517.75 — Rs8172.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.7%  vs Nifty -1.8%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  +7.5%  vs Nifty +0.2%
+    1M:  +15.4%  vs Nifty +11.7%  -> RS: +3.6% (OUTPERFORMING)
+    3M:  +1.9%  vs Nifty +5.0%  -> RS: -3.0% (UNDERPERFORMING)
+    6M:  +17.4%
+
+  TREND HEALTH:
+    RSI: 71.2  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 2.55%
+    ATR extension from SMA20: 2.9x  (STRETCHED)
+    Volatility trend: EXPANDING
+    Volume today: 1.28x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs7859.86 (-3.8%)
+
+  VERDICT: AVOID
+    [+] RS accelerating (momentum building)
+    [+] Within 0.0% of 52w high (breakout zone)
+    [~] Extended 2.9x from SMA20 — wait for pullback
+    [-] Severely extended (2.9x ATR from SMA20)
+
+  RECENT NEWS:
+    * Eicher Motors Ltd (BOM:505200) Q1 2027 Earnings Call Highlights: Record Revenue and Strategic ...
+    * This Motorcycle Company Just Sold More Bikes Than Harley And Indian Combined. In Just Three Months
+    * Eicher Motors Ltd (BOM:505200) Q4 2026 Earnings Call Highlights: Record Sales and Strategic ...
+    * Eicher Motors Ltd (BOM:505200) Q3 2026 Earnings Call Highlights: Robust Revenue Growth and ...
 
 -----------------------------------------------------------------
 
