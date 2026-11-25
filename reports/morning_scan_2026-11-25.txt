@@ -1,0 +1,182 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Wednesday, November 25 2026 11:31 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs25819.25  | Today: +1.9%  | 1W: +1.7%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 17.7  (-0.0%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : FMCG (+4.6%) | Defence (+2.7%) | Consumer (+2.4%)
+  Lagging : Finance (-0.1%) | PSU (-0.4%) | Metals (-2.6%)
+
+Found 52 momentum stocks → 20 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    DRREDDY      Rs  1398.0   +1.3%   68.4   1.5x   -0.2%   -0.6%  1.0x    9/10   A+
+2    HAL          Rs  4936.0   +3.3%   55.7   1.2x   -3.2%   +1.4%  0.5x    8/10   A+
+3    CIPLA        Rs  1433.2   +2.4%   63.6   1.7x   -5.5%   +0.5%  1.3x    8/10   A+
+4    TECHM        Rs  1801.2   +1.3%   60.6   0.7x   -1.6%   -0.5%  0.4x    8/10   A+
+5    HEROMOTOCO   Rs  5751.5   +3.9%   68.1   1.6x   -6.3%   +2.1%  2.5x    7/10   A
+6    TRENT        Rs  3319.6   +3.5%   70.1   1.8x  -22.5%   +1.6%  2.4x    7/10   A
+7    TCS          Rs  2517.3   +2.3%   62.5   1.4x  -21.0%   +0.5%  0.9x    7/10   A
+8    ADANIPORTS   Rs  1926.3   +0.4%   61.3   1.5x   -0.8%   -1.5%  0.9x    7/10   A
+9    TATACONSUM   Rs  1185.8   +4.7%   75.2   1.8x   -5.9%   +2.8%  3.8x    6/10   A
+10   DIVISLAB     Rs 11716.5   +4.6%   75.0   0.9x   +0.0%   +2.7%  3.3x    6/10   A
+11   ICICIBANK    Rs  1640.0   +3.4%   71.3   1.1x   +0.0%   +1.6%  3.3x    6/10   A
+12   GRASIM       Rs  3162.0   +2.8%   58.8   0.8x   -6.5%   +1.0%  1.2x    6/10   A
+13   IDFCFIRSTB   Rs    87.5   +2.4%   67.3   1.6x   -0.5%   +0.6%  3.6x    6/10   A
+14   INFY         Rs  1130.0   +2.4%   53.5   1.3x  -30.1%   +0.6% -0.1x    6/10   A
+15   SUNPHARMA    Rs  1901.0   +2.2%   63.0   1.0x   -5.0%   +0.3%  1.5x    6/10   A
+16   AXISBANK     Rs  1418.1   +2.1%   67.2   1.3x   -1.9%   +0.3%  3.1x    6/10   A
+17   BAJAJ-AUTO   Rs 10868.0   +2.1%   55.5   1.1x  -12.1%   +0.3%  0.7x    6/10   A
+18   EICHERMOT    Rs  8336.0   +2.0%   74.3   1.4x   +0.0%   +0.1%  3.4x    6/10   A
+19   KOTAKBANK    Rs   509.0   +1.2%   71.1   0.7x   -1.3%   -0.6%  2.6x    6/10   A
+20   NYKAA        Rs   358.0   +0.3%   55.4   1.0x   -2.0%   -1.6%  0.3x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  DRREDDY (Pharma) — Rs1398.0 | Grade A+ | 9/10
+  52w: Rs1135.6 — Rs1400.9 | ATR: 1.83%/day | Ext: 1.04x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.6%)
+    [+] Not ATR-extended (1.0x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HAL (Defence) — Rs4936.0 | Grade A+ | 8/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.49%/day | Ext: 0.53x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [+] Not ATR-extended (0.5x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  CIPLA (Pharma) — Rs1433.2 | Grade A+ | 8/10
+  52w: Rs1181.32 — Rs1517.07 | ATR: 1.92%/day | Ext: 1.31x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1801.2 | Grade A+ | 8/10
+  52w: Rs1287.33 — Rs1831.0 | ATR: 2.6%/day | Ext: 0.42x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.5%)
+    [+] Not ATR-extended (0.4x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  HEROMOTOCO (Auto) — Rs5751.5 | Grade A | 7/10
+  52w: Rs4706.27 — Rs6138.79 | ATR: 2.58%/day | Ext: 2.52x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.1%)
+    [-] Not ATR-extended (2.5x ATR from SMA20)
+    [+] In leading sector (Auto)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TRENT (Consumer) — Rs3319.6 | Grade A | 7/10
+  52w: Rs2193.96 — Rs4286.07 | ATR: 2.62%/day | Ext: 2.44x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.6%)
+    [-] Not ATR-extended (2.4x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TCS (IT) — Rs2517.3 | Grade A | 7/10
+  52w: Rs1961.36 — Rs3187.34 | ATR: 2.79%/day | Ext: 0.92x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1926.3 | Grade A | 7/10
+  52w: Rs1298.13 — Rs1942.7 | ATR: 2.28%/day | Ext: 0.87x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.5%)
+    [+] Not ATR-extended (0.9x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TATACONSUM (FMCG) — Rs1185.8 | Grade A | 6/10
+  52w: Rs936.5 — Rs1260.34 | ATR: 2.26%/day | Ext: 3.76x
+    [-] RSI > 75 (overbought)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.8%)
+    [-] Not ATR-extended (3.8x ATR from SMA20)
+    [+] In leading sector (FMCG)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DIVISLAB (Pharma) — Rs11716.5 | Grade A | 6/10
+  52w: Rs5797.09 — Rs11716.5 | ATR: 2.73%/day | Ext: 3.27x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.7%)
+    [-] Not ATR-extended (3.3x ATR from SMA20)
+    [+] In leading sector (Pharma)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
