@@ -1,0 +1,158 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Thursday, November 26 2026 11:13 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs25884.5  | Today: +0.2%  | 1W: +2.6%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 16.83  (-4.7%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : IT (+3.5%) | PSU (+2.2%) | NewEconomy (+1.9%)
+  Lagging : Finance (-1.1%) | Electricals (-1.2%) | Consumer (-1.3%)
+
+Found 50 momentum stocks → 9 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    HCLTECH      Rs  1468.6   +6.4%   67.4   1.6x  -11.8%   +6.2%  1.8x    9/10   A+
+2    TECHM        Rs  1854.7   +3.0%   67.1   1.0x   +0.0%   +2.7%  1.5x    9/10   A+
+3    INFY         Rs  1183.0   +4.7%   62.7   1.5x  -26.8%   +4.4%  1.3x    8/10   A+
+4    WIPRO        Rs   196.5   +4.0%   61.7   1.8x  -25.2%   +3.7%  0.7x    8/10   A+
+5    DRREDDY      Rs  1392.0   -0.4%   65.8   0.6x   -0.6%   -0.7%  0.7x    7/10   A
+6    ADANIPORTS   Rs  1911.3   -0.8%   58.0   0.5x   -1.6%   -1.0%  0.3x    7/10   A
+7    TCS          Rs  2640.3   +4.9%   70.8   1.5x  -17.2%   +4.6%  2.4x    6/10   A
+8    CIPLA        Rs  1450.0   +1.2%   67.2   1.2x   -4.4%   +0.9%  1.7x    6/10   A
+9    GRASIM       Rs  3179.0   +0.5%   60.1   0.6x   -6.0%   +0.3%  1.2x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  HCLTECH (IT) — Rs1468.6 | Grade A+ | 9/10
+  52w: Rs1014.72 — Rs1665.13 | ATR: 2.76%/day | Ext: 1.8x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+6.2%)
+    [+] Not ATR-extended (1.8x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1854.7 | Grade A+ | 9/10
+  52w: Rs1287.33 — Rs1854.7 | ATR: 2.57%/day | Ext: 1.49x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.7%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  INFY (IT) — Rs1183.0 | Grade A+ | 8/10
+  52w: Rs963.23 — Rs1616.97 | ATR: 3.08%/day | Ext: 1.28x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.4%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  WIPRO (IT) — Rs196.54 | Grade A+ | 8/10
+  52w: Rs156.79 — Rs262.81 | ATR: 2.66%/day | Ext: 0.71x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+3.7%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DRREDDY (Pharma) — Rs1392.0 | Grade A | 7/10
+  52w: Rs1135.6 — Rs1400.9 | ATR: 1.8%/day | Ext: 0.66x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.7%)
+    [+] Not ATR-extended (0.7x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1911.3 | Grade A | 7/10
+  52w: Rs1298.13 — Rs1942.7 | ATR: 2.3%/day | Ext: 0.35x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.0%)
+    [+] Not ATR-extended (0.3x ATR from SMA20)
+    [-] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TCS (IT) — Rs2640.3 | Grade A | 6/10
+  52w: Rs1961.36 — Rs3187.34 | ATR: 2.8%/day | Ext: 2.44x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.6%)
+    [-] Not ATR-extended (2.4x ATR from SMA20)
+    [+] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  CIPLA (Pharma) — Rs1450.0 | Grade A | 6/10
+  52w: Rs1181.32 — Rs1517.07 | ATR: 1.98%/day | Ext: 1.66x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.9%)
+    [+] Not ATR-extended (1.7x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  GRASIM (Cement) — Rs3179.0 | Grade A | 6/10
+  52w: Rs2523.24 — Rs3380.5 | ATR: 2.17%/day | Ext: 1.25x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (1.2x ATR from SMA20)
+    [-] In leading sector (Cement)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
