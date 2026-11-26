@@ -1,0 +1,69 @@
+=================================================================
+  PERFORMANCE AUDIT — Thursday, November 26 2026
+  Layer 3 | 10:08 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 1
+  False Positives : 2
+  Valid Skips     : 0
+  Missed Trades   : 3
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         HCLTECH      | Verdict: TRADE NOW
+               Entry: Rs 1412.55 | Stop: Rs 1394.15 | T1: Rs 1475.05
+               EOD: O:1394.199951171875 H:1468.5999755859375 L:1394.199951171875 C:1468.5999755859375
+               Triggered but no target/stop hit — closed at Rs 1468.5999755859375 (+4.0%)
+
+  [LOSS]       TECHM        | Verdict: TRADE NOW
+               Entry: Rs 1831.05 | Stop: Rs 1816.05 | T1: Rs 1906.41
+               EOD: O:1820.699951171875 H:1857.4000244140625 L:1805.300048828125 C:1854.699951171875
+               Hit stop loss (Rs 1816.05) — -0.82% (clean stop, system worked)
+
+  [MISSED]     GRASIM       | Verdict: WATCH
+               Entry: Rs 3165.05 | Stop: Rs 3131.95 | T1: Rs 3268.63
+               EOD: O:3158.800048828125 H:3179.89990234375 L:3129.199951171875 C:3179.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     INFY         | Verdict: WATCH
+               Entry: Rs 1166.55 | Stop: Rs 1150.95 | T1: Rs 1224.62
+               EOD: O:1151.0 H:1185.0 L:1151.0 C:1183.0
+               Entry triggered but no target set — monitor
+
+  [MISSED]     TCS          | Verdict: WATCH
+               Entry: Rs 2589.55 | Stop: Rs 2530.65 | T1: Rs 2703.88
+               EOD: O:2530.699951171875 H:2640.300048828125 L:2530.699951171875 C:2640.300048828125
+               Entry triggered but no target set — monitor
+
+  [FP]         WIPRO        | Verdict: TRADE NOW
+               Entry: Rs 197.02 | Stop: Rs 191.85 | T1: Rs 205.27
+               EOD: O:191.89999389648438 H:197.3699951171875 L:191.89999389648438 C:196.5399932861328
+               Triggered but no target/stop hit — closed at Rs 196.5399932861328 (-0.2%)
+
+=================================================================
+  RUNNING PERFORMANCE (98 days tracked)
+=================================================================
+  Total Trades    : 190
+  Win Rate        : 5.8%
+  Good Wins       : 11
+  Good Losses     : 55
+  False Positives : 124
+  Valid Skips     : 26
+  Missed Trades   : 341
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
