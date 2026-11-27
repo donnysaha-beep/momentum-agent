@@ -1,0 +1,177 @@
+=================================================================
+  MOMENTUM SCANNER v2 (NSE) — Friday, November 27 2026 11:05 AM
+=================================================================
+
+MARKET REGIME: NEUTRAL [SELECTIVE]
+  Nifty 50:  Rs25607.2  | Today: -1.1%  | 1W: +0.4%
+  EMA20: ABOVE  | EMA50: ABOVE
+  India VIX: 16.55  (-1.8%)
+
+SECTOR PERFORMANCE (today avg):
+  Leading : Defence (+2.5%) | Metals (+2.1%) | PSU (+0.5%)
+  Lagging : Electricals (-1.7%) | Auto (-2.0%) | IT (-2.1%)
+
+Found 71 momentum stocks → 15 pass regime filter.
+
+#    Ticker           Price    Day%    RSI    Vol   52wH%     RS   Ext  Score  Grade
+--------------------------------------------------------------------------------
+1    HAL          Rs  5074.0   +3.4%   61.9   2.7x   -0.5%   +4.4%  1.5x    8/10   A+
+2    DRREDDY      Rs  1381.7   -0.7%   61.4   0.8x   -1.4%   +0.3%  0.2x    8/10   A+
+3    FEDERALBNK   Rs   360.0   +0.9%   56.7   0.6x   -3.6%   +1.9%  0.8x    7/10   A
+4    TRENT        Rs  3273.0   +0.3%   64.6   0.6x  -23.6%   +1.4%  1.5x    7/10   A
+5    PIDILITIND   Rs  1594.8   -0.6%   57.8   0.4x   -6.3%   +0.4%  1.1x    7/10   A
+6    ADANIPORTS   Rs  1880.0   -1.6%   51.7   2.2x   -3.2%   -0.6% -0.5x    7/10   A
+7    TECHM        Rs  1813.9   -2.2%   59.1   0.9x   -2.2%   -1.1%  0.6x    7/10   A
+8    MOIL         Rs   224.2   +4.9%   55.6   1.9x  -39.8%   +6.0%  1.3x    6/10   A
+9    ABB          Rs  7060.0   +1.4%   57.1   0.5x   -8.4%   +2.5%  1.1x    6/10   A
+10   LT           Rs  4108.5   -0.6%   57.7   0.5x   -6.1%   +0.5%  0.2x    6/10   A
+11   NYKAA        Rs   350.6   -0.7%   49.4   0.7x   -4.0%   +0.4% -0.6x    6/10   A
+12   CIPLA        Rs  1439.9   -0.7%   63.2   0.6x   -5.1%   +0.4%  1.2x    6/10   A
+13   ICICIBANK    Rs  1593.4   -1.1%   61.3   0.5x   -2.8%   -0.0%  1.4x    6/10   A
+14   KOTAKBANK    Rs   500.0   -1.9%   63.1   0.5x   -3.1%   -0.9%  1.3x    6/10   A
+15   CHOLAFIN     Rs  1802.0   -2.2%   55.3   0.5x   -7.1%   -1.1%  0.3x    6/10   A
+
+COLUMNS: Day% = today change | RSI | Vol = volume ratio vs 20d avg |
+         52wH% = distance from 52w high | RS = relative to Nifty today |
+         Ext = ATR extension (>2x = overstretched) | Grade: A+/A/B/C
+
+=================================================================
+  DETAIL — TOP 10
+=================================================================
+
+  HAL (Defence) — Rs5074.0 | Grade A+ | 8/10
+  52w: Rs3480.15 — Rs5099.0 | ATR: 2.52%/day | Ext: 1.48x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+4.4%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (Defence)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  DRREDDY (Pharma) — Rs1381.7 | Grade A+ | 8/10
+  52w: Rs1135.6 — Rs1400.9 | ATR: 1.82%/day | Ext: 0.16x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.3%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [-] In leading sector (Pharma)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  FEDERALBNK (Banking) — Rs360.0 | Grade A | 7/10
+  52w: Rs246.01 — Rs373.5 | ATR: 2.55%/day | Ext: 0.76x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.9%)
+    [+] Not ATR-extended (0.8x ATR from SMA20)
+    [-] In leading sector (Banking)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TRENT (Consumer) — Rs3273.0 | Grade A | 7/10
+  52w: Rs2193.96 — Rs4283.27 | ATR: 2.49%/day | Ext: 1.54x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [+] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+1.4%)
+    [+] Not ATR-extended (1.5x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  PIDILITIND (Consumer) — Rs1594.8 | Grade A | 7/10
+  52w: Rs1264.49 — Rs1701.5 | ATR: 2.42%/day | Ext: 1.14x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.4%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Consumer)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ADANIPORTS (Infra) — Rs1880.0 | Grade A | 7/10
+  52w: Rs1298.13 — Rs1942.7 | ATR: 2.43%/day | Ext: -0.48x
+    [-] RSI < 55 (weak)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [+] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-0.6%)
+    [+] Not ATR-extended (-0.5x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  TECHM (IT) — Rs1813.9 | Grade A | 7/10
+  52w: Rs1287.33 — Rs1854.7 | ATR: 2.65%/day | Ext: 0.59x
+    [+] RSI 55-75 (ideal zone)
+    [+] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (<5%)
+    [+] RS vs Nifty (55d slope +ve)
+    [-] Outperforming Nifty today (-1.1%)
+    [+] Not ATR-extended (0.6x ATR from SMA20)
+    [-] In leading sector (IT)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  MOIL (Metals) — Rs224.22 | Grade A | 6/10
+  52w: Rs201.18 — Rs372.72 | ATR: 2.86%/day | Ext: 1.34x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [+] Volume > 1.5x avg
+    [-] Far from 52w High (>10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+6.0%)
+    [+] Not ATR-extended (1.3x ATR from SMA20)
+    [+] In leading sector (Metals)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  ABB (Infra) — Rs7060.0 | Grade A | 6/10
+  52w: Rs4618.02 — Rs7710.0 | ATR: 2.83%/day | Ext: 1.14x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [-] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+2.5%)
+    [+] Not ATR-extended (1.1x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [+] RS Accelerating (last 10d > prior 10d)
+
+  LT (Infra) — Rs4108.5 | Grade A | 6/10
+  52w: Rs3310.07 — Rs4375.36 | ATR: 1.94%/day | Ext: 0.24x
+    [+] RSI 55-75 (ideal zone)
+    [-] MA Stack (price>20>50>200)
+    [+] MACD Bullish
+    [-] Volume > 1.5x avg
+    [+] Near 52w High (5-10%)
+    [-] RS vs Nifty (55d slope +ve)
+    [+] Outperforming Nifty today (+0.5%)
+    [+] Not ATR-extended (0.2x ATR from SMA20)
+    [+] In leading sector (Infra)
+    [-] RS Accelerating (last 10d > prior 10d)
+
+=================================================================
+  SCORING: 8-10=A+  6-7=A  5=B  <5=C
+  10 criteria (1pt each): RSI zone | MA stack | MACD |
+  Volume | 52w high | RS slope | RS today | Not extended |
+  Sector leader | RS accelerating
+=================================================================
