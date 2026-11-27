@@ -1,0 +1,110 @@
+=================================================================
+  OPENING RANGE REPORT v2 — Friday, November 27 2026 01:55 PM IST
+=================================================================
+
+NIFTY AT 9:45am: BEARISH
+  Price: 25607.2  |  Gap: -0.2%  |  VWAP: nan
+  ORB: 25803.6 — 25909.1
+  *** WARNING ***
+    [-] Nifty broke below opening range low — avoid longs
+
+REGIME: NEUTRAL  |  POSITION SIZE: HALF SIZE (Rs 25,000/trade)
+
+SUMMARY: 0 TRADE NOW | 1 WATCH | 1 WAIT | 13 SKIP
+
+=================================================================
+  WATCH — Set Price Alert at Entry Trigger
+=================================================================
+  WATCH — near breakout  [60% probability]
+  MOIL
+  ─────────────────────────────────────────────
+  Current Price  : Rs 223.2
+  Gap from prev  : +0.6%  (prev Rs 213.76 | opened Rs 215.0)
+  Opening Range  : Rs 215.0 — Rs 221.4  (2.98% wide)
+  VWAP           : Rs 221.21  (ABOVE, sloping UP)
+  Volume         : WEAK
+  ATR (daily)    : Rs 6.28
+
+  TRADE PLAN:
+    Entry trigger  : Rs 221.45  (break above ORB high)
+    Target 1 (50%) : Rs 230.88  (+4.3%)  [1.5x ATR] — sell half here
+    Target 2 (50%) : Rs 237.16  (+7.1%)  [2.5x ATR] — trail stop for rest
+    Stop Loss      : Rs 214.95  (-2.9%)  [below ORB low]
+    Risk/Reward    : 1:1.45 (T1)  |  1:2.41 (T2)
+
+  POSITION SIZE (NEUTRAL regime):
+    Qty            : 112 shares
+    Capital needed : Rs 24,802
+    Max loss       : Rs 728  (if stop hit)
+
+    [~] Broke ORB high but VOLUME WEAK — wait for volume to confirm
+    [~] Volume must exceed 20-day avg before entering
+  INVALIDATIONS:
+    [-] Nifty broke its own ORB low — avoid all longs
+
+=================================================================
+  WAIT — No Signal Yet
+=================================================================
+  HAL  [50%]  |  Rs 5074.0  |  ORB: 4907.0—4966.8  |  VWAP: 5085.08
+    [~] Broke ORB but below VWAP — weak breakout, wait for VWAP reclaim
+
+=================================================================
+  SKIP — No Valid Setup
+=================================================================
+  DRREDDY  [50%]  |  Rs 1381.7
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  FEDERALBNK  [50%]  |  Rs 360.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  ABB  [50%]  |  Rs 7060.0
+    [-] Nifty broke its own ORB low — avoid all longs
+  LT  [50%]  |  Rs 4108.5
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  CIPLA  [50%]  |  Rs 1439.9
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  CHOLAFIN  [50%]  |  Rs 1802.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  TRENT  [40%]  |  Rs 3273.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Below VWAP with no breakout — no valid long
+  ADANIPORTS  [40%]  |  Rs 1880.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  NYKAA  [40%]  |  Rs 350.65
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  ICICIBANK  [40%]  |  Rs 1593.4
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  KOTAKBANK  [40%]  |  Rs 500.0
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+  PIDILITIND  [30%]  |  Rs 1594.8
+    [-] Nifty broke its own ORB low — avoid all longs
+  TECHM  [30%]  |  Rs 1813.9
+    [-] Nifty broke its own ORB low — avoid all longs
+    [-] Stock broke below ORB low — setup invalidated
+    [-] Below VWAP with no breakout — no valid long
+
+=================================================================
+  TRADE MANAGEMENT RULES:
+  1. Enter only on TRADE NOW — price must cross entry trigger
+  2. Confirm with volume spike at breakout candle
+  3. Sell 50% at Target 1 — move stop to entry (risk-free)
+  4. Trail stop below each new higher low for Target 2
+  5. Exit 100% if any 5-min candle closes below VWAP
+  6. Exit 100% if Nifty breaks its opening range low
+  7. No new entries after 1:30pm IST
+  8. Max 3 trades per day
+=================================================================
