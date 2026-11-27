@@ -1,0 +1,44 @@
+=================================================================
+  PERFORMANCE AUDIT — Friday, November 27 2026
+  Layer 3 | 09:49 PM IST
+=================================================================
+
+TODAY'S SUMMARY:
+  Good Wins       : 0
+  Good Losses     : 0
+  False Positives : 1
+  Valid Skips     : 0
+  Missed Trades   : 0
+
+TRADE-BY-TRADE BREAKDOWN:
+-----------------------------------------------------------------
+  [FP]         MOIL         | Verdict: TRADE NOW
+               Entry: Rs 221.45 | Stop: Rs 214.95 | T1: Rs 230.88
+               EOD: O:215.0 H:225.77999877929688 L:215.0 C:223.1999969482422
+               Triggered but no target/stop hit — closed at Rs 223.1999969482422 (+0.8%)
+
+=================================================================
+  RUNNING PERFORMANCE (99 days tracked)
+=================================================================
+  Total Trades    : 191
+  Win Rate        : 5.8%
+  Good Wins       : 11
+  Good Losses     : 55
+  False Positives : 125
+  Valid Skips     : 26
+  Missed Trades   : 341
+
+SYSTEM CALIBRATION NOTES:
+  Win rate low. Review regime filter — may be trading in wrong conditions.
+  High false positives — add VWAP reclaim confirmation before entry.
+  Many missed trades — entry trigger may be set too high above ORB.
+
+=================================================================
+  OUTCOME KEY:
+  GOOD_WIN      = Signal triggered, hit Target 1 or better
+  GOOD_LOSS     = Signal triggered, stop hit cleanly — system worked
+  FALSE_POSITIVE= Triggered but reversed without hitting SL
+  VALID_SKIP    = Correctly avoided a bad setup
+  MISSED_TRADE  = Did not trigger but setup would have worked
+  FALSE_NEGATIVE= Incorrectly skipped a winning setup
+=================================================================
