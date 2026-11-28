@@ -1,0 +1,520 @@
+=================================================================
+  EVENING RESEARCH REPORT v2 (NSE) — November 28, 2026
+=================================================================
+
+MARKET REGIME: BULL
+  Nifty 50: Rs25607.2  1D: -1.1%  1W: +0.4%  1M: +12.6%  3M: +5.6%
+
+Ticker             Price      1D      1M    RS-1M    RSI   Ext Verdict       
+---------------------------------------------------------------------------
+ADANIPORTS     Rs  1880.0   -1.6%   +7.2%    -5.4%   51.7 -0.5x   WATCH NOW
+DRREDDY        Rs  1381.7   -0.7%   +5.5%    -7.1%   61.4  0.2x   WATCH NOW
+HAL            Rs  5074.0   +3.4%   +4.5%    -8.1%   61.9  1.5x   WATCH NOW
+TRENT          Rs  3273.0   +0.3%  +16.0%    +3.5%   64.6  1.5x   WATCH
+ICICIBANK      Rs  1593.4   -1.1%  +14.9%    +2.3%   61.3  1.4x   WATCH
+KOTAKBANK      Rs   500.0   -1.9%  +13.0%    +0.4%   63.1  1.3x   WATCH
+PIDILITIND     Rs  1594.8   -0.6%  +10.0%    -2.6%   57.8  1.1x   WATCH
+ABB            Rs  7060.0   +1.4%   +7.8%    -4.8%   57.1  1.1x   WATCH
+CIPLA          Rs  1439.9   -0.7%   +6.7%    -5.9%   63.2  1.2x   WATCH
+FEDERALBNK     Rs   360.0   +0.9%   +5.4%    -7.2%   56.7  0.8x   WATCH
+MOIL           Rs   224.2   +4.9%   +4.2%    -8.3%   55.6  1.3x   WATCH
+NYKAA          Rs   350.6   -0.7%   +3.3%    -9.2%   49.4 -0.6x   WATCH
+CHOLAFIN       Rs  1802.0   -2.2%  +22.7%   +10.1%   55.3  0.3x   WAIT
+LT             Rs  4108.5   -0.6%  +12.1%    -0.5%   57.7  0.2x   WAIT
+TECHM          Rs   907.0   -2.2%  -49.9%   -62.5%   17.1 -7.5x   WAIT
+
+=================================================================
+  FULL DETAIL
+=================================================================
+
+  ADANIPORTS — Adani Ports and Special Economic Zone Limited
+  Industrials | Rs4.3T | P/E: 31.375168
+  Price: Rs1880.0  |  52w range: Rs1298.13 — Rs1942.7
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.6%  vs Nifty -1.1%  -> RS: -0.6% (UNDERPERFORMING)
+    1W:  -1.9%  vs Nifty +0.4%
+    1M:  +7.2%  vs Nifty +12.6%  -> RS: -5.4% (UNDERPERFORMING)
+    3M:  +10.6%  vs Nifty +5.6%  -> RS: +5.0% (OUTPERFORMING)
+    6M:  +7.1%
+
+  TREND HEALTH:
+    RSI: 51.7  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.43%
+    ATR extension from SMA20: -0.48x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 2.18x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1811.47 (-3.6%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Heavy volume today (2.18x avg) = conviction
+
+  RECENT NEWS:
+    * 3 Stocks Tied To Shifting Trade Routes Investors May Want To Watch
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * 3 India Logistics Stocks Riding The Shift From Road To Rail
+    * Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift
+    * India's Adani Ports posts higher profit on domestic demand
+
+-----------------------------------------------------------------
+
+  DRREDDY — Dr. Reddy's Laboratories Limited
+  Healthcare | Rs1.2T | P/E: 41.134266
+  Price: Rs1381.7  |  52w range: Rs1135.6 — Rs1400.9
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty -1.1%  -> RS: +0.3%
+    1W:  -1.4%  vs Nifty +0.4%
+    1M:  +5.5%  vs Nifty +12.6%  -> RS: -7.1% (UNDERPERFORMING)
+    3M:  +17.6%  vs Nifty +5.6%  -> RS: +12.0% (OUTPERFORMING)
+    6M:  +4.1%
+
+  TREND HEALTH:
+    RSI: 61.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 1.82%
+    ATR extension from SMA20: 0.16x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.79x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1344.04 (-2.7%)
+
+  VERDICT: WATCH NOW
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [+] Within 1.4% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Bausch (BHC) Down 4.4% Since Last Earnings Report: Can It Rebound?
+    * Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
+    * RDY Q2 Earnings & Revenues Miss Estimates as Lenalidomide Sales Fall
+    * Dr. Reddy's Laboratories Q2 Earnings Call Highlights
+
+-----------------------------------------------------------------
+
+  HAL — Hindustan Aeronautics Limited
+  Industrials | Rs3.4T | P/E: 35.393414
+  Price: Rs5074.0  |  52w range: Rs3480.15 — Rs5099.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +3.4%  vs Nifty -1.1%  -> RS: +4.4% (OUTPERFORMING)
+    1W:  +6.6%  vs Nifty +0.4%
+    1M:  +4.5%  vs Nifty +12.6%  -> RS: -8.1% (UNDERPERFORMING)
+    3M:  +1.5%  vs Nifty +5.6%  -> RS: -4.1% (UNDERPERFORMING)
+    6M:  +17.3%
+
+  TREND HEALTH:
+    RSI: 61.9  |  Days above SMA50 (last 20): 13/20
+    Daily volatility (ATR%): 2.52%
+    ATR extension from SMA20: 1.48x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 2.67x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs4882.27 (-3.8%)
+
+  VERDICT: WATCH NOW
+    [+] RS accelerating (momentum building)
+    [+] Within 0.5% of 52w high (breakout zone)
+    [+] Heavy volume today (2.67x avg) = conviction
+
+  RECENT NEWS:
+    * Astra Microwave Products Ltd (BOM:532493) (Q1 2027) Earnings Call Highlights: Record Rs 4,300 ...
+
+-----------------------------------------------------------------
+
+  TRENT — Trent Limited
+  Consumer Cyclical | Rs1.7T | P/E: 92.06751
+  Price: Rs3273.0  |  52w range: Rs2193.96 — Rs4283.27
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.3%  vs Nifty -1.1%  -> RS: +1.4% (OUTPERFORMING)
+    1W:  +1.5%  vs Nifty +0.4%
+    1M:  +16.0%  vs Nifty +12.6%  -> RS: +3.5% (OUTPERFORMING)
+    3M:  +11.9%  vs Nifty +5.6%  -> RS: +6.3% (OUTPERFORMING)
+    6M:  +20.8%
+
+  TREND HEALTH:
+    RSI: 64.6  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.49%
+    ATR extension from SMA20: 1.54x  (EXTENDED)
+    Volatility trend: EXPANDING
+    Volume today: 0.56x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3150.88 (-3.7%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+    [~] Extended 1.54x from SMA20 — wait for pullback
+
+
+-----------------------------------------------------------------
+
+  ICICIBANK — ICICI Bank Limited
+  Financial Services | Rs11.4T | P/E: 19.567728
+  Price: Rs1593.4  |  52w range: Rs1195.82 — Rs1640.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.1%  vs Nifty -1.1%  -> RS: -0.0%
+    1W:  -1.0%  vs Nifty +0.4%
+    1M:  +14.9%  vs Nifty +12.6%  -> RS: +2.3% (OUTPERFORMING)
+    3M:  +12.2%  vs Nifty +5.6%  -> RS: +6.6% (OUTPERFORMING)
+    6M:  +29.5%
+
+  TREND HEALTH:
+    RSI: 61.3  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.25%
+    ATR extension from SMA20: 1.36x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.51x 20-day avg
+    RS 55-day slope: POSITIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1539.64 (-3.4%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] Within 2.8% of 52w high (breakout zone)
+
+  RECENT NEWS:
+    * Why Is UBS (UBS) Down 5.7% Since Last Earnings Report?
+    * SBI, HDFC, and ICICI retain systemically important bank status
+    * ICICI Bank Hits a 52-Week High: Can Growth Drivers Sustain the Rally?
+    * Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading
+    * Jindal Power secures $470m funding for Botswana power project
+
+-----------------------------------------------------------------
+
+  KOTAKBANK — Kotak Mahindra Bank Limited
+  Financial Services | Rs5.0T | P/E: 23.169601
+  Price: Rs500.0  |  52w range: Rs352.79 — Rs515.8
+
+  PERFORMANCE vs NIFTY:
+    1D:  -1.9%  vs Nifty -1.1%  -> RS: -0.9% (UNDERPERFORMING)
+    1W:  -0.6%  vs Nifty +0.4%
+    1M:  +13.0%  vs Nifty +12.6%  -> RS: +0.4%
+    3M:  +24.1%  vs Nifty +5.6%  -> RS: +18.5% (OUTPERFORMING)
+    6M:  +31.1%
+
+  TREND HEALTH:
+    RSI: 63.1  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.18%
+    ATR extension from SMA20: 1.27x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.52x 20-day avg
+    RS 55-day slope: POSITIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs483.62 (-3.3%)
+
+  VERDICT: WATCH
+    [+] RS slope positive (institutional accumulation)
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * European Stock Indexes Rise as Tech Rally Extends
+    * CORPWATCH: India clears SBI Mutual Fund for near-10% South Indian Bank stake
+    * Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?
+    * CCI approves Kotak’s purchase of Deutsche Bank’s India retail operations
+    * Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%
+
+-----------------------------------------------------------------
+
+  PIDILITIND — Pidilite Industries Limited
+  Basic Materials | Rs1.6T | P/E: 60.569695
+  Price: Rs1594.8  |  52w range: Rs1264.49 — Rs1701.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -1.1%  -> RS: +0.4%
+    1W:  +0.9%  vs Nifty +0.4%
+    1M:  +10.0%  vs Nifty +12.6%  -> RS: -2.6% (UNDERPERFORMING)
+    3M:  -3.3%  vs Nifty +5.6%  -> RS: -8.9% (UNDERPERFORMING)
+    6M:  +10.3%
+
+  TREND HEALTH:
+    RSI: 57.8  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.42%
+    ATR extension from SMA20: 1.14x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.44x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1536.82 (-3.6%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+
+  RECENT NEWS:
+    * Pidilite Industries Ltd (BOM:500331) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth ...
+
+-----------------------------------------------------------------
+
+  ABB — ABB India Limited
+  Industrials | Rs1.5T | P/E: 95.22525
+  Price: Rs7060.0  |  52w range: Rs4618.03 — Rs7710.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  +1.4%  vs Nifty -1.1%  -> RS: +2.5% (OUTPERFORMING)
+    1W:  +1.6%  vs Nifty +0.4%
+    1M:  +7.8%  vs Nifty +12.6%  -> RS: -4.8% (UNDERPERFORMING)
+    3M:  -4.9%  vs Nifty +5.6%  -> RS: -10.5% (UNDERPERFORMING)
+    6M:  +12.9%
+
+  TREND HEALTH:
+    RSI: 57.1  |  Days above SMA50 (last 20): 8/20
+    Daily volatility (ATR%): 2.83%
+    ATR extension from SMA20: 1.14x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.47x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs6760.01 (-4.2%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * ABB India Ltd (BOM:500002) (Q3 2026) Earnings Call Highlights: Orders Surge 56% to ?4,700 Crore ...
+
+-----------------------------------------------------------------
+
+  CIPLA — Cipla Limited
+  Healthcare | Rs1.2T | P/E: 40.17578
+  Price: Rs1439.9  |  52w range: Rs1181.32 — Rs1517.07
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty -1.1%  -> RS: +0.4%
+    1W:  +1.5%  vs Nifty +0.4%
+    1M:  +6.7%  vs Nifty +12.6%  -> RS: -5.9% (UNDERPERFORMING)
+    3M:  +0.5%  vs Nifty +5.6%  -> RS: -5.0% (UNDERPERFORMING)
+    6M:  +3.1%
+
+  TREND HEALTH:
+    RSI: 63.2  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 1.94%
+    ATR extension from SMA20: 1.22x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.64x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1397.91 (-2.9%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * 3 Indian Export Stocks That Could Benefit If The Rupee Hits 100 Against The Dollar
+    * Merck's $8.4 Billion Keytruda Fortress Gets a 2028 Warning
+    * Cipla Ltd (BOM:500087) Full Year 2026 Earnings Call Highlights: Strong India Growth and ...
+    * Pfizer Just Scored a Win That Wall Street Can't Ignore
+    * Pfizer (PFE) Reaches Settlement to Extend VYNDAMAX Patent Protection Until 2031
+
+-----------------------------------------------------------------
+
+  FEDERALBNK — The Federal Bank Limited
+  Financial Services | Rs889.5B | P/E: 17.578125
+  Price: Rs360.0  |  52w range: Rs246.01 — Rs373.5
+
+  PERFORMANCE vs NIFTY:
+    1D:  +0.9%  vs Nifty -1.1%  -> RS: +1.9% (OUTPERFORMING)
+    1W:  -1.2%  vs Nifty +0.4%
+    1M:  +5.4%  vs Nifty +12.6%  -> RS: -7.2% (UNDERPERFORMING)
+    3M:  -0.3%  vs Nifty +5.6%  -> RS: -5.9% (UNDERPERFORMING)
+    6M:  +26.0%
+
+  TREND HEALTH:
+    RSI: 56.7  |  Days above SMA50 (last 20): 17/20
+    Daily volatility (ATR%): 2.55%
+    ATR extension from SMA20: 0.76x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.57x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs346.26 (-3.8%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * 3 Indian Bank Stocks Retail Investors Are Watching For Higher Rate Margins
+    * Blackstone explores stake in India’s IIFL Finance – report
+    * Indian bank stocks show widest exchange price gap in decades
+    * Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say
+    * Federal Bank (NSEI:FEDERALBNK) Stock Gets Fair Value Boost Before Board Results Review
+
+-----------------------------------------------------------------
+
+  MOIL — MOIL Limited
+  Basic Materials | Rs45.6B | P/E: 15.47412
+  Price: Rs224.22  |  52w range: Rs201.18 — Rs372.72
+
+  PERFORMANCE vs NIFTY:
+    1D:  +4.9%  vs Nifty -1.1%  -> RS: +6.0% (OUTPERFORMING)
+    1W:  +4.8%  vs Nifty +0.4%
+    1M:  +4.2%  vs Nifty +12.6%  -> RS: -8.3% (UNDERPERFORMING)
+    3M:  -10.4%  vs Nifty +5.6%  -> RS: -16.0% (UNDERPERFORMING)
+    6M:  -24.0%
+
+  TREND HEALTH:
+    RSI: 55.6  |  Days above SMA50 (last 20): 0/20
+    Daily volatility (ATR%): 2.86%
+    ATR extension from SMA20: 1.34x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 1.91x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs214.61 (-4.3%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+    [~] Weak trend (only {days_above_50}/20 days above SMA50)
+
+
+-----------------------------------------------------------------
+
+  NYKAA — FSN E-Commerce Ventures Limited
+  Consumer Cyclical | Rs1.0T | P/E: 313.08035
+  Price: Rs350.65  |  52w range: Rs234.7 — Rs365.2
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.7%  vs Nifty -1.1%  -> RS: +0.4%
+    1W:  -2.0%  vs Nifty +0.4%
+    1M:  +3.3%  vs Nifty +12.6%  -> RS: -9.2% (UNDERPERFORMING)
+    3M:  +5.0%  vs Nifty +5.6%  -> RS: -0.6% (UNDERPERFORMING)
+    6M:  +29.2%
+
+  TREND HEALTH:
+    RSI: 49.4  |  Days above SMA50 (last 20): 20/20
+    Daily volatility (ATR%): 2.71%
+    ATR extension from SMA20: -0.57x  (HEALTHY)
+    Volatility trend: CONTRACTING (base forming)
+    Volume today: 0.69x 20-day avg
+    RS 55-day slope: NEGATIVE | RS ACCELERATING
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs336.4 (-4.1%)
+
+  VERDICT: WATCH
+    [+] RS accelerating (momentum building)
+    [+] Volatility contracting (base forming, potential breakout)
+
+  RECENT NEWS:
+    * 3 Indian Founder Led Stocks With Revenue Growth Up To 30%
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q2 2027) Earnings Call Highlights: PAT Surges 207% as ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...
+    * FSN E-Commerce Ventures Ltd (BOM:543384) Full Year 2026 Earnings Call Highlights: Record ...
+    * Nykaa confirms talks to acquire stake in skincare brand 82°E
+
+-----------------------------------------------------------------
+
+  CHOLAFIN — Cholamandalam Investment and Finance Company Limited
+  Financial Services | Rs1.5T | P/E: 24.691696
+  Price: Rs1802.0  |  52w range: Rs1354.17 — Rs1940.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.2%  vs Nifty -1.1%  -> RS: -1.1% (UNDERPERFORMING)
+    1W:  -3.9%  vs Nifty +0.4%
+    1M:  +22.7%  vs Nifty +12.6%  -> RS: +10.1% (OUTPERFORMING)
+    3M:  -3.3%  vs Nifty +5.6%  -> RS: -8.9% (UNDERPERFORMING)
+    6M:  +19.3%
+
+  TREND HEALTH:
+    RSI: 55.3  |  Days above SMA50 (last 20): 15/20
+    Daily volatility (ATR%): 2.93%
+    ATR extension from SMA20: 0.33x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.54x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs1722.85 (-4.4%)
+
+  VERDICT: WAIT
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Cholamandalam Investment and Finance Co Ltd (BOM:511243) Q1 2027 Earnings Call Highlights: ...
+
+-----------------------------------------------------------------
+
+  LT — Larsen & Toubro Limited
+  Industrials | Rs5.7T | P/E: 31.647665
+  Price: Rs4108.5  |  52w range: Rs3310.07 — Rs4375.36
+
+  PERFORMANCE vs NIFTY:
+    1D:  -0.6%  vs Nifty -1.1%  -> RS: +0.5%
+    1W:  -2.4%  vs Nifty +0.4%
+    1M:  +12.1%  vs Nifty +12.6%  -> RS: -0.5%
+    3M:  +0.4%  vs Nifty +5.6%  -> RS: -5.2% (UNDERPERFORMING)
+    6M:  +5.8%
+
+  TREND HEALTH:
+    RSI: 57.7  |  Days above SMA50 (last 20): 19/20
+    Daily volatility (ATR%): 1.94%
+    ATR extension from SMA20: 0.24x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 0.49x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs3988.86 (-2.9%)
+
+  VERDICT: WAIT
+
+  RECENT NEWS:
+    * L&T secures order for Noida Metro Aqua Line extension project
+    * Larsen & Toubro Ltd (LTOUF) (Q2 2027) Earnings Call Highlights: Record INR1. ...
+    * L&T wins contracts for Bangladesh’s first underground metro
+    * India Infrastructure Stocks Riding The Supply Chain Shift
+    * L&T receives LNTP for 1.6GW Chandrapura thermal project in India
+
+-----------------------------------------------------------------
+
+  TECHM — Tech Mahindra Limited
+  Technology | Rs3.2T | P/E: 29.153006
+  Price: Rs906.95  |  52w range: Rs861.5 — Rs1831.0
+
+  PERFORMANCE vs NIFTY:
+    1D:  -2.2%  vs Nifty -1.1%  -> RS: -1.1% (UNDERPERFORMING)
+    1W:  +5.3%  vs Nifty +0.4%
+    1M:  -49.9%  vs Nifty +12.6%  -> RS: -62.5% (UNDERPERFORMING)
+    3M:  -42.5%  vs Nifty +5.6%  -> RS: -48.1% (UNDERPERFORMING)
+    6M:  -37.1%
+
+  TREND HEALTH:
+    RSI: 17.1  |  Days above SMA50 (last 20): 14/20
+    Daily volatility (ATR%): 8.97%
+    ATR extension from SMA20: -7.51x  (HEALTHY)
+    Volatility trend: EXPANDING
+    Volume today: 1.38x 20-day avg
+    RS 55-day slope: NEGATIVE
+
+  SUGGESTED STOP LOSS (1.5x ATR): Rs784.93 (-13.5%)
+
+  VERDICT: WAIT
+    [~] Underperforming Nifty today — wait for RS to recover
+
+  RECENT NEWS:
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Missed Out On Tech Mahindra's Run? Here's The Bet Holders Made
+    * Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...
+    * Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales
+    * Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference
+
+-----------------------------------------------------------------
+
+=================================================================
+  VERDICT KEY:
+  WATCH NOW = strong setup, entry conditions met
+  WATCH     = good stock, monitor for entry trigger
+  WAIT      = momentum present but entry not ideal yet
+  AVOID     = overbought or breaking down
+=================================================================
